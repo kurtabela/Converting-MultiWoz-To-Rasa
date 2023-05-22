@@ -8,30 +8,32 @@ import string
 import nltk
 import codecs
 
+
 def loadDomainStories(readFile):
     with open(readFile, 'r') as f_in:
         data = json.load(f_in)
-    
+
     domainStories = []
     for story in data:
         domainStories.append(data[story])
-        
+
     return domainStories
 
-    
+
 def generateRasaDomain(domainStories, writeFile):
     print('  Domain generation: getting entities...\n')
     entities = getAllEntities(domainStories)
     print('  Domain generation: getting intents...\n')
     intents = getAllIntents(domainStories)
     print('  Domain generation: getting actions...\n')
-    actions = getAllActions(domainStories)
+    actions, messages = getAllActions(domainStories)
     # to-do: figure out response generation.
-    
-    print('  Domain generation: writing to file...\n')
-    buildRasaDomain(entities, intents, actions, writeFile)
 
-def buildRasaDomain(entities, intents, actions, writeFile):
+    print('  Domain generation: writing to file...\n')
+    buildRasaDomain(entities, intents, actions, messages, writeFile)
+
+
+def buildRasaDomain(entities, intents, actions, messages, writeFile):
     with codecs.open(writeFile, 'w', 'utf-8') as f_out:
         f_out.write('slots:\n')
         for entity in entities:
@@ -44,43 +46,47 @@ def buildRasaDomain(entities, intents, actions, writeFile):
         for intent in intents:
             f_out.write(' - ' + intent + '\n')
         f_out.write('\n' + 'actions:\n')
-        for action in actions:
+        for i, action in enumerate(actions):
             if "inform" in action or "recommend" in action or "select" in action:
                 f_out.write('- action_' + action + '\n')
         f_out.write('\n' + 'responses:\n')
-        for action in actions:
+        for i, action in enumerate(actions):
             if "inform" not in action and "recommend" not in action and "select" not in action:
-                f_out.write('  utter_' + action + ':\n' + '  - text: \"TEMP: NEED TO FIGURE OUT RESPONSES.\"\n')
+                f_out.write('  utter_' + action + ':\n' + '  - text: ' + messages[i] + '\n')
         f_out.write('\n' + 'session_config:\n  session_expiration_time: 60\n  carry_over_slots_to_new_session: true')
-    
+
 
 def getAllActions(domainStories):
     actionsList = []
+    messageList = []
     for story in domainStories:
         for turn in story['log']:
             if turn['metadata']:
                 actionsList = actionsList + intentsFromTurn(turn)
-    
-    return list(dict.fromkeys(actionsList))
+                messageList = messageList + [annotate_utterance_domain(turn['text'], turn['span_info'])]
+
+    return list(dict.fromkeys(actionsList)), list(dict.fromkeys(messageList))
+
 
 def getAllEntities(domainStories):
     entitiesList = []
     for story in domainStories:
         for turn in story['log']:
             if not turn['metadata']:
-               entitiesList = entitiesList + entitiesFromTurn(turn)
-               
+                entitiesList = entitiesList + entitiesFromTurn(turn)
+
     return list(dict.fromkeys(entitiesList))
-    
-            
+
+
 def entitiesFromTurn(turn):
-    entities = []   
+    entities = []
     try:
         for slot in turn['span_info']:
             entities.append(slot[1].lower())
     except:
-        pass   
+        pass
     return entities
+
 
 def getAllIntents(domainStories):
     intentsList = []
@@ -88,8 +94,9 @@ def getAllIntents(domainStories):
         for turn in story['log']:
             if not turn['metadata']:
                 intentsList = intentsList + intentsFromTurn(turn)
-    
+
     return list(dict.fromkeys(intentsList))
+
 
 def intentsFromTurn(turn):
     intents = []
@@ -99,19 +106,18 @@ def intentsFromTurn(turn):
                 requestList = constructRequestList(turn['dialog_act'][intent])
                 for request in requestList:
                     intents.append(intent.lower() + '-' + request)
-            else: 
+            else:
                 intents.append(intent.lower())
     except:
         pass
     return intents
 
 
-
 def generateRasaStories(domainStories, writeFile):
     print(writeFile)
     with codecs.open(writeFile, 'w+', 'utf-8') as f_out:
         for i, story in enumerate(domainStories):
-            f_out.write('## path nr %s\n' %i)
+            f_out.write('## path nr %s\n' % i)
             intents = constructRasaStory(story)
             try:
                 for intent in intents:
@@ -119,43 +125,46 @@ def generateRasaStories(domainStories, writeFile):
             except:
                 pass
             f_out.write('\n')
-        
+
+
 def constructRasaStory(story):
-        intents = []
-        for turn in story['log']:
-            try:
-                for intent in list(turn['dialog_act'].keys()):
-                    core = intent.lower()
-                    info = ""
-                    
-                    if not turn['metadata']:
-                        prefix = " * "
-                        if 'Inform' in intent:
-                            info = constructInformList(turn['dialog_act'][intent])
+    intents = []
+    for turn in story['log']:
+        try:
+            for intent in list(turn['dialog_act'].keys()):
+                core = intent.lower()
+                info = ""
+
+                if not turn['metadata']:
+                    prefix = " * "
+                    if 'Inform' in intent:
+                        info = constructInformList(turn['dialog_act'][intent])
+                else:
+                    if "inform" in intent.lower() or "recommend" in intent.lower() or "select" in intent.lower():
+                        prefix = "  - action_"
                     else:
-                        if "inform" in intent.lower() or "recommend" in intent.lower() or "select" in intent.lower():
-                            prefix = "  - action_"
-                        else:
-                            prefix = "  - utter_"
-                    
-                    if 'Request' in intent:
-                        reqlist = constructRequestList(turn['dialog_act'][intent])
-                        for req in reqlist:
-                            fullTurn = prefix + core + '-' + req
-                            intents.append(fullTurn)
-                            continue
-                    else:
-                        fullTurn = prefix + core + info
+                        prefix = "  - utter_"
+
+                if 'Request' in intent:
+                    reqlist = constructRequestList(turn['dialog_act'][intent])
+                    for req in reqlist:
+                        fullTurn = prefix + core + '-' + req
                         intents.append(fullTurn)
-            except:
-                pass
-        return intents
+                        continue
+                else:
+                    fullTurn = prefix + core + info
+                    intents.append(fullTurn)
+        except:
+            pass
+    return intents
+
 
 def constructRequestList(intent):
     requests = []
     for request in intent:
         requests.append(request[0].lower())
     return requests
+
 
 def constructInformList(intent):
     slots = []
@@ -164,20 +173,22 @@ def constructInformList(intent):
         # print(slots)
     joinedString = '{' + ', '.join(slot for slot in slots) + '}'
     return joinedString
-    
+
+
 def generateUtterances(domainStories, writeFile):
     utterancesByIntent = getAllUtterances(domainStories)
-    
+
     with codecs.open(writeFile, 'w', 'utf-8') as f_out:
         for intent in utterancesByIntent:
-            f_out.write('## intent:%s\n' %intent.lower())
+            f_out.write('## intent:%s\n' % intent.lower())
             for utter in utterancesByIntent[intent]:
-                f_out.write('- %s\n' %utter)
+                f_out.write('- %s\n' % utter)
             f_out.write('\n')
-    
+
+
 def getAllUtterances(domainStories):
     utterancesByIntent = {}
-    
+
     for story in domainStories:
         for turn in story['log']:
             if not turn['metadata']:
@@ -189,48 +200,95 @@ def getAllUtterances(domainStories):
                         utterancesByIntent[intent].append(annotate_utterance(turn['text'], turn['span_info']))
                 except:
                     pass
-    
+
     return utterancesByIntent
-            
-def annotate_utterance(utter, spans):
+
+
+# Python code to convert string to list character-wise
+
+def convert(string):
+    list1 = []
+    list1[:0] = string
+    return list1
+def annotate_utterance_domain(utter, spans):
     utter = ' '.join(nltk.word_tokenize(utter.lower()))
-    
+
     for span in spans:
         normalized_token = span[2].lower()
-        
-        if ' %s ' %(normalized_token) not in utter\
-            and not utter.endswith(' %s' %(normalized_token))\
-            and not utter.startswith('%s ' %(normalized_token)):
-            
-            tokens = nltk.word_tokenize(utter)
-            tokens[span[-2]] = '[%s' %(tokens[span[-2]])
-            tokens[span[-1]] = '%s](%s:%s)' %(tokens[span[-1]], span[1].lower(), normalized_token)
-            utter = ' '.join(tokens)
-    
+
+        if ' %s ' % (normalized_token) not in utter \
+                and not utter.endswith(' %s' % (normalized_token)) \
+                and not utter.startswith('%s ' % (normalized_token)):
+            # tokens = nltk.word_tokenize(utter)
+            utter = convert(utter)
+            # utter[span[-2]] = '[%s' % (utter[span[-2]])
+            # utter[span[-1]] = '%s](%s:%s)' % (utter[span[-1]], span[1].lower(), normalized_token)
+            utter[span[-1]] = '{%s}' % (span[1].lower())
+            utter = ''.join(utter)
+
     for span in spans:
         normalized_token = span[2].lower()
-        annotation = ' [%s](%s) ' %(normalized_token, span[1].lower())
-        
-        token_match = ' %s ' %(normalized_token)
+        annotation = '{%s}' % (span[1].lower())
+
+        token_match = ' %s ' % (normalized_token)
         if token_match in utter:
             utter = utter.replace(token_match, annotation)
-        
-        token_match = ' %s' %(normalized_token)
+
+        token_match = ' %s' % (normalized_token)
         if utter.endswith(token_match):
             utter = utter.replace(token_match, annotation)
-        
-        token_match = '%s ' %(normalized_token)
+
+        token_match = '%s ' % (normalized_token)
         if utter.startswith(token_match):
             utter = utter.replace(token_match, annotation)
-    
+
     tokens = nltk.word_tokenize(utter)
     detokenized = nltk.tokenize.treebank.TreebankWordDetokenizer().detokenize(tokens)
-    fixed_markers = detokenized.replace('] (', '](').replace('[ ','[').replace(': ',':')
+    fixed_markers = detokenized.replace('] (', '](').replace('] {', ']{').replace('[ ', '[').replace(': ', ':')
+    fixed_punctuation = string.punctuation.translate(str.maketrans('', '', ':()[]{}""'))
+    toReturn = fixed_markers.translate(str.maketrans('', '', fixed_punctuation)).replace(' ]', ']').replace('  ', ' ')
+    return toReturn
+
+
+def annotate_utterance(utter, spans):
+    utter = ' '.join(nltk.word_tokenize(utter.lower()))
+
+    for span in spans:
+        normalized_token = span[2].lower()
+
+        if ' %s ' % (normalized_token) not in utter \
+                and not utter.endswith(' %s' % (normalized_token)) \
+                and not utter.startswith('%s ' % (normalized_token)):
+            tokens = nltk.word_tokenize(utter)
+            tokens[span[-2]] = '[%s' % (tokens[span[-2]])
+            tokens[span[-1]] = '%s](%s:%s)' % (tokens[span[-1]], span[1].lower(), normalized_token)
+            utter = ''.join(tokens)
+
+    for span in spans:
+        normalized_token = span[2].lower()
+        annotation = ' [%s](%s) ' % (normalized_token, span[1].lower())
+
+        token_match = ' %s ' % (normalized_token)
+        if token_match in utter:
+            utter = utter.replace(token_match, annotation)
+
+        token_match = ' %s' % (normalized_token)
+        if utter.endswith(token_match):
+            utter = utter.replace(token_match, annotation)
+
+        token_match = '%s ' % (normalized_token)
+        if utter.startswith(token_match):
+            utter = utter.replace(token_match, annotation)
+
+    tokens = nltk.word_tokenize(utter)
+    detokenized = nltk.tokenize.treebank.TreebankWordDetokenizer().detokenize(tokens)
+    fixed_markers = detokenized.replace('] (', '](').replace('[ ', '[').replace(': ', ':')
     fixed_punctuation = string.punctuation.translate(str.maketrans('', '', ':()[]'))
-    return fixed_markers.translate(str.maketrans('', '', fixed_punctuation)).replace(' ]',']').replace('  ',' ')
-    
+    return fixed_markers.translate(str.maketrans('', '', fixed_punctuation)).replace(' ]', ']').replace('  ', ' ')
+
+
 def main():
-    readFile = 'data/test_full.json'
+    readFile = 'data/test.json'
     rasaStoriesFile = 'converted_files/data/stories.md'
     rasaUtterancesFile = 'converted_files/data/nlu.md'
     rasaDomainFile = 'converted_files/domain.yml'
@@ -245,6 +303,7 @@ def main():
     print('Generating utterances file...\n')
     generateUtterances(domainStories, rasaUtterancesFile)
     print('Done (:\n')
+
 
 if __name__ == "__main__":
     main()
