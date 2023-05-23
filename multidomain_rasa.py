@@ -35,10 +35,10 @@ def generateRasaDomain(domainStories, writeFile):
 
 def buildRasaDomain(entities, intents, actions, messages, writeFile):
     with codecs.open(writeFile, 'w', 'utf-8') as f_out:
-        f_out.write('slots:\n')
-        for entity in entities:
-            f_out.write('  ' + entity + ':\n')
-            f_out.write('    type: text\n')
+        f_out.write('version: "3.1"\n')
+        # for entity in entities:
+        #     f_out.write('  ' + entity + ':\n')
+        #     f_out.write('    type: text\n')
         f_out.write('\n' + 'entities:\n')
         for entity in entities:
             f_out.write('- ' + entity + '\n')
@@ -52,20 +52,39 @@ def buildRasaDomain(entities, intents, actions, messages, writeFile):
         f_out.write('\n' + 'responses:\n')
         for i, action in enumerate(actions):
             if "inform" not in action and "recommend" not in action and "select" not in action:
-                f_out.write('  utter_' + action + ':\n' + '  - text: ' + messages[i] + '\n')
+                f_out.write('  utter_' + action + ':\n')
+                for message in messages[action]:
+                    f_out.write('  - text: "' + message + '"\n')
         f_out.write('\n' + 'session_config:\n  session_expiration_time: 60\n  carry_over_slots_to_new_session: true')
+
+
+def extract(lst):
+    return [item[0] for item in lst]
 
 
 def getAllActions(domainStories):
     actionsList = []
-    messageList = []
-    for story in domainStories:
+    messageList = {}
+    print(len(domainStories))
+    for i, story in enumerate(domainStories):
+        if i % 1000 == 0:
+            print(i)
         for turn in story['log']:
             if turn['metadata']:
                 actionsList = actionsList + intentsFromTurn(turn)
-                messageList = messageList + [annotate_utterance_domain(turn['text'], turn['span_info'])]
+                message_to_add = annotate_utterance_domain(turn['text'], turn['span_info'])
+                for action in intentsFromTurn(turn):
+                    if action not in messageList:
+                        messageList[action] = []
 
-    return list(dict.fromkeys(actionsList)), list(dict.fromkeys(messageList))
+                    messageList[action].append(message_to_add)
+                    # break
+
+        # break
+
+    for key in messageList:
+        messageList[key] = [*set(messageList[key])]
+    return list(dict.fromkeys(actionsList)), messageList
 
 
 def getAllEntities(domainStories):
@@ -210,6 +229,8 @@ def convert(string):
     list1 = []
     list1[:0] = string
     return list1
+
+
 def annotate_utterance_domain(utter, spans):
     utter = ' '.join(nltk.word_tokenize(utter.lower()))
 
@@ -223,7 +244,7 @@ def annotate_utterance_domain(utter, spans):
             utter = convert(utter)
             # utter[span[-2]] = '[%s' % (utter[span[-2]])
             # utter[span[-1]] = '%s](%s:%s)' % (utter[span[-1]], span[1].lower(), normalized_token)
-            utter[span[-1]] = '{%s}' % (span[1].lower())
+            utter[span[-1] - 1] = '{%s}' % (span[1].lower())
             utter = ''.join(utter)
 
     for span in spans:
@@ -244,8 +265,9 @@ def annotate_utterance_domain(utter, spans):
 
     tokens = nltk.word_tokenize(utter)
     detokenized = nltk.tokenize.treebank.TreebankWordDetokenizer().detokenize(tokens)
-    fixed_markers = detokenized.replace('] (', '](').replace('] {', ']{').replace('[ ', '[').replace(': ', ':')
-    fixed_punctuation = string.punctuation.translate(str.maketrans('', '', ':()[]{}""'))
+    fixed_markers = detokenized.replace('] (', '](').replace('] {', ']{').replace('[ ', '[').replace(': ', ':').replace(
+        '"', '\'')
+    fixed_punctuation = string.punctuation.translate(str.maketrans('', '', ':()[]{}'))
     toReturn = fixed_markers.translate(str.maketrans('', '', fixed_punctuation)).replace(' ]', ']').replace('  ', ' ')
     return toReturn
 
@@ -261,12 +283,12 @@ def annotate_utterance(utter, spans):
                 and not utter.startswith('%s ' % (normalized_token)):
             tokens = nltk.word_tokenize(utter)
             tokens[span[-2]] = '[%s' % (tokens[span[-2]])
-            tokens[span[-1]] = '%s](%s:%s)' % (tokens[span[-1]], span[1].lower(), normalized_token)
+            tokens[span[-1]] = '%s]{"entity": "%s"}' % (tokens[span[-1]], span[1].lower())
             utter = ''.join(tokens)
 
     for span in spans:
         normalized_token = span[2].lower()
-        annotation = ' [%s](%s) ' % (normalized_token, span[1].lower())
+        annotation = ' [%s]{"entity": "%s"}) ' % (normalized_token, span[1].lower())
 
         token_match = ' %s ' % (normalized_token)
         if token_match in utter:
@@ -282,16 +304,16 @@ def annotate_utterance(utter, spans):
 
     tokens = nltk.word_tokenize(utter)
     detokenized = nltk.tokenize.treebank.TreebankWordDetokenizer().detokenize(tokens)
-    fixed_markers = detokenized.replace('] (', '](').replace('[ ', '[').replace(': ', ':')
-    fixed_punctuation = string.punctuation.translate(str.maketrans('', '', ':()[]'))
+    fixed_markers = detokenized.replace('] {', ']{').replace('{ ', '{').replace('[ ', '[')
+    fixed_punctuation = string.punctuation.translate(str.maketrans('', '', ':{}[]""'))
     return fixed_markers.translate(str.maketrans('', '', fixed_punctuation)).replace(' ]', ']').replace('  ', ' ')
 
 
 def main():
-    readFile = 'data/test.json'
+    readFile = 'data/test_full.json'
     rasaStoriesFile = 'converted_files/data/stories.md'
     rasaUtterancesFile = 'converted_files/data/nlu.md'
-    rasaDomainFile = 'converted_files/domain.yml'
+    rasaDomainFile = '../../domain.yml'
 
     nltk.download('punkt')
     print('Reading file...\n')
