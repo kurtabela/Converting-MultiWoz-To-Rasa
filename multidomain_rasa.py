@@ -4,6 +4,7 @@ MultiWOZ to Rasa
 """
 
 import json
+import random
 import string
 import nltk
 import codecs
@@ -55,6 +56,7 @@ def buildRasaDomain(entities, intents, actions, messages, writeFile):
                 f_out.write('  utter_' + action + ':\n')
                 for message in messages[action]:
                     f_out.write('  - text: "' + message + '"\n')
+        f_out.write('  utter_default_fallback:\n  - text: "Fallback"')
         f_out.write('\n' + 'session_config:\n  session_expiration_time: 60\n  carry_over_slots_to_new_session: true')
 
 
@@ -74,10 +76,15 @@ def getAllActions(domainStories):
                 actionsList = actionsList + intentsFromTurn(turn)
                 message_to_add = annotate_utterance_domain(turn['text'], turn['span_info'])
                 for action in intentsFromTurn(turn):
+                    skip = False
                     if action not in messageList:
                         messageList[action] = []
+                        messageList[action].append(message_to_add)
+                        skip = True
 
-                    messageList[action].append(message_to_add)
+                    # Todo remove this -
+                    if random.random() < 0.2 and not skip:
+                        messageList[action].append(message_to_add)
                     # break
 
         # break
