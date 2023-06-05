@@ -26,8 +26,13 @@ def generateRasaDomain(domainStories, writeFile):
     entities = getAllEntities(domainStories)
     print('  Domain generation: getting intents...\n')
     intents = getAllIntents(domainStories)
+
     print('  Domain generation: getting actions...\n')
-    actions, messages = getAllActions(domainStories)
+    if "totranslate" in writeFile:
+        actions, messages = getAllActionsToTranslate(domainStories)
+    else:
+        actions, messages = getAllActions(domainStories)
+
     # to-do: figure out response generation.
 
     print('  Domain generation: writing to file...\n')
@@ -52,10 +57,18 @@ def buildRasaDomain(entities, intents, actions, messages, writeFile):
                 f_out.write('- action_' + action + '\n')
         f_out.write('\n' + 'responses:\n')
         for i, action in enumerate(actions):
-            if "inform" not in action and "recommend" not in action and "select" not in action:
-                f_out.write('  utter_' + action + ':\n')
-                for message in messages[action]:
+            try:
+                if "inform" not in action and "recommend" not in action and "select" not in action:
+                    if messages[action]:
+                        f_out.write('  utter_' + action + ':\n')
+                        for message in messages[action]:
+                            f_out.write("  - text: '" + message + "'\n")
+                else:
+                    f_out.write('  action_' + action + ':\n')
+                    message = "temp action message"
                     f_out.write('  - text: "' + message + '"\n')
+            except:
+                print("error")
         f_out.write('  utter_default_fallback:\n  - text: "Fallback"')
         f_out.write('\n' + 'session_config:\n  session_expiration_time: 60\n  carry_over_slots_to_new_session: true')
 
@@ -77,15 +90,46 @@ def getAllActions(domainStories):
                 message_to_add = annotate_utterance_domain(turn['text'], turn['span_info'])
                 for action in intentsFromTurn(turn):
                     skip = False
+                    if "booking-request-time" in action:
+                        print("issue")
                     if action not in messageList:
                         messageList[action] = []
                         messageList[action].append(message_to_add)
                         skip = True
 
-                    # Todo remove this -
-                    if random.random() < 0.2 and not skip:
+                    if not skip:
                         messageList[action].append(message_to_add)
-                    # break
+                    break
+
+        # break
+
+    for key in messageList:
+        messageList[key] = [*set(messageList[key])]
+    return list(dict.fromkeys(actionsList)), messageList
+def getAllActionsToTranslate(domainStories):
+    actionsList = []
+    messageList = {}
+    print(len(domainStories))
+    for i, story in enumerate(domainStories):
+        if i % 1000 == 0:
+            print(i)
+        for turn in story['log']:
+            if turn['metadata']:
+                actionsList = actionsList + intentsFromTurn(turn)
+                message_to_add = annotate_utterance(turn['text'], turn['span_info'])
+                for action in intentsFromTurn(turn):
+                    skip = False
+                    if "booking-request-time" in action:
+                        print("issue")
+                    if action not in messageList:
+                        messageList[action] = []
+                        messageList[action].append(message_to_add)
+                        skip = True
+
+
+                    if not skip:
+                        messageList[action].append(message_to_add)
+                    break
 
         # break
 
@@ -142,8 +186,10 @@ def intentsFromTurn(turn):
 def generateRasaStories(domainStories, writeFile):
     print(writeFile)
     with codecs.open(writeFile, 'w+', 'utf-8') as f_out:
+        f_out.write("version: '3.1'\n\nstories:\n")
         for i, story in enumerate(domainStories):
-            f_out.write('## path nr %s\n' % i)
+            f_out.write('- story: path nr %s\n' % i)
+            f_out.write('  steps:\n')
             intents = constructRasaStory(story)
             try:
                 for intent in intents:
@@ -162,14 +208,14 @@ def constructRasaStory(story):
                 info = ""
 
                 if not turn['metadata']:
-                    prefix = " * "
+                    prefix = "  - intent: "
                     if 'Inform' in intent:
                         info = constructInformList(turn['dialog_act'][intent])
                 else:
                     if "inform" in intent.lower() or "recommend" in intent.lower() or "select" in intent.lower():
-                        prefix = "  - action_"
+                        prefix = "  - action: action_"
                     else:
-                        prefix = "  - utter_"
+                        prefix = "  - action: utter_"
 
                 if 'Request' in intent:
                     reqlist = constructRequestList(turn['dialog_act'][intent])
@@ -195,9 +241,11 @@ def constructRequestList(intent):
 def constructInformList(intent):
     slots = []
     for slot in intent:
-        slots.append("\"" + slot[0].lower() + "\": \"" + slot[1].lower() + "\"")
+        # slots.append(slot[0].lower() + ": \"" + slot[1].lower() + "\"")
+        slots.append(slot[0].lower())
         # print(slots)
-    joinedString = '{' + ', '.join(slot for slot in slots) + '}'
+    # joinedString = '\n    entities:\n    - ' + '\n    - '.join(slot for slot in slots)
+    joinedString = ''
     return joinedString
 
 
@@ -288,10 +336,11 @@ def annotate_utterance(utter, spans):
         if ' %s ' % (normalized_token) not in utter \
                 and not utter.endswith(' %s' % (normalized_token)) \
                 and not utter.startswith('%s ' % (normalized_token)):
-            tokens = nltk.word_tokenize(utter)
-            tokens[span[-2]] = '[%s' % (tokens[span[-2]])
-            tokens[span[-1]] = '%s]{"entity": "%s"}' % (tokens[span[-1]], span[1].lower())
-            utter = ''.join(tokens)
+            utter = convert(utter)
+            utter[span[-2]] = '[%s' % (utter[span[-2]])
+            utter[span[-1]-1] = '%s]{%s:%s}' % (utter[span[-1]-1], span[1].lower(), normalized_token)
+            # utter[span[-1] - 1] = '{%s}' % (span[1].lower())
+            utter = ''.join(utter)
 
     for span in spans:
         normalized_token = span[2].lower()
@@ -318,9 +367,10 @@ def annotate_utterance(utter, spans):
 
 def main():
     readFile = 'data/test_full.json'
-    rasaStoriesFile = 'converted_files/data/stories.md'
+    rasaStoriesFile = '../../data/stories.yml'
     rasaUtterancesFile = 'converted_files/data/nlu.md'
     rasaDomainFile = '../../domain.yml'
+    toTranslateDomainFile = 'totranslate/domain.yml'
 
     nltk.download('punkt')
     print('Reading file...\n')
@@ -329,6 +379,8 @@ def main():
     generateRasaStories(domainStories, rasaStoriesFile)
     print('Generating domain file...\n')
     generateRasaDomain(domainStories, rasaDomainFile)
+    print('Generating domain file to translate...\n')
+    generateRasaDomain(domainStories, toTranslateDomainFile)
     print('Generating utterances file...\n')
     generateUtterances(domainStories, rasaUtterancesFile)
     print('Done (:\n')
