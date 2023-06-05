@@ -203,12 +203,20 @@ def constructRasaStory(story):
     intents = []
     for turn in story['log']:
         try:
+            if not turn['metadata'] and len(list(turn['dialog_act'].keys())) > 1:
+                to_add_or = True
+                prefix = "  - or:\n"
+            else:
+                to_add_or = False
+                prefix = ""
             for intent in list(turn['dialog_act'].keys()):
                 core = intent.lower()
                 info = ""
 
                 if not turn['metadata']:
-                    prefix = "  - intent: "
+                    if to_add_or:
+                        prefix += "  "
+                    prefix += "  - intent: "
                     if 'Inform' in intent:
                         info = constructInformList(turn['dialog_act'][intent])
                 else:
@@ -222,10 +230,12 @@ def constructRasaStory(story):
                     for req in reqlist:
                         fullTurn = prefix + core + '-' + req
                         intents.append(fullTurn)
-                        continue
+
                 else:
                     fullTurn = prefix + core + info
                     intents.append(fullTurn)
+
+                prefix = ""
         except:
             pass
     return intents
@@ -366,10 +376,10 @@ def annotate_utterance(utter, spans):
 
 
 def main():
-    readFile = 'data/test_full.json'
-    rasaStoriesFile = '../../data/stories.yml'
+    readFile = 'data/test.json'
+    rasaStoriesFile = 'converted_files/data/stories.yml'
     rasaUtterancesFile = 'converted_files/data/nlu.md'
-    rasaDomainFile = '../../domain.yml'
+    rasaDomainFile = 'converted_files/data/domain.yml'
     toTranslateDomainFile = 'totranslate/domain.yml'
 
     nltk.download('punkt')
