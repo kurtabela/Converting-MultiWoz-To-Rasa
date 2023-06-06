@@ -263,10 +263,12 @@ def generateUtterances(domainStories, writeFile):
     utterancesByIntent = getAllUtterances(domainStories)
 
     with codecs.open(writeFile, 'w', 'utf-8') as f_out:
+        f_out.write("version: '3.1'\n\nnlu:\n- intent: greet\n  examples: |\n    - hi\n    - hello\n")
         for intent in utterancesByIntent:
-            f_out.write('## intent:%s\n' % intent.lower())
+            f_out.write('- intent:%s\n' % intent.lower())
+            f_out.write('  examples: |\n')
             for utter in utterancesByIntent[intent]:
-                f_out.write('- %s\n' % utter)
+                f_out.write('    - %s\n' % utter)
             f_out.write('\n')
 
 
@@ -338,8 +340,9 @@ def annotate_utterance_domain(utter, spans):
 
 
 def annotate_utterance(utter, spans):
-    utter = ' '.join(nltk.word_tokenize(utter.lower()))
+    utter = ''.join(utter.lower())
 
+    already_added_annotations = 0
     for span in spans:
         normalized_token = span[2].lower()
 
@@ -347,9 +350,10 @@ def annotate_utterance(utter, spans):
                 and not utter.endswith(' %s' % (normalized_token)) \
                 and not utter.startswith('%s ' % (normalized_token)):
             utter = convert(utter)
-            utter[span[-2]] = '[%s' % (utter[span[-2]])
-            utter[span[-1]-1] = '%s]{%s:%s}' % (utter[span[-1]-1], span[1].lower(), normalized_token)
+            utter[span[-2] + already_added_annotations] = '[%s' % (utter[span[-2] + already_added_annotations])
+            utter[span[-1]-1 + already_added_annotations] = '%s]{"entity":"%s"}' % (utter[span[-1]-1 + already_added_annotations ], span[1].lower())
             # utter[span[-1] - 1] = '{%s}' % (span[1].lower())
+            already_added_annotations += len('[' + ']{"entity":"%s"}' % (span[1].lower()))
             utter = ''.join(utter)
 
     for span in spans:
