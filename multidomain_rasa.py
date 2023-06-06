@@ -377,9 +377,9 @@ def annotate_utterance(utter, spans):
 
 def main():
     readFile = 'data/test.json'
-    rasaStoriesFile = 'converted_files/data/stories.yml'
-    rasaUtterancesFile = 'converted_files/data/nlu.md'
-    rasaDomainFile = 'converted_files/data/domain.yml'
+    rasaStoriesFile = '../../data/stories.yml'
+    rasaUtterancesFile = 'converted_files/data/nlu.yml'
+    rasaDomainFile = '../../data/domain.yml'
     toTranslateDomainFile = 'totranslate/domain.yml'
 
     nltk.download('punkt')
