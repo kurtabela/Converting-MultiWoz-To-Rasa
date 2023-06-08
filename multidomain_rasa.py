@@ -265,7 +265,7 @@ def generateUtterances(domainStories, writeFile):
     with codecs.open(writeFile, 'w', 'utf-8') as f_out:
         f_out.write("version: '3.1'\n\nnlu:\n- intent: greet\n  examples: |\n    - hi\n    - hello\n")
         for intent in utterancesByIntent:
-            f_out.write('- intent:%s\n' % intent.lower())
+            f_out.write('- intent: %s\n' % intent.lower())
             f_out.write('  examples: |\n')
             for utter in utterancesByIntent[intent]:
                 f_out.write('    - %s\n' % utter)
@@ -342,19 +342,41 @@ def annotate_utterance_domain(utter, spans):
 def annotate_utterance(utter, spans):
     utter = ''.join(utter.lower())
 
-    already_added_annotations = 0
+    list_of_third_and_fourth = []
     for span in spans:
-        normalized_token = span[2].lower()
+        list_of_third_and_fourth.append([span[-1], span[-2]])
+    spans = list(set(tuple(sorted(sub)) for sub in list_of_third_and_fourth))
 
+    for span in reversed(spans):
+        normalized_token = span[2].lower()
+        if "can you also find me a train" in utter:
+            print("pa")
         if ' %s ' % (normalized_token) not in utter \
                 and not utter.endswith(' %s' % (normalized_token)) \
                 and not utter.startswith('%s ' % (normalized_token)):
             utter = convert(utter)
-            utter[span[-2] + already_added_annotations] = '[%s' % (utter[span[-2] + already_added_annotations])
-            utter[span[-1]-1 + already_added_annotations] = '%s]{"entity":"%s"}' % (utter[span[-1]-1 + already_added_annotations ], span[1].lower())
+            utter[span[-2]] = '[%s' % (utter[span[-2]])
+            utter[span[-1]-1] = '%s]{"entity":"%s"}' % (utter[span[-1]-1], span[1].lower())
             # utter[span[-1] - 1] = '{%s}' % (span[1].lower())
-            already_added_annotations += len('[' + ']{"entity":"%s"}' % (span[1].lower()))
+            # already_added_annotations += len('[' + ']{"entity":"%s"}' % (span[1].lower()))
             utter = ''.join(utter)
+
+
+
+    # already_added_annotations = 0
+    # for span in spans:
+    #     normalized_token = span[2].lower()
+    #     if "can you also find me a train" in utter:
+    #         print("pa")
+    #     if ' %s ' % (normalized_token) not in utter \
+    #             and not utter.endswith(' %s' % (normalized_token)) \
+    #             and not utter.startswith('%s ' % (normalized_token)):
+    #         utter = convert(utter)
+    #         utter[span[-2] + already_added_annotations] = '[%s' % (utter[span[-2] + already_added_annotations])
+    #         utter[span[-1]-1 + already_added_annotations] = '%s]{"entity":"%s"}' % (utter[span[-1]-1 + already_added_annotations ], span[1].lower())
+    #         # utter[span[-1] - 1] = '{%s}' % (span[1].lower())
+    #         already_added_annotations += len('[' + ']{"entity":"%s"}' % (span[1].lower()))
+    #         utter = ''.join(utter)
 
     for span in spans:
         normalized_token = span[2].lower()
@@ -382,7 +404,7 @@ def annotate_utterance(utter, spans):
 def main():
     readFile = 'data/test.json'
     rasaStoriesFile = '../../data/stories.yml'
-    rasaUtterancesFile = 'converted_files/data/nlu.yml'
+    rasaUtterancesFile = '../../data/nlu.yml'
     rasaDomainFile = '../../data/domain.yml'
     toTranslateDomainFile = 'totranslate/domain.yml'
 
