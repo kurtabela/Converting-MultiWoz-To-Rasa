@@ -1,0 +1,173 @@
+en,mt
+,
+greet,greet
+hello,hello
+hi,hi
+hello cartesio,hello cartesio
+i need help,i need help
+,Bongu
+,għandi bżonn l-għajnuna
+,
+,
+regist-docs.why,regist-docs.why
+"Why are you asking me the [identification card]{""entity"": ""identity_document_entity""}?","int qed tieħu l kard ta' [ identifikazzjoni tiegħi ] {""entity"": ""identity_document_entity""} ."
+Why are you asking me for a document?,int għamilt id-dokument tiegħi.
+"How do you use the [identity card]{""entity"": ""identity_document_entity""} you ask me?","kif tuża l [ karta ta' l identità ] {""entity"": ""identity_document_entity""} li tistaqsejja ?"
+"why do you need my [id card]{""entity"": ""identity_document_entity""}","għaliex għandek bżonn il kard [ tal id ] {""entity"": ""identity_document_entity""} tiegħi"
+"is there a reason why you are asking me my [identity card]{""entity"": ""identity_document_entity""}","hemm raġuni għaliex int qed nitlobni l [ karta tal identità ] {""entity"": ""identity_document_entity""} tiegħi"
+"why are you asking me the [passport]{""entity"": ""identity_document_entity""}","għaliex int qed tieħu l [ passaport ] {""entity"": ""identity_document_entity""}"
+the platform wants to verify my identity through a document,il-pjattaforma trid tivverifika l-identità tiegħi permezz ta' dokument
+why is it necessary to check my identity with a document,għaliex huwa neċessarju li niċċekkja l-identità tiegħi b'dokument
+reason why i have to identify myself through a document,raġuni għaliex għandi nidentifika l-ħsejjes permezz ta' dokument
+tell me why the need of an identification with a document,"għaliex il-ħtieġa ta"" identifikazzjoni b'dokument"
+is sending an identity document really necessary,jintbagħat dokument tal-identità verament neċessarju
+why do i have to be identified through a document,għaliex għandi nkun identifikat permezz ta' dokument
+reason of the identification through a document,"raġuni għall-identifikazzjoni permezz ta"" dokument"
+"what is the meaning of asking my [travel documents]{""entity"": ""identity_document_entity""}","x'inhi t tifsira li nitlob id [ dokumenti tal ivvjaġġar ] {""entity"": ""identity_document_entity""} tiegħi"
+"meaning of asking me my [travel papers]{""entity"": ""identity_document_entity""}","meaning of asking me my [ travel papers ] {""entity"": ""identity_document_entity""}"
+"what's the point of asking the [passport]{""entity"": ""identity_document_entity""} to me","x'inhu l punt li l [ passaport ] {""entity"": ""identity_document_entity""} jintalab għalih"
+,
+,
+regist-docs.accepted,regist-docs.accepted
+"do you accept the [id card]{""entity"": ""identity_document_entity""} as an identity document?","taċċetta l karta ta' l [ identità ] {""entity"": ""identity_document_entity""} bħala dokument ta' l identità"
+"can i be identified through my [passport]{""entity"": ""identity_document_entity""}","can i be identified through my [ passport ] {""entity"": ""identity_document_entity""}"
+which documents are ok for the registration?,liema dokumenti huma ok għar-reġistratur tar-reġistrazzjoni
+documents allowed for the registration,dokumenti permessi għar-reġistrazzjoni
+list of allowed documents for the registration,"lista ta"" dokumenti permessi għar-reġistrazzjoni"
+allowed documents in the registration process,"dokumenti permessi fil-proċess ta"" reġistrazzjoni"
+list of permitted documents in the registration phase,"lista ta"" dokumenti permessi fil-fażi ta"" reġistrazzjoni"
+"is [identity card]{""entity"": ""identity_document_entity""} accepted","hija l [ karta tal identità ] {""entity"": ""identity_document_entity""} aċċettata"
+"do you accept [travel papers]{""entity"": ""identity_document_entity""}","taċċetta [ dokumenti tal ivvjaġġar ] {""entity"": ""identity_document_entity""}"
+list of accepted documents,lista ta' dokumenti aċċettati
+accepted documents to upload,dokumenti aċċettati għall-organizzazzjoni
+"[travel paper]{""entity"": ""identity_document_entity""} accepted as an identity document","[ karta tal ivvjaġġar ] {""entity"": ""identity_document_entity""} aċċettata bħala dokument tal identità"
+can you list me all the allowed identity documents,tista' telenka d-dokumenti ta' l-identità kollha permessi
+"is [passport]{""entity"": ""identity_document_entity""} an identity document for you","il [ passaport ] {""entity"": ""identity_document_entity""} huwa dokument tal identità għalik"
+"do you accept my [identification card]{""entity"": ""identity_document_entity""} as an identity document","taċċetta l karta [ tal identifikazzjoni tiegħi ] {""entity"": ""identity_document_entity""} bħala dokument tal identità"
+"is my [passport]{""entity"": ""identity_document_entity""} enough to verify my identity","huwa l [ passaport ] {""entity"": ""identity_document_entity""} tiegħi biżżejjed biex nivverifika l identità tiegħi"
+"is my [passport]{""entity"": ""identity_document_entity""} a valid document to verify my identity","il [ passaport ] {""entity"": ""identity_document_entity""} tiegħi huwa dokument validu biex jivverifika l identità tiegħi"
+"[passport]{""entity"": ""identity_document_entity""} valid to check my identity","[ passaport ] {""entity"": ""identity_document_entity""} validu biex jiċċekkja l identità tiegħi"
+[travel documents] ok to check the identity,dokumenti tal-ivvjaġġar ok biex tiġi ċċekkjata l-identità
+,
+,
+regist-docs.formats,regist-docs.formats
+Which formats are supported?,il-formati tat-tikketti huma appoġġjati bit-tikketti
+Which are the supported formats?,il-ħsejjes huma l-formati appoġġjati tal-ħsejjes
+"Do you accept [pdf]{""entity"": ""accepted_formats_entity""} files?",kemm jistgħu jiżnu
+How much can they weigh,"Can I add an [ image ] {""entity"": ""accepted_formats_entity""}"
+"Can I add an [image]{""entity"": ""accepted_formats_entity""}","il ħolqien ta' immaġni u mużew [ tal wiċċ ] {""entity"": ""accepted_formats_entity""}"
+"Can I upload an image and a [PDF]{""entity"": ""accepted_formats_entity""}?","huma [ d dokumenti tal kelma ] {""entity"": ""accepted_formats_entity""} aċċettati"
+"are [word documents]{""entity"": ""accepted_formats_entity""} accepted","huma fajls tal [ immaġni ] {""entity"": ""accepted_formats_entity""} format tad dokument aċċettat"
+"are [image]{""entity"": ""accepted_formats_entity""} files an accepted document format",lista tal-formati aċċettati għad-dokumenti
+list of accepted formats for documents,formati aċċettati għall-ġabra tal-fajls
+accepted formats for file upload,tipi ta' fajls aċċettati
+accepted file types,liema fajls huma ok to upload
+which files are ok to upload,"can i upload [ pdf ] {""entity"": ""accepted_formats_entity""} scan of my document"
+"can i upload [pdf]{""entity"": ""accepted_formats_entity""} scan of my document",il-limitu tad-daqs tad-dokument miġbur
+size limit of uploaded document,limitazzjonijiet fuq il-ġabra tal-fajls
+limitations on file upload,id-dimensjoni massima tal-fajls organizzati
+maximum dimension of uploaded files,"huwa l [ format ta ] {""entity"": ""accepted_formats_entity""} l iskrizzjoni aċċettat biex jinġabru dcouments"
+"is the [jpeg]{""entity"": ""accepted_formats_entity""} format accepted to upload dcouments",tista' telenka l-formati possibbli għall-ġabra ta' dokumenti
+can you list me the possible formats for document upload,"tista torganizza fajl [ tat ] {""entity"": ""accepted_formats_entity""} test"
+"can i upload a [text]{""entity"": ""accepted_formats_entity""} file","hija [ jpg ] {""entity"": ""accepted_formats_entity""} aċċettata"
+"is a [jpg]{""entity"": ""accepted_formats_entity""} accepted",
+,
+,
+regist-docs.expired,regist-docs.expired
+What happens if the document is expiring?,x'jiġri jekk id-dokument ikun qed jiskadi
+"I'm applying for a new document, should I wait for its renewal","i'm applying for a new document, should I waiting for its renewal"
+Can I upload the document after the registration?,Kapaċintella' d-dokument wara l-preżentazzjoni tar-reġistrazzjoni
+Can I postpone the sending of the document?,Kapaċinippostponi t-trażmissjoni tad-dokument bil-miktub
+"My document is expired, can I upload it afterwards?","id-dokument tiegħi jiskadi, kapaċintellgħu wara."
+what shoud i do if my document is expiring,x'inhu shoud i jekk id-dokument tiegħi jiskadi
+do i have to wait for the document renewal to upload it,trid tistenna t-tiġdid tad-dokument biex tiġborh
+postpone document uploading,il-posponiment tat-tqegħid tad-dokumenti
+insert the document after the registration,daħħal id-dokument wara r-reġistrazzjoni
+upload the document afterwards,ġib id-dokument wara
+my document expires in less than three months,id-dokument tiegħi jiskadi f'inqas minn tliet xhur
+my document is expired,jiskadi d-dokument tiegħi
+can i upload an expired document if i am renewing it,"tista"" tiġbor dokument li jiskadi jekk iġġeddu"
+is it possible to upload the document after the registration,"huwa possibbli li jittella"" d-dokument wara r-reġistrazzjoni"
+can i upload a document which is no longer valid,"tista"" tiġbor dokument li m'għadux validu"
+,
+,
+regist-docs.error-generic,regist-docs.error-generic
+It shows me error without explaination,turi li għandi żball mingħajr spjegazzjoni
+Generic error showed,żball trawmatiku muri
+Uploading error,żball fil-klassifikazzjoni
+It shows me an unknown error,turili żball mhux magħruf
+The platform gives me a generic error,il-pjattaforma tagħtina żball ġeneriku
+the platform gave me an error,il-pjattaforma tatli żball
+i was not able to upload the document,i was not able to upload the document
+when i try to upload the document it gives me an error,meta nipprova norganizza d-dokument li jagħtili żball
+fail to upload the document,"in-nuqqas ta"" reġistrazzjoni tad-dokument"
+document upload failed,"ġabra ta"" dokumenti li falliet"
+upload does not work,l-organizzazzjoni ma taħdimx
+the insertion of the documents does not work,l-inklużjoni tad-dokumenti ma taħdimx
+,
+,
+regist-docs.residence-proof,regist-docs.residence-proof
+What is a proof of residence?,"x'inhi l-prova ta"" residenza tal-klijent"
+Proof of residence definition,il-prova tad-definizzjoni tar-residenza
+Can you tell me what is a proof of residence?,wieħed jista' jgħidli x'inhi prova ta' residenza
+Examples of proof of residency,"eżempji ta"" prova ta"" residenza"
+define proof of residence,"tiddefinixxi l-prova ta"" residenza"
+meaning of proof of residence,"tifsira tal-prova ta"" residenza"
+can you define a proof of residence,tista' tiddefinixxi prova ta' residenza
+i don't know what a proof of residency is,i don't know what a proof of residency is
+proof of residency definition,prova tad-definizzjoni tar-residenza
+proof of residency meaning,prova tat-tifsira tar-residenza
+what do you mean by proof of residence,x'tfisser permezz ta' prova ta' residenza
+mean of proof of residency,il-medja tal-prova tar-residenza
+how can i certify that i live in a certian place,kif nista' niċċertifika li ngħix f'post ta' ċertifikazzjoni
+how can my residency be certified,kif tista' tiġi ċċertifikata r-residenza tiegħi
+ways to certify where I live,modi kif niċċertifika fejn inkun qed ngħix
+,
+,
+regist-docs.upload-modify,regist-docs.upload-modify
+How do I modify a document?,kif immodifikajt dokument bil-miktub
+How to I attach a page in a document,How to I attach a page in a document
+I want to add a page in a document i uploaded,nixtieq inżid paġna f'dokument miġbur
+I made a mistake uploading the document,għamilt żball fit-tfassil tad-dokument
+I want to update a document,nixtieq naġġorna dokument
+I want to change a document,nixtieq inbiddel dokument
+Changing a document I already uploaded,niċċertifika dokument li diġà nħejji
+I want to replace a document,nixtieq nissostitwixxi dokument
+change document,dokument tal-bidla
+i want to make changes to a document i uploaded,i want to make changes to a document i uploaded
+change a sent document,bidla fid-dokument mibgħut
+make changes to a document i already sent,make changes to a document i already sent
+modify a document i uploaded,modify a document i uploaded
+i want to add something to a document i sent,i want to add something to a document i sent
+,
+,
+regist-docs.check,regist-docs.check
+How do I know if the document I sent is ok?,i want to add something to a document i sent
+Can you confirm my document is ok?,kif naf jekk id-dokument li ntbagħat jidħolx fil-pajjiż tiegħi
+When will I receive the confirmation for my document?,tista' tikkonferma d-dokument tiegħi bil-miktub
+How long does it take to check the document?,meta nirċievi l-konferma għad-dokument tiegħi.
+How long for the documents to be checked? ,kemm tieħu żmien biex tivverifika l-iskrizzjoni tad-dokument
+Who checks the documents?,għal kemm żmien għandhom jiġu ċċekkjati d-dokumenti
+Who is in charge to check the documents?,l-iskrizzjoni tikkontrolla l-iskrizzjoni tad-dokumenti
+,il-preċedent huwa responsabbli biex jivverifika d-dokumenti tal-preżentazzjoni
+,
+,
+regist-docs.residence-list,regist-docs.residence-list
+What are the documents suitable for proving the residency,x'inhuma d-dokumenti xierqa biex jagħtu prova tar-residenza
+List of accepted documents to prove the residency,lista ta' dokumenti aċċettati biex jagħtu prova tar-residenza
+Complete list of accepted documents to prove residency,lista sħiħa tad-dokumenti aċċettati biex jagħtu prova tar-residenza
+More examples of proof of residence documents,"aktar eżempji ta"" prova ta"" dokumenti ta"" residenza"
+,
+,
+regist-docs.residence-verify,regist-docs.residence-verify
+"Is the [gas bill]{""entity"": ""proof_of_residence_entity""} ok to prove the residence?","il liċenzja [ tal gass ] {""entity"": ""proof_of_residence_entity""} ok għandha tipprova l ħanut tar residenza"
+"Is the [electricity bill]{""entity"": ""proof_of_residence_entity""} ok to prove the residence?","il [ liċenzja tal elettriku ] {""entity"": ""proof_of_residence_entity""} ok għandha tipprova l ħanut tar residenza"
+"Do you accept [lease agreement]{""entity"": ""proof_of_residence_entity""} as a proof of residence?","taċċetta l [ ftehim ta' kiri ] {""entity"": ""proof_of_residence_entity""} bħala prova ta' residenza"
+"I want to use [credit card statement]{""entity"": ""proof_of_residence_entity""}to prove my residency","i want to use [ credit card statementto ] {""entity"": ""proof_of_residence_entity""} prove my residency"
+"Is my residency proved by [mortgage statement]{""entity"": ""proof_of_residence_entity""}?","ir residenza tiegħi hija ppruvata permezz tad [ dikjarazzjoni ta' l ] {""entity"": ""proof_of_residence_entity""} assigurazzjoni"
+"is the [gas bill]{""entity"": ""proof_of_residence_entity""} enough to prove my residence","hija l [ kont tal gass ] {""entity"": ""proof_of_residence_entity""} biżżejjed biex tipprova r residenza tiegħi"
+"can i send the [electricity bill]{""entity"": ""proof_of_residence_entity""} to prove where i live?","tista tibgħat il [ liċenzja tal elettriku ] {""entity"": ""proof_of_residence_entity""} biex tipprova fejn joqgħod"
+"[credit card statement]{""entity"": ""proof_of_residence_entity""} a good proof of residence?","[ dikjarazzjoni tal kard tal ] {""entity"": ""proof_of_residence_entity""} kreditu prova tajba tar residenza"
+"i want to prove where i live by [mortgage statement]{""entity"": ""proof_of_residence_entity""}","i want to prove where i live by [ mortgage statement ] {""entity"": ""proof_of_residence_entity""}"
+"[mortgage statement]{""entity"": ""proof_of_residence_entity""} proves the residence?","[ id dikjarazzjoni ta' l ] {""entity"": ""proof_of_residence_entity""} ipoteka tagħti prova ta' l iskema ta' residenza"
+,

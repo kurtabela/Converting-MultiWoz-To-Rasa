@@ -106,6 +106,8 @@ def getAllActions(domainStories):
     for key in messageList:
         messageList[key] = [*set(messageList[key])]
     return list(dict.fromkeys(actionsList)), messageList
+
+
 def getAllActionsToTranslate(domainStories):
     actionsList = []
     messageList = {}
@@ -125,7 +127,6 @@ def getAllActionsToTranslate(domainStories):
                         messageList[action] = []
                         messageList[action].append(message_to_add)
                         skip = True
-
 
                     if not skip:
                         messageList[action].append(message_to_add)
@@ -342,26 +343,32 @@ def annotate_utterance_domain(utter, spans):
 def annotate_utterance(utter, spans):
     utter = ''.join(utter.lower())
 
-    list_of_third_and_fourth = []
-    for span in spans:
-        list_of_third_and_fourth.append([span[-1], span[-2]])
-    spans = list(set(tuple(sorted(sub)) for sub in list_of_third_and_fourth))
+    index_to_remove = []
+    for i, span in enumerate(spans):
+        for j in range(len(spans)):
+            if j > i and j not in index_to_remove:
+                if (spans[i][3] <= spans[j][4]) and (spans[j][3] <= spans[i][4]):
+                    # there is overlap so we remove current item
+                    index_to_remove.append(j)
+
+        # list_of_third_and_fourth.append([span[-1], span[-2]])
+    # spans = list(set(tuple(sorted(sub)) for sub in list_of_third_and_fourth))
+
+    for index in sorted(index_to_remove, reverse=True):
+        del spans[index]
+
 
     for span in reversed(spans):
         normalized_token = span[2].lower()
-        if "can you also find me a train" in utter:
-            print("pa")
         if ' %s ' % (normalized_token) not in utter \
                 and not utter.endswith(' %s' % (normalized_token)) \
                 and not utter.startswith('%s ' % (normalized_token)):
             utter = convert(utter)
             utter[span[-2]] = '[%s' % (utter[span[-2]])
-            utter[span[-1]-1] = '%s]{"entity":"%s"}' % (utter[span[-1]-1], span[1].lower())
+            utter[span[-1] - 1] = '%s]{"entity":"%s"}' % (utter[span[-1] - 1], span[1].lower())
             # utter[span[-1] - 1] = '{%s}' % (span[1].lower())
             # already_added_annotations += len('[' + ']{"entity":"%s"}' % (span[1].lower()))
             utter = ''.join(utter)
-
-
 
     # already_added_annotations = 0
     # for span in spans:
@@ -403,9 +410,9 @@ def annotate_utterance(utter, spans):
 
 def main():
     readFile = 'data/test.json'
-    rasaStoriesFile = '../../data/stories.yml'
-    rasaUtterancesFile = '../../data/nlu.yml'
-    rasaDomainFile = '../../data/domain.yml'
+    rasaStoriesFile = 'converted_files/data/stories.yml'
+    rasaUtterancesFile = 'converted_files/data/nlu.yml'
+    rasaDomainFile = 'converted_files/data/domain.yml'
     toTranslateDomainFile = 'totranslate/domain.yml'
 
     nltk.download('punkt')

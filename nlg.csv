@@ -1,0 +1,52 @@
+en,mt
+,
+utter_greet,utter_greet
+Hi! Welcome to Cartesio! I'm here to help you. Ask me whatever you need.,Hi! Merħba għal Cartesio! Jien hawn biex ngħinek. Staqsini dak kollu li għandek bżonn.
+,
+utter_please_rephrase,utter_please_rephrase
+Fallback for intents. No intent has higher enough confidence to be choosen.,Fallback għall-intenzjonijiet. L-ebda intenzjoni ma għandha fiduċja ogħla biżżejjed biex tintgħażel.
+,
+utter_default,utter_default
+Fallback for utterances. The bot does not know which utterance present to the user.,Fallback għal kliem. Il-bot ma jafx liema kelma tippreżenta lill-utent.
+,
+utter_regist-docs.why,utter_regist-docs.why
+The identity document asked is needed to verify your identity.,Id-dokument tal-identità mitlub huwa meħtieġ biex tivverifika l-identità tiegħek.
+We ask your {identity_document_slot} because we need to verify your identity.,Aħna nistaqsu lill-{identity_document_slot} tiegħek għax għandna bżonn nivverifikaw l-identità tiegħek.
+,
+utter_regist-docs.accepted,utter_regist-docs.accepted
+The accepted documents are the identity card and the passport.,Id-dokumenti aċċettati huma l-karta tal-identità u l-passaport.
+"Yes, the {identity_document_slot} is an accepted identity document.","Iva, l-{identity_document_slot} huwa dokument tal-identità aċċettat."
+,
+utter_regist-docs.formats,utter_regist-docs.formats
+You can upload every file and there is no size limit.,Tista 'ttella' kull fajl u m'hemm l-ebda limitu ta' daqs.
+,
+utter_regist-docs.expired,utter_regist-docs.expired
+"The document must be sent at the time of the registration and it has to be valid for at least three months from the registration date. 
+If your document expires earlier you have to wait for its renewal.","Id-dokument irid jintbagħat fil-ħin tar-reġistrazzjoni u għandu jkun validu għal mill-inqas tliet xhur mid-data tar-reġistrazzjoni. 
+Jekk id-dokument tiegħek jiskadi qabel trid tistenna għat-tiġdid tiegħu."
+,
+utter_regist-docs.error-generic,utter_regist-docs.error-generic
+"To solve this error, send an email to the support at support@framont.com.","Biex issolvi dan l-iżball, ibgħat email lill-appoġġ fuq support@framont.com."
+,
+utter_regist-docs.residence-proof,utter_regist-docs.residence-proof
+The proof of residence is a document that shows and confirms the residency address you inserted in the registration phase.,Il-prova tar-residenza hija dokument li juri u jikkonferma l-indirizz tar-residenza li daħħalt fil-fażi tar-reġistrazzjoni.
+,
+utter_regist-docs.residence-proof-valid-list,utter_regist-docs.residence-proof-valid-list
+These are all the documents valid as a proof of residence: LIST OF ACCEPTED PROOF OF RESIDENCE.,Dawn huma d-dokumenti kollha validi bħala prova ta' residenza: LISTA TA' PROVA TA' RESIDENZA AĊĊETTATA.
+,
+utter_regist-docs.upload-modify,utter_regist-docs.upload-modify
+"To modify or replace an already uploaded document you can use the ""Upload a new document or add a front/rear page"" that you can find in the Identity Documents page.","Biex timmodifika jew tissostitwixxi dokument li diġà ttella' tista' tuża l-""Ttella' dokument ġdid jew żid paġna ta' quddiem/wara"" li tista' ssib fil-paġna Dokumenti tal-Identità."
+,
+utter_regist-docs.check,utter_regist-docs.check
+"One of our operators will check that all documentation you provided is ok. 
+You will receive a feedback usually within 2 working days.","Wieħed mill-operaturi tagħna se jiċċekkja li d-dokumentazzjoni kollha li pprovdejt hija tajba. 
+Int ser tirċievi feedback normalment fi żmien jumejn tax-xogħol."
+,
+utter_regist-docs.residence-list,utter_regist-docs.residence-list
+"These are all the documents are valid as well as a proof of residence: bank statements, utility bills, letters from government, credit card statements, house purchase deed.","Dawn huma d-dokumenti kollha huma validi kif ukoll prova ta 'residenza: rendikonti bankarji, kontijiet ta' utilità, ittri mill-gvern, dikjarazzjonijiet ta 'karta ta' kreditu, att tax-xiri tad-dar."
+,
+utter_regist-docs.residence-verify,utter_regist-docs.residence-verify
+These are all the documents valid as a proof of residence: LIST OF ACCEPTED PROOF OF RESIDENCE.,Dawn huma d-dokumenti kollha validi bħala prova ta' residenza: LISTA TA' PROVA TA' RESIDENZA AĊĊETTATA.
+"The proof of residence you indicated is a valid document. 
+These are all the documents valid as a proof of residence: LIST OF ACCEPTED PROOF OF RESIDENCE.","Il-prova tar-residenza li indikajt hija dokument validu. 
+Dawn huma d-dokumenti kollha validi bħala prova ta' residenza: LISTA TA' PROVA TA' RESIDENZA AĊĊETTATA."
