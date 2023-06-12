@@ -1,57 +1,57 @@
 iva, nista' nifhem li għalik nista' nikkonferma li dan huwa għal persuna waħda jew li għandek bżonn aktar minn biljett wieħed.
-iva se tniżżel 5 biljetti għalik
-kif tista' tgħin lill Kummissjoni biex [ tgħin ] {"entity":" trainid"} lill Istati Membri biex jieħdu l miżuri kollha meħtieġa biex jippromwovu l ugwaljanza bejn is sessi .
+iva se [ tniżżel 5 ] {"entity": "bookpeople"} biljetti għalik
+kif tista' tgħin lill Kummissjoni ] {"entity":" trainid"} biex tgħin lill Istati [ Membri biex jieħdu l miżuri kollha meħtieġa biex jippromwovu l ugwaljanza bejn is sessi .
 kemm se jkollok bżonn biljetti
 ikun konvenjenti għal biljett wieħed biss jew għal kemm tixtieq
-in numru ta' referenza tiegħek kollu [ huwa ] {"entity": "ref"} 9p2d9orj
+in numru ta' referenza tiegħek kollu huwa [ 9p2d9orj ] {"entity": "ref"}
 għandek bżonn tgħin biex tissorvelja biljett fuq dik il-ferrovija jew ma' kwalunkwe ħaġa oħra
-[ i have ] {"entity": "trainid"} train tr7978 would you like to book that
-tixtieq li jkolli l-kotba tat-22 ta' Settembru
+i have train tr7978 would you [ like ] {"entity": "trainid"} to book that
+tixtieq li jkolli l kotba tat 22 [ ta' Settembru ] {"entity":" leaveat"}
 jista' wkoll jgħinlek biex issib post għall-għawm fil-ferrovija jaqdi l-ħtiġijiet tiegħek u tixtieq tirreġistra biljetti għal dak il-għan.
-x'inhu friday [ ] {"entity": "day"}
-tr4032 jekk dak jaħdem għalik
+x'inhu [ friday ] {"entity": "day"}
+tr4032 jekk [ dak ] {"entity": "trainid"} jaħdem għalik
 i will check to see if i can find a train that matches your needs
 kif jaħdem [ tr2958 ] {"entity": "trainid"}
 i can help book a train to get you here
-għandek ferrovija li tasal fl 10 [ ta' Settembru ] {"entity":" arriveby"} li jkun il każ .
+għandek ferrovija li tasal fl 10 ta' [ Settembru li jkun ] {"entity":" arriveby"} il każ .
 jista' jgħinlek bi kwalunkwe ħaġa llum jew jista' jniżżel il-biljett tal-ferrovija tiegħek għalik
-train tr9831 will that work [ for you ] {"entity": "trainid"}
+train tr9831 will [ that ] {"entity": "trainid"} work for you
 tixtieq li nħarsu' l quddiem u nniżżel biljett għalik
 i can book that for you how many tickets would you like
 żgur li għandek bżonn kemm hemm biljetti
 train [ tr6763 ] {"entity": "trainid"} would fit the bill would you like me to book you passage
 kemm għandek bżonn biljetti biex tirreġistra għalik
-kemm iridu biljetti għal din il ferrovija tr4365 [ ] {"entity": "trainid"}
+kemm iridu biljetti għal din il [ ferrovija tr4365 ] {"entity": "trainid"}
 se naħdem fuq dan u se naħdem lura sewwa miegħek
 train [ tr4803 ] {"entity": "trainid"} would meet your criteria can i book something for you
 hemm xi ħaġa oħra li tista' tgħin lilek biex tgħin biex tispjega biljetti jekk tixtieq
 i se tkun imħassba biex tgħin lilek tisma' din il-ferrovija kemm se jkollok bżonn biljetti
-ok the [ tr9595 ] {"entity": "trainid"} do you want a booking
+ok the tr9595 [ do ] {"entity": "trainid"} you want a booking
 i could get you on the tr1316 would you like tickets
 nixtieq li jkolli l-ħeġġa biex nirrekordja dak il-biljett għalik
 għandek bżonn ta' ħafna biljetti.
 għandek tkompli tgħin biex tieħu ħsieb tiegħek.
 kemm se jkollok bżonn biljetti
-tixtieq li jitniżżel fil-kotba 2
+tixtieq li jitniżżel fil [ kotba 2 ] {"entity": "bookpeople"}
 liema żmien tixtieqni nirrekordja għalik
 żgur li għandek
 ok i can help you with that where will you be departing from
 jien kuntenti li tgħin biex issib ferrovija tista' jekk jogħġbok tgħidu fejn ser titbiegħed minn
 iva tixtieq li jkollok ikteb
 i just need to know how many tickets you want will it just be you
-għandek ferrovija mingħand u lanqas għandek għalfejn taħdem għalik
-għandek waħda [ tixtieqni ] {"entity": "choice"} nirrekordjaha
-tr2602 jekk tixtieq li [ wieħed ] {"entity": "trainid"}
+għandek ferrovija mingħand u lanqas għandek [ għalfejn taħdem ] {"entity": "departure"} għalik
+għandek [ waħda ] {"entity": "choice"} tixtieqni nirrekordjaha
+tr2602 jekk [ tixtieq ] {"entity": "trainid"} li wieħed
 għandek tixtieq li jkollok biljett.
 sure thing i will work on that for you and be right back with you
-i would recommend train id tr5435
+i would recommend train id [ tr5435 ] {"entity": "trainid"}
 se nippreżenta r-riżerva issa
-ok ill make reservations [ for ] {"entity":" trainid"} tr0305 how many tickets do you need
-kif jaħdem tr1542 [ ] {"entity":" trainid"}
-żgur li nista' nirreġistra fuq il-kliem tal-kliem tal-kliem tal-kliem tal-kliem tal-kliem tal-kliem tal-kliem tal-kliem.
-tr7397 tixtieq tirreġistra biljett [ ] {"entity": "trainid"}
+ok ill make reservations for [ tr0305 ] {"entity":" trainid"} how many tickets do you need
+kif jaħdem [ tr1542 ] {"entity":" trainid"}
+żgur li [ nista' nirreġistra fuq il kliem ] {"entity": "trainid"} tal kliem tal kliem tal kliem tal kliem tal kliem tal kliem tal kliem tal kliem .
+tr7397 [ tixtieq ] {"entity": "trainid"} tirreġistra biljett
 tixtieqni nirrekordja dak għalik
 qabel ma nibdew filgħaxija kellek bżonn biljetti għall-ferrovija
 tixtieqni nirrekordja dik il-ferrovija għalik
 youre welcome is there anything else i can assist you with i can help you create a booking for the train
-train tr4076 [ would ] {"entity": "trainid"} you like me to book that
+train tr4076 would you [ like ] {"entity": "trainid"} me to book that

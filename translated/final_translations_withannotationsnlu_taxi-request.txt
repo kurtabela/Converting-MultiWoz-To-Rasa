@@ -9,7 +9,7 @@ nixtieq li l taxi ] {"entity": "arriveby"} jasal għand il proponent [ jekk jog�
 tista' tieħu numru ta' kuntatt għal dak
 nixtieq inħalli l kulleġġ sal 24 ta' Settembru30 [ u ] {"entity": "leaveat"} jista' jkollu wkoll in numru ta' kuntatt u t tip ta' karozza
 jien irrid inħalli s silġ sal 11: 00 [ ladarba ] {"entity":" leaveat"} l taxi jitniżżel fil kotba jista' jkollu n numru ta' kuntatt u t tip ta' karozza
-jixtieq jirreġistra [ taxi f 16 ] {"entity": "leaveat"} il metru jeħtieġ ukoll in numru ta kuntatt u t tip ta karozza għal dak
+jixtieq jirreġistra taxi f" 16-il metru jeħtieġ ukoll in-numru ta" kuntatt u t-tip ta" karozza għal dak
 permezz tiegħek tixtieq li jkollok [ taxi kif ] {"entity":" leaveat"} ukoll tħalli s silġ sal 08 ta' Settembru tista' tiġbed in numru ta' kuntatt u t tip ta' karozza għal dak jekk jogħġbok
 i għandek bżonn it-tip ta" karozza jekk jogħġbok
 se jkollhom bżonn ta' taxi kif ukoll mill-kuntentizza għall-kuntentizza li tasal 16-il kuntratt jistgħu jiksbu n-numru ta' kuntatt u t-tip ta' karozza għal dak il-kuntratt.
@@ -31,13 +31,13 @@ wieħed jista' jekk jogħġbok agħtini n-numru ta' kuntatt tal-taxi
 iva, jekk jogħġbok kun żgur li jasal sal-ħin reġistrat u neħtieġ in-numru ta' kuntatt u t-tip ta' karozza
 i għandek ] {"entity":" leaveat"} tħalli l vawċer sal 23 ta Settembru30 [ jekk jogħġbok ibgħatli t tip ta karozza u n numru ta kuntatt jekk jogħġbok
 nixtieq nasal għand il-kulleġġ mill-ġdid meta jkun qed jitlaq mill-kamra jekk jogħġbok agħti t-tip ta' karozza u l-informazzjoni ta' kuntatt tiegħi
-Iva [ , jekk jogħġbok ikteb taxi li jitbiegħed ] {"entity": "departure"} mill iskambju tal ikel għall finijiet tal pont i se jkun jeħtieġ it tip ta karozza u n numru ta kuntatt
-tista' tikteb taxi biex tiġi minn kulleġġ ta' disinjaturi jekk jogħġbok agħti n-numru ta' kuntatt u t-tip ta' karozza
+Iva , ] {"entity": "departure"} jekk jogħġbok ikteb taxi [ li jitbiegħed mill iskambju tal ikel għall finijiet tal pont i se jkun jeħtieġ it tip ta karozza u n numru ta kuntatt
+tista' tikteb ] {"entity": "departure"} taxi biex tiġi minn kulleġġ ta' disinjaturi [ jekk jogħġbok agħti n numru ta' kuntatt u t tip ta' karozza
 [ għandna bżonn ukoll nippreżentaw ] {"entity": "arriveby"} taxi biex naslu għall attrazzjoni ta' l uffiċċju u għandna bżonn in numru ta' kuntatt u t tip ta' karozza
 i għandhom bżonn [ ta' ] {"entity": "leaveat"} taxi biex jivvjaġġaw bejn iż żewġ postijiet li jkollhom bżonn jitilqu minn fuq il ħoġor sa 18 il sena u jkollhom bżonn il kuntatt u t tip ta' karozza
 i need to book a [ taxi ill ] {"entity":" leaveat"} be leaving express by holiday inn cambridge by 1gaben and going to the Lyric jello tools ill need the contact number and car type
 kemm [ il stilla wkoll ] {"entity":" arriveby"} il kodiċi postali u l indirizz i se jkollhom bżonn ukoll taxi u jridu jaslu skont in numru ta' kuntatt u t tip ta' karozza .
-iva biex tħalli l lodge tal ħofra jekk [ jogħġbok ] {"entity": "departure"} iġibni n numru ta' kuntatt u t tip ta' karozza
+iva biex tħalli l lodge tal ħofra [ jekk jogħġbok ] {"entity": "departure"} iġibni n numru ta' kuntatt u t tip ta' karozza
 [ id bħala taxi biex ] {"entity": "leaveat"} inħollu' l fuq fit 23 ta' filgħaxija filgħaxija tiegħi imbagħad ħu le għall attrazzjoni jekk jogħġbok agħtini t tip ta' karozza u n numru ta' kuntatt
 nixtieq li l [ taxi ] {"entity":" booktime"} imur mill attrazzjoni għall għarqub li jasal sal għarqub jgħidli n numru ta' kuntatt u t tip ta' karozza jekk jogħġbok
 għandek in-numru tat-telefon tiegħek
@@ -47,13 +47,13 @@ grazzi għan-numru ta' kuntatt tagħhom
 i għandek bżonn ta' taxi wara li tieħu n-numru ta' kuntatt u t-tip ta' karozza
 i għandhom bżonn in-numru ta" kuntatt u t-tip ta" karozza wkoll
 ma nixtieqx permezz ta' taxi għalkemm immur mill-lukanda għall-proponent li jasal sal-ħin ta' riżerva tiegħi jgħiduli t-tip ta' karozza u n-numru ta' kuntatt
-iva għandek bżonnha għall [ kuntatt ma' friday u ] {"entity":" bookday"} għat tip ta' karozza
+iva għandek [ bżonnha għall ] {"entity":" bookday"} kuntatt ma' friday u għat tip ta' karozza
 nixtieq nasal sal 16 ta' Settembru [ i se jkollu ] {"entity":" arriveby"} bżonn numru ta' kuntatt u tip ta' karozza wkoll
 għad irid ] {"entity":" destination"} ikun hemm il [ ħtieġa li l oġġett jiġi kkonservat għat tip ta karozza u n numru ta kuntatt ukoll .
-nixtieq inħalli wara 17 il sena [ jkollok ] {"entity":" leaveat"} bżonn ukoll it tip ta' karozza u n numru ta' kuntatt
+nixtieq inħalli wara 17 il sena [ jkollok bżonn ukoll it ] {"entity":" leaveat"} tip ta' karozza u n numru ta' kuntatt
 nixtieq inmur għand il familja li tkun qed [ tgħix fiha ] {"entity":" destination"} u għandek bżonn it tip ta karozza u n numru ta kuntatt jekk jogħġbok
 għandek bżonn ukoll in-numru ta' kuntatt
-għandek titbiegħed miż żgħar tat tip ta' karozza u [ n ] {"entity": "departure"} numru ta' kuntatt li jkun jaf min u fejn ser tħalli' l fuq .
+għandek titbiegħed miż-żgħar tat-tip ta' karozza u n-numru ta' kuntatt li jkun jaf min u fejn ser tħalli' l fuq.
 i se jkollha bżonn ukoll in-numru ta' kuntatt jekk jogħġbok
 that is great is there a contact number available
 x'inhu n-numru ta' kuntatt għall-taxi

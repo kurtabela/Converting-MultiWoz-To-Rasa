@@ -1,98 +1,98 @@
-żgur li ma għandek l-ebda ħaġa li tixtieq infittex żona oħra għalik
+żgur li ma għandek [ l ] {"entity": "food"} ebda ħaġa li tixtieq infittex żona oħra għalik
 im having trouble finding one would you like to try a different pricepoint or type
 jidher li aħna għandna kwalunkwe wieħed minn dawk li tixtieq tipprova xi ħaġa oħra
-b'xorti ħażina għad hemm xi postijiet għat-tlielaq li jridu jippruvaw tipi oħra ta' ħwejjeġ.
-b'xorti ħażina ara kwalunkwe ristoranti li jservi lil venetian tixtieq li tipprova żona jew tip ta' ċippa differenti
+b'xorti ħażina għad hemm xi [ postijiet ] {"entity": "food"} għat tlielaq li jridu jippruvaw tipi oħra ta' ħwejjeġ .
+b'xorti ħażina ara kwalunkwe ristoranti li jservi lil [ venetian ] {"entity": "food"} tixtieq li tipprova żona jew tip ta' ċippa differenti
 iżda ma hemm l-ebda ristoranti li taqbel mal-kriterji tiegħek li tixtieq twessa' t-tiftix tiegħek.
 għandna xi ħaġa li taqbel magħha, jiġifieri xi ħaġa li tista' tgħin
 ma għandek issib l-ebda post li jservi jamaican biex tipprova żona oħra.
 im not seeing any expensive restaurants is there a different type of food you might want
 issibu xi ikel ta' dak it-tip
-iva fil-fatt għandna bżonn ta' għajnuna globali moderna bi kwalunkwe ħaġa oħra
+iva fil fatt għandna bżonn ta' [ għajnuna globali ] {"entity": "food"} moderna bi kwalunkwe ħaġa oħra
 l-ebda persuna ma trid tipprova tip ta' ikel differenti
-ma tistax issib xi ħaġa eritrea f'dik iż-żona tixtieq li nħares lejn żona oħra jew tip ta' ħaġa oħra.
+ma tistax issib xi ħaġa [ eritrea ] {"entity": "food"} f'dik iż żona tixtieq li nħares lejn żona oħra jew tip ta' ħaġa oħra .
 sfortunatament m'hemm l-ebda ristoranti disponibbli li jidher li hemm tip ieħor ta' ħass li tista' tkun interessat li tieħu l-ikel
-l-ebda ħaġa li għandek ma għandek xi ristorantilofan restaurants fil-mument hemm xi tip ieħor ta' ħaġa bħal
+l ebda ħaġa li għandek ma għandek xi [ ristorantilofan ] {"entity": "food"} restaurants fil mument hemm xi tip ieħor ta' ħaġa bħal
 l-i dont għandu kwalunkwe ristoranti bl-ikel li tixtieq tipprova tip ta' ikel ieħor.
-ma hemm l-ebda għażla għall-għażla għall-għażla għall-għażla għalik
-i do not have any in the centre another criteria perhaps
+ma hemm l ebda [ għażla għall għażla għall għażla ] {"entity":" food"} għall għażla għalik
+i do not have any in the [ centre ] {"entity":" area"} another criteria perhaps
 jiġifieri m'hemm l-ebda ristoranti li jaqbel ma' dik id-deskrizzjoni tixtieq tfittex xi ħaġa
-b'xorti ħażina m'hemmx ikel ieħor li tixtieq tħares għalih.
-ma hemm l-ebda firxa ta" prezzijiet bażiċi offruti f'daqqa
-ma hemm l-ebda ristoranti li jservu l-ikel tat-trabi fiż-żona li tixtieq tip ieħor ta' ikel jew żona oħra.
-ma għandek l-ebda elenkar għall-ikel tal-Lvant Nofsani ta' tip ieħor
+b'xorti ħażina m'hemmx [ ikel ] {"entity": "food"} ieħor li tixtieq tħares għalih .
+ma hemm l ebda firxa ta prezzijiet [ bażiċi offruti ] {"entity": "food"} f'daqqa
+ma hemm l ebda ristoranti li jservu [ l ] {"entity": "food"} ikel tat trabi fiż żona li tixtieq tip ieħor ta' ikel jew żona oħra .
+ma għandek l ebda elenkar għall [ ikel tal Lvant Nofsani ] {"entity": "food"} ta' tip ieħor
 kien hemm xejn li jrid jipprova tip ta' ikel differenti.
-fil-belt m'hemm l-ebda ikel ieħor li tixtieq.
-għalhekk l-ebda ristoranti kreattiva ma tista' twassal għal
+[ fil belt m'hemm l ] {"entity":" area"} ebda ikel ieħor li tixtieq .
+għalhekk l ebda ristoranti [ kreattiva ] {"entity": "food"} ma tista' twassal għal
 sfortunatament jidher li għandek kwalunkwe elenkar li jissodisfa dak li għandek tfittex li tixtieq li tipprova jew żona jew tip ta' konverżazzjoni differenti
-sfortunatament m'hemm l-ebda ristoranti għalja f'dak il-qasam li tixtieq tħares lejn xi ħaġa oħra
-ma jidhirx li hemm ristoranti f'dak il-qasam li jservi ikel mhux tas-soltu għandek preferenza ta' ikel oħra.
-i did not find any creative restaurants give me a moment and i will search for unusual ones
-ma hemm l-ebda ristoranti li jservu l-ikel ħażin hemm tip ieħor ta' ikel li tista' tkun interessata fih.
+sfortunatament m'hemm l ebda ristoranti [ għalja ] {"entity": "pricerange"} f'dak il qasam li tixtieq tħares lejn xi ħaġa oħra
+ma jidhirx [ li ] {"entity": "food"} hemm ristoranti f'dak il qasam li jservi ikel mhux tas soltu għandek preferenza ta' ikel oħra .
+i did not find any [ creative ] {"entity": "food"} restaurants give me a moment and i will search for unusual ones
+ma hemm l ebda ristoranti li jservu l ikel [ ħażin ] {"entity": "food"} hemm tip ieħor ta' ikel li tista' tkun interessata fih .
 we dont have any that match do you have any other location preferences
-i m'għandek l-ebda elenkar għal ikel bi prezzijiet moderati tista' terġa' tikkunsidra l-firxa ta' prezzijiet jew it-tip ta' ikel tiegħek.
-ir-reġistrazzjoni ta" kull applikazzjoni għall-ewwel reġistrazzjoni ta" applikazzjoni għall-ewwel reġistrazzjoni ta" applikazzjoni għall-ewwel reġistrazzjoni
-sfortunatament m'hemm xejn fil-belt li tixtieq tipprova tip ieħor ta' ikel
+i [ m'għandek l ebda ] {"entity": "pricerange"} elenkar għal ikel bi prezzijiet moderati tista' terġa' tikkunsidra l firxa ta' prezzijiet jew it tip ta' ikel tiegħek .
+ir reġistrazzjoni ta kull [ applikazzjoni għall ewwel reġistrazzjoni ] {"entity": "food"} ta applikazzjoni għall ewwel reġistrazzjoni ta applikazzjoni għall ewwel reġistrazzjoni
+sfortunatament m'hemm xejn [ fil belt ] {"entity":" area"} li tixtieq tipprova tip ieħor ta' ikel
 żgur li hemm kull tradizzjoni li tixtieq tipprova żfin ieħor.
-ma hemm l-ebda elenkar għal ħaddiem li jixtieq jipprova żona jew żona differenti
+ma hemm l ebda elenkar għal [ ħaddiem ] {"entity": "food"} li jixtieq jipprova żona jew żona differenti
 we dont have any specific restaurants in that category lets try something else
 jidher li hemm xi għażliet disponibbli jistgħu jitolbu jekk ikun hemm tip ieħor ta' konverżazzjoni li inti tkun interessat li
 iżda hemm kwalunkwe gastronomija arterjali li tixtieq tipprova xi ħaġa oħra.
-b'xorti ħażina m'hemm l-ebda ristoranti li jservi l-kanapes
-żgur li m'għandniex kura biżżejjed biex nipprovaw kwalunkwe ħaġa oħra
-im ħafna jekk ma jkunx hemm riżultati għal ristoranti rħis tixtieq tipprova għal tip differenti ta' konverżazzjoni
-i dont jidher li qed isib xi ħaġa msejħa nusha liema tip ta' ikel iservi l-ikel
+b'xorti ħażina m'hemm l ebda ristoranti li jservi l [ kanapes ] {"entity": "food"}
+żgur li m'għandniex kura biżżejjed [ biex ] {"entity": "pricerange"} nipprovaw kwalunkwe ħaġa oħra
+im ħafna jekk ma jkunx hemm [ riżultati ] {"entity": "pricerange"} għal ristoranti rħis tixtieq tipprova għal tip differenti ta' konverżazzjoni
+i dont jidher li qed isib xi ħaġa [ msejħa ] {"entity":" name"} nusha liema tip ta' ikel iservi l ikel
 żgur li għandna xi tip ieħor
-ma hemm l-ebda ikel tal-Lvant Nofsani f'dik iż-żona post jew tip ieħor
+ma hemm l ebda [ ikel tal Lvant Nofsani ] {"entity": "food"} f'dik iż żona post jew tip ieħor
 ma hemm l-ebda persuna li tixtieq tipprova tip ieħor ta' konverżazzjoni
 sfortunatament m'hemm l-ebda twaħħil li l-kriterji jew jixtieqlu li nfittex għal tip differenti ta' konverżazzjoni
 sfortunatament m'hemmx xi ħaġa li tista' tiċċekkja għalik
-m'hemmx jamaican li tixtieq tip jew żona tal-ikel oħra.
-ma jidhirx li l-ikel kreattiv tar-ristoranti jista' jsib xi ħaġa minflok
+m'hemmx jamaican li tixtieq tip jew żona [ tal ] {"entity": "food"} ikel oħra .
+ma jidhirx li l ikel [ kreattiv tar ] {"entity": "food"} ristoranti jista' jsib xi ħaġa minflok
 i must have made a mistake there is no moderatly priced would you be interested in another type of food
 l-ebda wieħed minnhom ma jixtieq jaħrab minn tip differenti ta' ikel
 jidher li hemm xi tip ieħor ta' probabbiltà ta' ikel
 b'xorti ħażina ma hemm l-ebda ristoranti poliċentrika li tinsab f'cambridge jekk tixtieq kwalunkwe tip ieħor ta' ikel.
-sfortunatament m'hemm l-ebda ristoranti tal-kannamieli
+sfortunatament m'hemm l ebda ristoranti [ tal kannamieli ] {"entity": "food"}
 għalkemm għadu ma ġiex ippubblikat ir-rapport, għadu ma ġiex ippubblikat ir-rapport.
 l-i dont għandha prezz moderat ta' kull ħaġa li tagħmel
 ma hemm xejn li jissodisfa dawn ir-rekwiżiti f'dak il-qasam li tixtieq li nħares aktar' il quddiem
 żgur li m'hemm l-ebda riżultat għal xi ħaġa li tixtieq li tħares lejha f'oqsma oħra jew li tipprova tħares lejha.
 b'xorti ħażina ssib kwalunkwe ħaġa li tqum ħafna flus biex tipprova medda ta' prezzijiet differenti
 għalhekk għandek tgħid li tixtieq xi ħaġa oħra.
-b'xorti ħażina nistgħu nsib xi ħaġa li taqbel mat-talba tiegħek għandna nfittxu ħsieb irħis minflok
-żgur li m'hemm l-ebda persuna li tixtieq tip differenti ta' żfin
+b'xorti ħażina nistgħu [ nsib xi ] {"entity": "pricerange"} ħaġa li taqbel mat talba tiegħek għandna nfittxu ħsieb irħis minflok
+żgur li m'hemm l ebda [ persuna ] {"entity": "food"} li tixtieq tip differenti ta' żfin
 hemm xi ristoranti li jidher li l-kriterji jistgħu jsibu xi ħaġa oħra
 b'xorti ħażina għandna kwalunkwe eclectic modern hemm tip ieħor ta' ċippa li tista' tfittex għaliha.
 sfortunatament ma tixtieqx twessa' t-tiftix tiegħek
 i hasnt found any expensive restaurants should i try another price range
-ma hemm l-ebda ristoranti għas-servizz tat-te suwiċidju
+ma hemm l ebda ristoranti għas servizz tat [ te suwiċidju ] {"entity": "food"}
 b'xorti ħażina, il-parti l-kbira tal-belt tinsab fil-parti l-kbira tal-lvant ta' kull ħaġa li trid
 l-ebda ħaġa ma tixtieq tibdel it-tip jew il-post ta' ħaġa tiegħek
-jiġifieri, iżda ma hemm l-ebda ristoranti li jissodisfaw dawk il-kriterji fiċ-ċentru
+jiġifieri , iżda ma [ hemm ] {"entity":" area"} l ebda ristoranti li jissodisfaw dawk il kriterji fiċ ċentru
 jien ma nistax insib xi ristoranti li tissodisfa l-kriterji tiegħek tixtieq li nħares lejn xi ħaġa oħra
 i have no restaurants matching what you asked would you like a different price range
-b'xorti ħażina m'hemm l-ebda ristoranti bħal dak fil-każ ta' l-inċiżjoni sfortunatament
-l-ebda ħaġa oħra ma taffettwa l-ikel għall-għalf
-i did not find any expensive would you like a different type of food area or price range
-jien kuntenti iżda m'għandek l-ebda elenkar għal ristoranti għalja, hemm għażla oħra li tixtieq
+b'xorti ħażina m'hemm l ] {"entity": "area"} ebda ristoranti bħal dak [ fil każ ta' l inċiżjoni sfortunatament
+l ebda ħaġa oħra ma taffettwa l ikel [ għall għalf ] {"entity": "food"}
+i [ did ] {"entity": "pricerange"} not find any expensive would you like a different type of food area or price range
+jien kuntenti iżda m'għandek l ebda elenkar għal ristoranti [ għalja ] {"entity": "pricerange"} , hemm għażla oħra li tixtieq
 jien kuntenti iżda m'hemm l-ebda ristoranti li jaqbel ma' dawk il-kriterji li tixtieq tipprova medda oħra ta' prezzijiet jew parti mill-belt
 għalhekk hemm xi ħaġa li tista' taħdem minflok
 b'xorti ħażina m'hemm l-ebda firxa ta' prezzijiet li jidhru li jixtiequ tipi oħra ta' żraben jew firxa ta' prezzijiet
-l-ebda ħaġa li sservi b'mod speċifiku fil-bażi tad-data tiegħi ma tkun hemm xi tip ieħor ta' ikel li tkun tqis.
-fl-istess ħin m'hemm l-ebda informazzjoni
-jiġifieri m'hemm l-ebda ċikwejra
-żgur li ma tistax issib xi elenkar għal ristoranti li jservu ikel ta' stil ta' ħajja, għandek xi tipi oħra ta' żraben
+l ebda ħaġa li sservi ] {"entity": "food"} b'mod speċifiku fil bażi [ tad data tiegħi ma tkun hemm xi tip ieħor ta' ikel li tkun tqis .
+fl istess ħin m'hemm l ebda [ informazzjoni ] {"entity": "food"}
+jiġifieri m'hemm l ebda [ ċikwejra ] {"entity": "food"}
+żgur li ma [ tistax ] {"entity": "food"} issib xi elenkar għal ristoranti li jservu ikel ta' stil ta' ħajja , għandek xi tipi oħra ta' żraben
 sfortunatament m'hemm l-ebda cantonese li tixtieq tipprova tip differenti ta' ċirkolari jew żona
-ħafna nies jippruvaw jippruvaw jippruvaw jippreżentaw l-ideat tagħhom.
-iżda m'hemm l-ebda
-jien ma nistax insib post li jservi li fiż-żona ċentrali tixtieq tipprova żona oħra jew tip ta' ikel ieħor
-sfortunatament i dont għandek xi ristoranti li sservi gastronomija arterjali fil-mument tista' toqgħod għal tip ieħor ta' konverżazzjoni għalik
+ħafna nies jippruvaw jippruvaw jippruvaw [ jippreżentaw ] {"entity": "food"} l ideat tagħhom .
+iżda m'hemm l [ ebda ] {"entity": "food"}
+[ jien ] {"entity": "area"} ma nistax insib post li jservi li fiż żona ċentrali tixtieq tipprova żona oħra jew tip ta' ikel ieħor
+sfortunatament i dont għandek xi ristoranti li [ sservi gastronomija arterjali ] {"entity": "food"} fil mument tista' toqgħod għal tip ieħor ta' konverżazzjoni għalik
 i ara li m'hemmx għalfejn għandek tikkunsidra mill-ġdid l-għajnuna tiegħek.
-ma jkun hemm l-ebda spiża oħra f'żona oħra i tista' tiċċekkja
-im ma hemm l-ebda riżultat għal gastronomija arterjali li tixtieq tipprova tip ieħor ta' trawma
+ma jkun hemm l ebda [ spiża oħra f'żona ] {"entity": "pricerange"} oħra i tista' tiċċekkja
+im ma hemm l ebda riżultat għal [ gastronomija arterjali ] {"entity": "food"} li tixtieq tipprova tip ieħor ta' trawma
 l-ebda katalan ma tixtieq tħares lejn xi ħaġa jew żona differenti
 jiġifieri m'hemm l-ebda ristoranti li taqbel mal-kriterji tiegħek li tixtieq tipprova tip differenti ta' ikel
 l-ebda ħaġa ħażina
-fl-istess ħin m'hemm l-ebda spiża
+fl istess ħin m'hemm l ebda [ spiża ] {"entity": "pricerange"}
 għandek paragun għalik b'mod ġenerali.

@@ -4,7 +4,7 @@ i [ dont care ] {"entity":" name"} which one you recommend but can you tell me t
 li l-oġġetti jkunu jistgħu jiksbu n-numru u l-kodiċi postali tagħhom
 x'inhu l-indirizz
 jekk jogħġbok ipprovdi wkoll in-numru tat-telefon u l-miżati tad-dħul tagħhom
-l-indirizz eżatt ukoll għandu bżonn jgħin biex tinstab ferrovija biex tmur f'ajruport ta' l-ajruport
+l indirizz eżatt ukoll għandu [ bżonn ] {"entity": "destination"} jgħin biex tinstab ferrovija biex tmur f'ajruport ta' l ajruport
 mhux tassew iżda jkollok bżonn il-kodiċi postali tal-park jekk jogħġbok
 mhux biss park li jissuġġerixxi
 taf jekk hemmx miżata għad-dħul f'dak il-pool
@@ -40,7 +40,7 @@ kemm tkun miżata għad-dħul u kemm tkun tista' tinkiseb ukoll għadd għalihom
 is there an entrance fee for downing college
 jekk jogħġbok ibgħatli n-numru tat-telefon
 iva ż [ żona taċ ċentru ] {"entity": "area"}
-iva u tista' ssibni kumment
+iva u tista' ssibni [ kumment ] {"entity": "food"}
 x'inhi l-miżata tad-dħul għall-attrazzjonijiet
 jista' jkollok in-numru tat-telefon
 iva tista' tipprovdili informazzjoni dwar il-każinò tal-belt u l-miżati tad-dħul
@@ -61,7 +61,7 @@ għandek ħafna ċans li jkollok ukoll il-kodiċi postali għall-missier
 iva, jekk jogħġbok, staqsi l-indirizz u l-kodiċi postali
 jien l [ aktar ] {"entity": "pricerange"} interessat f'Ġerusalemm , tista' tibgħat il kodiċi postali tiegħi u l indirizz tiegħi jixtieq ukoll li jkun hemm ġabra baxxa ta' katalan jekk jogħġbok
 tista' tipprovdi wkoll lill-għalliema tal-posta jekk jogħġbok
-iva tista' ssib [ ikla tal ikel chinese ] {"entity": "food"} f'dak il kodiċi postali minflok
+iva tista' ssib [ ikla ] {"entity": "food"} tal ikel chinese f'dak il kodiċi postali minflok
 forsi l [ belt ] {"entity":" area"} tista' tipprovdili informazzjoni dwar il miżata tad dħul u n numru tat telefon ukoll
 għalhekk tista' tibgħat in-numru tat-telefown wara nofsinhar u t-tip ta' attrazzjoni
 iva , tixtieq li tmur l [ għassies fit tojlit ] {"entity":" name"} , tista' tagħti l indirizz tiegħek
@@ -173,7 +173,7 @@ i would like an area near town
 iva x'inhi l-miżata tal-kodiċi postali u tad-dħul
 nothing in particular something with high reviews can you send me the address of the top choice
 jista' jkun li tmur mill [ 1 ta' Settembru sal 1 ] {"entity":" destination"} ta' Settembru jipprovdi l kodiċi postali u n numru tat telefon ta' l ivvjaġġar ta' l ivvjaġġar ukoll .
-kwalunkwe ikel
+kwalunkwe [ ikel ] {"entity":" area"}
 tista' tieħu l-miżata għad-dħul fl-indirizz u n-numri tat-telefon għat-tnejn li huma
 jippreferi li jkollok bżonn in-numru tat-telefon u l-kodiċi postali jekk jogħġbok
 tista' tgħidli n-numru tat-telefon tagħhom jekk jogħġbok
@@ -385,7 +385,7 @@ kwalunkwe wieħed minnhom jagħmel dak li jirrakkomanda
 tista' tagħtina l-kodiċi postali għal wieħed mill-aħjar mużewijiet
 dak il-ħaġa l-kbira tista' tgħidli l-miżata għad-dħul tan-numru tat-telefon u t-tip ta' attrazzjoni
 qabel ma niċċaqilqu lejn l-taxi nistgħu naslu l-indirizz u n-numru tat-telefown għall-iskambju tal-ispettaklu tal-ispettaklu tal-ispettaklu tal-ispettaklu tal-ispettaklu u liema qasam huwa dak
-i għandek bżonn [ in ] {"entity": "type"} numru tat telefon għal xi ħadd ieħor li se jagħmel
+[ i ] {"entity": "type"} għandek bżonn in numru tat telefon għal xi ħadd ieħor li se jagħmel
 ma naħsibx li tista' tkun xi ħaġa iżda ħsibni għat-tieni
 iva x'inhu l-kodiċi postali hemm miżata għad-dħul
 [ mhux tabilħaqq ] {"entity":" area"} x'tissuġġerixxi li jista' jkollok l indirizz tal posta u l miżata tad dħul
@@ -417,7 +417,7 @@ il-Ġermanja
 jaħseb li nixtieq inżur dak il-post li jidher li jista' jikseb in-numru tat-telefown u ż-żona.
 dak il [ prodott tajjeb ] {"entity": "name"} għall ikel jista' jikseb il kodiċi postali għal ftit ġugarelli jekk jogħġbok
 i need ] {"entity": "name"} the telephone number and address of [ saint catherines college and a taxi to commute both distance need to know the car type and also have the taxi number
-mhux fuq il [ lemin issa imsejjaħ ] {"entity": "type"} ukoll għal żona ta' riżerva ta' belt ħażina għandhom bżonn in numru tat telefown u l kodiċi postali tagħhom
+mhux fuq il [ lemin ] {"entity": "type"} issa imsejjaħ ukoll għal żona ta' riżerva ta' belt ħażina għandhom bżonn in numru tat telefown u l kodiċi postali tagħhom
 tista' [ tibgħatli n numru tat ] {"entity":" name"} telefown u l kodiċi postali għall fun house tal Ministeru
 tista' tibgħatli l-kodiċi postali jekk jogħġbok
 jekk jogħġbok ikkuntattja l-indirizz tiegħek
@@ -433,20 +433,20 @@ do you happen to have the telephone number for the college i would like to call 
 x'inhi l-miżata tad-dħul hemmhekk
 x'inhu l-ħlas tal-posta u tad-dħul
 i need a [ place to ] {"entity": "area"} stay for my trip to cambridge in the east area
-i dont care and has free parking
+i dont care and [ has ] {"entity":" type"} free parking
 iva, jixtieq ukoll ikun jaf x'tip ta" attrazzjoni huwa u x'inhu l-miżata tad-dħul
 liema żona qiegħda
 x'inhu l-kodiċi postali
 l-indirizz u l-kodiċi postali jekk jogħġbok.
 kbir x'inhi l-miżata tad-dħul ukoll
-jien qed infittex post imsejjaħ il bniedem [ fuq ] {"entity":" name"} il ġugarelli , tista' tagħraf in numru tat telefown u l kodiċi postali tagħhom jekk jogħġbok
+jien qed infittex post imsejjaħ il bniedem [ fuq il ] {"entity":" name"} ġugarelli , tista' tagħraf in numru tat telefown u l kodiċi postali tagħhom jekk jogħġbok
 kif dwar l [ arkitettura ] {"entity":" type"} i se jkollha bżonn in numru tat telefon u l kodiċi postali tat tariffa tad dħul
 iva tixtieq tkun taf il-miżata tad-dħul jekk jogħġbok
 iva tista' tirrakkomanda post wieħed u tipprovdi n-numru tat-telefon u l-kodiċi postali tagħhom
 ma għandhiex tkun fiċ-ċentru
 żgur li tista' tgħidli l-miżata tad-dħul u n-numru tat-telefown
 x'inhu t-tip ta" attrazzjoni
-jippreferi
+[ jippreferi ] {"entity":" type"}
 x'inhi l-miżata tad-dħul
 iva li tista' tibgħatli l-info kollha
 iva tista' tagħtina l-kodiċi postali jekk jogħġbok
@@ -492,7 +492,7 @@ jista' jkolli wkoll in-numru tat-telefon għall-ġugarelli
 nope [ any ] {"entity":" type"} that you recommend will be fine ill just need the postmissions entrance fee and attraction type
 x'inhu t-tip ta' attrazzjoni
 il-post tax-xogħol biss jekk jogħġbok
-jeħtieġ [ biss ] {"entity": "area"} l indirizz għal wieħed minnhom li se jagħmel fil Lvant
+jeħtieġ biss l-indirizz għal wieħed minnhom li se jagħmel fil-Lvant
 tista' tieħu l indirizz għal dak fiċ [ ċentru ] {"entity":" area"}
 jeħtieġ l-indirizz tiegħu u n-numru tat-telefon tiegħu
 iva jekk jogħġbok għandek bżonn indirizz u numru tat-telefon ukoll

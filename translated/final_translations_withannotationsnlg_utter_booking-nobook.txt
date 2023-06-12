@@ -6,20 +6,20 @@ iżda ma tistax tagħmel ir riżerva fuq it [ tuesday ] {"entity":" bookday"}
 sfortunatament ma rnexxilniex nippreżentaw il-qamħ f'dak il-jum għal dak it-tul ta' żmien ikun jum ieħor jew xogħol ta' soġġorn iqsar għalik
 b'xorti ħażina li l-każ kien ħażin, nistgħu nippruvaw nibqgħu għal żmien iqsar jew jum differenti.
 b'xorti ħażina tħares lejha bħal ma hemm disponibbiltà għal 7 iljieli li jibdew fuq il-kliewi, tixtieq li tipprova ġurnata oħra jew waqfa iqsar
-jien kuntenti iżda m'għandek l-ebda post għal 8 persuni f'dak il-ħin tixtieq tipprova ġurnata jew ħin ieħor.
+jien kuntenti iżda m'għandek l ebda post għal [ 8 ] {"entity": "bookpeople"} persuni f'dak il ħin tixtieq tipprova ġurnata jew ħin ieħor .
 iżda l-kworum ma kellux suċċess tixtieq tibda ġurnata oħra jew forsi tibqa' iqsar
 jien qed ikollok diffikultà biex tagħmel riżerva għalik għandu nipprova ħin ieħor jew tip ta' riżerva
 ma rnexxilniex nippruvaw ħin ieħor għal kulħadd
 dak il-ħin mhuwiex disponibbli liema ħin ieħor għandek taħdem għalik
 jiġifieri l-ebda wieħed minnhom ma rebaħ għal dak il-ħin ħin ieħor
-għalkemm ma [ kienx ] {"entity": "bookstay"} hemm suċċess għal tlieta , wieħed jista' jgħid li għandek żjara iqsar .
+għalkemm ma kienx hemm suċċess għal tlieta, wieħed jista' jgħid li għandek żjara iqsar.
 b'xorti ħażina nistgħu nippruvaw jum ieħor jew waqfa iqsar
 jien kuntenti li ma kienx hemm suċċess ħin ieħor jew jum ieħor li tixtieq tipprova
-ma għandek l-ebda riċetta disponibbli għat-tubi li tixtieq tipprova tisma' jew xi ħaġa oħra
+ma għandek l ebda riċetta disponibbli [ għat tubi ] {"entity": "bookday"} li tixtieq tipprova tisma' jew xi ħaġa oħra
 sfortunatament ma nistgħux inniżżlu għal dawk il-jiem li tista' tibdel in-numru ta' jiem
 b'xorti ħażina ħadd ma jixtieq jitkellem f'ħin differenti
 b'xorti ħażina huma jitniżżlu fil-kotba mbagħad għandu jkun għal kollox li jagħżel jum jew ħin ieħor.
-għad m'hemm l ebda ftuħ disponibbli [ għall ġemella tax ] {"entity": "bookday"} xemx
+għad m'hemm l ebda ftuħ disponibbli għall ġemella [ tax xemx ] {"entity": "bookday"}
 ma rnexxilhiex tirreġistra l-vawċer ashley għal dawk il-ħinijiet li tixtieq tipprova vawċer differenti
 għandek id-dehra tiegħek għal dak l-ammontta' ħin.
 l-imġieba ta' kuljum ma rnexxietx tista' tipprova ħin ieħor probabbli
@@ -31,7 +31,7 @@ l-isturdament ma kellux suċċess
 l-għan ta' dawn il-proposti kien li jkun hemm żieda fl-għadd ta' ċittadini ta' pajjiżi li jkunu qegħdin jiżviluppaw.
 iż-żewġ ristoranti jitniżżlu f'dak il-ħin ħin ieħor jaħdmu għalik
 jien kuntent li l-fatt li l-Bejgħ ma jkollux suċċess jixtieq ġurnata jew ammontta' ġranet differenti
-im ħafna nies ma rnexxilhomx jippreżentaw il-kotba tagħhom f'dar ta' żwieġ għal 5 iljieli tixtieq li tipprova tibqa' iqsar
+im [ ħafna ] {"entity": "bookstay"} nies ma rnexxilhomx jippreżentaw il kotba tagħhom f'dar ta' żwieġ għal 5 iljieli tixtieq li tipprova tibqa' iqsar
 ma nistgħux nippreżentawli l-għażla li nippreżenta l-biljetti informazzjoni ġenerali biss tista' tgħinlek b'kull ħaġa oħra
 ħaġa li ma tkunx disponibbli probabbilment f'ħin ieħor
 b'xorti ħażina ma kellhomx dak il-jum u l-ħin disponibbli jixtiequ jippruvaw għal data jew ħin differenti
@@ -41,28 +41,28 @@ tixtieq tbiddel l-għadd ta' ġranet li tkun qed toqgħod i ma rnexxilhiex issib
 jien ma nkunx miftuħ imbagħad ikun hemm ħin ieħor jew post ieħor biex wieħed ikun jista' jniżżelk matul
 b'xorti ħażina, f'dak il-ħin tixtieq tipprova ħin jew jum ieħor
 b'xorti ħażina li ma tkunx disponibbli jista' jkollok jum ieħor jew ikollok żjara iqsar
-[ ma ] {"entity":" bookday"} rnexxilniex nippreżentaw ir reġistrazzjoni għalik fuq il kliewi li jridu jippruvaw ġurnata differenti jew waqfa iqsar
+ma rnexxilniex nippreżentaw ir reġistrazzjoni għalik fuq il [ kliewi ] {"entity":" bookday"} li jridu jippruvaw ġurnata differenti jew waqfa iqsar
 bla dubju ta' xejn m'hemm xejn li l-bidu jixtieq jipprova ġurnata differenti
 il-Ġimgħa l-oħra l-ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa
 għandek bżonn tiċċekkja ħafna ħsieb daqshekk s'issa ma rnexxilniex nirringrazzja lilek.
 l-iskoperta ma kellhiex suċċess jixtieq tipprova post differenti
-l ebda persuna oħra [ ma ] {"entity": "type"} tista' tħares lejn xi ħaġa oħra għalik
+l ebda [ persuna ] {"entity": "type"} oħra ma tista' tħares lejn xi ħaġa oħra għalik
 Ġurnal bla suċċess jixtieq iżid jew iħassar jum
 jiġifieri li ma kellhiex suċċess jixtieq tirreġistra ġurnata oħra jew waqfa iqsar
-l [ Istati Membri għandhom ikunu ] {"entity":" bookday"} jistgħu jiddeċiedu jekk għandhomx jissodisfaw ir rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti .
-twissijiet u Tweġibiet
+l Istati [ Membri għandhom ikunu ] {"entity":" bookday"} jistgħu jiddeċiedu jekk għandhomx jissodisfaw ir rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti .
+twissijiet u [ Tweġibiet ] {"entity":" name"}
 jiġifieri li ma tkunx disponibbli tixtieq tipprova ġurnata oħra jew żjara iqsar
 ma jkunx miftuħ imbagħad post jew ħin ieħor
 l-iskop ta' dawn il-proposti kien li jkun hemm iktar investiment fir-riċerka u l-iżvilupp teknoloġiku.
-Madankollu , ] {"entity":" booktime"} l ebda tabella għal dak iż [ żmien ma tixtieq tibdel il ħin .
+Madankollu , l ebda tabella għal [ dak iż żmien ] {"entity":" booktime"} ma tixtieq tibdel il ħin .
 sfortunatament ma nistax nippreżenta d-dar tar-ross għal dak il-jum u l-ħin ikun hemm jum jew ħin ieħor li jaħdem għalik
-għalkemm jidher li [ għal dawn il ] {"entity": "name"} jiem kollha għandek tibdil f'post ieħor .
-b'xorti ħażina m'hemm l ebda [ tabella disponibbli għat ] {"entity":" booktime"} tfal żgħar li jkunu lesti jippruvaw ħin differenti
+għalkemm jidher li [ għal ] {"entity": "name"} dawn il jiem kollha għandek tibdil f'post ieħor .
+b'xorti ħażina m'hemm l ebda tabella disponibbli [ għat tfal ] {"entity":" booktime"} żgħar li jkunu lesti jippruvaw ħin differenti
 ma rnexxilhiex tirreġistra dak iż-żmien għalik li jkun hemm ġurnata jew ħin differenti li tkun interessat li
-jiġifieri l-ġugarelli għad ma għandhiex rigali disponibbli għall-kliewi, tixtieq li tipprova vawċer differenti
+jiġifieri l ġugarelli għad ma għandhiex rigali disponibbli għall [ kliewi ] {"entity":" bookday"} , tixtieq li tipprova vawċer differenti
 ma tixtieqx nipprova xi ħaġa oħra
 imsejħa l-Bejgħ ma kellhiex suċċess tixtieq tipprova għal data oħra jew waqfa iqsar
-is-sistema terġa' tibda taħdem u terġa' tibda taħdem b'suċċess, u n-numru ta' referenza tiegħek huwa stnww1ab.
+is sistema terġa' tibda taħdem u terġa' tibda [ taħdem b'suċċess ] {"entity": "ref"} , u n numru ta' referenza tiegħek huwa stnww1ab .
 jien kuntenti iżda l-ġugarelli ma jkunux jistgħu jirriservaw tabella għal dak il-ħin jixtiequ jippruvaw jum jew ħin ieħor.
 għal dawk il-lejl tixtieq tipprova ġurnata jew lejl wieħed biss minflok
 sfortunatament il-kworum ma kienx ta' suċċess
@@ -72,7 +72,7 @@ il-Ġurnal Uffiċjali li għalik tixtieq tipprova ġurnata oħra
 għalhekk tixtieq tipprova żjara iqsar.
 ir-rebbieħ ma kellux suċċess jixtieq jipprova għal ġurnata oħra jew waqfa iqsar
 b'xorti ħażina jidher li l-għażliet kollha huma reġistrati għal dak il-jum li tixtieq li jbiddel il-ħin jew possibilment il-jum
-tista' tqassar il [ waqfa ] {"entity": "bookday"} tiegħek kollha
+tista' tqassar il-waqfa tiegħek kollha
 b'xorti ħażina li l-ġurnata ix-xogħol ta' kuljum jista' jipprova jqatta' ġurnata oħra jew waqfa iqsar
 imsejħa li l-ħin ma jkunx disponibbli tixtieq tirreġistra jum jew ħin ieħor
 sfortunatament għandek problemi biex tispjega li għalik hemm għażliet oħra li nistgħu nesploraw
@@ -93,28 +93,28 @@ għal dak il-lejl, l-imħabba ma kellhiex suċċess f'dar il-ġnien li tixtieq l
 i was unable to book any cheap chinese restaurants do you have another preference for time
 japprezza iżda ma kienx kapaċijniżżel il-kamra għall-perjodu ta' żmien mitlub tiegħek jixtieq jipprova lejl ieħor jew waqfa iqsar
 sfortunatament ma tistax tirreġistra għal dak il-jum tkun tixtieq tirreġistra t-tabella tiegħek għal jum jew ħin ieħor.
-għal dak ] {"entity":" bookday"} iż żmien irridu nippruvaw nippruvaw nippruvaw [ naslu għal data differenti
+għal dak iż żmien irridu [ nippruvaw nippruvaw nippruvaw ] {"entity":" bookday"} naslu għal data differenti
 dan ma kienx ta' suċċess għaliex ġie ppruvat xi ħaġa oħra
 iżda ż-żjara ta' bil-lejl ta' l-armi universitarji tixtieq tipprova ġurnata differenti
 huma jridu li dan il-ħin ikun jixtieq jipprova ħin iktar tard
 imsejjaħ li huwa disponibbli jkun hemm ġurnata jew ħin ieħor li wieħed jista' jimmaġina
 l-iskoperta ma kellhiex suċċess wara jum ieħor jew waqfa iqsar
-b'xorti ħażina , għal [ dik il medda ta' data tixtieq ] {"entity": "name"} tara jekk ikunx hemm ġurnata oħra disponibbli jew ktieb għal waqfa iqsar
+b'xorti ħażina , [ għal ] {"entity": "name"} dik il medda ta' data tixtieq tara jekk ikunx hemm ġurnata oħra disponibbli jew ktieb għal waqfa iqsar
 ma hemm l-ebda siġġu disponibbli fil-ħin u l-ġurnata li għandek titlob huwa ġurnata jew ħin ieħor li tixtieq tipprova u tniżżel għal
 għalkemm il-kuntentizza hija disponibbli għat-talba tiegħek, tixtieq tipprova ġurnata oħra jew waqfa iqsar
 jien veġetarjan iżda dojoċellulari jitniżżel b'mod solidu f'dak il-ħin li nista' nipprova ħin jew ġurnata differenti għalik
 i was unable to book that time is there another time we could try that would still suit you
-ma tistax ] {"entity": "booktime"} tieħu riżerva fl 10 ta' wara nofsinhar [ tixtieq li tħalli barra ħin jew jum ieħor
+ma tistax tieħu riżerva fl 10 ta' wara [ nofsinhar tixtieq ] {"entity": "booktime"} li tħalli barra ħin jew jum ieħor
 jekk ma jkunx hemm tabelli disponibbli għall-parti tiegħek imbagħad forsi ġurnata jew ħin ieħor
 b'xorti ħażina qed nippermettuli li nagħmel dik ir-riżerva, jiġifieri kwalunkwe ħaġa li nista' nagħmel għalik
 is-soġġorn għad-dispożizzjoni tiegħek għandu jkun ta' kwalunkwe tip ieħor ta' soġġorn għalik
-għalkemm m'hemm [ l ] {"entity": "name"} ebda tabella disponibbli fuq talba , tixtieq tirreġistra ġurnata jew ħin ieħor jew forsi xi ħaġa oħra
-għalkemm m'hemm l ebda tabella disponibbli fuq il [ prodott ] {"entity": "bookday"} tax xemx , tixtieq tirreġistra jum jew ħin ieħor .
+għalkemm m'hemm l-ebda tabella disponibbli fuq talba, tixtieq tirreġistra ġurnata jew ħin ieħor jew forsi xi ħaġa oħra
+[ għalkemm m'hemm ] {"entity": "bookday"} l ebda tabella disponibbli fuq il prodott tax xemx , tixtieq tirreġistra jum jew ħin ieħor .
 my apologies i amstill not finding availability perhaps another day or a different time slot
 sfortunatament il-maħfra għandha tabella għal dak il-ħin tista' tagħmel dan qabel jew wara
-imsejħa iżda ppruvat tirriserva fil ħin [ speċifikat tiegħek tixtieq tipprova ] {"entity": "booktime"} ħin differenti
+imsejħa iżda ppruvat tirriserva fil ħin [ speċifikat ] {"entity": "booktime"} tiegħek tixtieq tipprova ħin differenti
 is-soġġorn ma kienx ta' suċċess.
-ma tistax tirriserva [ li xi ] {"entity": "bookstay"} ħadd għal 3 persuni jixtieq jipprova xi ħaġa oħra
+ma tistax tirriserva li xi ħadd għal [ 3 ] {"entity": "bookstay"} persuni jixtieq jipprova xi ħaġa oħra
 jien ma nħallix lil ħadd disponibbli f'dak iż-żmien li nistgħu nibdew mill-bidu li qalulek li qed infittxu drittgħall-mibegħda li jiswa ħafna flus
 l-imġieba ta' kuljum ma kellhiex suċċess kieku tixtieq tipprova żjara iqsar
 i have not been able to book it
@@ -124,4 +124,4 @@ kien hemm problema bis-sistema li l-kamra ma tkunx disponibbli f'dan iż-żmien 
 għalkemm m'hemmx disponibbiltà għal 2, hemm jum ieħor li jaħdem għalik.
 għadu mhux miftuħ imbagħad għandu jipprova data oħra jew post ieħor biex jisma"
 daqshekk ieħor tista' tniżżel il-kotba għal dik id-data u l-ħin tixtieq tipprova ħin differenti.
-l Istati Membri għandhom ikunu jistgħu jiddeċiedu jekk għandhomx [ jissodisfaw ] {"entity": "bookday"} ir rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti .
+l [ Istati Membri għandhom ] {"entity": "bookday"} ikunu jistgħu jiddeċiedu jekk għandhomx jissodisfaw ir rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti .

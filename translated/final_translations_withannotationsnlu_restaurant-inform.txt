@@ -1,21 +1,21 @@
-għandek tħares ukoll lejn xi ħaġa ideali.
+għandek tħares ukoll lejn xi ħaġa ideali [ . ] {"entity": "food"}
 huwa l isem tal qarrej li qed [ jagħmel it talba ] {"entity": "name"}
-iva għall istess grupp ta' ] {"entity":" bookpeople"} nies tista' tieħu [ n numru ta' referenza jekk jogħġbok
+iva għall istess grupp ta' nies [ tista' ] {"entity":" bookpeople"} tieħu n numru ta' referenza jekk jogħġbok
 it tfittxija għal ] {"entity":" name"} rivoluzzjoni fil pont imsejjaħ [ ċentru tal belt tan nandos
-i trid ] {"entity": "bookpeople"} tikteb tabella għal 4 jekk jogħġbok agħtih [ numru ta' referenza
+i trid tikteb tabella għal 4 jekk jogħġbok agħtih numru ta' referenza
 irridu ħaġa fiċ-ċentru tal-ikel tal-belt
-jien interessat f'konverżazzjoni li tinsab fil firxa tal prezzijiet [ għalja ] {"entity": "pricerange"}
+jien interessat f'konverżazzjoni li tinsab fil-firxa tal-prezzijiet għalja
 assigura li l-għeluq ikun l-għeluq mill-post attwali tiegħi
-iva jekk jogħġbok id bħala tabella għal 6
+iva jekk jogħġbok id bħala tabella għal [ 6 ] {"entity": "bookpeople"}
 nixtieq ukoll nipprova ħass ħażin imsemmi hawn fuq [ . ] {"entity":" name"}
-iva bħala riżerva għal 5 [ f'Ġerusalemm jekk jogħġbok ] {"entity":" booktime"}
+iva bħala riżerva għal 5 f'Ġerusalemm [ jekk jogħġbok ] {"entity":" booktime"}
 iva [ fl istess jum tista ] {"entity":" bookday"} tieħu n numru ta referenza jekk jogħġbok
 nixtieq insib ċelebrazzjoni ta' l-għaġin
 nixtieq li l ġugarelli jkunu [ għaljin ] {"entity":" pricerange"}
 i would like to book a table for [ 2 ] {"entity": "bookpeople"}
-i għandhom bżonn ir riżerva għall ġugarelli u [ għandhom bżonn ] {"entity": "bookday"} ukoll in numru ta referenza
+i għandhom bżonn ir riżerva għall ġugarelli [ u ] {"entity": "bookday"} għandhom bżonn ukoll in numru ta referenza
 iva għandek bżonn issib ] {"entity": "name"} żraben imsejħa l [ kċina tal baqra u l bar
-ħarsa lejn ikel għali jekk jogħġbok
+ħarsa lejn ikel għali [ jekk ] {"entity": "pricerange"} jogħġbok
 i dont għandha wkoll preferenza tista' tieħu n-numru ta' referenza
 għandna bżonn insibu soluzzjoni fil-parti tal-iskart tal-belt
 tista' wkoll tiktebni taxi bejn iż-żewġ postijiet i tixtieq tmur għall-Knisja mill-Knisja
@@ -25,64 +25,64 @@ i [ dont għandhom preferenza ] {"entity":" food"}
 ħarsa lejn ikla li tkun għalja
 hemm żieda qawwija fl-ikel għali
 [ kura b'i dont ] {"entity":" area"}
-il bdiewa jmorru' l [ quddiem ] {"entity": "bookpeople"} u jagħmlu riżerva għal 6 snin u jistgħu jiksbu dak in numru ta' referenza ukoll jekk jogħġbok
-tista' ssib xi ħaġa fuq il-parti gastropubblika
+il-bdiewa jmorru' l quddiem u jagħmlu riżerva għal 6 snin u jistgħu jiksbu dak in-numru ta' referenza ukoll jekk jogħġbok
+tista' ssib xi ħaġa fuq il [ parti ] {"entity": "food"} gastropubblika
 iva nixtieq nipprovdili l-indirizz u n-numru tat-telefown ta' dak l-istejjer
-can i book a reservation for 7
+can i book a reservation for [ 7 ] {"entity": "bookpeople"}
 it tfittxija għall ġugarelli [ tal ġugarelli ] {"entity": "name"}
 bħalissa għandek bżonn l-indirizz tal-posta u ż-żona jekk jogħġbok
-i dont għandhom preferenza
+i dont għandhom [ preferenza ] {"entity":" area"}
 li ma kienx meħtieġ li wieħed ] {"entity":" name"} jissejjaħ għaliex wieħed [ seta' jsibni ħassieb imsemmi fil ħsieb li kien imsejjaħ il ħassieb u l bar tal baqra
 it-tfittxija għal ħafna bliet
-i għandek bżonn ta' żraben [ irħas ] {"entity": "pricerange"}
-tista' tikteb tabella għal 7
-tista' [ titkellem imbagħad ] {"entity":" booktime"}
+i għandek bżonn ta' [ żraben ] {"entity": "pricerange"} irħas
+tista' tikteb tabella għal [ 7 ] {"entity": "bookpeople"}
+tista' titkellem [ imbagħad ] {"entity":" booktime"}
 nixtieq nippreżenta kuntratt viċin il-ħbieb tagħna hawnhekk fiċ-ċentru u nipparkja b'xejn
 issibni ċittadinanza ta' l-Arċisqof
 iva jekk jogħġbok ikteb dak għalija
-i għandek bżonn [ it ] {"entity": "bookday"} tabella mniżżla għal nies imħarrġa bis saħħa tagħha wkoll tista' tieħu r ref
+i għandek bżonn it-tabella mniżżla għal nies imħarrġa bis-saħħa tagħha wkoll tista' tieħu r-ref
 din se tkun il-multa
-hemm bżonn ta' żieda [ qawwija ] {"entity": "pricerange"} għal kulħadd
+hemm bżonn ta' żieda qawwija għal kulħadd
 i [ dont care ] {"entity":" area"} what part of town it is in i would like a telephone number please
-is-sitwazzjoni fil-Ħarifa
-iva għal ikel moderat
+is sitwazzjoni fil [ Ħarifa ] {"entity": "area"}
+iva għal [ ikel ] {"entity":" pricerange"} moderat
 assigura li se tkun il-Deskrizzjoni 3 tista" wkoll tieħu n-numru ta" referenza jekk jogħġbok
 i amlooking for suggestions for a cheap of town
-mhux tassew
-iva , jekk iva , jekk iva [ , jekk iva ] {"entity":" booktime"} , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva
+mhux [ tassew ] {"entity":" food"}
+[ iva , jekk iva , jekk iva , jekk iva ] {"entity":" booktime"} , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva , jekk iva
 jien qed infittex pjan direzzjonali li jinsab f'post ċentrali
 għal 3 numri ta" referenza jekk jogħġbok
 ħarsa lejn is silġ imsejjaħ [ la raza ] {"entity":" name"}
 minflok, ma rriservax tabella għal 3 jekk jogħġbok ibgħatli n-numru ta' referenza
-it-tfittxija għal spiża tal-belt
+it tfittxija għal spiża [ tal ] {"entity": "pricerange"} belt
 [ kura i dont ] {"entity":" food"} dwar l ikel għalija
-[ i ] {"entity": "bookpeople"} would like a table for 5 and i will need the reference number thanks
+i would like a table for 5 and i will need the reference number thanks
 l-ebda ħaġa iżda se jkollha bżonn ta' taxi bejn il-lukanda u l-ġugarelli kkummerċjalizzati
 it-tfittxija għal ikel tat-tip għali
 huma kwalunkwe wieħed minn dawn fil-parti tal-lvant tal-belt
 i want to book a table for 4
-tkun disponibbli fuq is [ sit tal internet ] {"entity":" booktime"}
+tkun disponibbli fuq is sit tal [ internet ] {"entity":" booktime"}
 iva qed infittex riċetta fl-ikel tal-Punent
-il-prezzijiet għandhom ikunu għoljin
+il prezzijiet għandhom [ ikunu ] {"entity": "pricerange"} għoljin
 il-Ġermanja
 iva qed infittex post fuq il-ġenb tan-Nofsinhar
 jippreferi ikel ġdid
 i would like to try [ chinese ] {"entity": "food"} food then
-i want a table for 6
+i want a table for [ 6 ] {"entity": "bookpeople"}
 i amlooking for a moderate of cambridge
 jixtieq li jkollok riċetta [ polari għall pollakkju ] {"entity": "food"} jekk jogħġbok
-hemm xi ristoranti [ tal Ġugarelli ] {"entity": "food"}
-għad irid jitħalla vojt
-il-Parlament Ewropew għandu jadotta riżoluzzjoni dwar is-sitwazzjoni fil-Ġeorġja
+hemm xi ristoranti [ tal ] {"entity": "food"} Ġugarelli
+għad irid jitħalla [ vojt ] {"entity": "bookday"}
+il Parlament Ewropew għandu jadotta riżoluzzjoni dwar is sitwazzjoni [ fil ] {"entity": "pricerange"} Ġeorġja
 jien qed infittex xi ħaġa li sservi [ għall ] {"entity": "food"} għaġin
 sakemm ma jkunux jiswew ħafna flus mill-belt, tista' tisma'
 għandek ukoll tħares lejn informazzjoni dwar il [ logħob tal azzard ] {"entity": "name"}
-nixtieq li ] {"entity": "area"} ma nkunux ta' prijorità jew irħas wisq [ fiċ ċentru tal belt
+[ nixtieq ] {"entity": "area"} li ma nkunux ta' prijorità jew irħas wisq fiċ ċentru tal belt
 ma tistax tirrakkomanda xi ħaġa
 i amnot sure what youre asking me id like a recommendation for a substance please
 fil-fatt jixtieq ikel ħażin
 permezz ta' [ imgħaġġel ukoll tista' ] {"entity":" name"} tgħid x'tip ta' informazzjoni għandek fuq l istampa espliċita .
-għandek bżonn ukoll spiża għall-istess ġurnata u parti wkoll jekk jogħġbok
+għandek bżonn ukoll spiża għall istess [ ġurnata ] {"entity": "pricerange"} u parti wkoll jekk jogħġbok
 assigura kif wieħed jaqdi l ikel [ għall ] {"entity": "food"} għomja f'dak il qasam
 iva jekk jogħġbok imla
 fl [ indirizz jekk jogħġbok ] {"entity":" booktime"}
@@ -90,135 +90,135 @@ jien qed infittex ikel għali
 iva qed infittex li nibqa' fiċ [ ċentru ] {"entity": "area"} tal belt
 kwalunkwe wieħed minn dawn il-postijiet jista" jitniżżel fil-kotba f'wieħed minn dawn il-postijiet
 is-sitwazzjoni fil-Ġeorġja
-għandu jservi ikel [ chinese ] {"entity": "food"}
-ok i want to book a table for 5
+għandu jservi [ ikel chinese ] {"entity": "food"}
+ok i want to book a table for [ 5 ] {"entity": "bookpeople"}
 kif [ taħżen ] {"entity":" booktime"}
 iva, jekk jogħġbok, tista' tieħu d-direzzjoni tal-ferrovija tiegħi im ukoll trid tieħu ħsieb għal ħaġa li sservi l-firxa tal-prezzijiet tal-ġugarelli
-issa għandek bżonn ta' drittgħall biljett iżda tista' [ tgħidli jekk ] {"entity":" pricerange"} ikun hemm xi belt moderata li sservi l ikel għall ġuħ
+issa għandek bżonn ta' drittgħall-biljett iżda tista' tgħidli jekk ikun hemm xi belt moderata li sservi l-ikel għall-ġuħ
 jistħoqqlu li jippruvaw jippruvaw jippruvaw jippreżentaw riċetta li sservi internazzjonali
-ir-riċetta tal-varjabbiltà
+ir riċetta tal [ varjabbiltà ] {"entity":" name"}
 jekk jogħġbok ipprova għal [ 17 il sena ] {"entity": "booktime"} fl istess ġurnata
 hi liema għażliet huma disponibbli [ fin nofsinhar ] {"entity": "area"} tal pont għall ipparkjar' il fuq
 l-im not picky just let me għandi għarfien ta' ftit tipi ta' żraben li jinsabu fiż-żona jekk jogħġbok
 il [ kejk u l ġibs ] {"entity": "name"} huma tajbin għal dak li huwa n numru tat telefown għal dak il ġibs
 għandek bżonn issib għassies li jservi ħażin fil-belt jekk jogħġbok
 iva hemm xi ristoranti ħafifa fil-pont irħis
-tista' tibdel il-preferenza tal-ikel tiegħi għal chinese tal-belt
-jekk jogħġbok ikteb tabella għal 4
-nixtieq li [ jkollok ] {"entity": "booktime"} tabella għal 4 f'16 il sena , jekk jogħġbok għidli n numru ta' referenza tiegħi jekk ma tħossokx f'moħħok
+tista' tibdel il preferenza tal ikel tiegħi għal chinese [ tal ] {"entity": "food"} belt
+jekk jogħġbok ikteb tabella għal [ 4 ] {"entity": "bookpeople"}
+nixtieq li jkollok tabella għal 4 f'16-il sena, jekk jogħġbok għidli n-numru ta' referenza tiegħi jekk ma tħossokx f'moħħok
 nixtieq insib ikel moderat
-nixtieq nippreżenta l kotba tiegħek waqt il [ Ġimgħa . ] {"entity": "name"}
-i want to book a table for 2
+nixtieq nippreżenta l kotba tiegħek waqt [ il Ġimgħa ] {"entity": "name"} .
+i want to book a table for [ 2 ] {"entity": "bookpeople"}
 jien qed infittex ukoll post għall-ikel ta' stil ta' ċentru
 iva jekk jogħġbok ikteb riżerva għal [ 7 ] {"entity": "bookpeople"} persuni
-tubu wkoll
+tubu [ wkoll ] {"entity": "bookday"}
 tista' tieħu tabella għal 7 ta' [ filgħaxija ] {"entity":" booktime"}
 i amlooking for a cheap of cambridge
 nixtieq insib ġugarelli li jaqdu lill-ġugarelli
 iva nistgħu naslu għal riżerva f'shiraz fi 17-il sena u nistgħu naslu wkoll għan-numru ta' riżerva li nistaqsuk
-tista' ssibni riċetta qrib l-ikel taċ-ċentru
-i amlooking for a cheap food
-iċ-Ċentru Ewropew għad-Djalogu Interkulturali
+tista' ssibni riċetta qrib l ikel taċ [ ċentru ] {"entity": "area"}
+i amlooking for a [ cheap food ] {"entity": "pricerange"}
+iċ Ċentru Ewropew għad [ Djalogu ] {"entity": "food"} Interkulturali
 is there a cheap instead
-i want to book a table for 1
+i want to book a table for [ 1 ] {"entity": "bookpeople"}
 jien se nħaffef u neħtieġ post għall-ġestjoni li jservi għall-prezz tal-lebanese ly.
 liema tip ta' belt baxxa
 kif għandek tuża l ikel [ tat ] {"entity": "food"} trabi
-li jkollok bżonn tabella għal 6 jekk jogħġbok u [ jkollok ] {"entity": "bookpeople"} bżonn in numru ta' referenza ladarba jitniżżel fil kotba tiegħu .
-hemm xi ħaġa moderna
+li jkollok bżonn tabella għal 6 jekk jogħġbok u jkollok bżonn in-numru ta' referenza ladarba jitniżżel fil-kotba tiegħu.
+hemm xi ħaġa [ moderna ] {"entity": "food"}
 iva jixtieq xi ħaġa fil medda tal prezzijiet [ għalja ] {"entity": "pricerange"} jekk jogħġbok
 li jkun kbir tista' tniżżel fil-kotba tiegħi tabella għal 4
-hemm xi ħaġa tajba
-hemm kwalunkwe ristoranti oħra [ għalja ] {"entity": "pricerange"} fl istess żona
+hemm xi ħaġa [ tajba ] {"entity": "food"}
+hemm kwalunkwe ristoranti oħra għalja fl-istess żona
 l [ ebda ] {"entity": "food"} ħaġa m'għandha tkun għalja jekk ikun hemm xi postijiet għall għawm fiċ ċentru
-iva tixtieq tirreġistra tabella għal 7 f'lassosa [ jekk jogħġbok ] {"entity": "bookpeople"}
+iva tixtieq tirreġistra tabella għal 7 [ f'lassosa ] {"entity": "bookpeople"} jekk jogħġbok
 iva jekk jogħġbok ara x'inhu disponibbli f'11 il [ paġna ] {"entity":" booktime"}
 permezz tar-riċerka għal chinese
 nixtieq li jkun hemm żieda qawwija fil prezzijiet [ irħas ] {"entity": "pricerange"} li tista' ssib waħda
 [ l ] {"entity": "name"} indirizz u l indirizz ta' l applikant .
 im trying to find an expensive part of town
-iva , ] {"entity": "bookpeople"} tabella għal 1 i għandha bżonn [ in numru ta' referenza
+iva, tabella għal 1 i għandha bżonn in-numru ta' referenza
 wieħed jista' jgħidli dwar l għażliet għal ipprezzar [ moderat ] {"entity":" pricerange"} bi prezz baxx fil pont li jinsab ċentralment
 hemm xi ħaġa li sservi ikel [ ieħor ] {"entity": "food"}
 jista' jkun li [ gastropub ] {"entity":" food"}
 jista' jkollok l indirizz għall [ kċina tal baqra ] {"entity": "name"} jekk jogħġbok
 is-sitwazzjoni fil-belt tmur għall-agħar.
-il medda [ moderata ] {"entity": "pricerange"} tal prezzijiet tkun l aħjar
+il [ medda moderata ] {"entity": "pricerange"} tal prezzijiet tkun l aħjar
 it tfittxija għall Ġenerazzjoni tal [ Armonju ] {"entity": "name"} fil Moviment
-iva tixtieq tirreġistra tabella ta' 8
+iva tixtieq tirreġistra tabella ta' [ 8 ] {"entity": "bookpeople"}
 iħares ukoll lejn il-Ġenb tan-Nofsinhar
-qegħdin infittxu ikel ġdid
-iva għal 7
+qegħdin infittxu [ ikel ] {"entity": "food"} ġdid
+iva għal [ 7 ] {"entity": "bookpeople"}
 kif [ taħżen ] {"entity":" booktime"}
 l-artijiet jippruvaw jerġgħu jiswew ħafna flus
-żgur li ma jkunx hemm nies b'saħħithom
+żgur li ma jkunx hemm nies [ b'saħħithom ] {"entity": "food"}
 iva qed infittex preċedent li jaqdi l-firxa moderna tal-prezzijiet tal-eclectic
 kif għandek tuża l ikel [ tat ] {"entity": "food"} trabi
 il [ Lvant ] {"entity": "area"} huwa l multa li jista jkollu n numru tat telefon u l kodiċi postali tal indirizz
 it-tfittxija għal Ġenerazzjoni li sservi lil chinese
 għandu jkun [ għali ] {"entity":" pricerange"} jixtieq li l ġugarelli jkunu għaljin
-jekk jogħġbok ibda tabella għal 7
-jekk jogħġbok ippreżenta r riżerva għal thursday pmu [ jekk jogħġbok ] {"entity": "bookday"} ipprovdilu numru ta' referenza
+jekk jogħġbok ibda tabella għal [ 7 ] {"entity": "bookpeople"}
+jekk jogħġbok ippreżenta r riżerva għal [ thursday pmu ] {"entity": "bookday"} jekk jogħġbok ipprovdilu numru ta' referenza
 il-ferrovija tiegħek tħalli l-pont
 jixtieq jippreżenta tabella għal [ 3 ] {"entity":" bookpeople"} jista' jkollu wkoll in numru tat telefon u l kodiċi postali għall qarrej
 i would like to go on [ thursday ] {"entity": "bookday"} evening
-jien qed infittex li ngħaddi għand il ] {"entity": "name"} [ forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal
+jien qed infittex li ngħaddi għand il forzi tal ] {"entity": "name"} [ forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal forzi tal
 għandek bżonn tirreġistra l-ispjegazzjoni tiegħi jekk dak li jgħid għal 2 huwa dak li nistaqsi, jiġifieri n-numru ta' referenza wkoll.
 tista' wkoll tgħidli jekk ikun hemm xi postijiet fil-ħanut.
 iva li għandek bżonn ta' tabella għal 8 jekk jogħġbok
 il ħin disponibbli f'19 il [ jum jista' wkoll ] {"entity":" booktime"} jingħata numru ta' referenza
 nixtieq insib ħafna bliet
-liema għażliet għandhom ikunu moderati
+liema għażliet għandhom ikunu [ moderati ] {"entity":" pricerange"}
 huwa l-ikel tal-ikel tal-ikel tal-ikel tal-ikel tal-ikel tal-ikel tal-ikel jew minn pajjiż ieħor
-jixtieq jiġbor kittieb kittieb kittieb kittieb kittieb kittieb kittieb ċar
+jixtieq jiġbor [ kittieb kittieb kittieb kittieb kittieb ] {"entity": "food"} kittieb kittieb ċar
 huma kollha 3 minn dawk ir-ristoranti moderati tal-belt
 il-Parlament Ewropew għandu jadotta riżoluzzjoni dwar is-sitwazzjoni fil-Lvant Nofsani
 bis-saħħa t'hekk wieħed ifittex ċirkolari li sservi firxa wiesgħa ta' prezzijiet
-ma għandhiex preferenza
+ma għandhiex [ preferenza ] {"entity":" area"}
 dak il-prodott jista' jiġi kkummerċjalizzat għal 8 filgħaxija
 il-parti l-kbira tal-bliet
-jekk jogħġbok ikteb il-belt ta'
-jien fil-fatt nixtieq infakkar 5 triljun
+jekk jogħġbok ikteb il belt [ ta' ] {"entity": "name"}
+jien fil fatt nixtieq infakkar 5 [ triljun ] {"entity": "bookpeople"}
 iva , jekk jogħġbok , ibda tabella għal [ ħames ] {"entity":" bookpeople"} persuni
-i would like to book it for 5 [ can ] {"entity": "bookpeople"} i also get the reference number for that as well
+i would like to book it for 5 can i also get the reference number for that as well
 jien qed infittex ] {"entity":" name"} post fejn nistaqsi l isem tal [ belt tieqaf .
-tista' tieħu tabella għal
+tista' tieħu tabella [ għal ] {"entity":" bookpeople"}
 għandek bżonn tgħarraf lil min għandu l taxi kif [ ukoll ] {"entity":" booktime"} jekk jogħġbok ibgħat lil min għandu l taxi sas 17 ta' Settembru .
 żgur li tista' wkoll tgħinni nsib ikel mhux [ tas soltu ] {"entity": "food"} fl istess parti tal belt
 kif [ taħżen ] {"entity":" food"}
-tista' tgħinni nsib post fejn infittex post li jservi [ ikel ] {"entity": "pricerange"} irħis
+tista' tgħinni nsib post fejn infittex post li jservi ikel irħis
 nixtieq nirringrazzja lil ċerti tipi ta' għaġin fiċ [ ċentru ] {"entity":" area"} tal belt
-tista', jekk jogħġbok, issibni kumment
+tista' , jekk jogħġbok , issibni [ kumment ] {"entity": "food"}
 iva tista' tikteb tabella għal 1
-jixtieq li xi ikel [ tal lejl tan Nofsinhar ] {"entity": "food"} ma jkunx għali wisq
-hemm xi ħaġa
-kif għandek tieħu [ gastropub ] {"entity": "food"}
+jixtieq li xi ikel tal [ lejl tan Nofsinhar ] {"entity": "food"} ma jkunx għali wisq
+hemm xi [ ħaġa ] {"entity": "food"}
+kif għandek [ tieħu gastropub ] {"entity": "food"}
 [ moderata ] {"entity":" pricerange"} jekk jogħġbok agħtih l indirizz tan numru tat telefon u l kodiċi postali għall partitarju li ssib permezz tiegħek ?
-it tfittxija għal rivoluzzjoni fiċ [ ċentru ] {"entity":" area"} tal belt
-jixtieq li jkun hemm ħsieb li jservi ikel [ ħażin ] {"entity": "food"}
+it-tfittxija għal rivoluzzjoni fiċ-ċentru tal-belt
+jixtieq li jkun hemm ħsieb li jservi [ ikel ] {"entity": "food"} ħażin
 l-ebda ħaġa ma tista' jekk jogħġbok issibni l-ogħla klassifikazzjoni
-wieħed biss jekk jogħġbok u l-indirizz biss huwa neċessarju.
+[ wieħed ] {"entity": "type"} biss jekk jogħġbok u l indirizz biss huwa neċessarju .
 żgur li għandek in-numru tat-telefown tiegħi li tixtieq ukoll issib pont għali għalija
-[ dak l oġġett ] {"entity": "bookpeople"} għandu jirriserva tabella għal 3 jista' jikseb numru ta' referenza li jissejjaħ għalik
+dak l oġġett għandu jirriserva tabella għal 3 [ jista' ] {"entity": "bookpeople"} jikseb numru ta' referenza li jissejjaħ għalik
 nixtieq ukoll nippreżenta taxi biex imur mill-Knisja għall-Knisja
 [ ħarsa lejn ] {"entity":" name"} informazzjoni dwar il Ġugarelli fil Parlament Ewropew imsejjaħ ftit Ġugarelli
 iva , ] {"entity":" name"} jekk jogħġbok , tixtieq issib [ ġugarelli msejħa ftit ġugarelli , għandek elenkar għalihom .
-i amalso looking for an expensive
+i amalso looking for an [ expensive ] {"entity": "pricerange"}
 jekk [ int ] {"entity": "food"} għandek il ħila li ssib ikel kreattiv kif għandek tħobb waħda minflok
-jekk jogħġbok imla l-Ġurnal Uffiċjali
-i attwalment jeħtieġ ir-riżerva għal 7
+jekk jogħġbok imla l Ġurnal [ Uffiċjali ] {"entity": "name"}
+i attwalment jeħtieġ ir riżerva għal [ 7 ] {"entity": "bookpeople"}
 kif għandek tieħu [ 13 il sena ] {"entity":" booktime"}
-iva u tista' ssibni kumment
+iva u tista' ssibni [ kumment ] {"entity": "food"}
 iva għal xi ħaġa [ għalja ] {"entity":" pricerange"}
-ħass ħażin li tipprova l-ħass
+ħass ħażin li tipprova l [ ħass ] {"entity":" name"}
 jien qed infittex pjaċir fil parti tal [ punent ] {"entity": "area"} tal belt
 i qed infittex żieda qawwija fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet u t tip tal ikel għal dawk ir ristoranti
 is-sitwazzjoni fil-bliet
 għalkemm l indirizz għadu [ kif ] {"entity": "area"} ġie indirizzat , jeżistu xi attrazzjonijiet fil parti tal punent tal belt .
-tista' tgħinni nsib post fejn nistaqsi għal kulħadd fil-prezz tal-Lvant
-jaħseb li jixtieq jipprova jaqbad
+tista' tgħinni nsib post fejn nistaqsi għal kulħadd fil [ prezz ] {"entity": "area"} tal Lvant
+jaħseb li jixtieq jipprova [ jaqbad ] {"entity":" name"}
 forsi għandek tħares ] {"entity":" name"} lejn xi ħaġa magħrufa bħala l [ Ġerusalemm espress fen ditton .
-iva jekk jogħġbok [ se jkolli bżonn ] {"entity": "bookpeople"} tabella għal 3 jista' jkolli wkoll in numru ta' referenza għalih meta jitniżżel fil kotba .
+iva jekk ] {"entity": "bookpeople"} jogħġbok se [ jkolli bżonn tabella għal 3 jista' jkolli wkoll in numru ta' referenza għalih meta jitniżżel fil kotba .
 m'għandekx bżonn ] {"entity": "name"} ta' żraben imsejħa [ l immaġni u ż żraben ukoll
 it tfittxija għal rivoluzzjoni fiċ [ ċentru ] {"entity": "area"} tal belt
 iva xi ħaġa fil firxa tal [ prezzijiet bi prezzijiet ] {"entity": "food"} raġonevoli sservi wkoll lil xi ħaġa minnhom bħala ikel singaġenu
@@ -226,100 +226,100 @@ kif għandek tieħu [ din ] {"entity": "food"} il mediċina ?
 iva tista' tgħinni b'dan ukoll.
 ikel għali
 i ammore interested in booking whichever will accept a table of four
-iva tista' tipprova [ tiġri minflok ] {"entity": "booktime"} jekk jogħġbok
-x'inhu chinese tal-belt
+iva tista' tipprova tiġri [ minflok ] {"entity": "booktime"} jekk jogħġbok
+x'inhu chinese [ tal ] {"entity": "food"} belt
 id bħala spiża waħda jekk jogħġbok
-iva [ , jekk jogħġbok ] {"entity": "bookpeople"} ikteb tabella għal 4 u ibgħatli n numru ta' referenza ladarba jitniżżel fil kotba .
+iva, jekk jogħġbok ikteb tabella għal 4 u ibgħatli n-numru ta' referenza ladarba jitniżżel fil-kotba.
 iva tista' tgħinni biex inkun nista' nirbaħ fuq il-ħin.
 il tesla l ħamra se ] {"entity": "booktime"} tieħu miegħi għar [ riżerva tiegħi ta' 16 il sena
 li għandna bżonn ukoll ċertu post biex nippreservaw l-ikel moderat
-hemm kwalunkwe ristorantica restaurants fil-medda tal-prezz taċ-ċentru
-kif wieħed jaqdi l ikel [ ħażin ] {"entity": "food"} imbagħad
-iva, jekk jogħġbok, tista' tieħu azzjoni fuqhom...
+hemm kwalunkwe ristorantica restaurants fil medda tal [ prezz taċ ] {"entity": "area"} ċentru
+kif wieħed jaqdi l [ ikel ] {"entity": "food"} ħażin imbagħad
+iva , ] {"entity": "bookday"} jekk jogħġbok , tista' tieħu azzjoni fuqhom [ . . .
 it-tfittxija għal Ġenerazzjoni li sservi l-ġenb tal-belt ta' Sqallija qiegħda hemm kull ħaġa bħal dik
-x'hemm fuq il-Lvant
+x'hemm fuq il [ Lvant ] {"entity": "area"}
 bummer kif tgħaddi l-ikla jekk il-prodott tiegħu
 għoli għoli mill-erbgħa
-[ i ] {"entity":" type"} tixtieq ukoll tiċċekkja fuq in naħa ta' barra tista' tara dak li għandek f'dik iż żona .
+i tixtieq ukoll tiċċekkja fuq in-naħa ta' barra tista' tara dak li għandek f'dik iż-żona.
 give me information on the one closest to pipasha contain
 iħarsu wkoll lejn parti kbira mill-belt
-iva , għandek bżonn tirriserva tabella għal persuna [ waħda ] {"entity": "bookday"} fuq il kliewi .
-tista' terġa' tipprova xi ħaġa baxxa
+iva, għandek bżonn tirriserva tabella għal persuna waħda fuq il-kliewi.
+tista' terġa' tipprova xi ħaġa [ baxxa ] {"entity": "pricerange"}
 jien qed nippjana l-vjaġġ tiegħi lejn il-pont u nfittex post għall-ivvjaġġar li jinsab fiċ-ċentru tal-prezzijiet.
-jekk jogħġbok ippreżenta riżerva għall-użu tal-kliewi
+jekk jogħġbok ippreżenta riżerva għall użu tal [ kliewi ] {"entity": "bookday"}
 x'aktarx li [ nistgħu ] {"entity":" booktime"} mmorru iktar kmieni filgħaxija kif nistgħu ngħidu dwar il Ġuħ
-i amlooking forward to trying local restaurants but would like help finding a place to go in town i would like it to be in the south
+i amlooking forward to trying local [ restaurants ] {"entity": "area"} but would like help finding a place to go in town i would like it to be in the south
 iva tista' jekk jogħġbok issib ruħi ħaġa tajba peress li l-flus tal-attrazzjoni mhumiex oġġett
-żgur li jżommha għal nies imħarrġa
-jeħtieġ li nħallu ] {"entity":" booktime"} kmieni biżżejjed biex naslu għand il [ Ġesù mill Ġesù
+żgur li jżommha għal [ nies ] {"entity": "booktime"} imħarrġa
+jeħtieġ [ li ] {"entity":" booktime"} nħallu kmieni biżżejjed biex naslu għand il Ġesù mill Ġesù
 i amlooking for a chinese one
-iż-żona tal-ħabitat
+iż żona tal [ ħabitat ] {"entity":" area"}
 għalhekk għandek bżonn ta' rispons
 iva jixtieq ikel għali
 i dont care [ about ] {"entity":" bookpeople"} the about the area i need a table for four
-id like sunday please
+id like [ sunday please ] {"entity": "bookday"}
 lets try [ 17 ] {"entity":" booktime"}
 jien l [ aktar ] {"entity": "pricerange"} interessat f'Ġerusalemm , tista' tibgħat il kodiċi postali tiegħi u l indirizz tiegħi jixtieq ukoll li jkun hemm ġabra baxxa ta' katalan jekk jogħġbok
-iħarsu wkoll lejn il biċċa l kbira [ tal popolazzjoni ] {"entity": "pricerange"}
-iva tista' ssib ikla [ tal ikel chinese ] {"entity": "food"} f'dak il kodiċi postali minflok
+iħarsu wkoll lejn il biċċa l kbira tal [ popolazzjoni ] {"entity": "pricerange"}
+iva tista' ssib ikla tal ikel [ chinese ] {"entity": "food"} f'dak il kodiċi postali minflok
 hemm xi postijiet [ għall ] {"entity": "food"} għawm fil belt
-iva tista' tikteb tabella għal 8
+iva tista' tikteb tabella għal [ 8 ] {"entity": "bookpeople"}
 l-għajnuna kollha tiegħek ser tkun tista' tingħata lir-rebbieħ fil-ħin.
 iva għandek [ bżonn ] {"entity":" pricerange"} tgħin biex issib post ġdid i tixtieq li jkun għali
 jippreferi ħolma li sservi l-kreazzjoni tal-bliet
 x'inhu ikel għali
-iva tista' tara jekk jista' jkun hemm xi ħaġa li sservi għal xi ħaġa fil-belt
-[ iva jekk jogħġbok ikollok ] {"entity": "bookpeople"} bżonn tabella għal 8 jista' jkollok in numru ta' referenza għall Bejgħ
+iva tista' tara [ jekk ] {"entity": "food"} jista' jkun hemm xi ħaġa li sservi għal xi ħaġa fil belt
+iva jekk jogħġbok ikollok bżonn tabella għal 8 jista' jkollok in-numru ta' referenza għall-Bejgħ
 bil-ħsieb li nara li noqgħod attent / a biex noqgħod attent / a bejn il-Knisja u l-Knisja
-i għandek bżonn l taxi mill Knisja [ għall Knisja ] {"entity":" booktime"} li tasal bir riżerva tiegħi fit 13 ta Settembru .
+i għandek bżonn l-taxi mill-Knisja għall-Knisja li tasal bir-riżerva tiegħi fit-13 ta" Settembru.
 i amlooking for a chinese of town
 għandek il [ possibbiltà li tieqaf ] {"entity":" pricerange"} tieħu xi ħaġa u li tagħtina l kodiċi postali u l medda tal prezzijiet jekk jogħġbok
 jien qed infittex informazzjoni dwar konverżazzjoni li tissejjaħ il [ konverżazzjoni ] {"entity":" name"}
 għandek bżonn issib ruħi biex tisma' dak li huwa moderat.
 l-ebda ħaġa b'mod partikolari ma tista' tirrakkomanda waħda u tagħtih l-indirizz
-ir fil fatt [ tixtieq ] {"entity": "food"} tieħu xi post fil Lvant Nofsani biex nirringrazzja lil xi ħadd
+ir fil fatt tixtieq tieħu xi post fil Lvant [ Nofsani ] {"entity": "food"} biex nirringrazzja lil xi ħadd
 hemm xi ħaġa li sservi l ikel [ tat ] {"entity": "food"} trabi
 fiċ [ ċentru ] {"entity": "area"} tal belt
 Ġurnal wieħed għal 8
 jixtieq isib fil-maqtugħ, riċetta li tinsab fiċ-ċentru tal-ikel
-il-prezzijiet għandhom ikunu għoljin
+il prezzijiet għandhom [ ikunu ] {"entity": "pricerange"} għoljin
 kif għandek tuża [ l ] {"entity": "food"} ikel
-it-tfittxija ta' post għall-ikel fiċ-ċentru
-jekk [ jogħġbok ] {"entity":" bookpeople"} irreserva tabella għal seba' u ibgħatli n numru ta' referenza
+it tfittxija ta' post għall ikel fiċ [ ċentru ] {"entity": "area"}
+jekk jogħġbok irreserva tabella għal seba' [ u ] {"entity":" bookpeople"} ibgħatli n numru ta' referenza
 iva għandek bżonn ukoll taxi biex tmur mill-Knisja għall-Knisja
 żgur li se tkun fiż-żona hekk kif tipprova tipprova xi ristoranti iżda timmira li ssib informazzjoni dwar wieħed b'mod partikolari
 iħares lejn l [ għaġina tal peking ] {"entity": "name"} liema tip ta' ikel iservi u għandek bżonn ukoll l indirizz
 iva għandek bżonn issib ikel għali
-se jkun hemm 8
+se jkun hemm [ 8 ] {"entity": "bookpeople"}
 huwa [ disponibbli ] {"entity": "booktime"} għalija li nixtieq ukoll nieħu taxi biex nifhem li tista' tagħtini tip ta' karozza u n numru tagħhom .
 għandna bżonn ukoll post għall għawm fil [ Lvant ] {"entity":" area"}
 jien nifhem xi ikel għall [ għawm tal Lvant ] {"entity": "food"} jekk jogħġbok
 kif [ taħżen ] {"entity":" food"}
-nixtieq insib l-għaġin
-għandek xi
-kif taħżen
-Ġabra ta' ] {"entity": "bookpeople"} tabella għal 1 jekk jogħġbok ħtieġ [ li jkollu n numru ta' referenza
+nixtieq insib l [ għaġin ] {"entity": "food"}
+għandek [ xi ] {"entity":" food"}
+kif [ taħżen ] {"entity": "food"}
+Ġabra ta' tabella għal 1 [ jekk jogħġbok ħtieġ ] {"entity": "bookpeople"} li jkollu n numru ta' referenza
 l-intenzjoni li jinstab ħuġa
 i would like a [ expensive ] {"entity": "pricerange"} price range
 Kapaċinifhem li nieħu miegħi mill-Knisja sal-Knisja
 għandek xi rakkomandazzjonijiet
 could you try again [ moderate ] {"entity":" pricerange"} ly priced perhaps
-x'inhu ikel [ modern għall ġugarelli ] {"entity": "food"}
-fil-fatt l-i dont għandu bżonn riżerva biex ifittex li jkun hemm ġenerazzjoni moderna ta' bliet għalkemm
-tista' tikteb tabella għal lejl il lejl il [ lejl ] {"entity": "bookpeople"}
+x'inhu ikel [ modern għall ] {"entity": "food"} ġugarelli
+fil fatt l [ i ] {"entity": "food"} dont għandu bżonn riżerva biex ifittex li jkun hemm ġenerazzjoni moderna ta' bliet għalkemm
+tista' tikteb tabella għal [ lejl il lejl ] {"entity": "bookpeople"} il lejl
 iva, jekk jogħġbok, tista' tkun taf jekk ir-riżerva tkunx ta' suċċess
-għandek bżonn ] {"entity": "pricerange"} tgħin biex issib post għall ikel għali [ għalija .
-kwalunkwe
-hemm seba'
+għandek bżonn tgħin biex issib post għall-ikel għali għalija.
+[ kwalunkwe ] {"entity":" area"}
+hemm [ seba' ] {"entity":" bookpeople"}
 i heard you have good [ cheap ] {"entity": "pricerange"} restaurants while i amthere i would like to try one
 tista' tiċċekkja fiċ [ ċentru ] {"entity": "area"} tal belt
-[ i ] {"entity": "pricerange"} dont think ill make that reservation just yet but can you help me find an expensive s as the hotel
+i dont think ill make that reservation just yet but can you help me find an expensive s as the hotel
 iva jekk jogħġbok żgur li huwa [ chinese ] {"entity": "food"} u firxa ta' prezzijiet għalja
-il-ħames Skeda li tinsab mar-regolamenti
-hemm xi ħaġa
+il ħames Skeda li tinsab mar [ regolamenti ] {"entity": "bookpeople"}
+hemm xi [ ħaġa ] {"entity": "food"}
 i would like something in the [ cheap ] {"entity": "pricerange"} range and i need the address and telephone number
-l-Ewropa għandha bżonn ta' rispett għad-drittijietfundamentali
-inti ċert li [ jista' ] {"entity":" name"} wkoll jikkaċċja pjuttost li għandek informazzjoni fuq ġugarelli li jissejħu ġugarelli .
+l Ewropa għandha bżonn ta' rispett għad [ drittijietfundamentali ] {"entity":" area"}
+inti ċert li jista' wkoll [ jikkaċċja ] {"entity":" name"} pjuttost li għandek informazzjoni fuq ġugarelli li jissejħu ġugarelli .
 li l-multa i tixtieq tiġbor riżerva għal 1 jista' jkollha n-numru ta' referenza
 il-Ġermanja għandha bżonn ta' taxi biex tieħu l-Ġermanja
 [ għandi bżonn it ] {"entity": "booktime"} taxxa biex nirċeviha sa 18 il sena sabiex inkun nista' nagħmel il ħin imniżżel fil kotba tagħna
@@ -328,63 +328,63 @@ effettivament iktar interessat fl [ ikel tal Lvant ] {"entity": "food"} Nofsani
 naħseb imbagħad li għandek tpoġġi fuq saqajk.
 ivament ma jkunx hemm bżonn tabella għal 8
 barra minn hekk, il-marda għandha bżonn ta' taxi mill-kuntentizza għall-kuntentizza.
-iva sa mhux [ aktar tard minn 12 il ] {"entity": "booktime"} xahar wara
+iva sa mhux [ aktar tard minn 12 ] {"entity": "booktime"} il xahar wara
 jixtieq li jkun hemm żieda qawwija fl-istess medda ta' prezzijiet bħall-Ħadd jekk jogħġbok
 iva għandek bżonn tirreġistra għall-istess grupp ta' nies
 il-Ġimgħa l-oħra, il-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa
 iva [ Għandek ] {"entity": "food"}
 il proċess tal [ ipproċessar ] {"entity":" food"}
-hija fit-Tramuntana jekk jogħġbok
+hija fit Tramuntana [ jekk jogħġbok ] {"entity":" area"}
 kif jaħdem [ f'16 il sena ] {"entity":" booktime"}
 se jkollhom bżonn ta' taxi kif [ ukoll ] {"entity":" booktime"} mill kuntentizza għall kuntentizza li tasal 16 il kuntratt jistgħu jiksbu n numru ta' kuntatt u t tip ta' karozza għal dak il kuntratt .
 jien qed infittex riċetta msejħa [ l lokromanina ] {"entity": "name"}
-għandek bżonn ukoll ta' Ġemellaġġ man-Nofsinhar tal-Ġemellaġġ
-kif għandek xi ħaġa li sservi l ikel [ għall ] {"entity": "food"} għarrieda li tirrakkomanda
+għandek bżonn ukoll ta' Ġemellaġġ man Nofsinhar tal [ Ġemellaġġ ] {"entity": "food"}
+kif għandek xi ħaġa li sservi l-ikel għall-għarrieda li tirrakkomanda
 iva għad hemm bżonn li nippreżentaw riżerva għal [ 8 ] {"entity": "bookpeople"} persuni fil pont tal ivvjaġġar u l ivvjaġġar
-friday
-it-tfittxija għall-ikel
+[ friday ] {"entity":" bookday"}
+it tfittxija għall [ ikel ] {"entity": "food"}
 għandek xi ħaġa f'dak il-qasam qabel ma tissuġġerixxi
 jista' [ jkollok ] {"entity":" name"} in numru tat telefon u l kodiċi postali għall eraina jekk jogħġbok
 l-istess jista' jkollok l-istess" taxi pick me up".
 l-Ewropa għandha bżonn ta' iktar ikel fin-Nofsinhar
-kbir iħares ukoll ] {"entity": "name"} lejn it tiġrifa magħrufa bħala [ l bar tal ġojjelli
+kbir iħares ukoll ] {"entity": "name"} lejn it tiġrifa magħrufa bħala l [ bar tal ġojjelli
 jixtieq li jdaħħal fil-kotba tiegħek l-avviċinament dojoċellari jekk jogħġbok
 kif taħżen [ 17 il pazjent ] {"entity":" booktime"}
-jista' nuża [ xi ] {"entity":" pricerange"} ftit għajnuna biex insib żraben li jkun ipprezzat b'mod moderat
-kura b'i dont
-hemm xi [ ristoranti ] {"entity": "pricerange"} għalja
+[ jista' ] {"entity":" pricerange"} nuża xi ftit għajnuna biex insib żraben li jkun ipprezzat b'mod moderat
+kura b'i [ dont ] {"entity":" food"}
+hemm xi ristoranti għalja
 jixtieq li jkun fil [ Punent ] {"entity": "area"} jekk jogħġbok
-i amalso looking for a moderate
+i amalso looking for a [ moderate ] {"entity":" pricerange"}
 bħalissa qiegħed nippjana l-vjaġġ tiegħi lejn il-pont iżda għandu bżonn xi għajnuna biex insib ċertu riċetta
 [ effettivament ] {"entity": "name"} għandek tħares lejn xi informazzjoni dwar il Ġugarelli tal Armonju tista' tgħidu fuqhom
-nixtieq insib ħaġa għalja
-ifittxu għal spiża
+nixtieq insib [ ħaġa ] {"entity": "pricerange"} għalja
+ifittxu għal [ spiża ] {"entity": "pricerange"}
 għalija x'tip ta' ikel iservi għalija x'tirrakkomanda għal persuna waħidha
-iva, jekk jogħġbok, tista' tniżżel tabella għal 1 fuq l-ikel
+iva , [ jekk ] {"entity": "bookday"} jogħġbok , tista' tniżżel tabella għal 1 fuq l ikel
 hemm kwalunkwe katina ta' bliet
 effettivament tista' ] {"entity": "food"} tipprova kull ħaġa li sservi ikel [ għall ikel għall ikel
-jekk ikun [ hemm xi ħaġa ħażina , jekk ] {"entity": "booktime"} jogħġbok , in numru ta referenza
+jekk ikun hemm [ xi ] {"entity": "booktime"} ħaġa ħażina , jekk jogħġbok , in numru ta referenza
 jixtieq li jkollok għajnuna jekk jogħġbok
-liema [ minnhom ] {"entity": "booktime"} qatt wieħed għandu għad dispożizzjoni tiegħu li waħda tkun multa
+liema minnhom qatt wieħed għandu għad [ dispożizzjoni tiegħu ] {"entity": "booktime"} li waħda tkun multa
 hemm xi ristoranti li jservu lil cantonese parti tal-belt
 i se jkollok bżonn l-indirizz jekk issib waħda bis-saħħa
 l-ebda ħaġa b'mod partikolari ma tista' tgħidli l-indirizz tal-ewwel wieħed elenkat.
 tista' ssib [ kittiebninini ] {"entity": "food"} għalija biex tisma'
 nixtieq li jkun fiż żona [ tan Nofsinhar ] {"entity": "area"} tal belt jekk tkun tista' tirrakkomanda waħda li tkun ta' għajnuna
-ix-xemx iva
+ix xemx [ iva ] {"entity":" bookday"}
 iva nisma' xi ħaġa dwar xi ħaġa li taħseb li l-hekk imsejħa wasjonma jew xi ħaġa bħal din tista' tgħinni nsibha
 o tista' tniżżel tabella għal 8 wkoll
 jeħtieġ li nsib post fejn noqgħod fiċ [ ċentru ] {"entity":" area"}
-moderat jekk jogħġbok
-jien nista' nippreżenta tabella għal wieħed
-ħtieġa ta' riċetta li tkun moderata
+moderat [ jekk ] {"entity": "pricerange"} jogħġbok
+jien nista' nippreżenta tabella għal [ wieħed ] {"entity":" bookpeople"}
+ħtieġa ta' riċetta li tkun [ moderata ] {"entity": "pricerange"}
 jien qed ] {"entity": "food"} infittex riċetta li sservi ikel li [ fih il prodott
 iva li tista' tagħmel ir riżerva għal [ 4 ] {"entity": "bookpeople"}
-kif madwar post b'ikel [ ħanin ] {"entity": "food"} jista' wkoll jikseb l esperjenza sħiħa ta' l ikel bħall indirizz bil kodiċi postali u n numru tat telefown jekk jogħġbok irriserva tabella li għadha kif għaddiet .
+kif madwar post b'ikel [ ] {"entity": "food"} ħanin jista' wkoll jikseb l esperjenza sħiħa ta' l ikel bħall indirizz bil kodiċi postali u n numru tat telefown jekk jogħġbok irriserva tabella li għadha kif għaddiet .
 il ħobż imur [ għand il frat tar ram ] {"entity":" name"} bħall indirizz tagħhom ukoll .
 jista' jkollok il-ħin tal-ivvjaġġar u tat-tluq għal dak li jkun qed ifittex ukoll chinese
 [ l ebda ] {"entity":" area"} ħaġa li tħares lejha għal waħda li tinsab fin Nofsinhar
-proċessi ħżiena għat-tisjir
+proċessi ħżiena għat [ tisjir ] {"entity":" name"}
 għandek bżonn ta' iktar informazzjoni.
 iva jista' jkollha n-numru tat-telefon tagħha u l-firxa tal-prezzijiet
 għandek tħares ukoll lejn il [ Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni ] {"entity": "name"} tal Ġenerazzjoni tal Ġenerazzjoni
@@ -395,60 +395,60 @@ il-bdiewa eċċellenti jmorru lil hinn minn dak
 jien qed infittex pjanċa fil pont imsejħa [ l għonq nieqes ] {"entity":" name"}
 iva li ] {"entity": "pricerange"} l multa jkollha bżonn tgħin biex issib [ żraben għaljin tista' tgħin biex
 ikun hemm kwalunkwe ħdejn iċ [ ċentru ] {"entity":" area"}
-iva, jekk jogħġbok iktebni għal 8 Iva, you
+iva , jekk jogħġbok iktebni għal 8 [ Iva ] {"entity": "bookpeople"} , you
 tista' tieħu [ l ] {"entity":" booktime"} ħin tat tluq u l prezz tar riżerva tiegħi tal ferrovija tista' wkoll tipprova tniżżel l iskeda tiegħi għall ekwipaġġ .
-għal [ dak ] {"entity":" name"} li għandu x'jaqsam mal koeżjoni soċjali tal belt , jixtieq jaħrab fiċ ċentru tal belt
-iva, jekk jogħġbok issib ħuġa ta' belt
+għal dak li għandu x'jaqsam [ mal koeżjoni soċjali ] {"entity":" name"} tal belt , jixtieq jaħrab fiċ ċentru tal belt
+iva , jekk jogħġbok issib [ ħuġa ] {"entity": "food"} ta' belt
 iva l medda tal prezzijiet [ għalja ] {"entity": "pricerange"} jekk jogħġbok
-l [ Unjoni ] {"entity": "pricerange"} Ewropea għandha bżonn ta' iktar fondi għall perjodu 2007 2013
+l Unjoni Ewropea ] {"entity": "pricerange"} għandha bżonn ta' iktar fondi [ għall perjodu 2007 2013
 żgur li jrid xi ħaġa fin-nofsinhar tal-belt
 x'inhu madwar wieħed li jservi l [ uffiċċju ] {"entity":" food"}
 jekk jogħġbok imla l [ shiraz ] {"entity": "name"}
 nixtieq [ insib ġugarelli partikolari fil pont , ] {"entity":" name"} l isem tal ġugarelli jikkonsisti f'żewġt itnejn li jistgħu jagħtuni l post
 that would be great i need it for 8
 iva fi [ 11 il sena ] {"entity": "booktime"} jekk dak li ma jkunx disponibbli jista' jagħmel 10 snin
-i għandek bżonn informazzjoni dwar ċertu [ Ġugarelli msejjaħ charliesler ] {"entity":" name"}
+i għandek bżonn informazzjoni dwar ċertu Ġugarelli [ msejjaħ charliesler ] {"entity":" name"}
 il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ħamis
-kwalunkwe
-1.
+[ kwalunkwe ] {"entity":" pricerange"}
+1 [ . ] {"entity": "bookpeople"}
 tista' titkellem waqt [ 13 il ġimgħa ] {"entity":" booktime"}
 tfittxija għal żona għalja
 do any of them specialize in [ chinese ] {"entity":" food"}
-lets trytalon
-jien qed infittex ċelebrazzjoni msejħa ] {"entity": "name"} l istejjer [ tal istejjer tal istejjer tal istejjer tal istejjer
-tista' tikteb tabella għalija biss għal 1
-għandek tħares ukoll lejn post fejn tbati l-ispejjeż
+lets [ trytalon ] {"entity":" name"}
+jien qed infittex ċelebrazzjoni msejħa ] {"entity": "name"} l istejjer tal istejjer [ tal istejjer tal istejjer tal istejjer
+tista' tikteb tabella għalija biss għal [ 1 ] {"entity": "bookpeople"}
+għandek tħares ukoll lejn post fejn tbati l [ ispejjeż ] {"entity": "pricerange"}
 l-ebda ħaġa b'mod partikolari ma tirrakkomanda
 l eċċellenza tiegħi tħares ukoll [ lejn xi ] {"entity":" name"} ħaġa , kif ukoll lejn dak li jissejjaħ is silta .
 l-ebda post ma jkun multa
-jekk jogħġbok żgur [ li ] {"entity": "booktime"} rriserva t tabella tiegħi għall ħtija u l ħtija jeħtieġu numru ta' referenza
+jekk jogħġbok żgur li ] {"entity": "booktime"} rriserva t tabella tiegħi għall [ ħtija u l ħtija jeħtieġu numru ta' referenza
 l ebda problema ma tista' jekk jogħġbok tipprova [ tisma' ] {"entity":" booktime"}
-il Ġermanja tixtieq tieħu idea baxxa [ għalija ] {"entity": "pricerange"}
-tista' tgħidli iktar dwar il-ġugarelli jekk jogħġbok
+il-Ġermanja tixtieq tieħu idea baxxa għalija
+tista' tgħidli iktar dwar il [ ġugarelli ] {"entity": "food"} jekk jogħġbok
 nistgħu nagħmlu riżerva [ f'ġieħ irjali ] {"entity":" name"}
-se jkun għal 6
-assigura kif madwar [ 15 il ruħ fuq ] {"entity": "booktime"} il konvoj
-im also looking for an expensive
-i għandna bżonn nippreżentaw tabella għall-istess grupp ta' persuni fiż-żona tal-madwar
+se jkun għal [ 6 ] {"entity": "bookpeople"}
+assigura kif madwar [ 15 il ruħ fuq il ] {"entity": "booktime"} konvoj
+im also looking for an [ expensive ] {"entity": "pricerange"}
+i għandna bżonn [ nippreżentaw ] {"entity": "booktime"} tabella għall istess grupp ta' persuni fiż żona tal madwar
 [ ħames ] {"entity":" bookpeople"} persuni se jkollhom bżonn in numru ta' referenza jekk jogħġbok
 għandek xi rakkomandazzjonijiet tajbin
 no particular i also need a reference number
 jien qed infittex riċetta li sservi l ikel [ għall anzjani ] {"entity": "food"}
-can you give me the info on the cheap people
+can you give me the info on the cheap [ people ] {"entity": "pricerange"}
 i would like to try [ gastropub ] {"entity": "food"} food can you help me find one
 jista' jkollok in-numru ta' referenza
 is [ backstreet bistro ] {"entity": "name"} expensive
-ok tista' tieħu tabella dwar il-poeżija
-[ ifittxu ] {"entity": "pricerange"} għal spiża għolja li jkun hemm biex jissodisfaw dawk il kriterji
-li [ għandek ħafna għandek ] {"entity": "bookpeople"} tniżżilha fil kotba għal 8 u ibda numru ta' referenza
+ok tista' tieħu tabella dwar il [ poeżija ] {"entity": "bookday"}
+ifittxu għal spiża għolja li jkun hemm biex jissodisfaw dawk il-kriterji
+li għandek ħafna għandek tniżżilha fil kotba għal 8 [ u ] {"entity": "bookpeople"} ibda numru ta' referenza
 x'inhu [ 13 il sena ] {"entity":" booktime"}
 nippruvaw insibu iktar dwar ħsibijiet imsejħa" cocum".
 bis saħħa tal fatt li tixtieq tirreġistra tabella għal [ 3 ] {"entity":" bookpeople"}
 nixtieq nippreżenta tabella għal 3 dwar il-Ġurnal Uffiċjali
 im looking for a chinese of cambridge
 l-ebda ħaġa oħra ma tista' tissuġġerixxi waħda kbira.
-jien qed infittex rivoluzzjoni msejħa l ġlieda [ kontra ] {"entity": "name"} l istigma ta' nies hemmhekk fl istess ġurnata hija li l possibilità
-kif imsemmi qabel, għall-istess 6 jekk jogħġbok
+jien qed infittex rivoluzzjoni msejħa l-ġlieda kontra l-istigma ta' nies hemmhekk fl-istess ġurnata hija li l-possibilità
+kif imsemmi qabel , għall istess 6 [ jekk jogħġbok ] {"entity": "bookpeople"}
 jien qed infittex ukoll ġugarelli msejħa yu gardeni għandek bżonn in-numru ta' referenza jekk jogħġbok ikkuntattja lil
 ħarsa lejn xi ħaġa oħra
 it tfittxija għal preċedent imsejjaħ il [ preċedent tal varjabbiltà ] {"entity":" name"}
@@ -458,20 +458,20 @@ i jippreferi n [ Nofsinhar ] {"entity": "area"} jekk ikun hemm xi ħaġa disponi
 jekk jogħġbok [ ikkuntattja l istejjer ] {"entity": "name"} kollha .
 jien qed infittex ukoll ħaġa għalja
 jien qed infittex il [ paċi ] {"entity":" area"}
-iva nistgħu nippreżentaw wieħed minn dawk ir-ristoranti għal wieħed
-jiġifieri l ferrovija tiegħi kellha tkun [ għat tubi ] {"entity": "bookday"} u kif ukoll għar riżerva tiegħi għall għawm
+iva nistgħu nippreżentaw wieħed minn dawk ir ristoranti għal [ wieħed ] {"entity": "bookpeople"}
+jiġifieri l ferrovija tiegħi kellha tkun għat [ tubi ] {"entity": "bookday"} u kif ukoll għar riżerva tiegħi għall għawm
 imbagħad il-persuna tixtieq tirriżerva spiża wkoll
-mhux f'dan iż żmien [ iżda ] {"entity": "food"} jien qed infittex ukoll firxa wiesgħa ta' prezzijiet tista' tgħin ma' dak
+mhux f'dan iż-żmien iżda jien qed infittex ukoll firxa wiesgħa ta' prezzijiet tista' tgħin ma' dak
 fiċ [ ċentru ] {"entity": "area"} tal belt jekk jogħġbok
-iva jekk [ jogħġbok ] {"entity": "booktime"} se nkun sempliċiment għalija u nixtieq niċċelebra waqt il ferrovija tiegħi .
+iva jekk jogħġbok se nkun sempliċiment għalija u nixtieq niċċelebra waqt il-ferrovija tiegħi.
 jien qed infittex post għal kulħadd fiċ [ ċentru ] {"entity": "area"} tal belt
-ikel [ għall annimali ] {"entity": "food"} jekk jogħġbok
+[ ikel għall annimali ] {"entity": "food"} jekk jogħġbok
 [ l ebda preferenza ] {"entity":" pricerange"} m'għandek toqgħod attent li wieħed jaħseb li huwa l aħjar
-assigurazzjoni għall-istess grupp ta' nies
+assigurazzjoni għall istess grupp ta' [ nies ] {"entity":" bookpeople"}
 għandek xi rakkomandazzjonijiet
 żgur li jkun irħis jekk possibbli
-jekk jogħġbok imla
-iva jekk jogħġbok għal 6
+[ jekk ] {"entity": "food"} jogħġbok imla
+iva jekk jogħġbok għal [ 6 ] {"entity": "bookpeople"}
 iva għandek bżonn issib żraben għalja jekk jogħġbok
 iż-żona ma għandhiex għalfejn tkun disponibbli għal 8 lejl
 ikun [ 9 miljun ] {"entity": "booktime"} ħin disponibbli
@@ -483,37 +483,37 @@ għandek bżonn in-numru ta' referenza
 jien qed ] {"entity":" name"} infittex post imsejjaħ [ biċċerija darrys u ħanut tal inbid
 jien qed infittex ukoll għal ikel moderat
 l istudenti jippruvaw jippreżentaw l istudenti tagħhom fil [ Punent ] {"entity":" area"}
-għandhom bżonn ir riżerva għal friday x'inhu [ l isem ] {"entity": "bookday"} tal ġugarelli fil Punent
+għandhom bżonn ir riżerva għal [ friday x'inhu ] {"entity": "bookday"} l isem tal ġugarelli fil Punent
 se jkun hemm [ 7 ] {"entity": "bookpeople"} minnhom li tista' jekk jogħġbok agħti n numru ta' referenza wkoll
 għandek bżonn ukoll [ issib ] {"entity":" pricerange"} post biex tisma' waqt li jkun hemm xi ħaġa għalja
 id bħal għaqda ta' bliet
 tajjeb jekk jogħġbok ikteb tabella għal 2
-[ jekk jogħġbok ipprova ] {"entity": "booktime"}
-it-tfittxija għal għaġina
+[ jekk jogħġbok ] {"entity": "booktime"} ipprova
+it tfittxija għal [ għaġina ] {"entity": "food"}
 kif wieħed jaqdi l-ikel ħażin imbagħad
-il-kwistjoni prinċipali
-iva [ 13 Iva jekk jogħġbok ] {"entity":" booktime"}
+il kwistjoni [ prinċipali ] {"entity":" pricerange"}
+iva 13 [ Iva jekk jogħġbok ] {"entity":" booktime"}
 i dont understand did you book the reservation or not
-tista' tipprova fi [ 13 il lingwa jekk jogħġbok ] {"entity": "booktime"}
+tista' tipprova fi 13 il [ lingwa jekk jogħġbok ] {"entity": "booktime"}
 jien qed infittex ukoll medda ta' ċelebrazzjonijiet
 għandek bżonn issib informazzjoni dwar xi ħaġa partikolari tista' tgħin biex
-il [ Ġermanja hija magħrufa bħala l ] {"entity":" name"} Ġermanja , il Belġju , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il
-tista' tikteb tabella għal 7
-i amlooking for an expensive
-it tfittxija għal ikla li sservi l ikel [ chinese ] {"entity": "food"}
+il Ġermanja hija magħrufa bħala l Ġermanja ] {"entity":" name"} , il [ Belġju , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il Polonja , il
+tista' tikteb tabella għal [ 7 ] {"entity": "bookpeople"}
+i amlooking for an [ expensive ] {"entity": "pricerange"}
+it tfittxija għal ikla li sservi l [ ikel chinese ] {"entity": "food"}
 le fuq in-numru tat-telefown issa għandu bżonn jgħin biex jinstab irħis tal-belt
-[ ma għandhiex preferenza ] {"entity":" food"} fuq it tip ta' ikel
+ma għandhiex [ preferenza ] {"entity":" food"} fuq it tip ta' ikel
 għandek bżonn ukoll post għall-ikel fiċ-ċentru.
 i would like the [ cheap ] {"entity": "pricerange"} price range
 iva, jekk jogħġbok iktebni tabella għal 8
 can you try [ a half hour earlier or later ] {"entity": "booktime"} and see if they have anything available
-iva jekk jogħġbok issib żraben [ irħas ] {"entity": "pricerange"} oħra għal dak l ammontta' nies f'dak il ħin
+iva jekk jogħġbok issib [ żraben irħas ] {"entity": "pricerange"} oħra għal dak l ammontta' nies f'dak il ħin
 i amreally needing to find a cheap would you mind double checking
 assigura għal 8 jekk jogħġbok
-iltqajna ma' xi [ ħadd ] {"entity": "booktime"} ieħor u l ħin biss nistgħu niltaqgħu ma' xi ħadd ieħor .
+iltqajna ma' xi ħadd ieħor u l-ħin biss nistgħu niltaqgħu ma' xi ħadd ieħor.
 jien qed infittex ukoll post fejn il-ġugarelli għandhom iservu l-firxa tal-prezzijiet tal-ġugarelli
 jeħtieġ ukoll li nippreżentaw il-kotba tal-qarrej
-nixtieq ngħid fuq it-tuesday
+nixtieq ngħid fuq it [ tuesday ] {"entity": "bookday"}
 ma għandekx ] {"entity": "area"} , sakemm il laħam ikun fiż żona [ taċ ċentru li tkun perfetta .
 il Ġermanja tħares lejn ir riżervi tal kotba [ fis salarji ] {"entity":" name"}
 iva għandek bżonn post għall-ħsejjes li jiswew ħafna flus
@@ -527,42 +527,42 @@ hi tista' tgħinni nsib ċelebrazzjoni għolja ħafna ta' l-għaqda
 għandek problemi biex issib post biex tisma' lil xi ħadd imsejjaħ..........
 [ iva ] {"entity":" name"} X'għandek biex titlob għall elenkar għal tifel imsejjaħ in nota
 permezz tar-riċerka, l-iżvilupp u l-iżvilupp
-i tippreferi l medda [ moderata ] {"entity": "pricerange"} tal prezzijiet
+i tippreferi l [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
 dak il-proġett jista' jikseb riżerva għal 8
-għandek tasal sat [ 13 ta' ] {"entity": "booktime"} Settembru f'nofsinhar
+għandek tasal sat [ 13 ta' Settembru ] {"entity": "booktime"} f'nofsinhar
 iva għal post fejn nippreferu l-ikel fiċ-ċentru tal-belt
 ok hemm żona għall-ivvjaġġar
 x'inhu [ l kodiċi postali ] {"entity":" name"} għall ispejjeż għall ispejjeż għall ispejjeż għall ispejjeż tal ispejjeż
 kwalunkwe ikel
 i would like something that is on the [ cheap ] {"entity":" pricerange"} er side
-iva bħala tabella għal 8
+iva bħala tabella għal [ 8 ] {"entity": "bookpeople"}
 iva għandek bżonn ta' taxi bejn iċ-ċinema u l-konverżazzjoni ta' dak li tirrakkomanda
 l ewwel waħda fiċ [ ċentru ] {"entity": "area"} tagħmel iktar sens mill qrib tagħha lejn il Ġenerazzjoni
 iva li ] {"entity":" booktime"} jkollha bżonn tgħaddiha lill Knisja mill [ 11 ta' Settembru
 jien qed infittex ukoll post [ għali ] {"entity": "pricerange"} għal kulħadd madwar id dinja kollha li tista' toffri rakkomandazzjoni
 jippreferi li jkollok bżonn in-numru tat-telefon u l-kodiċi postali jekk jogħġbok
-jixtieq ukoll isib post għall-prezzijiet taċ-chinese
+jixtieq ukoll isib post għall [ prezzijiet taċ ] {"entity": "food"} chinese
 sure tista' tieħu [ ż żona ta' l indirizz u ] {"entity":" name"} l kodiċi postali għall konverżazzjoni tal familja ta' l ispettaklu
-jien nista' wkoll insib riċetta moderata
-għalhekk il Parlament Ewropew adotta riżoluzzjoni [ dwar ] {"entity": "food"} il futur ta' l Ewropa .
+jien nista' wkoll insib riċetta [ moderata ] {"entity":" pricerange"}
+għalhekk il Parlament Ewropew adotta riżoluzzjoni [ dwar il ] {"entity": "food"} futur ta' l Ewropa .
 l-għaġina tista' tagħżel waħda għalija u tikteb tabella għal 8
-jien qed infittex ċelebrazzjoni ta' l għaġin [ li tista' ] {"entity": "food"} tgħini .
-aħseb ħażin dwar dan jixtieq li jkun hemm [ żieda moderata ] {"entity":" pricerange"} fil prezz li jkun jaf li
+jien qed infittex ċelebrazzjoni ta' l-għaġin li tista' tgħini.
+aħseb ħażin dwar dan jixtieq li jkun hemm żieda [ moderata ] {"entity":" pricerange"} fil prezz li jkun jaf li
 [ kif ] {"entity": "name"} għandek tuża dan il fuljett ?
-iva jekk jogħġbok għal 7 u jista [ jkollok in ] {"entity": "bookpeople"} numru ta referenza
-l-im starving jista' jsibni miegħi f'Ġerusalemm fin-Nofsinhar
-liema minnhom jirrakkomanda sakemm il-marda għolja tiegħu teħtieġ riżerva għal 4
+iva jekk jogħġbok għal 7 u jista" jkollok in-numru ta" referenza
+l im starving jista' jsibni miegħi f'Ġerusalemm fin [ Nofsinhar ] {"entity": "area"}
+liema [ minnhom ] {"entity": "bookpeople"} jirrakkomanda sakemm il marda għolja tiegħu teħtieġ riżerva għal 4
 iva tista' jekk jogħġbok tirrakkomanda xi postijiet biex immorru wara li ħadna l-mewt li huma qrib il-mewt ukoll.
-per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju, per eżempju.
+per eżempju , per eżempju , per [ ] {"entity": "pricerange"} eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju , per eżempju .
 ma hemm l-ebda ristoranti gastronomija molekulari fin-naħa tal-punent jew fil-belt kollha
-kif għandek tirċievi [ l mediċina ] {"entity": "food"}
-X'għandek tirrakkomanda xogħlijiet li għandek bżonn tikteb għal 2
+kif għandek tirċievi [ l ] {"entity": "food"} mediċina
+X'għandek tirrakkomanda xogħlijiet li għandek bżonn tikteb għal [ 2 ] {"entity": "bookpeople"}
 permezz tagħhom nistgħu naslu għal taxi minn twelid ta' ħin.
-hi tfittex post fejn tixtri xi ikel ġdid
+hi tfittex post fejn tixtri xi [ ikel ] {"entity": "food"} ġdid
 i would like it to be [ expensive ] {"entity":" pricerange"}
-jixtieq post [ fin Nofsinhar ] {"entity":" area"} jekk jogħġbok
+jixtieq post fin [ Nofsinhar ] {"entity":" area"} jekk jogħġbok
 i amlooking for a cheap of the facilities
-iva jekk jogħġbok għal 8
+iva jekk jogħġbok għal [ 8 ] {"entity": "bookpeople"}
 tista' tipprova tniżżel fil kotba [ tiegħek ] {"entity":" booktime"}
 għandna bżonn ukoll nippreżentaw taxi bejn il-Knisja u l-Knisja
 it tfittxija għal [ kittieb kif ukoll għal kittieb ] {"entity": "food"} kif ukoll għal xi ħaġa oħra ħdejn il lukanda
@@ -570,29 +570,29 @@ ikollhom bżonn li jkunu [ fin Nofsinhar ] {"entity":" area"}
 [ il logħob tal azzard ] {"entity": "name"} ikun biss multa li jkollok bżonn il kodiċi postali jekk jogħġbok
 jeħtieġ ukoll post għall ikel li jservi [ għall ] {"entity": "food"} ikel ġdid u għandu jkun fl istess medda ta' prezzijiet bħall kuntratt
 iż żona [ ma tikkonċernax ] {"entity":" area"}
-iva nixtieq nippreżenta tabella għal 3
+iva nixtieq nippreżenta tabella għal [ 3 ] {"entity": "bookpeople"}
 nixtieq [ inniżżel ] {"entity":" booktime"} l istazzjon tal Ġimgħa għall Ġimgħa li jasal fil Ġimgħa
 [ i ] {"entity": "food"} għandek bżonn post għall ikel li jservi l ikel chinese
 firxa [ moderata ] {"entity": "pricerange"} tal prezzijiet
 ikun hemm xi post [ fiċ ċentru ] {"entity":" area"}
-can i book a table for 3
+can i book a table for [ 3 ] {"entity": "bookpeople"}
 għandek toqgħod attent għal ċerta ħażna jekk jogħġbok
-liema tip ta" spiża tal-belt
-jixtieq ikel ġdid
+liema tip ta spiża [ tal ] {"entity": "pricerange"} belt
+jixtieq [ ikel ] {"entity": "food"} ġdid
 jien qed infittex riċetta fiċ-ċentru tal-ikel
-jekk jogħġbok
-iva jekk jogħġbok għal 5
-il-Ġimgħa l-oħra tista' tgħinni nsib il-prezz tal-Ġimgħa hekk kif il-Ġimgħa
+[ jekk ] {"entity": "pricerange"} jogħġbok
+iva jekk jogħġbok għal [ 5 ] {"entity": "bookpeople"}
+il [ Ġimgħa ] {"entity": "pricerange"} l oħra tista' tgħinni nsib il prezz tal Ġimgħa hekk kif il Ġimgħa
 tista' tirrakkomanda żieda f'daqqa fl-istess qasam
-il-Ġurnal Iva, għalija tabella għal 2
+il Ġurnal Iva , għalija tabella għal [ 2 ] {"entity": "bookpeople"}
 għandek tħares lejn xi ħaġa li sservi lil chinese bħala l-kuntentizza
-iva l-istess grupp ta' nies jekk jogħġbok
+iva l istess grupp ta' [ nies ] {"entity":" bookpeople"} jekk jogħġbok
 jien qed infittex ukoll post fejn nistaqsi
-i want a chinese
+i want a [ chinese ] {"entity": "food"}
 għidli l kodiċi postali għall biċċa l [ kbira tal irħis ] {"entity": "pricerange"}
-jien qed infittex għal għaxar snin ta' qtugħ
+jien qed infittex għal għaxar [ snin ] {"entity": "food"} ta' qtugħ
 is that an [ expensive ] {"entity": "pricerange"} restaraunt i really need someplace expensive it is a special occasion for me
-agħmel ir-riżerva tiegħek għal 3 fruntieri
+agħmel ir riżerva tiegħek għal 3 [ fruntieri ] {"entity": "bookpeople"}
 jeħtieġ ukoll taxi li jasal fil-ħin għar-riżervazzjoni fil-Knisja
 il ġimgħa l [ oħra sebgħa ħaddiema ] {"entity":" name"} jistgħu jgħinuni
 dak huwa li wieħed jista' jagħmel riżerva għal 6 ikun tajjeb
@@ -602,190 +602,190 @@ għandek tgħinni nsir naf x'inhu għaddej?
 i għandhom bżonn xi ħaġa fl-istess medda ta" prezzijiet bħall-kuntratt
 jista' jniżżel taxi mill-KXK sal-KXK jekk jogħġbok
 għandek informazzjoni dwar ir-ristoranti kollha li jħarsu lejn ċertu wieħed
-i trid tikteb tabella għal 4 jekk jogħġbok ipprovdili bin-numru ta' referenza
-nixtieq insib xi ħaġa
+i trid tikteb tabella għal 4 jekk jogħġbok [ ipprovdili bin ] {"entity": "bookpeople"} numru ta' referenza
+nixtieq insib xi [ ħaġa ] {"entity": "food"}
 no im just getting some information together is it [ expensive ] {"entity":" pricerange"}
 jekk jogħġbok imla l-lodge għall-ivvjaġġar bl-ivvjaġġar
 fil fatt nixtieq inbiddel ir riżerva għax [ xemx ] {"entity":" bookday"} .
-i għandek bżonn l-taxi biex tiċċelebraha bil-mod il-mod
+[ i ] {"entity": "type"} għandek bżonn l taxi biex tiċċelebraha bil mod il mod
 tista' tgħidli jekk ikun hemm xi naħa waħda
 dan ifisser li madwar [ chinese ] {"entity": "food"} fl istess żona
 i amnot bothered about the price why dont you select one and provide me with their telephone number and price range
 il Ġimgħa għandha sservi l ikel [ chinese ] {"entity": "food"} u għandha tkun fl istess medda ta' prezzijiet bħall Ġimgħa
 [ kwalunkwe ] {"entity":" area"} żona għandha tkun imħallsa sakemm il chineses tagħha fil medda tal prezzijiet għolja probabbli tista' tirrakkomanda waħda
-jekk jogħġbok ikteb dan għall-istess ammontta' nies jekk jogħġbok
-il ħin kien ta' [ 13 il siegħa sabiex wieħed ikun ] {"entity":" booktime"} jista' jiġborha issa .
-għandek bżonn issib u tqum ħafna flus
+jekk jogħġbok ikteb dan għall istess ammontta' [ nies ] {"entity":" bookpeople"} jekk jogħġbok
+il ħin kien ta' 13 il siegħa [ sabiex wieħed ikun ] {"entity":" booktime"} jista' jiġborha issa .
+għandek bżonn issib u [ tqum ħafna flus ] {"entity": "pricerange"}
 it-tfittxija ta' post għall-ikel fiċ-ċentru
 dan [ huwa l ] {"entity": "food"} aħjar mod ta' kif jista' jintuża l ikel għall konsumaturi
-[ ma għandhiex preferenza ] {"entity":" pricerange"} fil medda tal prezzijiet
-dik il persuna tista' tikteb tabella għalija [ għat tubi . ] {"entity":" bookday"}
-i għandhom bżonn ir-riżerva għal 2 għal tuesday
-it tfittxija għal żieda [ qawwija ] {"entity": "pricerange"} fil piż
-jixtieq li jkun fejn l azzjoni kollha tkun [ fiċ ċentru ] {"entity": "area"} tal belt
+ma għandhiex [ preferenza ] {"entity":" pricerange"} fil medda tal prezzijiet
+dik il persuna tista' tikteb tabella għalija għat [ tubi ] {"entity":" bookday"} .
+i għandhom bżonn ir riżerva għal 2 [ għal ] {"entity": "bookpeople"} tuesday
+it-tfittxija għal żieda qawwija fil-piż
+jixtieq li jkun fejn l azzjoni kollha tkun fiċ [ ċentru ] {"entity": "area"} tal belt
 jien qed infittex post [ għali ] {"entity": "pricerange"} għal kulħadd
 jeżistu ħafna bliet
 tista' terġa' tiċċekkja għal spiża waħda
-iva għandek bżonnha nies imħarrġa
+iva għandek bżonnha [ nies ] {"entity": "bookday"} imħarrġa
 iva għandek bżonn ukoll taxi li jasal għand il-qarrej sal-ħin tal-kotba jekk jogħġbok
 iridu ż-żona tal-indirizz chinese u l-kodiċi postali jekk jogħġbok
-grazzi għall-għajnuna tiegħek mal-ikel roża
+grazzi għall għajnuna tiegħek mal ikel [ roża ] {"entity":" type"}
 jien ħerqan li nsib żraben fl-istess medda ta' prezzijiet bħall-prezz tal-ġugarelli
-jixtieq li l [ Punent ] {"entity": "area"} jekk jogħġbok
+jixtieq li l [ Punent jekk ] {"entity": "area"} jogħġbok
 Fil fatt ] {"entity":" area"} , il ħtieġa li jkun hemm għarfien [ fiċ ċentru
-i would like chinese
-im looking for a jamaican
+i would like [ chinese ] {"entity":" food"}
+im looking for a [ jamaican ] {"entity": "food"}
 it-tfittxija għal post li jservi l-ikel tal-ġojjelli fil-Lvant ser tagħmel
 ok jixtieq jagħmel riżerva hemmhekk
-i għandhom bżonn tabella għal 7
+i għandhom bżonn tabella għal [ 7 ] {"entity": "bookpeople"}
 im also looking for a cheap of town
 permezz tiegħi se jkollok bżonn ukoll" taxi" mill-partitarju għall-partitarju se jkollok timmaniġġja dan
-għandek tħares lejn ikel għali fil pont [ jekk jogħġbok ] {"entity": "pricerange"}
+għandek tħares lejn ikel għali fil-pont jekk jogħġbok
 kif għandek tieħu [ chinese ] {"entity": "food"} ?
 
-i għandhom bżonn ta' żieda qawwija fil-prezzijiet għandhom ikunu fil-medda l-baxxa
-iva għal 5
+i [ għandhom ] {"entity": "area"} bżonn ta' żieda qawwija fil prezzijiet għandhom ikunu fil medda l baxxa
+iva għal [ 5 ] {"entity": "bookpeople"}
 jixtieq ukoll isib ħaġa
 jixtieq li jkun hemm żieda qawwija fil-prezz taċ-ċentru
 kif taħdem l ikel [ spana ] {"entity": "food"}
-i għandek bżonn tabella għal 3
+i għandek bżonn tabella għal [ 3 ] {"entity": "bookpeople"}
 permezz [ tar riżoluzzjoni ] {"entity":" area"} tiegħi , qed infittxu wkoll li jsibu Ġerusalemm fit Tramuntana
 i amopen to [ suggestions ] {"entity": "pricerange"} i just would prefer it to be in the moderate range
-jaħsbu li
-it-tnejn permezz ta' ħarsa lejn spiża għolja
-[ l ikel għall ] {"entity": "food"} konsumaturi se jkun irfinat
-iva jekk jogħġbok ikteb li 4
+jaħsbu [ li ] {"entity": "name"}
+it tnejn permezz ta' ħarsa lejn spiża [ għolja ] {"entity": "pricerange"}
+[ l ikel ] {"entity": "food"} għall konsumaturi se jkun irfinat
+iva jekk jogħġbok ikteb li [ 4 ] {"entity":" bookpeople"}
 jien qed infittex rivoluzzjoni msejħa [ wok ] {"entity":" name"}
-effettivament naf eżattament fejn tkun u tapprezza li tisma' tabella għal 2
+effettivament [ naf ] {"entity": "bookpeople"} eżattament fejn tkun u tapprezza li tisma' tabella għal 2
 jekk jogħġbok, għandek tfittex għal għarfien ta' kwalità għolja fil-pont tal-ikel.
 [ l ] {"entity":" area"} ebda ħaġa ma trid tkun għalja u tinsab fil punent
-iva jekk jogħġbok hemm 5
+iva jekk jogħġbok hemm [ 5 ] {"entity": "bookpeople"}
 ir-rebbieħ jirċievi l-Premju Sakharov għal-Libertà tal-Ħsieb.
 jien ħaddieħor, jekk jogħġbok
-i se jkollok bżonnha għall-ġugarelli jekk jogħġbok
-nixtieq ukoll li jkun hemm ħolma baxxa
+i se jkollok bżonnha għall ġugarelli [ jekk jogħġbok ] {"entity":" bookday"}
+nixtieq ukoll li jkun hemm [ ħolma ] {"entity": "pricerange"} baxxa
 jixtieq li jkun fiċ [ ċentru ] {"entity": "area"} jekk jogħġbok
-il-Ġermanja Iva
+il Ġermanja [ Iva ] {"entity":" bookday"}
 irridu nippreżentaw riżerva ] {"entity": "name"} fil kamra ta' [ darrys u fil ħanut tal inbid f'cambridge
-għal 8 u i għandek bżonn numru ta' [ konċentrazzjoni ] {"entity": "bookpeople"} jekk jogħġbok imla
+għal 8 u i għandek bżonn numru ta' konċentrazzjoni jekk jogħġbok imla
 il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ġimgħa
 ikel [ internazzjonali ] {"entity": "food"}
 tista' tikteb tabella għalija
 issa mhux tajjeb li tixtieq ukoll tfittex post għal kulħadd i tixtieq tbati l-belt
 għandek xi ħaġa li sservi ikel [ modern ] {"entity": "food"} għal kulħadd
-għandek bżonn ta' iktar informazzjoni dwar il-passiġġieri
+għandek bżonn ta' iktar informazzjoni dwar il [ passiġġieri ] {"entity": "booktime"}
 il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ġimgħa
-nixtieq ċertu ikel [ ħażin ] {"entity": "food"}
-jixtieq xi ħaġa fil-prezz baxx
+nixtieq ċertu [ ikel ] {"entity": "food"} ħażin
+jixtieq xi ħaġa fil [ prezz ] {"entity": "area"} baxx
 kemm il-ħin tal-ivvjaġġar huwa involut f'din il-ferrovija għandu bżonn ukoll ta' firxa ta' vvjaġġar
 għalkemm għandek bżonn tirreġistra ferrovija, għadha tista' biss tgħinni nsir naf x'għandek tgħallimt.
 tista' tieħu tabella għal wieħed jekk jogħġbok għoġoġoġiha iżda għandna biss ħbieb biex nivvjaġġaw ma'
 6 . Minnufih wara [ r regolament 8 ] {"entity":" booktime"} tar regolamenti prinċipali għandu jiżdied ir regolament ġdid li ġej:
-għandek tkun imħassba ħafna.
+[ għandek ] {"entity": "bookday"} tkun imħassba ħafna .
 hi qed tfittex suċċess kbir fil-pont
 jixtieq xi ikel [ chinese ] {"entity": "food"} jekk jogħġbok
 i want something [ expensive ] {"entity":" pricerange"}
 fiċ [ ċentru ] {"entity": "area"} tal belt jekk possibbli
-taħseb li tista' ssibni post ta' l-ikel b'saħħtu ħafna i trid xi ħaġa verament b'saħħitha għal xi ħaġa ta' l-anniversarju.
+taħseb li tista' ssibni post ta' l [ ikel ] {"entity": "food"} b'saħħtu ħafna i trid xi ħaġa verament b'saħħitha għal xi ħaġa ta' l anniversarju .
 minn 5 kemm [ jiswew ħafna flus ] {"entity": "pricerange"} jixtieq li jkun hemm post għali għal kulħadd ħafna
 hi tista' tgħinni nsib ġugarelli
 ħarsa b'mod partikolari lejn il [ Ġenerazzjoni tal Moviment ] {"entity":" name"}
 iva jekk jogħġbok irriserva tabella għal [ thursday ] {"entity":" bookday"}
-se jkun hemm 4
+se jkun hemm [ 4 ] {"entity": "bookpeople"}
 l-ippjanar ta' vjaġġ lejn il-pont u t-tiftix għal post għall-ivvjaġġar
-ħarsa lejn it-tiġrifa
-għandek bżonn tabella għal 4 jekk jogħġbok
+ħarsa lejn it [ tiġrifa ] {"entity": "food"}
+għandek bżonn tabella għal 4 [ jekk jogħġbok ] {"entity": "bookpeople"}
 ħarsa lejn xi ħaġa oħra
 jien qed inħares lejn il [ ġnien ] {"entity":" name"}
 effettivament, nista' nuża xi ftit għajnuna biex insib parti għolja mill-belt
 jixtieq li jkun [ għaqli ] {"entity":" food"} jekk jogħġbok
-il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa.
+il Ġimgħa l [ oħra ] {"entity": "food"} l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa .
 għandek bżonn xi ħaġa [ baxxa ] {"entity": "pricerange"} jekk jogħġbok
-nixtieq li tikteb ] {"entity": "bookpeople"} tabella għal 6 i għandek bżonn [ in numru ta' referenza
+nixtieq li tikteb tabella għal 6 i għandek bżonn in-numru ta' referenza
 tista' tgħini noqgħod għall-vjaġġ
-nixtieq li jkun hemm xi ikel ġdid
+nixtieq li jkun hemm xi [ ikel ] {"entity": "food"} ġdid
 iva bħala naħa moderata
-jekk jogħġbok agħmel ir-riżervi għal 7
+jekk jogħġbok agħmel ir riżervi għal [ 7 ] {"entity": "bookpeople"}
 i għandhom bżonn post [ għall għawm ] {"entity": "food"} fiċ ċentru tal belt għas servizz tal ikel tal eritrean
 assigura kif hemm bżonn ta' ġugarelli
-i għandek bżonn tabella għal 6
-il-ħsieb li tinstab soluzzjoni għolja
+i għandek bżonn tabella għal [ 6 ] {"entity": "bookpeople"}
+il ħsieb li tinstab [ soluzzjoni ] {"entity": "pricerange"} għolja
 jiġifieri wieħed fiċ [ ċentru ] {"entity": "area"}
-iva tixtieq tipprova l-ġirja tal-ġirja tal-ġirja
+iva tixtieq tipprova l ġirja tal ġirja tal [ ġirja ] {"entity":" name"}
 hi tista' ] {"entity": "food"} tgħinni nsib [ għalliem ta' għalliem ta' għalliem ta' għalliem waqt iż żjara tiegħi li jmiss
 tista' jekk jogħġbok tħares lejn ikla tal-ikel ħafifa
-jekk jogħġbok ippreżenta r riżervi [ tiegħek ] {"entity": "food"} .
-iva li kulħadd jaf [ li trid ] {"entity": "bookpeople"} tikteb tabella għal 4 persuni foqra jeħtieġ ukoll numru ta' referenza
-għandek [ bżonn ] {"entity": "pricerange"} post biex tkun taf x'inhu disponibbli sa fejn l ikel irħis
+jekk jogħġbok ippreżenta r-riżervi tiegħek.
+iva li kulħadd jaf li trid tikteb tabella għal 4 persuni foqra jeħtieġ ukoll numru ta' referenza
+[ għandek bżonn ] {"entity": "pricerange"} post biex tkun taf x'inhu disponibbli sa fejn l ikel irħis
 titjib moderat
 iva i tixtieq [ ikel ] {"entity": "food"} għall ġugarelli
-iva jekk jogħġbok għal 6
+iva jekk jogħġbok għal [ 6 ] {"entity": "bookpeople"}
 għandna bżonn ta' ċerta għajnuna magħha.
-it tfittxija ] {"entity":" name"} għal [ ċentru tal belt ta' P . E .
+it tfittxija ] {"entity":" name"} għal ċentru [ tal belt ta' P . E .
 jista' jkollhom xi informazzjoni dwar xi ħaġa fil-belt
-jixtieq li jkun hemm ikel ġdid
+jixtieq li jkun hemm [ ikel ] {"entity": "food"} ġdid
 irħas u għandu bżonn in-numru ta" referenza
 i would want something in the [ centre ] {"entity": "area"} of town
 iva tista' tħares lejn parti tal-belt ta' chinese jekk jogħġbok
-il [ ġimgħa ] {"entity": "bookpeople"} l oħra l Ġimgħa l Ġimgħa l Ġimgħa t Tlieta
+il ġimgħa l oħra l Ġimgħa l Ġimgħa l [ Ġimgħa ] {"entity": "bookpeople"} t Tlieta
 bis-saħħa tal-għajnuna tiegħi, il-ferrovija u l-għawm kollha għandhom bżonn għal proċess tajjeb issa.
 għandek kwalunkwe informazzjoni dwarha
-iva , ] {"entity":" name"} għall istess ġurnata , nixtieq nirringrazzja [ lill vjaġġaturi .
-tista' tikteb għalija għal wieħed
+iva , ] {"entity":" name"} għall istess ġurnata , nixtieq nirringrazzja lill [ vjaġġaturi .
+tista' tikteb għalija għal [ wieħed ] {"entity":" bookpeople"}
 jien qed infittex post għall-ikel li jservi għal kulħadd
-l [ ispejjeż ] {"entity": "pricerange"} ikunu kbar
-li għandek ħafna riżerva għalija għal 6
+l-ispejjeż ikunu kbar
+li għandek ħafna riżerva għalija għal [ 6 ] {"entity": "bookpeople"}
 i already told you how many people are you paying attention
 il-ġugarelli jew xi ħaġa oħra li għandek tniżżel għalija
 għalkemm għadu mhuwiex ikkonfermat, għadu mhuwiex ikkonfermat.
-nixtieq li jkun hemm post biex nirringrazzja fin-Nofsinhar
-it tfittxija għall ikel [ tradizzjonali sservi għall ] {"entity": "food"} ikel li jinsab fil viċinanzi
+nixtieq li jkun hemm post biex nirringrazzja fin [ Nofsinhar ] {"entity": "area"}
+it tfittxija għall ikel [ tradizzjonali ] {"entity": "food"} sservi għall ikel li jinsab fil viċinanzi
 kif tista' tiċċekkja fuq dak għalija
-iva jekk jogħġbok jeħtieġ riżerva għal 6
+iva jekk jogħġbok jeħtieġ riżerva għal [ 6 ] {"entity": "bookpeople"}
 it-tfittxija għal firxa ta' prezzijiet ta' chinese
-jien qed infittex ukoll preċedent fil-medda tal-prezz taċ-ċentru jekk jogħġbok
-mhux tabilħaqq xi ħaġa taċita għalina u ħu nota jekk jogħġbok 11 Ħu l-istess grupp
+jien qed infittex ukoll preċedent fil medda tal [ prezz taċ ] {"entity": "area"} ċentru jekk jogħġbok
+mhux tabilħaqq [ xi ] {"entity": "booktime"} ħaġa taċita għalina u ħu nota jekk jogħġbok 11 Ħu l istess grupp
 id bħal xi info fuq ċappetta [ fiċ ċentru ] {"entity":" area"}
 dak li għandek huwa [ għali ] {"entity":" pricerange"}
 tista' tissuġġerixxi xi ħaġa
 ibda dan għal 6
 jien qed nipprova nippjana l-vjaġġ tiegħi u kapaċinuża xi għajnuna b'kumdità partikolari
 l hekk imsejjaħ każinò [ ta' l ivvjaġġar għall ivvjaġġar ] {"entity":" name"}
-iva jixtieq riżervi għal 2
-aħna qed infittxu post li [ preferibbilment ] {"entity": "pricerange"} jiswa ħafna flus hekk kif l attrazzjoni qed tissuġġerixxi li għandek bżonn indirizz u kodiċi postali jekk jogħġbok
+iva jixtieq riżervi għal [ 2 ] {"entity": "bookpeople"}
+aħna qed infittxu post li preferibbilment jiswa ħafna flus [ hekk ] {"entity": "pricerange"} kif l attrazzjoni qed tissuġġerixxi li għandek bżonn indirizz u kodiċi postali jekk jogħġbok
 nixtieq li jkun hemm post għall-ikel fiċ-ċentru
 iva tista' jekk jogħġbok tagħmel dan għalija
 il-persuna konxja jekk jogħġbok
 jekk jogħġbok issib post biex nirringrazzja lill-oħrajn li jservu l-firxa tal-prezzijiet ta' kuljum
 jien fil-fatt irrid li l-belt tkun għalja ħafna.
-hemm kwalunkwe spiża
-tista' tikteb tabella għal 5
+hemm kwalunkwe [ spiża ] {"entity": "pricerange"}
+tista' tikteb tabella għal [ 5 ] {"entity": "bookpeople"}
 [ x'inhu ] {"entity": "food"} l kodiċi postali għal dak li qed infittex ukoll għall ġugarelli li jinsabu ħdejn il lejl .
 jekk jogħġbok , jekk jogħġbok , ikkuntattja lil [ xi ħadd ] {"entity": "food"} li jkun qed ifittex xi ħaġa jekk tista'
 jekk jogħġbok, għandek tgħinni nsib ħuġa
-jekk jogħġbok imla
+jekk [ jogħġbok ] {"entity":" pricerange"} imla
 żgur [ li tista' ] {"entity": "food"} ssib xi ħaġa oħra li sservi l ikel għall konsumaturi
 [ kwalunkwe ] {"entity":" area"} żona tal belt tkun multa
 għandek bżonn issib ħaġa fiċ [ ċentru ] {"entity":" area"}
-jixtieq li l-medda tal-prezzijiet titnaqqas f'daqqa
+jixtieq li l medda tal prezzijiet [ titnaqqas ] {"entity": "food"} f'daqqa
 iva għandek bżonn tabella għal 6
 jixtieq ukoll li jkun miżżewweġ fiż-żona tal-bliet
 hemm kwalunkwe [ fwar ] {"entity": "food"} fiċ ċentru
 tista' ssib xi ħaġa ma' [ l ikel tat ] {"entity": "food"} trabi minflok
 dak jgħodd ħafna għall ] {"entity":" name"} firxa tal prezzijiet għall frott [ tal qamħirrun tal qamħirrun
-għalija fuq il-kliewi
+għalija fuq il [ kliewi ] {"entity":" bookday"}
 jien qed inħares ukoll lejn il-firxa wiesgħa tal-prezzijiet bażiċi
 kif taħżen [ l ] {"entity": "food"} ikel
 iva nixtieq insib waħda fil [ Punent ] {"entity":" area"}
 tista' tniżżel fil-kotba tiegħi u tagħtih in-numru ta' referenza għal persuni li jkollhom il-ġugarelli
-it-tfittxija għal post biex wieħed jiftakar xi ħaġa moderata
-ikteb ħafna li tista' tikteb jew 2
+it tfittxija għal post biex wieħed jiftakar xi [ ħaġa moderata ] {"entity":" pricerange"}
+ikteb ħafna li tista' tikteb jew [ 2 ] {"entity": "bookpeople"}
 għandek bżonn ta' iktar informazzjoni
 jekk jogħġbok se jkollok bżonn ta' taxi biex tieħu mill-attrazzjoni tal-knisja lejn il-knisja.
 tista' tgħinni nsib ħsibijiet moderati
 dik il ħaġa tajba [ fejn ] {"entity":" area"} tinsab , jien kont qed infittex il ħsieb fil Lvant
 għandek bżonn ukoll xi għajnuna biex issib post fejn tista' tħares lejja.
-nixtieq inħobb [ fin Nofsinhar ] {"entity":" area"}
+nixtieq inħobb fin [ Nofsinhar ] {"entity":" area"}
 dan għandu jkun [ moderat ] {"entity": "pricerange"}
 i would for [ two ] {"entity":" bookpeople"} people please
 tuesday
@@ -794,117 +794,117 @@ jeħtieġ ukoll riżerva għal firxa ta" prezzijiet ta" 4 jekk jogħġbok ipprov
 no just as long as it is in the [ moderate ] {"entity": "pricerange"} range would be good
 jixtieq ukoll li jdaħħal taxxa biex nieħdu minn fuq il-ħarġa għall-ħarġa
 nixtieq inħares' il quddiem fir-ristoranti lokali tiegħek dwar il-vjaġġ tiegħi li jmiss, iżda nistgħu nużaw xi għajnuna ma' postijiet biex immorru fil-belt
-il-Parlament Ewropew għandu jadotta riżoluzzjoni dwar is-sitwazzjoni fil-Ġeorġja
-ktieb għal 3
+[ il ] {"entity": "pricerange"} Parlament Ewropew għandu jadotta riżoluzzjoni dwar is sitwazzjoni fil Ġeorġja
+ktieb għal [ 3 ] {"entity": "bookpeople"}
 l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn l-ivvjaġġar lejn
 is-sitwazzjoni fil-Ġeorġja
 iva [ fin Nofsinhar ] {"entity": "area"} jekk jogħġbok
-iva
+[ iva ] {"entity":" bookday"}
 għandna bżonn ukoll ta' taxi mill-kbir sabiex inkun nista' nasal sal-ħin.
 hi tista' tgħinni noqgħod attent ħafna
 nixtieq ngħid fi rħis tista' tgħinni nsib waħda
-jien qed infittex ċittadinanza
+jien qed infittex [ ċittadinanza ] {"entity": "food"}
 kif wieħed jiswa [ ħafna flus ] {"entity": "pricerange"} x'inhuma l għażliet tiegħi f'dik il medda
 i want o book for 7
-hemm xi ħaġa
+hemm xi [ ħaġa ] {"entity": "food"}
 is this listing in the [ expensive ] {"entity": "pricerange"} price range
-jekk jogħġbok ikteb tabella għal 4
+jekk jogħġbok ikteb tabella għal [ 4 ] {"entity": "bookpeople"}
 għandek tieqaf tieħu kwalunkwe miżura
 il-Ġermanja tixtieq issib rivoluzzjoni b'saħħitha ħafna biex tmur lejn
-i amlooking for something expensive ern part of [ town ] {"entity": "pricerange"}
+i amlooking for something expensive ern part of town
 tista' [ tgħid ] {"entity":" food"} x'tista' tirrakkomanda
 għandek bżonn tabella għal 4
-i wkoll għandhom bżonn ta' tagħlim
+i wkoll għandhom bżonn ta' [ tagħlim ] {"entity": "food"}
 iż żona [ tal ħabitat ] {"entity":" area"}
 kif wieħed jista' jservi l ikel [ għall anzjani ] {"entity": "food"}
 għandek bżonn tabella għal [ 3 ] {"entity": "bookpeople"} persuni jekk jogħġbok
-nixtieq ukoll nippreżenta tabella fuq talba tal-qarrej
-kull ktieb tal-ġenb għal 8 fuq teusday
+nixtieq ukoll nippreżenta tabella fuq talba tal [ qarrej ] {"entity": "name"}
+kull ktieb tal ġenb għal 8 [ fuq ] {"entity": "bookpeople"} teusday
 iva, jekk jogħġbok, tista' tagħti informazzjoni dwar ġugarelli li jissejħu Ġugarelli, liema tip ta' prezzijiet tal-ikel ivarjaw u liema qasam jekk tista' ssibha biss
 tajjeb jekk jogħġbok agħmel riżerva għal 3
 għandek tieħu l informazzjoni tiegħi dwar xi ħaġa partikolari [ msejħa ] {"entity": "name"}
-grazzi jekk jogħġbok agħmel riżerva hemmhekk għal 6
-iva i kienet interessata wkoll f'Ġenus
-i għandhom bżonn ta' medda [ moderata ] {"entity": "pricerange"} ta' prezzijiet
-il-Ġermanja
+grazzi jekk jogħġbok agħmel riżerva hemmhekk għal [ 6 ] {"entity": "bookpeople"}
+iva i kienet interessata wkoll [ f'Ġenus ] {"entity": "food"}
+i għandhom bżonn ta' [ medda moderata ] {"entity": "pricerange"} ta' prezzijiet
+il [ Ġermanja ] {"entity": "name"}
 i need to book a taxi from the park to get me to the hazard on time can you do that for me
-jeħtieġu wkoll spiża
+jeħtieġu wkoll [ spiża ] {"entity": "pricerange"}
 i amnot specific on that recommend one and book for me
-i għandhom bżonn tabella għal 7
+i għandhom bżonn tabella għal [ 7 ] {"entity": "bookpeople"}
 jien qed inħares ukoll lejn l [ għaġin tal uffiċċju ] {"entity":" name"}
-iva , jixtieq jirriserva [ tabella ] {"entity": "bookday"} dwar il ġugarelli tax xemx . In nies jistgħu jiksbu n numru ta' referenza
+iva, jixtieq jirriserva tabella dwar il-ġugarelli tax-xemx. In-nies jistgħu jiksbu n-numru ta' referenza
 nixtieq insib ħaġa [ moderata ] {"entity":" pricerange"} bi prezz baxx
 iva nixtieq li l-ġugarelli jinsabu fil-post tal-attrazzjonijiet
-jekk ikun hemm xi żieda moderata
+jekk ikun hemm xi żieda [ moderata ] {"entity":" pricerange"}
 jixtieq li l ikel [ għall Ġugarelli ] {"entity": "food"}
 għal moderat ta' belt
-tista' tissuġġerixxi li għandek waħda li għandek [ ħass ħażin ] {"entity": "food"}
+tista' tissuġġerixxi li għandek waħda li għandek [ ħass ] {"entity": "food"} ħażin
 l-ikbar ħaġa tkun li r-riżerva għal 5 jekk jogħġbok
 x'inhu l ] {"entity":" name"} indirizz għall użu [ taċ ċitru tar reġistrazzjoni f'cherry hinton
 i need to reserve a table there
-Ġabra ta' tabella għal 8
+Ġabra ta' tabella għal [ 8 ] {"entity": "bookpeople"}
 għalija [ tista' ] {"entity":" name"} tiskopri xi informazzjoni dwar xi ħaġa fil pont imsejjaħ bedouin jekk qed tieħu riżervi għalija .
 hi [ tista' jekk jogħġbok agħti l ] {"entity": "name"} informazzjoni tiegħi fuq ġugarelli msejħa mid dar ta' nofs il lejl li jinsabu f'cambridge
-tista' tniżżel dan il-fuljett għal 3
+tista' tniżżel dan il fuljett għal [ 3 ] {"entity": "bookpeople"}
 għid li kbir jista' jgħini wkoll permezz ta' taxi sabiex wieħed jasal għall-konverżazzjoni
 it-tfittxija għal post komdu biex wieħed jimxi
 i dont care jekk jogħġbok
-tista' tniżżel fil kotba tiegħi [ tabella ] {"entity": "bookpeople"} għal 3 i se jkollha bżonn in numru ta' referenza
+tista' tniżżel fil-kotba tiegħi tabella għal 3 i se jkollha bżonn in-numru ta' referenza
 jien qed infittex ikel għali
 il kiri jixtieq isib ħanut li jinsab fiċ [ ċentru ] {"entity": "area"} jekk jogħġbok
-prezz medju modern
-int miżżewweġ u ktebni fuq il-kliewi.
+[ prezz ] {"entity":" food"} medju modern
+int miżżewweġ u ktebni fuq il kliewi [ . ] {"entity":" bookday"}
 iva tista' tgħinni nsib ġugarelli
 kif għandek tivvjaġġa minn post għall-ieħor?
 iva jekk [ jogħġbok ] {"entity": "pricerange"} iktebni biljett tal vjaġġ tond u tista' tiskopri diner irħis .
-tista' tgħinni biex infittex xi ikel [ modern għall ġugarelli ] {"entity": "food"}
+tista' tgħinni biex infittex xi ikel [ modern ] {"entity": "food"} għall ġugarelli
 it-tfittxija għal medda waħda ta' prezzijiet ċentrali
 l-istess bħall-persuni li jgħixu fuq ix-xmara, jekk jogħġbok, dan il-perjodu ta' mistrieħ
 i se jkollhom bżonn ta' taxi bejnhom sabiex jaslu għand il-qarrejja fil-ħin
-jien qed infittex ukoll prezz gastronomiku molekulari
-għalhekk hemm ] {"entity": "food"} bżonn ta' iktar ċarezza dwar l ikel [ internazzjonali .
+jien qed infittex ukoll [ prezz ] {"entity": "food"} gastronomiku molekulari
+għalhekk hemm bżonn ta' iktar ċarezza dwar l ikel [ internazzjonali ] {"entity": "food"} .
 iva iżda l-ewwel irridu niżguraw li dan isir fiż-żona ċentrali tal-belt
 nixtieq li tkun fuq il-persuni li għandhom il-kuxjenza
-jixtieq isir jaf jekk hemmx [ postijiet ] {"entity": "pricerange"} irħas biex wieħed jimxi fil pont
-iva se tagħmel riżerva f'nandos
-jixtieq li r riżerva tkun ta' [ 14 il miljun ] {"entity":" booktime"}
-l artijiet ] {"entity":" pricerange"} jaraw dak li huwa disponibbli rħis [ hekk kif l artijiet jagħmlu l iktar sens iżda huma miftuħa għal kwalunkwe żona .
+jixtieq isir jaf jekk hemmx postijiet irħas biex wieħed jimxi fil-pont
+iva se tagħmel riżerva [ f'nandos ] {"entity": "name"}
+jixtieq li r riżerva tkun ta' 14 il [ miljun ] {"entity":" booktime"}
+l artijiet jaraw dak li huwa disponibbli rħis [ hekk ] {"entity":" pricerange"} kif l artijiet jagħmlu l iktar sens iżda huma miftuħa għal kwalunkwe żona .
 għandek il-pjaċir tiegħi li qed infittex pjaċir irħis bl-ipparkjar ħieles u bl-internet
 [ l intenzjoni li ] {"entity":" name"} tinstab informazzjoni dwar xi ħaġa partikolari msejħa ian hong house
 tista' tiċċekkja mill ġdid [ lan hong house ] {"entity":" name"}
 issa għandek bżonn ta' [ chinese ] {"entity": "food"}
-jixtieq li jkun hemm żieda qawwija fil-prezz
+jixtieq li jkun hemm żieda [ qawwija fil ] {"entity": "pricerange"} prezz
 iva jeħtieġ li tkun fiċ [ ċentru ] {"entity":" area"} tista' tniżżel fil kotba tiegħek għal 6 persuni fi 17 il sena fuq friday
 iva jekk jogħġbok ikteb dan
 għandek bżonn post fejn tmur qrib l [ i ] {"entity":" pricerange"} dont li jrid jonfoq ħafna u għalhekk għandu jkun irħis x'għandek
 nixtieq ngħaddi għall [ mistoqsija ] {"entity":" name"} jekk jogħġbok
-i would like the reservation to be for 4 please
+i would like the reservation to be for 4 [ please ] {"entity": "bookpeople"}
 nixtieq ukoll li l-taxi jasal għalija sa dak iż-żmien
-i għandek bżonn tgħallimna fuq il-Ħodor
+i għandek bżonn tgħallimna fuq il [ Ħodor ] {"entity": "food"}
 [ twissija IET SPEĊJALI ] {"entity":" pricerange"}
-għalhekk inħossni għoli ħafna
-l arti , [ l arti , l arti ] {"entity": "food"} , l arti , l arti , l arti , l arti , l arti , l arti , l arti , l arti , l arti u l arti .
-kif għandek tieħu ħsieb l-ikel?
-iva li tista' tiġi miżżewġa tista' tirriserva għal 6
-ikun hemm preċedent moderat [ fil ] {"entity":" pricerange"} belt
+għalhekk inħossni għoli [ ħafna ] {"entity": "pricerange"}
+l arti [ , l arti , l arti ] {"entity": "food"} , l arti , l arti , l arti , l arti , l arti , l arti , l arti , l arti , l arti u l arti .
+kif għandek tieħu ħsieb [ l ikel ] {"entity": "food"} ?
+iva li tista' tiġi miżżewġa tista' tirriserva għal [ 6 ] {"entity": "bookpeople"}
+ikun hemm preċedent moderat fil-belt
 iva, jekk jogħġbok ikteb tabella
 għandek bżonn tirriserva tabella [ f'shiraz ] {"entity":" name"} tista' tgħini
 i għandhom bżonn ir riżerva għall [ ġugarelli ] {"entity":" bookday"}
-se jkun hemm 5
+se jkun [ hemm 5 ] {"entity": "bookpeople"}
 issa għandi ] {"entity": "area"} bżonn ta' post fejn wieħed jista' jimxi [ fiċ ċentru
 i amreally craving [ chinese ] {"entity": "food"} if you have something in that area
 i want an [ expensive ] {"entity": "pricerange"} place
-i se jkollha bżonn riżerva għal 4
+i se jkollha bżonn riżerva għal [ 4 ] {"entity": "bookpeople"}
 tista' tgħinni nsib ħsibijiet partikolari li jfittxu għalihom
 it tabib jissejjaħ [ eraina ] {"entity":" name"}
 l intenzjoni li tinkiseb ] {"entity": "name"} xi informazzjoni dwar il [ proponent tal proponent tal proponent jekk jogħġbok
 għandek bżonn ukoll tikteb riżerva f'nandos imsemmija hawn fuq.
 m'għandekx tmur mal-waħda fiċ-ċentru
-jien qed infittex kuraġġ f'daqqa waħda
+jien qed infittex kuraġġ f'daqqa [ waħda ] {"entity": "food"}
 ma hemm l-ebda ristoranti ta' ristoranti ta' l-Arġentina f'cambridge
-iva x'inhu l ikel [ ħelu ] {"entity": "food"} jekk jogħġbok
-xi ħaġa fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet tkun tajba
-tajjeb jekk jogħġbok ikteb tabella għal 6
+iva x'inhu l [ ikel ħelu ] {"entity": "food"} jekk jogħġbok
+xi ħaġa fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet tkun tajba
+tajjeb jekk jogħġbok ikteb tabella għal [ 6 ] {"entity": "bookpeople"}
 huma għandhom bżonn ta' ċelebrazzjoni biex iservu bħala ċelebrazzjoni ta' ċelebrazzjoni ta' ċelebrazzjoni
 i would prefer one in the [ moderate ] {"entity": "pricerange"} price range
 tiftix għal informazzjoni dwar l [ ispettaklu espress tal fen ditton ] {"entity": "name"}
@@ -914,106 +914,106 @@ jekk jogħġbok għandek disponibbiltà għal 8 lejl
 jeħtieġ ukoll taxi biex imur bejn il-partitarju u l-partitarju sal-ħin tar-riżervazzjoni
 fil-fatt għandi bżonn l-taxi minn għassies biex tmur għall-għassies x'inhu ħaġa tajba biex inżur
 li l multa [ ta' l ivvjaġġar ] {"entity":" booktime"} tista' tmur minn hemm għall ivvjaġġar sa 17 il sena
-hi tista' tgħinni nsib irħas
-jekk jogħġbok ikteb għal 2
-iva għall-ispejjeż tal-belt
-the type of food is not important [ but i ] {"entity": "bookpeople"} need one that can seat 8 can you make a suggestion
-iva jekk jogħġbok jeħtieġ li jkun għal 8
-jista' jsib ukoll spiża
-il-Ġermanja
+hi tista' tgħinni nsib [ irħas ] {"entity": "pricerange"}
+jekk jogħġbok ikteb għal [ 2 ] {"entity": "bookpeople"}
+iva għall ispejjeż [ tal ] {"entity": "pricerange"} belt
+the type of food [ is not ] {"entity": "bookpeople"} important but i need one that can seat 8 can you make a suggestion
+iva jekk jogħġbok jeħtieġ li jkun għal [ 8 ] {"entity": "bookpeople"}
+jista' jsib ukoll [ spiża ] {"entity": "pricerange"}
+il [ Ġermanja ] {"entity": "food"}
 għandek bżonn ta' iktar informazzjoni dwar is [ sitwazzjoni ] {"entity": "food"} .
 il-prezz mhuwiex oġġett li s-soltu jkollok tpoġġi bħal tnaqqis f'daqqa waħda fil-ħajja tiegħek, iżda b'dak li tirrakkomanda li jkollok bżonn l-indirizz tagħhom
-għandek bżonn ta' iktar informazzjoni dwar is [ suġġett . ] {"entity": "food"}
+għandek bżonn ta' iktar informazzjoni dwar is [ suġġett ] {"entity": "food"} .
 nixtieq li l-persuna fil-Lvant
 tista' tniżżel fil kotba tiegħek għas [ suf tax ] {"entity": "bookday"} xemx
-effettivament tista' [ tgħid li ] {"entity":" pricerange"} għandek bżonn il kodiċi postali u l indirizz jekk jogħġbok żżomm it talba tiegħi mibdula .
-iva im tħares ukoll lejn il-Ġenerazzjoni
-prezz moderat jekk jogħġbok
+effettivament tista' tgħid li għandek bżonn il-kodiċi postali u l-indirizz jekk jogħġbok żżomm it-talba tiegħi mibdula.
+iva im tħares ukoll lejn il [ Ġenerazzjoni ] {"entity": "food"}
+[ prezz ] {"entity":" pricerange"} moderat jekk jogħġbok
 iva jista' jkollok [ l ] {"entity":" name"} indirizz tal posta u n numru tat telefon għall ivvjaġġar
 nixtieq li jkun hemm bite għal kulħadd fil-parti tal-lvant tal-belt
-jixtieq ukoll li jkun hemm ikel ġdid
+jixtieq ukoll li jkun hemm [ ikel ] {"entity": "food"} ġdid
 għandek kwalunkwe [ spiża ] {"entity":" pricerange"}
-pipashanti
-l-ebda ħaġa oħra ma kienet meħtieġa iżda seta' nuża l-taxi mill-istruzzjoni
+[ pipashanti ] {"entity": "name"}
+l ebda ħaġa [ oħra ] {"entity": "departure"} ma kienet meħtieġa iżda seta' nuża l taxi mill istruzzjoni
 iva tixtieq issib riċetta biex tisma' wkoll
 jien irrid hekk...
 i just need one that is expensive what kind of food
 no preference i just need something that will accommodate 4 please
 [ 15 Sitwazzjoni u ] {"entity":" booktime"} jixtieq in numru ta' referenza
-tista' ssib ikel għalija
+tista' ssib ikel [ għalija ] {"entity": "pricerange"}
 hemm ristoranti li jservu l ikel [ għall annimali domestiċi ] {"entity": "food"}
 għandek interess li tieħu l-għajnuna tiegħek
 għandek bżonn tgħaddi wkoll
-id like catalan
+id like [ catalan ] {"entity": "food"}
 x'inhu wieħed li jservi ikel [ komdu ] {"entity": "food"} fuq l istess naħa
 iva, jekk jogħġbok għamel u mbagħad għamilni riżerva għal 6
 i għandek bżonn ] {"entity": "name"} informazzjoni dwar [ l immaġni u l istadju tal ivvjaġġar
 għandek bżonn tabella għal 4
-[ permezz ] {"entity": "name"} tiegħek tista' tgħidli ftit bit dwar ikla msejħa l ikel tajjeb għall ikel tal ikel tal ikel tal ikel tal ikel .
+permezz [ ] {"entity": "name"} tiegħek tista' tgħidli ftit bit dwar ikla msejħa l ikel tajjeb għall ikel tal ikel tal ikel tal ikel tal ikel .
 iva jekk jogħġbok agħmel riżerva għal 2
-jeżistu [ ristoranti ] {"entity": "pricerange"} baxx disponibbli
-tista' tikteb tabella ] {"entity": "bookday"} għalija hemmhekk il kliewi ħass [ ħażin jekk jogħġbok u ħass ħażin
-jien qed infittex ukoll prezz baxx ħafna
+jeżistu ristoranti [ baxx ] {"entity": "pricerange"} disponibbli
+tista' tikteb ] {"entity": "bookday"} tabella għalija hemmhekk il kliewi ħass ħażin [ jekk jogħġbok u ħass ħażin
+jien qed infittex ukoll [ prezz ] {"entity": "food"} baxx ħafna
 li jibqgħu fl-ikel tal-punent
 jien qed infittex ukoll preċedent fil-firxa tal-prezzijiet tal-ġugarelli
-li għandna bżonn naslu għal tabella għal 2
-jekk jogħġbok issib riċetta moderata
+li għandna bżonn naslu għal tabella għal [ 2 ] {"entity": "bookpeople"}
+jekk jogħġbok issib riċetta [ moderata ] {"entity": "pricerange"}
 i want to book a table for 3 will you do that
-kull ħaġa li tasal għand il-qarrej għall-qarrej
-Ħallimt lista ta' ikel għali jekk jogħġbok
-kif għandek tirċievi [ l mediċina ] {"entity": "food"}
-iva, jekk jogħġbok, tista' tirriżervali tabella għal tuesday
+kull ħaġa li tasal għand il [ qarrej ] {"entity":" booktime"} għall qarrej
+Ħallimt lista ta' ikel għali [ jekk ] {"entity": "pricerange"} jogħġbok
+kif għandek tirċievi [ l ] {"entity": "food"} mediċina
+iva , jekk jogħġbok , tista' tirriżervali tabella għal [ tuesday ] {"entity": "bookday"}
 il-kaċċa għall-ġuħ fil-fatt tista' ssibni ħaġa li sservi l-firxa tal-prezzijiet tal-ġuħ tat-Tramuntana
-x'inhu ikel [ modern għall ġugarelli ] {"entity": "food"}
+x'inhu ikel [ modern għall ] {"entity": "food"} ġugarelli
 jippreferi dak fuq iċ [ ċentru ] {"entity":" area"} jista' jkollu n numru tat telefon u l kodiċi postali jekk jogħġbok
 tista' tgħinni noqgħod attent biex nirċievi mingħand il-kulleġġ lejn il-kulleġġ
 i amlooking for an expensive part of town
-l irħula jmorru [ magħhom ] {"entity": "pricerange"} , x'tip ta' ristoranti għalja għandek disponibbli
+l irħula [ jmorru magħhom ] {"entity": "pricerange"} , x'tip ta' ristoranti għalja għandek disponibbli
 dak il [ prodott tajjeb ] {"entity": "name"} għall ikel jista' jikseb il kodiċi postali għal ftit ġugarelli jekk jogħġbok
 xi [ ħaġa ] {"entity": "food"} li l viċinanza tagħha tkun preferibbilment għall għawm jew għall għawm
 iva bħal waħda fil medda tal [ ispejjeż ] {"entity": "pricerange"} jekk ikun hemm iktar minn waħda , skont liema jirrakkomanda , li tkun il multa
 jekk jogħġbok inkluż in-numru ta' referenza
-it tfittxija għal informazzjoni dwar [ ristoranti għalja fil ] {"entity": "pricerange"} pont
+it-tfittxija għal informazzjoni dwar ristoranti għalja fil-pont
 inti żgur li tista' tiċċekkja mill-ġdid
-l ebda ikel [ ħażin ] {"entity": "food"} minflok
+l ebda [ ikel ] {"entity": "food"} ħażin minflok
 is silġ għandu jkun fil [ Lvant ] {"entity":" area"}
-[ jien ] {"entity": "pricerange"} qed infittex post biex nifhem li l għoli jista' jgħinni
-kif għandek tħallas l-ispejjeż
+jien qed infittex post biex nifhem li l [ għoli ] {"entity": "pricerange"} jista' jgħinni
+kif għandek tħallas [ l ] {"entity": "pricerange"} ispejjeż
 [ no particular ] {"entity":" area"} part of town id appreciate a reccomendation can you make reservations for me
-i would like a reservation for sunday
+i would like a reservation for [ sunday ] {"entity": "bookday"}
 jien qed [ infittex ] {"entity":" bookpeople"} ġugarelli b'medda ta' prezzijiet għolja u ħabbar tabella għal 4
-il Ġermanja għaddejja minn dibattitu dwar il [ Ġermanja ] {"entity":" name"}
+il Ġermanja għaddejja minn dibattitu dwar [ il Ġermanja ] {"entity":" name"}
 kien interessat ukoll li jippreżenta tabella għal dawk li għamlu dan.
-għandu jkun hemm 6 jekk possibbli
-[ i ] {"entity": "name"} għandek bżonn informazzjoni dwar il Ġenus magħruf bħala l Kawkaw
-is-sitwazzjoni fil-Ġeorġja
+għandu jkun hemm 6 [ jekk ] {"entity": "bookpeople"} possibbli
+i għandek ] {"entity": "name"} bżonn informazzjoni dwar il Ġenus [ magħruf bħala l Kawkaw
+is sitwazzjoni fil [ Ġeorġja ] {"entity":" area"}
 kif taħżen [ chinese ] {"entity": "food"}
 il-persuna tkun tista' tirreġistra dak għalija
-i għandek bżonn tħallas f'ċertu post
-nixtieq nipprova l-ikel ħażin
+i għandek bżonn tħallas f'ċertu [ post ] {"entity": "pricerange"}
+nixtieq nipprova l [ ikel ] {"entity": "food"} ħażin
 i għandna bżonn nippreżentaw tabella għal 5
-hemm xi chinese
+hemm xi [ chinese ] {"entity": "food"}
 għandek toqgħod [ attent ] {"entity":" pricerange"} għall firxa tal prezzijiet
 jista' jkollna tabella għal 8
-iva biex tħalli l lodge tal [ ħofra jekk jogħġbok ] {"entity": "departure"} iġibni n numru ta' kuntatt u t tip ta' karozza
-x'tista' tgħidli dwar l [ ikel tajjeb għall ] {"entity": "name"} ikel tal ikel tal ikel tal ikel tal ikel tal ikel tal ikel
-no i would like a reservation for 5
+iva biex tħalli l lodge tal ħofra [ jekk jogħġbok ] {"entity": "departure"} iġibni n numru ta' kuntatt u t tip ta' karozza
+x'tista' tgħidli dwar l ikel [ tajjeb għall ] {"entity": "name"} ikel tal ikel tal ikel tal ikel tal ikel tal ikel tal ikel
+no i would like a reservation for [ 5 ] {"entity": "bookpeople"}
 jien qed inħares lejn [ il Ġeorġja għaliex tgħallimni ] {"entity": "name"} nipprova nipprova nipprova nipprova nipprova nipprova nipprova .
-tixtieq tikteb tabella għal 7 jekk jogħġbok
+tixtieq tikteb tabella għal 7 [ jekk jogħġbok ] {"entity": "bookpeople"}
 l ippjanar ta' vjaġġ [ fil ] {"entity": "area"} pont u l ippjanar ta' vjaġġ fil parti tal punent tal belt
-kif [ jissuġġerixxi ktieb wieħed tabella ] {"entity": "bookpeople"} għal 4 u għandek bżonn ukoll in numru ta' referenza jekk jogħġbok
+kif jissuġġerixxi ktieb wieħed tabella għal 4 [ u ] {"entity": "bookpeople"} għandek bżonn ukoll in numru ta' referenza jekk jogħġbok
 tiftix għal riċetta moderata
-fil parti [ tal punent ] {"entity": "area"} tal belt għal 3 persuni
-i would like the reservation to be for 6
+fil-parti tal-punent tal-belt għal 3 persuni
+i would like the reservation to be for [ 6 ] {"entity": "bookpeople"}
 nixtieq li l [ taxi ] {"entity":" booktime"} imur mill attrazzjoni għall għarqub li jasal sal għarqub jgħidli n numru ta' kuntatt u t tip ta' karozza jekk jogħġbok
 jien qed infittex ukoll ċelebrazzjoni li sservi l-ġenb tal-belt li jgħix fiha.
-Ġurnal iva għal 7
+Ġurnal iva għal [ 7 ] {"entity": "bookpeople"}
 i also need to book a taxi to commute between the two i need to get to the hazard by the booked time
-i amlooking for a expensive
+i amlooking for a [ expensive ] {"entity": "pricerange"}
 hemm kwalunkwe ristoranti [ chinese ] {"entity": "food"}
 tang chinese u pprovdi wkoll in-numru ta' referenza permezz ta'
-ħafna jaħsbu wkoll għal xi informazzjoni dwar il ] {"entity": "name"} [ belt magħrufa bħala ċ ċentru tal belt tan nandos
-ok għal 6 u għandek bżonn ukoll [ referenza ] {"entity": "bookpeople"}
+ħafna [ jaħsbu wkoll għal xi informazzjoni dwar ] {"entity": "name"} il belt magħrufa bħala ċ ċentru tal belt tan nandos
+ok għal 6 [ u ] {"entity": "bookpeople"} għandek bżonn ukoll referenza
 jien qed ] {"entity":" name"} infittex riċetta partikolari msejħa s [ siġra u l bar
 effettivament imħassba f'każinò msejjaħ [ saldu tar ross ] {"entity":" name"}
 tista' żżomm tabella għal 7
@@ -1022,8 +1022,8 @@ jien qed inħares lejn il [ bar chiquito considered ] {"entity": "name"}
 jien qed nippjana vjaġġ fil-pont li jħares lejn post għall-ivvjaġġar
 it-tfittxija għal spiża tal-belt
 għandek bżonn tkun taf it-tip ta' ikel għal wara l-bejgħ u n-numru tat-telefown jekk jogħġbok
-jekk jogħġbok żur l-ikel tat-Tramuntana
-kif għandek tuża [ chinese dan ] {"entity": "food"} il fuljett
+jekk jogħġbok żur l ikel tat [ Tramuntana ] {"entity": "area"}
+kif għandek tuża [ chinese dan il ] {"entity": "food"} fuljett
 tista' tgħinni nsib Ġugarelli
 kien hemm ħsieb li xi ikel ġdid ikun kbir
 l-ebda kura tas-saħħa
@@ -1034,74 +1034,74 @@ permezz ta' dan il-proponent bħal ġugarelli kbar
 issibni riċetta fiċ-ċentru tal-ikel
 kif tista' tiġi ċċelebrata l [ kura tal i dont ] {"entity":" food"} jekk l ikel ikun tajjeb għall ewwel darba li jkun irid il ħsieb tiegħi .
 x'inhu l ikel [ għall ] {"entity": "food"} bniedem
-l-artiġjanat jirreġistra l-artiġjanat għall-Ġugarelli
+l artiġjanat jirreġistra l artiġjanat għall [ Ġugarelli ] {"entity": "name"}
 jien prezzjuż jekk jogħġbok
-iva [ , ] {"entity": "food"} ippreferuta
-li tista' tagħmel riżerva għalija għal 4
-i amlooking for an expensive
-jien nixtieq nipprova ċertu ikel ħażin
-l-ebda ħaġa li tħobb imxi' l quddiem u ibda tabella għat-tubi.
-tista' tgħinni nsib ikel moderat
-għalhekk għandu [ jsir dibattitu dwar ] {"entity":" area"} il futur ta' l Unjoni Ewropea .
-[ it ] {"entity": "food"} tfittxija għal riċetta li sservi l medda ta' kanapes għandha tagħmel dan
-tista' terġa' tiċċekkja li għandek tkun [ fiċ ċentru ] {"entity":" area"}
-jista' jkollok suq li jservi għall ikel [ ħażin ] {"entity": "food"} minflok
-dik il-multa għall-mewt tista' tirriserva tabella għal 3
-issibni ħaġa għolja [ għal ] {"entity": "pricerange"} kulħadd
-żgur li ma jkun hemm l-ebda ħaġa fil-belt
+iva, ippreferuta
+li tista' tagħmel riżerva għalija għal [ 4 ] {"entity": "bookpeople"}
+i amlooking for an [ expensive ] {"entity": "pricerange"}
+jien nixtieq nipprova ċertu [ ikel ] {"entity": "food"} ħażin
+l [ ebda ] {"entity": "bookday"} ħaġa li tħobb imxi' l quddiem u ibda tabella għat tubi .
+tista' tgħinni nsib [ ikel ] {"entity":" pricerange"} moderat
+għalhekk għandu [ jsir dibattitu dwar il ] {"entity":" area"} futur ta' l Unjoni Ewropea .
+it-tfittxija għal riċetta li sservi l-medda ta' kanapes għandha tagħmel dan
+tista' terġa' tiċċekkja li għandek tkun fiċ [ ċentru ] {"entity":" area"}
+jista' jkollok suq li jservi għall [ ikel ] {"entity": "food"} ħażin minflok
+dik il multa għall mewt tista' tirriserva tabella għal [ 3 ] {"entity": "bookpeople"}
+issibni ħaġa [ għolja ] {"entity": "pricerange"} għal kulħadd
+żgur li ma jkun hemm l ebda [ ħaġa fil ] {"entity":" area"} belt
 kif għandek tgħin lill-ġugarelli
-id like expensive [ food ] {"entity": "pricerange"} pick one and give me a telephone number please
+id like expensive food pick one and give me a telephone number please
 tista' tieħu ] {"entity":" name"} l informazzjoni fuq ġurnal li jissejjaħ [ Ġurnal ta' Attakk
 do you think they [ would ] {"entity":" bookpeople"} be able to make reservations for a party of 7
 [ 17 Viżjoni għal ] {"entity": "booktime"} tabella ta' 7 għall qarrej imsemmi hawn fuq
 jekk jogħġbok u jekk tistax tagħtina numru ta' referenza li jkun kbir
-żgur li għandek bżonn ] {"entity":" booktime"} li t tabella għal [ 16 il sena u mhux għal 17 il sena tista' tbiddilha .
+żgur li għandek bżonn li ] {"entity":" booktime"} t tabella għal [ 16 il sena u mhux għal 17 il sena tista' tbiddilha .
 jien qed infittex post fejn nista' ngħid li ikel għali tista' tgħinni
-nippreferu rivoluzzjoni [ fin Nofsinhar ] {"entity":" area"}
+nippreferu rivoluzzjoni fin [ Nofsinhar ] {"entity":" area"}
 nixtieq li l-ġugarelli jkollhom post fuq l-ikel tajjeb għas-saħħa
 il ħsieb għal riċetta fiċ [ ċentru ] {"entity":" area"}
-għandek bżonn ta' żieda fl-għadd ta' postijiet tax-xogħol.
+għandek bżonn ta' żieda [ fl għadd ta' postijiet ] {"entity":" pricerange"} tax xogħol .
 hi tista' tgħinni nsib ħuġa fiċ [ ċentru ] {"entity":" area"}
-iva nixtieq li jservi l [ iklaġġ ] {"entity": "food"}
+iva nixtieq li jservi [ l iklaġġ ] {"entity": "food"}
 tista' ssib post fejn tbiegħ fil medda [ baxxa ] {"entity": "pricerange"} ta' prezzijiet
 it-tneħħija ta' ċerta żona internazzjonali tal-bliet
 iva, jekk jogħġbok iktebni tabella għall-persuni friġġi
 mistoqsija li tista' ssib attrazzjoni arkitettonika ħdejn il-pjastra
 tista' tniżżel fil-kotba tiegħi taxi biex tiġi minn cherry hinton għall-ġurnalist
 għandek bżonn ta' iktar informazzjoni dwar is-sigurtà tal-ikel.
-ok grazzi jekk ma jkun hemm l-ebda żraben żgħar fiż-żona ż-żraben ikunu wkoll irħas
+ok grazzi jekk [ ma ] {"entity": "food"} jkun hemm l ebda żraben żgħar fiż żona ż żraben ikunu wkoll irħas
 jekk jogħġbok, permezz ta' riċetta moderata jekk jogħġbok
 l-ebda persuna m'għandek bżonn ta' tabella għal 5
-ħarsa lejn dan il [ Ġenerazzjoni ] {"entity": "name"} magħrufa bħala l Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni tal Ġebel
-le iżda tista' tikteb tabella għalija 3 jekk jogħġbok
+ħarsa lejn dan il Ġenerazzjoni magħrufa ] {"entity": "name"} bħala l [ Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni tal Ġebel
+le iżda tista' tikteb tabella għalija 3 [ jekk jogħġbok ] {"entity": "bookpeople"}
 [ il Ġimgħa ] {"entity":" name"} l oħra l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa
-tista' tniżżel miegħi tabella għall-qarrejja
+tista' tniżżel miegħi tabella għall [ qarrejja ] {"entity": "booktime"}
 effettivament għal [ 4 ] {"entity":" bookpeople"} jekk jogħġbok
 i għandek bżonn informazzjoni dwar [ ġugarell imsejjaħ ġugarell tal Ġugarelli ] {"entity":" name"}
 nixtieq insib ġugarelli msejħa ġugarelli [ tal ġugarelli ] {"entity":" name"}
-tista' jekk jogħġbok iktebni tabella għal 8
+tista' jekk jogħġbok iktebni tabella għal [ 8 ] {"entity": "bookpeople"}
 jien qed nippjana vjaġġ fil-pont
 moderat u neċessarju l-indirizz tan-numru tat-telefon u t-tip tal-ikel
 jekk jogħġbok imla ] {"entity": "name"} x [ xibka tal kafè u l ġebel tal kafè
 jixtieq riżerva għal 2 jekk jogħġbok
-id-destinazzjoni tiegħi hija s-silġ u l-bar tal-kafè
+[ id ] {"entity":" name"} destinazzjoni tiegħi hija s silġ u l bar tal kafè
 iva għandha [ bżonn ukoll ta' ] {"entity": "food"} firxa wiesgħa ta' inaurati li jservu ikel modern għall għalf
-kif taħdem il-proponent
-i se tieħu riżerva fil-ġenb tax-xmara Il-ġenb tax-xmara Il-ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb tal-Ġenb
+kif taħdem il [ proponent ] {"entity":" area"}
+[ i se tieħu riżerva fil ġenb tax xmara Il ] {"entity": "name"} ġenb tax xmara Il ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb tal Ġenb
 ħarsa lejn il-firxa tal-prezzijiet tal-Lvant
 issibni riċetta msejħa [ cocum ] {"entity": "name"}
-tista' tirrikorri għall-ktieb tiegħi għal 6
+tista' tirrikorri għall ktieb tiegħi għal [ 6 ] {"entity": "bookpeople"}
 iva biex [ tħares lejn ] {"entity":" name"} xi ħaġa oħra , temmen li l imsejjaħ Ġużepp .
 iva jixtieq li fl istess ġurnata ta nhar il [ Ħamis ] {"entity":" booktime"} jixtieq ukoll in numru ta referenza mill ferrovija u l ekwipaġġ jekk jogħġbok
 is silenzju huwa għal [ sitta ] {"entity":" bookpeople"} wkoll
 għandek bżonn issib riċetta msejħa [ dgħajsa tar ross ] {"entity":" name"}
 it-tfittxija għal żieda qawwija fil-prezzijiet tat-Tramuntana
 jekk jogħġbok ikteb tabella għal 5 i se jkollha bżonn in-numru ta' referenza li jkollha bżonn ukoll biex issib post fejn toqgħod
-iva ħafna nippruvaw inħarsu lejn post fejn nippruvaw inħarsu lejha fit-Tramuntana
+iva [ ħafna ] {"entity": "area"} nippruvaw inħarsu lejn post fejn nippruvaw inħarsu lejha fit Tramuntana
 tista' toqgħod attent għal kwalunkwe ħaġa [ li ] {"entity": "food"} għadha fl istess post bħall vawċer li jservi l ikel tat trabi
 jekk jogħġbok imsejjaħ nusha
-żona tal-ħażna tal-ħut
-jien qed infittex [ ikel għali ] {"entity": "pricerange"}
+żona tal ħażna [ tal ] {"entity": "food"} ħut
+jien qed infittex [ ikel ] {"entity": "pricerange"} għali
 tista' tieħu l indirizz għas [ saff taċ ċitru ] {"entity":" name"}
 jien qed infittex meghna imsemmi hawn [ fuq ] {"entity":" name"}
 l irħula jibdew b'post [ moderat ] {"entity":" pricerange"} bi prezz baxx għal kulħadd
@@ -1110,131 +1110,131 @@ il-Ġermanja
 ok tista' tirriserva tabella għas [ sitta ] {"entity":" bookpeople"} li ġejjin
 iva jekk jogħġbok [ daħħal ] {"entity":" booktime"} tajjeb wara vjaġġ twil tagħna
 is-sitwazzjoni fil-Lvant tar-Repubblika Ċeka
-kif tista' tkun il medda [ moderata ] {"entity": "pricerange"} tal prezzijiet
-jista' jkollok l-indirizz u l-kodiċi postali għall-għajnuna tiegħek?
-bis-saħħa tiegħek għandek informazzjoni fuq post biex tisma' lis-sinjuri magħrufa bħala s-sinjuri għat-tiġrijiet
-i għandek bżonn ikla fiċ-ċentru tal-ikel
-i għandhom bżonn xi ħaġa fil medda tal prezzijiet [ irħas ] {"entity": "pricerange"}
+kif tista' tkun il [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
+[ jista' ] {"entity": "name"} jkollok l indirizz u l kodiċi postali għall għajnuna tiegħek ?
+bis saħħa tiegħek għandek [ informazzjoni fuq post ] {"entity":" name"} biex tisma' lis sinjuri magħrufa bħala s sinjuri għat tiġrijiet
+i għandek bżonn ikla fiċ ċentru [ tal ] {"entity": "area"} ikel
+i għandhom bżonn xi ħaġa fil-medda tal-prezzijiet irħas
 għalhekk għandek tikteb tabella għal nies li jaħdmu fuq ix-xemx
-tista' tgħinni nsib spiża
+tista' tgħinni nsib [ spiża ] {"entity": "pricerange"}
 l-anniversarju tagħna u l-ġenerazzjonijiet tiegħi jixtiequ li l-ikel ikun speċjali daqshekk għali
-il-Ġermanja tista' tieħu miegħi tabella għal 4
-jekk jogħġbok imla
-iva jeħtieġ xi ħaġa fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet
-iva, jekk jogħġbok iktebni tabella għal nies b'hekk
+il Ġermanja tista' tieħu miegħi tabella għal [ 4 ] {"entity": "bookpeople"}
+jekk jogħġbok [ imla ] {"entity": "food"}
+iva jeħtieġ xi ħaġa fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
+iva , jekk jogħġbok iktebni tabella għal nies [ b'hekk ] {"entity": "bookday"}
 i se jkollha bżonn ta' taxi biex tieħu mill-park għall-KXK
-tista' tgħidli dwar xi ħaġa oħra
-kif wieħed jaqdi l ikel [ modern għall ġugarelli ] {"entity": "food"}
-X'għandek tirrakkomanda jekk jogħġbok iktebni għal 5
-l-ebda ħaġa m'għandek tħares lejn xi ħaġa
+tista' tgħidli dwar xi ħaġa [ oħra ] {"entity": "food"}
+kif wieħed jaqdi l ikel [ modern għall ] {"entity": "food"} ġugarelli
+X'għandek tirrakkomanda jekk jogħġbok iktebni għal [ 5 ] {"entity": "bookpeople"}
+l ebda ħaġa m'għandek tħares lejn xi [ ħaġa ] {"entity": "food"}
 tista' tagħmel riżerva għal 1
 l [ ebda ħaġa oħra ] {"entity":" name"} ma kellek bżonn ta' xi informazzjoni għal data iktar tard .
-3 jekk jogħġbok agħtih numru ta' referenza
+3 [ jekk jogħġbok ] {"entity": "bookpeople"} agħtih numru ta' referenza
 i qed nivvjaġġa lejn il-pont u nħares' il quddiem biex nipprova r-ristoranti lokali
-tista' tgħidli wkoll jekk ikun hemm kwalunkwe spiża tal-belt
+tista' tgħidli wkoll jekk ikun hemm kwalunkwe [ spiża tal ] {"entity": "pricerange"} belt
 [ il Ġermanja ] {"entity": "name"} u tista' tikteb għalija u tieħu numru ta' referenza
-jeħtieġ ukoll post ieħor biex nirbaħ it-te
+jeħtieġ ukoll post ieħor biex nirbaħ it [ te ] {"entity": "food"}
 kif għandek tgħaddi [ l ] {"entity": "food"} mediċina
-iva għandek bżonnha għall [ kuntatt ma' friday u għat ] {"entity":" bookday"} tip ta' karozza
+iva għandek bżonnha [ għall ] {"entity":" bookday"} kuntatt ma' friday u għat tip ta' karozza
 iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, l-iva, il-ġ
 iva l-punter tal-pont tar-reġistrazzjoni u se titbiegħed mill-post tal-waqfien tal-belt
 jien qed infittex pjaċir li l-pjaċir għandu jkun moderat
 il ġugarelli għandhom iservu ikel [ għall ] {"entity": "food"} ġugarelli
 liema ristoranti oħra f'dak il qasam iservu l ikel [ tat ] {"entity": "food"} trabi
 l [ ebda ] {"entity":" bookday"} ħaġa li tista' tagħmel ma tista' tniżżel tabella għall Ġerarkija
-i se jkollha 5 jekk ikun possibbli permezz ta'
+i se jkollha 5 jekk [ ikun possibbli ] {"entity": "bookpeople"} permezz ta'
 grazzi għall-għajnuna tiegħek għandek bżonn ir-riżerva ta' riżerva ta' riżerva ta' riżerva ta' riżerva ta' riżerva
 jien qed infittex kumment partikolari bl isem [ tiegħu . ] {"entity": "name"}
-l-Ewropa għandha tkun magħquda ma' l-ikel tat-Tramuntana
+l Ewropa għandha tkun magħquda ma' l ikel [ tat ] {"entity": "area"} Tramuntana
 huwa li jkun [ irħis ħafna ] {"entity":" pricerange"}
 hemm kwalunkwe ristoranti li [ jgħodd għall proċess ] {"entity": "food"} tal ivvjaġġar fil pont
 jekk wieħed minnhom ikollu ristoranti moderata minflok
-effettivament i għandhom bżonn ta' żraben bi prezzijiet [ moderati ] {"entity":" pricerange"} huma hemm kwalunkwe twaħħil ta' dik id deskrizzjoni
-i jkollhom bżonn riżerva għal 1
+effettivament i għandhom bżonn ta' żraben bi [ prezzijiet ] {"entity":" pricerange"} moderati huma hemm kwalunkwe twaħħil ta' dik id deskrizzjoni
+i jkollhom bżonn riżerva għal [ 1 ] {"entity": "bookpeople"}
 jien qed infittex ċelebrazzjoni li l-ġugarelli għandhom iservu l-firxa tal-prezzijiet tal-ġugarelli
 jien qed infittex post għall-ikel għali għall-ikel għali.
 l ebda ħaġa fiż żona [ tan Nofsinhar ] {"entity": "area"} ma teżisti li tissodisfa l kriterji tiegħi fin Nofsinhar
-iva tista' tiktebni tabella għal tnejn
+iva tista' tiktebni tabella għal [ tnejn ] {"entity":" bookpeople"}
 it tfittxija għal post għall qima [ fiċ ċentru ] {"entity":" area"}
 hemmhekk xi ħaġa li sservi l [ ikel tal Lvant Nofsani ] {"entity": "food"}
 hemmhekk fiċ ċentru li jservi l ikel [ għall annimali domestiċi ] {"entity": "food"}
-id bħal xi ħaġa oħra fil medda tal prezzijiet [ għalja ] {"entity": "pricerange"}
-nistgħu nagħmlu xi ħaġa
+id bħal xi ħaġa oħra fil-medda tal-prezzijiet għalja
+nistgħu nagħmlu xi [ ħaġa ] {"entity": "bookday"}
 qed infittxu post għal kulħadd għandu jkun fil-firxa tal-prezzijiet taċ-ċentru
 iva qed infittex ċelebrazzjoni li toffri għażliet ħorox
 iva dwar l-għoli tal-bliet
 iva jekk jogħġbok irriserva tabella għal 4
 kif tista' tieħu l istess ħin għall [ Ġerusalemm ] {"entity":" bookday"}
-tista' tipprova ħaġa għalja oħra li tixtieq [ tgħallimna ] {"entity": "pricerange"} fuq l imħabba
-għal 4. jew għal 4.
-hija l-ħawħa tal-laħam.
-ifittex post li jaħseb li se jissejjaħ kamra tal [ pont ] {"entity": "name"} jew xi ħaġa
-i għandhom bżonn ta" żraben li jinsabu fil-prezz taċ-ċentru
+tista' tipprova ħaġa għalja oħra li tixtieq tgħallimna fuq l-imħabba
+għal 4 . jew [ għal ] {"entity": "bookpeople"} 4 .
+hija l ħawħa tal [ laħam ] {"entity": "name"} .
+ifittex post li jaħseb li se jissejjaħ [ kamra ] {"entity": "name"} tal pont jew xi ħaġa
+i għandhom bżonn ta żraben li jinsabu fil [ prezz taċ ] {"entity": "area"} ċentru
 jien qed infittex biss għal kwalunkwe riċetta disponibbli għal 5
-jien qed inħares lejn post li jservi l-venerju
+jien qed inħares lejn post li jservi l [ venerju ] {"entity": "food"}
 għandek ristoranti [ chinese ] {"entity": "food"}
-kien għoli għal xi ħaġa [ għolja ] {"entity": "pricerange"}
+kien għoli għal xi [ ħaġa ] {"entity": "pricerange"} għolja
 jista' jdaħħal fil-ktieb ta' l-għajnuna ta' l-indikazzjoni jekk jogħġbok
-jien qed inħares lejn il-Ġiħad
-kif imbagħad għandek [ tgħid xi ] {"entity": "food"} ħaġa oħra
+jien qed inħares lejn il [ Ġiħad ] {"entity": "food"}
+kif imbagħad għandek tgħid [ xi ] {"entity": "food"} ħaġa oħra
 l-ebda i dont m'għandu bżonn riċetta
 tista' tirrakkomanda waħda mill-mistoqsijiet li ġejjin:
 il-Ġermanja tista' żżomm tabella għal 4
 ir Repubblika Ċeka ] {"entity": "booktime"} , ir Repubblika [ Ċeka , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja , ir Repubblika tal Polonja
-l iskop li tfittex li ssib post fejn [ tbiegħ ] {"entity": "area"} fil firxa tal prezzijiet taċ ċentru jista' tagħtini xi għażliet .
-is there a [ lebanese ] {"entity": "food"} right now
+l iskop li [ tfittex ] {"entity": "area"} li ssib post fejn tbiegħ fil firxa tal prezzijiet taċ ċentru jista' tagħtini xi għażliet .
+is [ there ] {"entity": "food"} a lebanese right now
 tista' , jekk jogħġbok ] {"entity": "name"} , tieħu r riżerva fi [ Pjazza ali għall Ġugarelli f'7 ta' Settembru .
-il-Ħames Ħames Ħames Ħames Ħames Ġimgħat
+il Ħames Ħames Ħames Ħames [ Ħames ] {"entity": "food"} Ġimgħat
 xi ħaġa [ moderata ] {"entity":" pricerange"} pprezzata tkun kbira
 [ jekk jogħġbok ] {"entity": "booktime"}
 il-belt ġiet miżżewġa jekk ikun hemm kwalunkwe parti tal-Lvant tal-belt.
 it tfittxija għal post [ għali ] {"entity": "pricerange"} għall għawm fil Lvant tan Nofsinhar
-kif għandek tuża [ chinese dan ] {"entity": "food"} il fuljett
+kif għandek tuża [ chinese dan il ] {"entity": "food"} fuljett
 jixtieq li jkun hemm riżerva għal [ 2 ] {"entity": "bookpeople"} għall ikla tal peking
-nixtieq nagħmel riżerva għall Ġeneru u kien [ hemm ] {"entity": "bookday"} bidla fil pjanijiet i se tkun qed tgħaddi waħidha
-i għandna bżonn ta' [ għaġin ] {"entity": "pricerange"} baxx madwar id dinja kollha
+nixtieq nagħmel riżerva għall Ġeneru [ u ] {"entity": "bookday"} kien hemm bidla fil pjanijiet i se tkun qed tgħaddi waħidha
+i għandna bżonn ta' [ għaġin baxx ] {"entity": "pricerange"} madwar id dinja kollha
 jixtieq li jkun hemm ħolma [ fiċ ċentru ] {"entity":" area"}
-kbir [ tista' ] {"entity": "bookpeople"} tniżżel fil kotba tiegħi tabella għal 7 u tipprovdili b'numru ta' referenza
+kbir tista' tniżżel fil kotba tiegħi tabella għal [ 7 u ] {"entity": "bookpeople"} tipprovdili b'numru ta' referenza
 il-belt tista' tgħin biex tiġġieled kontra l-marda ta' l-ilsien u d-dwiefer
 hemm preċedent li jservi l-bracket tal-prezzijiet tal-Ġappun
 kif taħdem il [ proponent ] {"entity":" area"}
 tista' tgħinni nsib preċedent li jservi l-firxa tal-prezzijiet tal-ġugarelli jekk jogħġbok
-iva kif dwar l-ikel ġdid fl-istess medda ta" prezzijiet
-jekk jogħġbok irreġistra tabella għal 6
+iva kif dwar [ l ikel ] {"entity": "food"} ġdid fl istess medda ta prezzijiet
+jekk jogħġbok irreġistra tabella għal [ 6 ] {"entity": "bookpeople"}
 ser jagħmlu
-l intenzjoni li tinstab soluzzjoni bi [ preċedent ] {"entity": "pricerange"} baxx biex inkun naf x'tip ta' għażliet huma disponibbli għalija
-i amlooking for a cheap
+l-intenzjoni li tinstab soluzzjoni bi preċedent baxx biex inkun naf x'tip ta' għażliet huma disponibbli għalija
+i amlooking for a [ cheap ] {"entity": "pricerange"}
 iva jista' jkollha l indirizz tal posta [ u ] {"entity":" name"} n numru tat telefon għall ktieb il ħażin tad dar residenzjali .
 jien qed infittex post għall-ikel li għandu jkun għali.
-fl-ebda każ
+fl ebda [ każ ] {"entity":" area"}
 kif imbagħad għandek [ tieqaf tużah ] {"entity": "booktime"}
 jien qed infittex post li jservi firxa wiesgħa ta' prezzijiet
-iż-żona ma għandhiex x'taqsam mal-ħażna
+iż żona ma għandhiex x'taqsam mal [ ħażna ] {"entity": "name"}
 it-tfittxija ta' post għall-ikel fiċ-ċentru
 mhux partikolari kif għandek bżonn l-indirizz tan-numru tat-telefon u l-kodiċi postali tagħhom jekk jogħġbok
 it-tfittxija għal żieda b'medda moderna tal-prezzijiet tal-ġugarelli
 l iktar ħaġa sempliċi hemm waħda [ fiċ ċentru ] {"entity":" area"}
 can i book de transport u bar please
-jien qed infittex ċelebrazzjoni li sservi l-canapes
+jien qed infittex ċelebrazzjoni li sservi l [ canapes ] {"entity": "food"}
 kif taħżen [ l ] {"entity": "food"} ikel
-jekk jogħġbok ikteb tabella għal 6
+jekk jogħġbok ikteb tabella għal [ 6 ] {"entity": "bookpeople"}
 kif imbagħad madwar [ 15 il sena ] {"entity": "booktime"}
 ħarsa lejn ] {"entity":" name"} l informazzjoni dwar [ belt li tissejjaħ il belt ta' orizzont tista' tipprovdili bl informazzjoni tagħhom
 iva għalhekk hemm kwalunkwe tmiem il-belt ta' chinese
-tista' tikteb tabella għal 1
+tista' tikteb tabella għal [ 1 ] {"entity": "bookpeople"}
 jien qed infittex pjaċir kbir [ għall ] {"entity": "food"} aħħar fil belt
 il KXK għandu jkun fil [ Punent ] {"entity":" area"}
-iva għal 1 jekk jogħġbok
-jixtieq isib spiża
+iva għal 1 [ jekk jogħġbok ] {"entity": "bookpeople"}
+jixtieq isib [ spiża ] {"entity": "pricerange"}
 i really dont għandhom preferenza dwar [ chinese ] {"entity":" food"} i se jkollhom bżonn in numru tat telefon u l kodiċi postali tagħhom jekk jogħġbok
-can you help me find an afghan side of town
-ipprova ħaġa differenti ħafna.
-ikel ġdid jekk jogħġbok x'inhuma l-għażliet
+can you help me find an afghan [ side ] {"entity": "food"} of town
+ipprova ħaġa differenti [ ħafna ] {"entity": "pricerange"} .
+[ ikel ] {"entity": "food"} ġdid jekk jogħġbok x'inhuma l għażliet
 l ebda ħadd ] {"entity": "name"} ma għandu jiddiskutih mal ħbieb [ tiegħi , tista' biss tieħu miegħi l kodiċi postali għall Ġerusalemm tal Ġerusalemm , jekk jogħġbok
 effettivament jistgħu jużaw xi grub
 is-sbuħija fiċ-ċentru tal-ikel
 għalxiex jintuża [ lebanese ] {"entity": "food"} ?
-iva jekk jogħġbok iktebni tabella għal 2
+iva jekk jogħġbok iktebni tabella għal [ 2 ] {"entity": "bookpeople"}
 kif għandek tgħaddi [ l aħbarijiet ] {"entity": "booktime"}
 nixtieq insib ħass ħażin li jservi [ ikel ] {"entity": "pricerange"} irħis
 jien qed infittex riċetta fiċ-ċentru tal-ikel
@@ -1243,39 +1243,39 @@ meta ssib xi ħaġa li tixtieq tagħmel riżerva għal 2
 i dont mind about the price range
 dik il-multa tista' tipprova tiskopriha
 kif [ taħżen ] {"entity":" booktime"}
-wieħed jista' jissuġġerixxi li jkun hemm tarf tal-ħass
-jien interessat [ fit Tramuntana ] {"entity":" area"} jista' jkollu l kodiċi postali u l indirizz tiegħu
+wieħed jista' jissuġġerixxi li jkun hemm [ tarf ] {"entity": "food"} tal ħass
+jien interessat [ fit ] {"entity":" area"} Tramuntana jista' jkollu l kodiċi postali u l indirizz tiegħu
 nixtieq insib xi ħaġa għalja
 żgur li jkun kbir
-iva jixtieq li jkun għamel għall-kliewi tiegħek?
+iva jixtieq li jkun għamel għall kliewi tiegħek [ ? ] {"entity": "bookday"}
 tista' tgħin biex [ tfittex ċelebrazzjoni ] {"entity":" name"} speċifika
-iva għal ] {"entity": "bookpeople"} 4 i se jkollha bżonn ukoll [ numru ta' referenza
-nixtieq ngħaddi għall-aħjar
+iva għal 4 i se jkollha bżonn ukoll numru ta' referenza
+nixtieq ngħaddi għall [ aħjar ] {"entity": "food"}
 kif jista' jkollok l-indirizz tiegħek jekk jogħġbok
 għalhekk wieħed jista' jgħinni nipprova nippratika gastronomija arterjali tal-belt.
 iva dwar il-medda tal-prezzijiet gastropub
-jixtieq li l-Ġermanja
-l-aħjar għall-familja tiegħi biss jieħu l-prezz
+jixtieq li l [ Ġermanja ] {"entity": "food"}
+l aħjar għall familja tiegħi biss jieħu l [ prezz ] {"entity": "pricerange"}
 minflok , l istudenti jippruvaw [ jgħaddu għall ] {"entity": "food"} ewwel darba
-fil-fatt nibdel moħħi, ħsibt li jrid inżomm mal-ħofra tal-belt
-tista' tipprova, minflok
+fil fatt nibdel moħħi , ħsibt li jrid inżomm [ mal ] {"entity": "food"} ħofra tal belt
+tista' tipprova , [ minflok ] {"entity": "name"}
 nixtieq nipprova nippratika l [ belt ta' oriġini ] {"entity":" name"}
-5.
+5 [ . ] {"entity": "bookpeople"}
 iva għal ħafna flus tal-belt
-effettivament għandek bżonn l ewwel waħda fuq il lista [ tiegħek ] {"entity": "pricerange"}
-tista' tikteb ħafna għal 5
+effettivament għandek bżonn l-ewwel waħda fuq il-lista tiegħek
+tista' tikteb ħafna għal [ 5 ] {"entity": "bookpeople"}
 hi tista' tgħinni nsir naf fiż żona [ taċ ċentru ] {"entity": "area"}
-im fil-kurrikulu għall-ikel tal-ġugarelli li huwa l-ġugarelli tiegħek
-tista' tikteb tabella għal 1
-x'jiġri fiċ-ċentru
-kif għandu jkun il post fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet
-ok tista' tikteb [ tabella għal ] {"entity": "bookpeople"} 6 i se jkollha bżonn numru ta' referenza jekk jogħġbok
+im fil kurrikulu għall [ ikel ] {"entity": "food"} tal ġugarelli li huwa l ġugarelli tiegħek
+tista' tikteb tabella għal [ 1 ] {"entity": "bookpeople"}
+x'jiġri fiċ [ ċentru ] {"entity": "area"}
+kif għandu jkun il post fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
+ok tista' tikteb tabella għal 6 i se jkollha bżonn numru ta' referenza jekk jogħġbok
 jien qed infittex pjaneta li sservi l-parti tal-belt ta' chinese
 jien qed infittex xi ħaġa [ għalja ] {"entity":" pricerange"}
 iva ħafna jekk jogħġbok ikteb tabella għal 3
-hemm xi ħaġa
+hemm xi [ ħaġa ] {"entity": "food"}
 jixtieq li jkollok prezz [ għoli ] {"entity": "pricerange"} jekk jogħġbok
-irridu nagħmlu kummerċ fil-każinò fit-tojlits
+irridu nagħmlu kummerċ fil każinò fit [ tojlits ] {"entity":" name"}
 nistgħu nagħmluha għal [ kulħadd ] {"entity":" booktime"}
 jien qed infittex ħafna flus jekk jogħġbok
 i i i [ i i ikel preferenzjali ] {"entity": "food"} kreattiv
@@ -1284,40 +1284,40 @@ għall-ħin jekk ikun disponibbli
 [ tryснабизация ] {"entity":" booktime"}
 it-tfittxija għal ħafna bliet
 i would prefer [ cheap ] {"entity": "pricerange"} restaurants
-assigura li jekk jogħġbok ikteb tabella hemmhekk 7
+assigura li jekk jogħġbok ikteb tabella hemmhekk [ 7 ] {"entity": "bookpeople"}
 ħarsa lejn il-ġenb ta' l-ibliet
-great id like a table at frankie and bennys
+great id like a table at frankie and [ bennys ] {"entity": "name"}
 kif għandek [ timxi ] {"entity": "booktime"} fl istess ħin
 għandek bżonn tgħin biex issib spiża jekk jogħġbok
-iva jixtieq ikel [ għall ġugarelli ] {"entity": "food"} fejn jista' jfittex tiġieġa kbira .
+iva jixtieq [ ikel għall ġugarelli ] {"entity": "food"} fejn jista' jfittex tiġieġa kbira .
 jixtieq jirreġistra d-dgħajsa tar-ross
 hemm xi ristoranti li jservu ikel ħanin xieraq fil-belt
-jekk ikun possibbli, ikteb
+[ jekk ] {"entity":" area"} ikun possibbli , ikteb
 għandek tagħtini [ l indirizz ] {"entity":" name"} tan numru tat telefon u l kodiċi postali għan noti jekk jogħġbok
 it-tfittxija għal post fuq il-medda tal-prezzijiet fin-nofsinhar
 it-tfittxija għal post fil-Lvant
-x'jiswa ħafna
+x'jiswa [ ħafna ] {"entity": "pricerange"}
 jixtieq li jkun hemm tabella fuq il-persuni anzjani
-għandhom ftuħ [ fuq ] {"entity": "booktime"} il kliewi għal 5 persuni
-iva qed infittex informazzjoni dwar [ belt li tissejjaħ il baħar ] {"entity":" name"}
-iva 5
-ma tistax tieħu ħsiebna fi [ 13 il sena wara ] {"entity": "booktime"} .
+għandhom ftuħ fuq il-kliewi għal 5 persuni
+iva qed infittex informazzjoni dwar belt li tissejjaħ il [ baħar ] {"entity":" name"}
+iva [ 5 ] {"entity": "bookpeople"}
+ma tistax tieħu ħsiebna fi [ 13 il sena wara . ] {"entity": "booktime"}
 i would like to find an expensive of town please
 il [ kura b'i dont ] {"entity":" food"} tagħżel għaliex tirrakkomanda
 għandek bżonn ta' iktar informazzjoni dwar is-sitwazzjoni.
 ifittex ċelebrazzjoni magħrufa bħala [ l Ġermanja ] {"entity":" name"}
-hemm ħafna flus fil-belt
+hemm ħafna [ flus ] {"entity": "pricerange"} fil belt
 il-ħatra tiegħek għar-ristoranti f'dan il-qasam li jservi għall-ħatra tiegħek tista' tagħtini xi suġġerimenti.
 ikun hemm xi ħaġa disponibbli fil [ Punent ] {"entity":" area"}
 kura i dont tal-belt
-iva għal 6 jekk jogħġbok kellek bżonn [ in numru ta' ] {"entity": "bookpeople"} referenza
+iva għal 6 jekk jogħġbok [ kellek ] {"entity": "bookpeople"} bżonn in numru ta' referenza
 it-tfittxija għal post għall-ikel li jservi firxa ta' prezzijiet ħorox
 the oak bistro of us
-hemm xi [ ristoranti ] {"entity": "pricerange"} għalja fil belt
-jippreferi ħolma fil [ parti tal punent ] {"entity": "area"} tal belt
-il-proċess ta' paċi fil-Ġeorġja
+hemm xi ristoranti għalja fil-belt
+jippreferi ħolma fil parti tal [ punent ] {"entity": "area"} tal belt
+il proċess ta' paċi fil [ Ġeorġja ] {"entity": "pricerange"}
 iva għall [ chinese ] {"entity":" food"}
 Fil-fatt, l-i dont għandu bżonn drittta' riżerva issa li l-informazzjoni ta' kuljum kienet kollha meħtieġa permezz tal-għajnuna tiegħek.
-il-ġimgħa t-tajba huma kwalunkwe spiża
+il ġimgħa t tajba huma kwalunkwe [ spiża ] {"entity": "pricerange"}
 ma tistax tagħżel waħda għalija u tipprovdili bil-kodiċi postali
 waite li ħassieba tkun trid tifwieq imħawwad b'dan il-mod

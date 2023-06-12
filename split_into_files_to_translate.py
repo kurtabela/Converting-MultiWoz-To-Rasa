@@ -231,9 +231,9 @@ def extract_fast_align_results(translate_dir, totranslate_dir):
                                         continue
 
 
-nlu("converted_files/data/nlu.yml")
-nlg("totranslate/domain.yml")
-#
+# nlu("converted_files/data/nlu.yml")
+# nlg("totranslate/domain.yml")
+# #
 # # Translate and put back in ./translated
 pass_to_fast_align("./translated", "./totranslate")
 

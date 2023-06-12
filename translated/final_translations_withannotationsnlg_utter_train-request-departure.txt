@@ -93,7 +93,7 @@ u fejn ser titbiegħed minn
 nixtieq ngħinlek b'dak fejn tkun il-post tat-tluq tiegħek
 u fejn qed tħalli l-
 fejn ser titlaq u tasal minn
-fejn ser titbiegħed u liema ħin tixtieq tivvjaġġa fuq ix-xemx
+fejn ser ] {"entity":" day"} titbiegħed u liema ħin tixtieq tivvjaġġa fuq [ ix xemx
 x'inhu l-istazzjon tat-tluq tiegħek
 id-destinazzjoni mixtieqa tiegħek
 sure i can help you with that what is your place of departure

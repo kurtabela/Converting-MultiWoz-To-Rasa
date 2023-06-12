@@ -2,51 +2,51 @@ i dont have anything with that criteria can we try a different area
 sfortunatament m'hemm l ebda [ mħażen ] {"entity": "type"} li jidħlu f'dik id deskrizzjoni
 jien miżżewweġ iżda m'għandekx xi ħaġa li tixtieq tibdel il-post jew it-tip ta' akkomodazzjonijiet
 il-parti ċentrali tal-belt tkun tixtieq tipprova parti differenti tal-belt
-sfortunatament m'hemm l ebda żona baxxa [ ] {"entity": "type"}
+sfortunatament m'hemm l-ebda żona baxxa
 tista' tgħin biex issib xi ħaġa oħra
 b'xorti ħażina nistgħu insibu xi ħaġa li taqbel mat-talba tiegħek għandna nħarsu lejn xi ħaġa li tkun ħaġa iktar għolja
 ma kienx kapaċijsib xi ħaġa [ li ] {"entity": "type"} taqbel ma' dak ir rekwiżit hemm xi ħaġa li tixtieq tipprova
 i dont għandha kwalunkwe ħaġa f'dak il-qasam li tista' tħares lejha.
-i do not have 4 in that [ area can ] {"entity": "stars"} i try something else
-għalkemm m'hemm l ebda post [ għall ipparkjar ] {"entity": "type"} ħieles , forsi jkun hemm bżonn ta' tip jew firxa ta' prezzijiet differenti .
-ma hemm l ebda stilla baxxa [ u ] {"entity": "pricerange"} l ipparkjar ħieles irid jipprova firxa ta' prezzijiet differenti .
+i do not have 4 in that area can i try something else
+għalkemm m'hemm l-ebda post għall-ipparkjar ħieles, forsi jkun hemm bżonn ta' tip jew firxa ta' prezzijiet differenti.
+ma hemm l ebda [ stilla baxxa ] {"entity": "pricerange"} u l ipparkjar ħieles irid jipprova firxa ta' prezzijiet differenti .
 i dont għandek kwalunkwe spiża elenkata tixtieq tipprova medda ta' prezzijiet differenti jew lukanda minflok
-ma hemm [ l ebda ] {"entity": "type"} lukanda li tissodisfa r rekwiżiti tiegħek
-sfortunatament m'hemm l-ebda spiża li tista' tiċċekkja żona oħra jekk tixtieq
+ma hemm l ebda lukanda [ li ] {"entity": "type"} tissodisfa r rekwiżiti tiegħek
+sfortunatament m'hemm l ebda [ spiża ] {"entity": "pricerange"} li tista' tiċċekkja żona oħra jekk tixtieq
 jien terribli nibqa' l-ebda kamra minflok
-ma hemm l ebda [ spiża fil ] {"entity": "pricerange"} qasam li nistgħu nħarsu lejha b'mod moderat .
+ma hemm l [ ebda ] {"entity": "pricerange"} spiża fil qasam li nistgħu nħarsu lejha b'mod moderat .
 il-Ġermanja ma tistax issib xi ħaġa li trid tibdel għal xi Ħadd
 i dont ara kwalunkwe elenkar li jaqbel mat-tfittxija tiegħek tixtieq tibdel il-medda tal-prezzijiet jew it-tip
-ma jkun hemm l ebda spiża biżżejjed biex [ il ] {"entity": "pricerange"} kamra tkun ipprezzata b'mod moderat .
+ma jkun hemm l ebda spiża biżżejjed [ biex ] {"entity": "pricerange"} il kamra tkun ipprezzata b'mod moderat .
 aħna m'għandniex xi ħaġa li taqbel mat-tfittxija tiegħek tixtieq tipprova xi ħaġa oħra
 għalkemm ma teżisti l-ebda medda ta' prezzijiet fil-bini, tista' tgħinlek b'kull ħaġa
 sfortunatament xejn ma jissodisfa dak il-kriterju
 iżda ma għandekx 5 x'tixtieq twessa' l-kriterji tiegħek.
-ma hemm l ebda spiża bi ħlas [ ] {"entity": "pricerange"}
-l ebda ħaġa ħażina iżda , kif intqal , [ m'hemm ] {"entity": "type"} l ebda elenkar ta' mħażen x'jista' jagħmel għalik
-ma hemm xejn li jista' jbiddel il-kriterji tiegħek.
-i was unable to find any 2 do [ you have ] {"entity": "stars"} another preference
+ma hemm l ebda [ spiża ] {"entity": "pricerange"} bi ħlas
+l ebda ] {"entity": "type"} ħaġa ħażina iżda , kif intqal [ , m'hemm l ebda elenkar ta' mħażen x'jista' jagħmel għalik
+ma hemm xejn li [ jista' ] {"entity":" pricerange"} jbiddel il kriterji tiegħek .
+i was unable to find any 2 do you have another preference
 sfortunatament m'hemm l ebda [ skoperta ] {"entity": "type"} li taqbel mal kriterji tiegħek li jridu jikkunsidraw żoni oħra ta' bliet jew firxa ta' prezzijiet differenti
-ma hemm l-ebda mħażen għall-ipparkjar ħieles
-b'xorti ħażina [ ma ] {"entity": "type"} hemm l ebda kworum disponibbli bil preferenzi tiegħek li tixtieq li ssib waħda f'firxa ta' prezzijiet jew f'qasam differenti .
+ma hemm l ebda [ mħażen ] {"entity": "type"} għall ipparkjar ħieles
+b'xorti ħażina ma hemm l-ebda kworum disponibbli bil-preferenzi tiegħek li tixtieq li ssib waħda f'firxa ta' prezzijiet jew f'qasam differenti.
 b'xorti ħażina tista' tħares lejn firxa oħra ta' prezzijiet forsi
-ma hemm l ebda 4 li jissodisfaw il [ kriterji tiegħek ] {"entity":" stars"} għandhom niċċekkjaw 5star post minflok
+ma hemm l ebda 4 li [ jissodisfaw ] {"entity":" stars"} il kriterji tiegħek għandhom niċċekkjaw 5star post minflok
 b'xorti ħażina ssib kwalunkwe ħaġa [ b'5 ] {"entity": "stars"} stilel
-sfortunatament i dont juru kwalunkwe klassifikazzjoni ta' stilla baxxa jistgħu jħarsu lejn firxa ta' prezzijiet jew klassifikazzjoni ta' stilla differenti għalik
+sfortunatament i dont juru kwalunkwe klassifikazzjoni ta' [ stilla baxxa ] {"entity": "pricerange"} jistgħu jħarsu lejn firxa ta' prezzijiet jew klassifikazzjoni ta' stilla differenti għalik
 ikun hemm xi ħaġa imminenti li taqbel ma' dawk ir-rekwiżiti tista' tħares lejn xi ħaġa oħra
 b'xorti ħażina nara kull ħaġa li tissodisfa l-ħtiġijiet tiegħek tixtieq li tipprova żona oħra.
 i dont ara kwalunkwe 4 pinen tal-lamtu jew żona oħra
 tista' tfittex li terġa' tfittex xi ħaġa li tissodisfa l-kriterji tiegħek.
 żgur li għandna l ebda [ kamra ] {"entity": "type"} f'dik il medda ta' prezzijiet li tista' toffrilkom xi ħaġa minflok
-sfortunatament l ebda wieħed [ mill ] {"entity": "pricerange"} każinò rħis ma jippreferi jipprova jkollu firxa ta' prezzijiet differenti jew imur b'vawċer mingħajr ħelsien .
+sfortunatament l ebda [ wieħed mill ] {"entity": "pricerange"} każinò rħis ma jippreferi jipprova jkollu firxa ta' prezzijiet differenti jew imur b'vawċer mingħajr ħelsien .
 m'hemmx 4 minflok
 there are no results is there another area we can search or a different price range
-l [ I dont għandhom kamra ] {"entity": "type"}
+l I dont għandhom [ kamra ] {"entity": "type"}
 jien ma nsibx xi ħaġa li tixtieq tibdel it-tfittxija tiegħek
-ma hemm l ebda twaħħil ta din [ id ] {"entity": "stars"} deskrizzjoni xi ħaġa oħra
+ma hemm l-ebda twaħħil ta" din id-deskrizzjoni xi ħaġa oħra
 ir rekords tagħna juru li [ l ] {"entity":" type"} kuntentizza
-ma għandhom l-ebda spiża li toffri ħlas ħieles
-there are no 3 shall we check [ 4star ] {"entity":" stars"} locations instead
-l-ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel L-Ewwel
-iva, żgur li ma jkun hemm l-ebda ħaġa oħra fis-sistema tagħna
+ma għandhom l ebda spiża li [ toffri ] {"entity": "pricerange"} ħlas ħieles
+there are no 3 shall we check 4star locations instead
+l ewwel L Ewwel [ L Ewwel L Ewwel L Ewwel ] {"entity": "pricerange"} L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel L Ewwel
+iva , żgur ] {"entity": "name"} li ma jkun hemm l ebda [ ħaġa oħra fis sistema tagħna
 l-I dont għandhom kwalunkwe ħaġa f'dik il-kategorija jistgħu niċċekkjaw xi ħaġa

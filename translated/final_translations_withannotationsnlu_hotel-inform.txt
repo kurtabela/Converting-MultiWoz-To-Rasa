@@ -1,16 +1,16 @@
 it [ tfittxija ] {"entity": "type"} għal post ta' żjara jeħtieġ li jkun post ta' kenn u jinkludi post ħieles
 i would like for it to be [ cheap ] {"entity": "pricerange"} and include free parking
 nothing in particular i just need it booked for 6 id also like the reference number please
-għal sitta
+għal [ sitta ] {"entity":" bookpeople"}
 għandek bżonn issib vawċer tal istil [ tal ] {"entity": "type"} ħajja f'kamra jekk jogħġbok
 x'inhi l [ klassifikazzjoni ] {"entity":" stars"} tal stilla tiegħu li qed ifittex post b'stilla ta' 0
 li wieħed għandu l-ipparkjar u l-ipparkjar bla ħlas se jkollu bżonn firxa u żona tal-prezz tan-numru tat-telefon ukoll jekk jogħġbok
-għandna bżonn ukoll li nippreservaw
+għandna bżonn ukoll li [ nippreservaw ] {"entity": "type"}
 l-ebda medda ta' prezzijiet ma jrid ikollha l-internet għalkemm
 huma l-kmamar jew il-kmamar kollha
 jekk jogħġbok żgur li jista' jkollok waħda b'saħħitha jekk jogħġbok
-no just book me rooms for six nights
-tista' tniżżel miegħi kamra għal lejl wieħed minflok
+no just book me rooms for [ six ] {"entity":" bookpeople"} nights
+tista' tniżżel miegħi kamra għal [ lejl ] {"entity": "bookstay"} wieħed minflok
 għandek tiġbed ukoll [ l attenzjoni tiegħek għall ] {"entity": "type"} fatt li tista' tivvjaġġa bejn il vawċer u l vawċer .
 i will be departing from the [ hotel ] {"entity": "type"} and going to the Italian i need to be there in time for my reservation
 l-MEPs huma mistennija jadottaw riżoluzzjoni dwar is-sitwazzjoni fil-Lvant Nofsani.
@@ -20,28 +20,28 @@ wieħed jista' jiżgura li għal 5 jifhem ukoll li jibgħatli n-numru ta' refere
 iva għandek bżonn ukoll kamra tal-lukandi b'ħanut ħieles ukoll fiċ-ċentru tiegħek jekk jogħġbok
 jien qed infittex [ lukanda ] {"entity":" type"}
 fil-fatt għandu bżonn post li għandu ħieles u jinsab fin-nofsinhar mhux ġewwa ċ-ċentru
-tajjeb li wieħed jiftakar li tista' jekk jogħġbok iktebni taxi biex toħroġ miċ-ċentru tal-belt fil-lukanda tiegħi
+tajjeb li wieħed jiftakar li tista' jekk jogħġbok [ iktebni ] {"entity": "departure"} taxi biex toħroġ miċ ċentru tal belt fil lukanda tiegħi
 [ i ] {"entity":" area"} għandhom bżonn post biex jibqgħu jixtiequ fl istess medda ta' prezzijiet bħall Ħonduras b'ħieles u parkeġġ li jinsabu fil Lvant
 iva jekk jogħġbok ikteb dan għal żewġt iljieli se tagħtina n-numru tal-konferma meta dan ikun komplut.
-għandek tgħin ] {"entity":" name"} biex issib l [ istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment .
+għandek tgħin biex issib l [ istabbiliment tal istabbiliment tal ] {"entity":" name"} istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment .
 għalkemm għad hemm ħafna flus għall-bliet
 għandek vojt fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet
-dak il-proċess iva, jekk jogħġbok ikteb kamra għal 3
+[ dak ] {"entity": "bookpeople"} il proċess iva , jekk jogħġbok ikteb kamra għal 3
 kif għandek biss [ tgħaddi ] {"entity":" bookstay"} lejl
 it tfittxija għal post li jkun jixtieq jibqa' [ f'kamra ] {"entity": "type"} li jkollha bżonn tinkludi l internet
 hija li fl [ għoljiet ] {"entity":" area"} tal belt għandna bżonn inkunu fil gżira
-iva jekk jogħġbok agħmel ir riżerva tiegħi ] {"entity":" name"} [ f'qiegħ il bastiment tat tbaħħir u f'qiegħ il bastiment
+iva jekk jogħġbok agħmel ir riżerva tiegħi ] {"entity":" name"} f'qiegħ il [ bastiment tat tbaħħir u f'qiegħ il bastiment
 iva qed infittex ukoll vawċer imsejjaħ [ gonvillean ] {"entity":" name"}
 iva jekk jogħġbok se niċċekkja wara li nkun [ iċċekkjajna ] {"entity":" bookstay"} fuq l istandard ta' l irqad u nibqgħu għal ħamest iljieli .
-jien qed [ nipprova nistaqsi lil ] {"entity":" name"} xi ħadd fil pont imsejjaħ l istituzzjoni tal ivvjaġġar għall ivvjaġġar
+jien qed nipprova nistaqsi [ lil xi ] {"entity":" name"} ħadd fil pont imsejjaħ l istituzzjoni tal ivvjaġġar għall ivvjaġġar
 iva nixtieq infakkar għal 5 persuni li jista' jkollhom in-numru ta' referenza
 jien qed infittex vawċer [ irħis ] {"entity": "pricerange"} b'ipparkjar ħieles ħdejn il pont tal baħar
 nixtieq li nibqgħu viċin [ iż ] {"entity": "stars"} żona tal Ħonduras iżda l Ħonduras għandu jkun ta' 3 stilli
 hemm xi [ lamtu ] {"entity": "pricerange"} moderat bl ipparkjar ħieles
 kif wieħed jista' jlaħħaq mal [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
-i dont għandhom preferenza
+i dont [ għandhom preferenza ] {"entity":" area"}
 im also looking for a hotel
-xi ħaġa fil-firxa tal-prezzijiet irħas inkluż ipparkjar b'xejn
+xi ħaġa fil [ firxa ] {"entity": "pricerange"} tal prezzijiet irħas inkluż ipparkjar b'xejn
 nixtieq nippreżenta kuntratt viċin il-ħbieb tagħna hawnhekk fiċ-ċentru u nipparkja b'xejn
 iva jekk jogħġbok il-grupp tagħna ta' 7
 jien qed infittex ukoll il [ kworum ] {"entity": "type"} biex nibqgħu fuq dak li jinkludi l ipparkjar ħieles x'inhu disponibbli
@@ -49,21 +49,21 @@ effettivament iħarsu lejn [ il kworum ] {"entity": "type"} u fl istess medda ta
 iva għandek bżonn [ vawċer ] {"entity": "type"} fl istess medda ta' prezzijiet bħall vawċer b'ipparkjar ħieles
 tista' tagħtih l-ewwel waħda u l-klassifikazzjoni tal-stilla għaliha jekk ikollha bżonn ta' parkeġġ ħieles
 għandu l-ipparkjar ħieles għal inn waqt il-vaganzi
-iva [ wkoll se jkolli bżonn ta' taxi biex nifhem ] {"entity": "type"} bejn il lukanda u l proponent i se jkollha bżonn ta' numru ta' kuntatt u tip ta' karozza mal lukanda
-mhux f'dan il ħin qed infittex 3 għalkemm [ l ebda ] {"entity":" stars"} kamra
+iva [ wkoll ] {"entity": "type"} se jkolli bżonn ta' taxi biex nifhem bejn il lukanda u l proponent i se jkollha bżonn ta' numru ta' kuntatt u tip ta' karozza mal lukanda
+mhux f'dan il-ħin qed infittex 3 għalkemm l-ebda kamra
 għadu mhux il-vjaġġ gonville fl-istess medda ta" prezzijiet bħall-vjaġġ gonville
-tista' tniżżel kamra għal 2
+tista' tniżżel kamra għal [ 2 ] {"entity": "bookstay"}
 tista' tipprova għal lejl [ wieħed ] {"entity":" bookstay"} jekk dak ix xogħol jekk jogħġbok ikteb in numru ta' referenza
 i għandhom bżonn ukoll [ kworum ] {"entity": "type"} fl istess medda ta' prezzijiet bħall ġugarelli
 i would like something that is [ 2 ] {"entity": "stars"} stars and includes free parking
 tista' tikteb kamra għal 2 jekk jogħġbok
 sure lets try that instead
-iva għandek bżonn ta' żewġ prezzijiet b'ipparkjar ħieles
+iva għandek bżonn ta' żewġ [ prezzijiet ] {"entity": "stars"} b'ipparkjar ħieles
 i għandek bżonn ukoll vawċer b'ipparkjar ħieles u ħieles
-i jippreferu kamra
+i jippreferu [ kamra ] {"entity":" type"}
 tista' tgħidli l-stilla tal-vawċer
 iva , jekk jogħġbok , f'post fejn toqgħod vawċer' [ il ] {"entity": "type"} fuq
-nippreferu li nippreferu li nibqgħu [ f'vawċer ] {"entity": "type"} minflok f'kamra li jkollhom bżonn ukoll ipparkjar ħieles .
+nippreferu li nippreferu li nibqgħu f'vawċer minflok f'kamra li jkollhom bżonn ukoll ipparkjar ħieles.
 għandu ipparkjar b'xejn u l-internet
 it tfittxija għal lukanda msejħa [ acorn mars house ] {"entity":" name"}
 do they have free parking i will need that
@@ -79,10 +79,10 @@ jien qed infittex informazzjoni dwar il partitarju [ responsabbli għall ġlied 
 i just would like to book it for 2 please give me reference number
 jien qed inħares lejn xi ħaġa msejħa l [ elettrikuaddai ] {"entity": "name"} fil maqtugħ
 x'inhi l-klassifikazzjoni ta" dan il-vawċer
-tista' tgħini wkoll b'informazzjoni dwar il-lukanda
+tista' tgħini wkoll b'informazzjoni dwar il [ lukanda ] {"entity": "type"}
 i would need to book the hotel for 6 as well
 effettivament jixtieq jiġbed l-attenzjoni għall-fatt li l-vaganzi għal żewġt iljieli għandhom bżonn ukoll numru ta' referenza
-l ebda pass' il quddiem u l [ ebda ] {"entity":" pricerange"} ktieb aktar tard ma nħarsu lejn kamra li tkun moderata bi prezz baxx .
+l ebda pass' il quddiem u l [ ebda ktieb aktar ] {"entity":" pricerange"} tard ma nħarsu lejn kamra li tkun moderata bi prezz baxx .
 il post m'għandux [ għalfejn ikollu ] {"entity": "area"} parkeġġ ħieles għandu jinkludi ħieles u għandu jkun fiċ ċentru tal belt
 jien qed infittex ukoll ċertu rigal fiż-żona li qed tissejjaħ il-każinò, għandek informazzjoni dwar dan
 tista' tara jekk għandekx kmamar disponibbli għal 7 lejl
@@ -96,15 +96,15 @@ fejn jinsab il-vawċer
 il-Ġimgħa d-dieħla u l-Ġimgħa d-19 ta' Marzu
 il [ proponent ] {"entity":" area"}
 għandu parkeġġ ħieles
-iva jekk jogħġbok 5 bħala l-ferrovija
+iva jekk jogħġbok 5 [ bħala ] {"entity": "bookpeople"} l ferrovija
 iva jekk jogħġbok jeħtieġ post biex nibqa' b'ipparkjar bla ħlas u bla ħlas
-l ebda ] {"entity": "area"} id fil fatt ma tippreferi li tibqa [ fuq il medda tal prezz baxx id ukoll bħall ipparkjar u l ipparkjar bla ħlas jekk ikun possibbli
-iva li l ferrovija tagħmel tajjeb [ jekk ] {"entity": "pricerange"} jogħġbok ikteb għalija tista' ssibni wkoll vawċer bi prezz moderat li joffri l internet .
-it-Tramuntana
-iva [ , jekk jogħġbok ] {"entity": "bookpeople"} , nixtieq nippreżentaha għal 7 u neħtieġ numru ta' referenza
+l-ebda id fil-fatt ma tippreferi li tibqa" fuq il-medda tal-prezz baxx id ukoll bħall-ipparkjar u l-ipparkjar bla ħlas jekk ikun possibbli
+iva li l ferrovija tagħmel [ tajjeb jekk ] {"entity": "pricerange"} jogħġbok ikteb għalija tista' ssibni wkoll vawċer bi prezz moderat li joffri l internet .
+it [ Tramuntana ] {"entity": "area"}
+iva, jekk jogħġbok, nixtieq nippreżentaha għal 7 u neħtieġ numru ta' referenza
 iva jekk jogħġbok ipprova jirreġistrah għal [ erbat ] {"entity":" bookstay"} iljieli minflok
 mistoqsija li tista' tgħini biex issib vawċer ukoll
-id bħal vawċer fil [ medda moderata ] {"entity": "pricerange"} ta prezzijiet b żraben ħielsa
+id bħal vawċer fil medda [ moderata ] {"entity": "pricerange"} ta prezzijiet b żraben ħielsa
 X'għandek timxi ma' [ 0 ] {"entity": "stars"} stillti
 iva għal wieħed jekk jogħġbok ipprovdi numru ta" referenza
 jien qed infittex [ lukanda ] {"entity": "type"} li tinkludi ħieles
@@ -115,30 +115,30 @@ i jippreferi post b'stilla ta' [ 4 ] {"entity": "stars"} li tinkludi l ipparkjar
 nixtieq vawċer moderat b'żebgħa u pparkjar ħieles
 is-sitwazzjoni fil-Ġeorġja
 għandek [ tħares ] {"entity": "type"} lejn post fejn toqgħod i tixtieq li jkun hemm kamra li tinkludi post ħieles .
-kemm huwa [ rħis ] {"entity":" pricerange"} l aktar
-aħna se nibqgħu hemmhekk nibdew [ ix xemx ] {"entity":" bookday"}
+kemm huwa [ rħis l ] {"entity":" pricerange"} aktar
+aħna se nibqgħu hemmhekk nibdew ix [ xemx ] {"entity":" bookday"}
 i għandek bżonn għal [ 3 ] {"entity": "bookpeople"} persuni
-għal xiex jintuża [ 1 ] {"entity": "bookstay"} lejl ?
+għal xiex jintuża [ 1 lejl ] {"entity": "bookstay"} ?
 jien qed infittex post biex nibqa' fil-pont i se jkollu bżonn ta' parkeġġ ħieles
-kif tista' tiġi kklassifikata xi klassifikazzjoni ta' stilla għalja
+kif tista' tiġi kklassifikata xi klassifikazzjoni [ ta' ] {"entity": "pricerange"} stilla għalja
 effettivament iħarsu lejn lamti tas-serra u l-ipparkjar ħieles
 jeħtieġ li nsib post biex nibqa' bi klassifikazzjoni ta' [ 3 ] {"entity": "stars"} stilli b'ipparkjar ħieles
 tista' ssibni wieħed li jkun [ baxx ] {"entity":" pricerange"}
 could you give me the lowest price of the 6 hotels currently available
 x'inhu [ lamtu ] {"entity": "pricerange"} baxx
-x'inhi ż żona li [ fiha ] {"entity": "name"} jkollhom id fuq l internet ukoll bħan numru tat telefown tagħhom
+x'inhi ż żona li [ fiha jkollhom id fuq ] {"entity": "name"} l internet ukoll bħan numru tat telefown tagħhom
 taf jekk il-proprjetà toffrix ipparkjar ħieles
 i għandek bżonn waħda kuntenti bil-parkeġġ ħieles
-i għandek bżonn spiża [ li ] {"entity": "pricerange"} tinkludi parkeġġ b'xejn
+i għandek bżonn spiża li tinkludi parkeġġ b'xejn
 għandek bżonn ta' numru ta' referenza jekk jogħġbok
 [ kienu ] {"entity": "bookpeople"} kapaċijirreġistraw l espressjoni ta' inn waqt il vaganza għal 4 persuni
-i amlooking for a place to stay could you find me a place in the centre
+i amlooking for a place [ to ] {"entity": "area"} stay could you find me a place in the centre
 għandu bżonn ikollu ipparkjar b'xejn u b'xejn joffri wieħed minnhom it-tnejn
 iva għandna bżonn ta' parkeġġ ħieles
 kura tas-saħħa madwar id-dinja, iżda tixtieq li jkun hemm dar għall-ġugarelli jekk jogħġbok
 i would like something with at least [ three ] {"entity":" stars"} stars
 dan għandu jkun kbir għal 2 jekk jogħġbok
-iva jekk jogħġbok , x'inhu l ħin tal ivvjaġġar [ , ] {"entity": "type"} għandek bżonn ukoll ta' firxa wiesgħa ta' prezzijiet , tista' tgħini b'dan ukoll .
+iva jekk jogħġbok, x'inhu l-ħin tal-ivvjaġġar, għandek bżonn ukoll ta' firxa wiesgħa ta' prezzijiet, tista' tgħini b'dan ukoll.
 iva bħal żewġt ibliet
 iva nixtieq nippreżentaha għal 3 iljieli
 jien qed infittex lukanda [ moderata ] {"entity":" pricerange"} bi prezzijiet għoljin li tinkludi l ipparkjar ħieles
@@ -151,8 +151,8 @@ there arent any 3 ly priced
 i [ amnot particular ] {"entity":" area"} where are they located
 i would like whichever one is [ cheap ] {"entity":" pricerange"} est please
 l-ebda ħaġa li tkun ħaġa tajba ma tagħmilha ħażina.
-l ebda ] {"entity":" stars"} ħaġa jekk ma jkunx hemm xi ħaġa [ bi prezz ta' 3 ly bl ipparkjar ħieles imbagħad ma jkun hemm xejn għalija .
-hija l [ ħażna tal ħażna ] {"entity": "name"} tal ħażna tal ħażna jew tal ħażna tal ħażna tal ħażna
+l-ebda ħaġa jekk ma jkunx hemm xi ħaġa bi prezz ta' 3 ly bl-ipparkjar ħieles imbagħad ma jkun hemm xejn għalija.
+hija l [ ħażna tal ħażna tal ħażna tal ] {"entity": "name"} ħażna jew tal ħażna tal ħażna tal ħażna
 dak il-transitu
 imxi' l quddiem u agħmel riżerva jekk jogħġbok
 i would like to stay for [ 2 ] {"entity": "bookstay"} days and it will just be me
@@ -161,29 +161,29 @@ il-vaganzi għandhom ikunu rħas u bla ħlas
 hija dik il-persuna misjuba ħatja jew maħtura
 hi tfittex post fejn toqgħod u għandha [ prezzijiet ] {"entity": "pricerange"} moderati u għandha ħieles jekk jogħġbok
 nixtieq nibqa' ħieles li għandu parkeġġ ħieles
-tfittxija għal vawċer li għandu klassifikazzjoni ta' stilla ta' [ 2 ] {"entity": "stars"} klassifikazzjonijiet ta' stilla
+tfittxija għal vawċer li għandu klassifikazzjoni ta' stilla ta' 2 klassifikazzjonijiet ta' stilla
 u jiġifieri
 grazzi iva , jeħtieġ ukoll li nsib [ kamra ] {"entity": "type"} għall waqfa tiegħi hemmhekk
 iż-żona għandha tkun iċ-ċentru u għandu jkollha parkeġġ ħieles
 l artijiet imorru mal [ qiegħ tas saqajn u l ħwejjeġ ] {"entity":" name"}
 jien qed infittex lukanda partikolari msejħa [ Ħabs ] {"entity":" name"}
-kbir nista' nirreġistra għal 6
-tista' tkun interessata li tibqa' fil lejl tal ħabs [ jekk ] {"entity": "name"} ma nistgħux insibu rigal ieħor disponibbli għal waqfa ta' 3 iljieli għal 6 snin
+kbir nista' nirreġistra għal [ 6 ] {"entity": "bookpeople"}
+tista' tkun interessata li tibqa' fil [ lejl ] {"entity": "name"} tal ħabs jekk ma nistgħux insibu rigal ieħor disponibbli għal waqfa ta' 3 iljieli għal 6 snin
 iħares lejn il [ Ħabs ] {"entity": "name"} il pjanura tiegħu
 għandek bżonn tirreġistra kamra għal 6 jekk jogħġbok
 tista' tipprova [ lejl ] {"entity": "bookstay"} wieħed
 ħarsa lejn 2
 mhux tabilħaqq u jinkludi l-ikel ħieles
-iva għal [ żewġt ] {"entity":" bookstay"} iljieli jekk jogħġbok
+iva għal [ żewġt iljieli ] {"entity":" bookstay"} jekk jogħġbok
 i għandek bżonn in numru tat telefon għall [ vawċer ] {"entity": "type"} jekk jogħġbok
 għandek bżonn ukoll ta' stilla kuntrarja
-għidni dwar dawk lejn it-Tramuntana u mhux dwar il-Ħarifa
+għidni dwar dawk lejn it Tramuntana u mhux [ dwar il ] {"entity":" area"} Ħarifa
 l-ebda persuna ma tista' tikteb waħda minnhom għalija għal 4.
 iva im ] {"entity": "name"} interested f'vawċer imsejjaħ [ qiegħ il Ġugarelli u l Ġugarelli tista' tgħidli dwar dak li
 iva għal 7 iljieli
 it-tfittxija għal post fejn wieħed joqgħod jippreferi ċ-ċentru
-l ebda ħaġa ma teħtieġ waħda għalja [ b'4 ] {"entity": "stars"} stilli i dont care dwar iż żona tista' terġa' tiċċekkja għalija .
-għandek stilli baxxi disponibbli
+l ebda ħaġa ma teħtieġ waħda għalja [ b'4 stilli ] {"entity": "stars"} i dont care dwar iż żona tista' terġa' tiċċekkja għalija .
+għandek stilli [ baxxi ] {"entity": "pricerange"} disponibbli
 tista' tniżżel waħda fiċ-ċentru
 tista' tispjega għal lejl [ wieħed ] {"entity":" bookstay"} minflok
 iħares ukoll lejn [ is sit ta' carolina u ] {"entity":" name"} jikkwota x'inhi din iż żona
@@ -193,72 +193,72 @@ jekk jogħġbok iktebni ftit kmamar għall-armi universitarji, tista' tipprovdil
 tista' wkoll tgħinni b'post biex wieħed jibqa' l [ imħallef ] {"entity":" name"} għal din il ġimgħa , imsejjaħ Il Ġimgħa l Kbira
 iva għal 4
 can you ] {"entity": "name"} help me book a reservation at the [ warkworth house hotel
-għalija u għalija ħażina għal tliet snin
+għalija u għalija ħażina għal tliet [ snin ] {"entity":" bookstay"}
 kif jaħdem [ 2 ] {"entity": "bookstay"} iljieli
 could you give me the address for the cambridge punter
 din toffri l-internet b'xejn għal kulħadd
 iva jekk jogħġbok se jkollok bżonn il-vaganza għal 4 iljieli.
-jien qed infittex [ xi ] {"entity": "pricerange"} ħaġa li tinkludi l ipparkjar ħieles u r rati baxxi fiż żona ta' l ivvjaġġar
+jien qed infittex xi ħaġa li tinkludi l-ipparkjar ħieles u r-rati baxxi fiż-żona ta' l-ivvjaġġar
 sure id bħala [ kamra ] {"entity":" type"}
 i [ dont care ] {"entity":" area"} jekk jogħġbok ikteb wieħed li tirrakkomanda
-i għandek bżonn għal 8
+i għandek bżonn għal [ 8 ] {"entity": "bookpeople"}
 żgur li ma tistax issib il [ miżata tad dħul ] {"entity":" name"} għalija u jien qed infittex ukoll għall kmamar tal pont
 iva nixtieq infakkar waqfa għal lejl wieħed
 jixtieq isib kamra waħda
 imbagħad għandek bżonn ta' klassifikazzjoni ta' stilla qawwija
 jixtieq li jkun hemm lamti tas-serer u jinkludi l-ipparkjar ħieles
-Iva, iktebha għal 5
+Iva , iktebha għal [ 5 ] {"entity": "bookpeople"}
 jekk nipprovaw [ żewġt ] {"entity":" bookstay"} iljieli
-ir riżultati tal votazzjonijiet li ttieħdu matul is seduta [ plenarja ] {"entity":" name"} li għaddiet jinsabu fis sit tas servizz tal Parlament Ewropew .
+ir riżultati ] {"entity":" name"} tal votazzjonijiet li ttieħdu matul is [ seduta plenarja li għaddiet jinsabu fis sit tas servizz tal Parlament Ewropew .
 iva nixtieq nippreżentaha għal 3
 jixtieq isir jaf fejn ikun jekk jogħġbok [ imla ] {"entity": "name"} l elettrikuaddaaddaaddaaddai
-jeħtieġ li nsib post fejn [ noqgħod ] {"entity":" pricerange"} li jinkludi parkeġġ b'xejn u li jkun bi prezz moderat .
+jeħtieġ li nsib post [ fejn ] {"entity":" pricerange"} noqgħod li jinkludi parkeġġ b'xejn u li jkun bi prezz moderat .
 l-ebda preferenza ta' stilla iżda nixtieq li tkun tip triplu
 għalhekk [ il Parlament Ewropew ] {"entity": "name"} għandu jadotta l pożizzjoni tiegħu dwar il futur ta' l Ewropa .
 id be staying for [ 3 ] {"entity": "bookstay"} nights
 riżultati tal [ votazzjonijiet ] {"entity":" bookday"}
-[ iva għandek ] {"entity": "name"} is smigħ tiegħek fuq il vawċer tat tip hob dan il vawċer
+iva għandek is ] {"entity": "name"} smigħ tiegħek fuq il vawċer tat [ tip hob dan il vawċer
 iva jekk jogħġbok iktebni kamra għal 4 ġeneri totali i għandek bżonn ukoll numru ta' referenza jekk jogħġbok
 jien qed infittex post biex nibqa' fil-pont li huwa 3.
-do those both have 3
+do those both have [ 3 ] {"entity": "stars"}
 il-Ġermanja tista' tgħinni nsib vawċer
-jien ma rċevejt l ebda lista ta' [ lukandi ] {"entity": "type"} , tista' biss tieqaf waħda għalija xi ħaġa b'ipparkjar ħieles u ħaġa li tkun qed tiżdied jekk jogħġbok
+jien ma rċevejt l-ebda lista ta' lukandi, tista' biss tieqaf waħda għalija xi ħaġa b'ipparkjar ħieles u ħaġa li tkun qed tiżdied jekk jogħġbok
 iva sakemm tkun għalja ħafna
 tista' tipprova għal [ 2 ] {"entity": "bookstay"} iljieli minflok
 i se jkollok bżonn taxi biex tivvjaġġa bejn il [ lukanda ] {"entity": "type"} u l kulleġġ tista' timmaniġġja dan ukoll .
 effettivament iva qed infittxu post [ baxx ] {"entity": "pricerange"} biex nibqgħu b'ipparkjar ħieles
 i jippreferi l-parti tal-lvant
-iva , it tnejn li huma , [ jekk ] {"entity": "bookstay"} jogħġbok , qed infittex kamra għalija għalija għal 2 f'post li joffri ħieles mill ivvjaġġar u mill ivvjaġġar
-x'inhu madwar lejl wieħed
-tista' tgħinni nsib vawċer [ 4 ] {"entity": "stars"} stilli u tista' tiftakar il kwistjoni jekk ikollok l internet
+iva , [ it ] {"entity": "bookstay"} tnejn li huma , jekk jogħġbok , qed infittex kamra għalija għalija għal 2 f'post li joffri ħieles mill ivvjaġġar u mill ivvjaġġar
+x'inhu madwar [ lejl ] {"entity":" bookstay"} wieħed
+tista' tgħinni nsib vawċer [ 4 stilli ] {"entity": "stars"} u tista' tiftakar il kwistjoni jekk ikollok l internet
 i would like it to be in the [ moderate ] {"entity": "pricerange"} price range and include free parking
 le, iżda għandek bżonn ħieles, tista' żżomm fil-kotba tiegħek spazju għall-fwied bil-lejl.
-jekk jogħġbok ipprovdili wkoll bin-numru ta' referenza i tixtieq ukoll tikteb taxi
+[ jekk jogħġbok ] {"entity": "bookstay"} ipprovdili wkoll bin numru ta' referenza i tixtieq ukoll tikteb taxi
 i was looking for a certain hotel called [ facilitiesroomz ] {"entity": "name"} please
-permezz tiegħi tista' tgħinni l-kamra tal-kotba li għandek bżonn għal 7
+permezz tiegħi [ tista' ] {"entity": "bookpeople"} tgħinni l kamra tal kotba li għandek bżonn għal 7
 għandna bżonn ukoll li nippreżentaw preferibbilment 4
 għandu jkun fl-istess medda ta' prezzijiet bħall-prezz
 iva [ se ] {"entity": "bookstay"} tkun għall istess grupp ta' nies u se nibqgħu 4 iljieli
-jekk jogħġbok ibda fuq il [ piż tal fwied ] {"entity": "bookday"}
+jekk jogħġbok ibda fuq il [ piż ] {"entity": "bookday"} tal fwied
 i se jkollha bżonn il-kworum bejn iż-żewġ
 irid ukoll isib spiża jekk jogħġbok
-irid wieħed li jkun [ fl istess żona bħal ] {"entity":" area"} bedouin jekk jogħġbok
+irid wieħed li jkun fl [ istess żona bħal ] {"entity":" area"} bedouin jekk jogħġbok
 iva jekk jogħġbok ikteb li għal 8 iljieli
 iva jekk jogħġbok ipprova għal darb' oħra għal [ 2 ] {"entity": "bookstay"} iljieli biss u ara jekk dak ix xogħol
 jien qed infittex ukoll lukanda ] {"entity":" name"} li tissejjaħ il pjanċa [ ta' alexander u ż żraben
-i want you to book that for the same group of people
+i want you ] {"entity":" bookpeople"} to book that for the [ same group of people
 kamra waħda biss [ għas 7 ] {"entity": "bookpeople"} minnna
-għandhom disponibbiltà għal soġġorn ta' bil-lejl wieħed li jibda bil-lejl
+għandhom disponibbiltà għal soġġorn ta' bil [ lejl ] {"entity": "bookstay"} wieħed li jibda bil lejl
 iva għandek bżonn ukoll taxi biex tmur mill-Knisja għall-Knisja
 vawċer bla ħlas jekk jogħġbok
-iva tista' tieħu xi ħaġa fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
+iva tista' tieħu xi ħaġa fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet
 iva, jekk jogħġbok, tista' tniżżel kamra għall-friday nights
-l-ebda ħaġa ma tixtieq tħalli l-Ħelsinki mill-Ħelsinki
+l ebda ħaġa ma tixtieq tħalli l Ħelsinki mill [ Ħelsinki ] {"entity":" leaveat"}
 għandek informazzjoni dwar il [ warkworth house ] {"entity":" name"}
 hi tista' tagħtini xi informazzjoni dwar [ post ] {"entity":" pricerange"} biex wieħed jibqa' fil pont i jippreferi xi post għali
 l-ebda żona speċifika iżda jixtieq lamtu tas-serer
 m'hemm l-ebda tliet prezzijiet li jinkludu l-Ġugarelli Ħielsa
-kif jintuża l-kafè tal-pont?
+kif jintuża l kafè tal pont [ ? ] {"entity": "name"}
 għandhom ipparkjar ħieles u liema tip ta' vawċer huma
 iva għandek bżonn il-kamra għal ċelebrazzjoni waħda biss
 great can i ] {"entity":" name"} also get some information on the [ huntingdon marriott hotel
@@ -268,15 +268,15 @@ moderat jekk jogħġbok
 ikun hemm kwalunkwe tip ieħor ta [ lukanda ] {"entity": "type"} fiż żona
 nifhem li ma hemm l-ebda kamra fiż-żona iżda tista' tara jekk hemmx artijiet oħra fiż-żona moderata jekk jogħġbok
 għandek bżonn in [ numru ] {"entity": "type"} tat telefon tal kodiċi postali u l indirizz tal vawċer jekk jogħġbok
-[ jixtieq jirreġistra taxi f 16 ] {"entity": "leaveat"} il metru jeħtieġ ukoll in numru ta kuntatt u t tip ta karozza għal dak
+jixtieq jirreġistra taxi f" 16-il metru jeħtieġ ukoll in-numru ta" kuntatt u t-tip ta" karozza għal dak
 informazzjoni dwar l [ istruttura tal alphamilton ] {"entity":" name"}
-iva, jekk jogħġbok ikteb ktieb 3
-iva nixtieq ukoll insib akkomodazzjoni għall-istess grupp ta' nies
+iva , jekk jogħġbok ikteb ktieb [ 3 ] {"entity": "bookstay"}
+iva nixtieq ukoll insib akkomodazzjoni għall istess grupp ta' [ nies ] {"entity":" bookpeople"}
 jien qed infittex li l [ belt ta' filgħaxija ] {"entity": "name"} tkun eżatta
-għandna bżonn ta' riżervi għal [ żewġt ] {"entity":" bookstay"} iljieli jekk jogħġbok
+għandna bżonn ta' riżervi għal [ żewġt iljieli ] {"entity":" bookstay"} jekk jogħġbok
 dak kollu li għandek bżonn fuq id-dikjarants jista' jgħini nsib post biex nibqa' fl-istess żona ta' klassifikazzjoni tal-stilla
 [ il ] {"entity": "type"} lukandi jkunu jistgħu jiksbu numru tat telefon għal wieħed jekk jogħġbok
-il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa d-dieħla
+il Ġimgħa l oħra l Ġimgħa l Ġimgħa [ d dieħla ] {"entity": "area"}
 toffri parkeġġ bla ħlas
 iva , jekk ] {"entity":" name"} jogħġbok , nixtieq informazzjoni dwar il [ vawċer tal irmied
 iva 3 in-numru ta" referenza jekk jogħġbok
@@ -290,33 +290,33 @@ kun af bl-ispejjeż jekk jogħġbok
 barra minn hekk, il-marda għandha bżonn ta' taxi mill-kuntentizza għall-kuntentizza.
 il-Ġermanja għandha bżonn issib irħis hemmhekk kull ħaġa bħal dik
 jiżguraw li jkun hemm ħafna
-tista' tniżżel għal 8
+tista' tniżżel għal [ 8 ] {"entity": "bookpeople"}
 im also looking for a place to stay that offers both internet and free parking
-iva xi ftit li xejn għoli
+iva xi ftit li xejn [ għoli ] {"entity":" pricerange"}
 tista' tagħmel riżerva għal tlieta jekk jogħġbok
-[ l ebda ħaġa ] {"entity":" bookstay"} m'għandhiex għalfejn tinħass tista' nipprovaw għal waqfa waħda ta' bil lejl minflok
+[ l ] {"entity":" bookstay"} ebda ħaġa m'għandhiex għalfejn tinħass tista' nipprovaw għal waqfa waħda ta' bil lejl minflok
 [ hemm bżonn ukoll ta' għarfien dwar ] {"entity":" name"} il vawċer imsejjaħ l istadju ta' l istadju tal istadju
 iva jekk ikollok bżonn 2 persuni
 i really [ want ] {"entity":" bookstay"} to stay there so can i get it for one night
-tista' tgħinni nsib 4
+tista' tgħinni nsib [ 4 ] {"entity": "stars"}
 hija dik il [ kamra ] {"entity":" type"}
 ikun hemm [ kamra ] {"entity": "type"} disponibbli
 i tkun interessat f'kamra fil medda [ baxxa ] {"entity": "pricerange"} tal prezzijiet jekk dan ikun disponibbli se tiċċekkja għalija
 għandek bżonn ta' internet ħieles u għandek bżonn il-kodiċi postali tagħhom
 għandna bżonn ukoll ta' post [ baxx ] {"entity": "pricerange"} biex nibqgħu ħielsa
-l-istess żona
-nixtieq nippreżenta ] {"entity": "name"} l [ paġna u l ħsibijiet tat trabi tat twelid
-se jkun għal sitt xhur
+l istess [ żona ] {"entity":" area"}
+nixtieq nippreżenta ] {"entity": "name"} l paġna [ u l ħsibijiet tat trabi tat twelid
+se jkun għal sitt [ xhur ] {"entity":" bookpeople"}
 ħarsa lejn l informazzjoni ] {"entity": "name"} dwar l [ istabbiliment tal ikel għall ħut tal irziezet jekk jogħġbok
 i dont [ have ] {"entity": "pricerange"} a specific one in mind i would like something expensive though
 assigura kif wieħed jista' jara fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
 il kamra għandha tkun fil [ Lvant ] {"entity":" area"} jekk jogħġbok
 iva juruhom
-li għandu [ jaħdem ] {"entity": "type"} se jkollu bżonn ukoll post fejn wieħed joqgħod iħares lejn medda ta' mħażen , dan għandu jinkludi ħażna ħielsa wkoll
-żgur li l Istati Membri jħarsu lejn [ il ] {"entity":" type"} vaganzi minflok
+li għandu ] {"entity": "type"} jaħdem se jkollu bżonn [ ukoll post fejn wieħed joqgħod iħares lejn medda ta' mħażen , dan għandu jinkludi ħażna ħielsa wkoll
+żgur li l Istati Membri jħarsu [ lejn ] {"entity":" type"} il vaganzi minflok
 għandek ipparkjar ħieles inkluż
-l ebda ħaġa li għandek [ bżonn ] {"entity":" pricerange"} issib post biex toqgħod ukoll għandha bżonn xi ħaġa moderata bi prezz baxx .
-iva jippreferi stillti polari
+l ebda ħaġa li għandek [ bżonn issib post ] {"entity":" pricerange"} biex toqgħod ukoll għandha bżonn xi ħaġa moderata bi prezz baxx .
+iva jippreferi [ stillti polari ] {"entity": "type"}
 l-impjieg jeħtieġ ukoll post fejn wieħed joqgħod
 id bħal [ vawċer ] {"entity": "type"} b'ipparkjar ħieles , jekk jogħġbok
 l ipparkjar bla ħlas fi ħdan [ il lukanda ] {"entity": "type"} jkun kbir u bla ħlas
@@ -326,24 +326,24 @@ hi tista' tgħinni nsib 2 jew kamra
 dan jinkludi ż-żgħar
 iva jekk jogħġbok li jkun kbir
 għandek bżonn tirreġistra għal 3
-iva hemm bżonn ukoll li nivverifikaw li din iż-żona tal-bliet il-qodma
+iva [ hemm ] {"entity": "type"} bżonn ukoll li nivverifikaw li din iż żona tal bliet il qodma
 effettivament għandek bżonn riċetta fil-Lvant huwa possibbli għalik li fil-vaganza espliċita tiegħek tiktebni bil-lejl il-lejl il-lejl il-lejl il-lejl il-lejl
 fl-istess ġurnata
 għandna bżonn ukoll insibu post biex nibqgħu li [ l ] {"entity": "pricerange"} ġugarelli għandhom bżonn ta' parkeġġ ħieles u jinsabu f'limiti baxxi ta' prezzijiet .
-irħas
-se tieħu [ alexander ] {"entity": "name"} jekk jogħġbok
-iva jekk jogħġbok irreġistrah għal 2
+[ irħas ] {"entity": "pricerange"}
+se tieħu alexander jekk jogħġbok
+iva jekk jogħġbok irreġistrah għal [ 2 ] {"entity": "bookstay"}
 Fil [ fatt ] {"entity": "stars"} , i jeħtieġ post bi grad ta' stilla ta' 0 fiċ ċentru b'ipparkjar ħieles , il alexander għandu 0 stilli
 iva li taħdem għalija jekk jogħġbok irreġistrah għal 2 persuni għal 2 iljieli li jibdew ix-xemx
 kif nistgħu nippruvaw għal lejl [ wieħed ] {"entity":" bookstay"} biss minflok
 il-Ġimgħa l-oħra l-Ġimgħa l-Ħamis
-Żomm fuq saqajk' il quddiem u ibdel [ il vawċer ] {"entity": "bookpeople"} għal 7 iljieli jekk jogħġbok ibgħatli n numru ta' referenza ladarba ssir ir riżerva
+Żomm fuq saqajk' [ il ] {"entity": "bookpeople"} quddiem u ibdel il vawċer għal 7 iljieli jekk jogħġbok ibgħatli n numru ta' referenza ladarba ssir ir riżerva
 tista' tara dwar ir riżervi fl [ istabbiliment ] {"entity": "name"} tal ikel għall ikel għall ikel għall ikel għall ikel
 i għandek bżonn tirreġistra f'vawċer imsejjaħ [ id dar mid dar ] {"entity":" name"}
-jekk jogħġbok ikteb 4 iljieli.
+jekk jogħġbok ikteb 4 [ iljieli ] {"entity": "bookpeople"} .
 hi tixtieq tirreġistra naħa kuntenti tal-belt għandek xi rakkomandazzjoni
 i għandhom bżonn ipparkjar ħieles u bħal [ kamra ] {"entity": "type"} fuq kwalunkwe tip ieħor
-iva tista' tara jekk tistax tirreġistra parti ta' 8
+iva tista' tara jekk tistax tirreġistra parti ta' [ 8 ] {"entity": "bookpeople"}
 jixtieq jibqa' f'post għali għall-ipparkjar bla ħlas bħal dak
 l [ gonvillean tal ] {"entity": "name"} Ktieb ok tista' tipprovdi n numru tat telefon u għandek l internet
 gon Il-gon Il-Ġermanja Il-Ġermanja Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju Il-Belġju
@@ -353,7 +353,7 @@ għandu wkoll aċċess għall-internet
 tinkludi l-ipparkjar ħieles
 nixtieq ukoll insib 4 b'ħieles jekk jogħġbok
 għandna bżonn ukoll ta' vawċer li jkun ħieles minn kwalunkwe wieħed mis-7 li għandek din l-għażla.
-tista' , jekk jogħġbok [ , tgħidli l firxa tal ] {"entity":" name"} prezzijiet u l kodiċi postali taċ ċineg ta' l ivvjaġġar
+tista' , jekk jogħġbok , [ tgħidli l firxa tal ] {"entity":" name"} prezzijiet u l kodiċi postali taċ ċineg ta' l ivvjaġġar
 il-Ġimgħa l-oħra, il-Membri tal-Parlament Ewropew huma mistennija jadottaw riżoluzzjoni dwar il-futur ta' l-Ewropa.
 iva [ vawċer ] {"entity": "type"} preferibbilment b'ipparkjar ħieles
 i dont care about [ the ] {"entity": "pricerange"} location but i would like to be in the moderate price range
@@ -364,33 +364,33 @@ nistgħu nipprovaw [ tliet ] {"entity":" bookstay"} iljieli
 iva tista' tgħidli l-informazzjoni dwar l-ivvjaġġar għall-ivvjaġġar aħna qed infittxu l-ivvjaġġar ħieles u l-ivvjaġġar għall-ivvjaġġar
 i [ dont fil fatt ] {"entity":" area"} toqgħod attenta dwar iż żona jew il firxa tal prezzijiet , l aktar ħaġa importanti għalija hija l ġugarelli ħielsa f'kamra li għandha parkeġġ ħieles .
 iva jekk jogħġbok irreġistrah għal 8
-nixtieq insib [ vawċer ] {"entity": "type"} b'ipparkjar bla ħlas u bla ħlas jekk jogħġbok
+nixtieq insib vawċer b'ipparkjar bla ħlas u bla ħlas jekk jogħġbok
 il-pont tar-reġistrazzjoni fil-klassifikazzjoni tal-stilla tal-Lvant mingħajr ebda spiża
-issa kbir ħafna qed infittex ] {"entity":" name"} vawċer imsejjaħ [ qiegħ il ħut żgħir u ħut żgħir
+issa kbir ħafna qed infittex ] {"entity":" name"} vawċer imsejjaħ qiegħ il [ ħut żgħir u ħut żgħir
 i għandek bżonn ukoll [ vawċer ] {"entity": "type"} b'ipparkjar bla ħlas u bla ħlas
-[ l ] {"entity":" type"} ebda ħaġa bħal din ma tixtieq li jkun hemm kamra
+l ebda ] {"entity":" type"} ħaġa bħal din ma tixtieq li jkun [ hemm kamra
 tista' jekk jogħġbok tagħmel riżerva għalija biss għal 4
 il [ ħsieb ] {"entity": "type"} li wieħed jirreġistra għal post fejn joqgħod għandu jkun kamra u jkollu post ħieles
 [ i ] {"entity": "pricerange"} would like one in caimbridge that is in the cheap price range
-l-el shaddi
+l el [ shaddi ] {"entity": "name"}
 kienu qed [ ifittxu ] {"entity": "type"} post fejn jistgħu jibqgħu fil pont kienu qed ifittxu vawċer b'ipparkjar bla ħlas u bla ħlas
 i jippreferi kworum fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet
-i dont have a preference i need to make a reservation for 6
-jixtieq iħalli l istess ġurnata bħal [ fil ] {"entity":" bookday"} każ tal prodott tal larinġ li jkun qed jintiżen bil mod jista jkollu n numru ta referenza għall prodott tal larinġ ukoll
+i dont [ have ] {"entity": "bookpeople"} a preference i need to make a reservation for 6
+jixtieq iħalli l-istess ġurnata bħal fil-każ tal-prodott tal-larinġ li jkun qed jintiżen bil-mod jista" jkollu n-numru ta" referenza għall-prodott tal-larinġ ukoll
 grazzi għal darb' oħra , iżda għandek bżonn ta' [ 4 ] {"entity": "stars"} stilli biex tibqa' ħielsa għall ipparkjar u l ipparkjar
 jippreferu belt ta' bliet
-jew tkun multa tista' tipprova tniżżel waħda minn dawk għal 6
-għandek bżonn issib kamra
+[ jew ] {"entity": "bookpeople"} tkun multa tista' tipprova tniżżel waħda minn dawk għal 6
+għandek bżonn issib [ kamra ] {"entity": "type"}
 i would prefer that be [ expensive ] {"entity":" pricerange"}
-iva iżda jeħtieġ li jkun [ 4 stillti ] {"entity": "stars"} fit Tramuntana
-Ġabra waħda ta" materja prima
+iva iżda jeħtieġ li jkun [ 4 ] {"entity": "stars"} stillti fit Tramuntana
+Ġabra waħda ta materja [ prima ] {"entity":" bookpeople"}
 jien qed inħares ] {"entity":" name"} lejn il [ pjanura ta' carolina u lejn il pjanura
-jitlob li jkun hemm żewġ [ faċilitajiet ] {"entity": "stars"} biex wieħed iħares lejhom fid data , x'tirrakkomanda .
+jitlob li jkun [ hemm żewġ faċilitajiet ] {"entity": "stars"} biex wieħed iħares lejhom fid data , x'tirrakkomanda .
 tista' terġa' tipprova tkun [ fit Tramuntana ] {"entity": "area"} ukoll
 għandek bżonn ta' xi ħaġa 2 jekk jogħġbok
-it-tnejn li huma għandhom internet ħieles
+it tnejn [ li ] {"entity":" type"} huma għandhom internet ħieles
 iva , l [ istudenti ] {"entity": "name"} jistgħu jagħtuni n numru tat telefon u l kodiċi postali tagħhom jekk jogħġbok
-għandek bżonn ukoll post biex tibqa' tista' tirrakkomanda spiża
+għandek bżonn ukoll post biex tibqa' tista' tirrakkomanda [ spiża ] {"entity": "pricerange"}
 jeżistu postijiet għaljin biex wieħed jibqa' fit-Tramuntana, iżda nixtieq li jkun hemm parkeġġ ħieles
 kif għandek tuża wieħed fil [ Lvant ] {"entity":" area"}
 tixtieq tirreġistraha għall-kliewi.
@@ -398,7 +398,7 @@ lejl [ wieħed ] {"entity":" bookstay"} biss jekk jogħġbok
 iva tista' tipprova wieħed fil medda [ moderata ] {"entity": "pricerange"} ta' prezzijiet jekk jogħġbok
 i amlooking for a place to stay in the north please
 għandu saħħa ħielsa
-i [ would ] {"entity": "bookday"} like it book for sunday nights can i have the booking number please
+i would like it book for sunday nights can i have the booking number please
 l-ebda ħtieġa li wieħed jirreġistra għalija ma teżisti firxa ta' prezzijiet ta' 3
 jixtieq li jkun [ kamra ] {"entity": "type"} ħielsa
 do anyall of them have free parking as well
@@ -407,19 +407,19 @@ jien qed infittex post [ fil ] {"entity":" type"} pont li għandu jinkludi l int
 li jkun irħis sakemm ikollu l-ipparkjar ħieles
 l-ebda wieħed minnhom ma huwa disponibbli
 l-iktar ħaġa sempliċi waqfa ta' kuljum
-hemm lok għal 4
-jista' jipprova [ vawċer ] {"entity":" type"} differenti
+hemm lok għal [ 4 ] {"entity": "bookpeople"}
+jista' jipprova vawċer differenti
 do either of those include free parking
 l ebda ħaġa li ma taffettwax [ il ] {"entity": "bookstay"} ħajja sakemm ma tkunx tista' tibqa' fil kotba ta' 3 lejl għal 4 persuni li jkunu qegħdin fil wied .
 nistgħu nippruvaw nippruvaw nippreżentaw il-ktieb li wieħed ilu ħieles 4 iljieli
 iva tixtieq issib pont irħis għall-ikel
-dwar it-tieni ħsieb ġdid bħal bini tal-kejtering bi prezzijiet moderati
+dwar it tieni ħsieb ġdid bħal bini [ tal ] {"entity":" pricerange"} kejtering bi prezzijiet moderati
 jekk ikun possibbli, i għandek bżonn twieqi u parkeġġ b'xejn
 għalhekk għandek bżonn ta' iktar informazzjoni.
 i għandek bżonn tibda fuq il kliewi għal [ 6 ] {"entity": "bookpeople"} persuni
 iva għal [ 4 ] {"entity": "bookstay"} iljieli
 iva [ għandek ] {"entity": "type"} bżonn ukoll xi akkomodazzjonijiet għad depożitu li jixtieq isib kamra li toffri parkeġġ ħieles jekk jogħġbok
-irid ikun moderat
+irid ikun [ moderat ] {"entity": "pricerange"}
 il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa
 i qed [ infittex post ] {"entity": "area"} biex nibqgħu fil pont i jippreferu li jkun fit Tramuntana u jinkludi l iffriżar ħieles jekk jogħġbok
 iva jekk tista' ssib vawċer [ 4 ] {"entity": "stars"} stilli b'ipparkjar ħieles li jkun kbir
@@ -428,61 +428,61 @@ tista' telenka alternattivi qrib 4 stillti b'ipparkjar ħieles
 għandek bżonn waħda li għandek ipparkjar ħieles tista' terġa' tiċċekkja jekk jogħġbok
 [ l ebda preferenza ma ] {"entity":" name"} tista taħrab waħda u tieħu l pożizzjoni u l firxa tal prezzijiet jekk jogħġbok
 jien qed infittex kuntratt ta' qbid
-dak ir rebbieħ huwa [ baxx ] {"entity":" pricerange"} .
+dak ir rebbieħ huwa [ baxx . ] {"entity":" pricerange"}
 iva jekk jogħġbok, sakemm l-internet u l-ipparkjar ikunu ħielsa, ikun hemm 7 iljieli
-hemm xi żraben b'stilla ta' [ 4 ] {"entity": "stars"} i li jistgħu jibqgħu fil
+hemm xi żraben b'stilla ta' 4 i li jistgħu jibqgħu fil-
 iva hemm xi ħaġa fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
 dont care i amlooking for free parking at the hotel though which ones have that
 wieħed biss ] {"entity":" type"} jista' jgħid li għadu kif irid il [ kamra .
 għandek bżonn ukoll issib post fejn toqgħod [ . ] {"entity":" type"}
-iva l firxa [ baxxa ] {"entity": "pricerange"} tal prezzijiet
-jippreferi wieħed ] {"entity":" area"} li jinsab fil [ parti l kbira tal katina tal kura ta' kemm il stilla għandu lamtu
-imbagħad ikteb kamra għal 4
+iva l [ firxa baxxa ] {"entity": "pricerange"} tal prezzijiet
+jippreferi wieħed li jinsab [ fil parti l kbira tal ] {"entity":" area"} katina tal kura ta' kemm il stilla għandu lamtu
+imbagħad ikteb kamra għal [ 4 ] {"entity": "bookpeople"}
 hi tfittex post biex toqgħod bi [ 3 ] {"entity": "stars"} stillti li jinkludu l ikel
 eżatt ħdejn il pont u għandu jkun [ kamra ] {"entity":" type"}
-ċertament se jkun hemm 5
+ċertament se jkun hemm [ 5 ] {"entity": "bookpeople"}
 i will get tickets at the train station early trains usually arent that full can you find me a hotel though
 i amlooking for a moderate part of town
 i għandhom bżonn jitniżżlu fil-kotba ta' dawk li għandhom ipparkjar b'xejn u b'xejn ikollhom jitniżżlu fil-kotba fro 5 i għandhom bżonn in-numru ta' referenza
 għandna bżonn naslu għal [ kamra ] {"entity": "type"} li jkollha l ipparkjar ħieles
-jekk jogħġbok ikteb għalija għal [ 2 ] {"entity": "bookstay"} iljieli .
+jekk jogħġbok ikteb għalija għal [ 2 iljieli ] {"entity": "bookstay"} .
 jekk jogħġbok irreġistrah għal persuna waħda għal [ 5 ] {"entity": "bookstay"} iljieli li jibdew friday jekk jogħġbok ipprovdili bin numru ta' referenza imla
-għandek bżonnha għal [ 5 ] {"entity": "bookstay"} iljieli jekk jogħġbok
+għandek bżonnha għal [ 5 iljieli ] {"entity": "bookstay"} jekk jogħġbok
 jien qed nippjana vjaġġ lejn il-pont u qed infittex post fejn nibqa', nixtieq li dan jinkludi l-ipparkjar ħieles u l-ipparkjar ħieles.
-huma kwalunkwe wieħed minnhom [ 4 ] {"entity": "stars"} lamti
+huma kwalunkwe wieħed minnhom 4 lamti
 could you give me the address for [ huntingdon marriott ] {"entity":" name"} please
 il Parlament Ewropew għandu jadotta l [ pożizzjoni tiegħu ] {"entity":" name"} dwar il futur ta' l Ewropa .
-iva tista' tniżżel il-vawċer marriott tal-kaċċa
+iva tista' tniżżel il vawċer marriott tal [ kaċċa ] {"entity": "name"}
 i għandna bżonn post biex nibqgħu [ fit Tramuntana ] {"entity": "area"}
 ħafna nies jixtiequ jibqgħu [ f'kamra ] {"entity":" type"} li tkun qed tisma' lil dawk li jgħixu fil pont huma famużi ħafna
 is it in the north and do they have free parking
-għandhom kamra disponibbli għal [ 5 ] {"entity": "bookstay"} iljieli
-jien qed inħares lejn [ is sit ta' carolina u ] {"entity":" name"} ngħid x'għandek għad disponibbiltà tiegħek
+għandhom kamra disponibbli għal 5 iljieli
+jien qed inħares lejn is [ sit ta' carolina u ] {"entity":" name"} ngħid x'għandek għad disponibbiltà tiegħek
 ok i għandu bżonn ukoll ta' [ 2 ] {"entity": "stars"} stilli biex jibqa' b'ipparkjar ħieles
 jien qed nippjana żjara biex nirringrazzja malajr ħafna u għandek bżonn xi informazzjoni dwar it-tipi ta' depożiti disponibbli
-l ebda ħaġa li tkun għalja [ bi ] {"entity": "pricerange"} ħlas ħieles
+l-ebda ħaġa li tkun għalja bi ħlas ħieles
 għandu parkeġġ ħieles
 jeħtieġ ukoll taxi biex jivvjaġġa bejn il-lukanda u l-Ħonduras
 iva għalija tista' tgħidu fuqha.
-l-ebda ħaġa ma tixtieq tiġborha għal 2
+l ebda ħaġa ma tixtieq tiġborha għal [ 2 ] {"entity": "bookpeople"}
 għalhekk qed nivvjaġġaw lejn [ il pont ] {"entity": "area"} malajr u qed infittxu li nibqgħu fil parti tat Tramuntana tal belt
 iva għandek bżonn ta' [ 4 ] {"entity": "stars"} lamti li jinkludu wkoll lamti ħielsa
 li għandhom ipparkjar ħieles
-hi tfittex ] {"entity":" name"} informazzjoni dwar [ is saqajn tal ħut u l ħut
+hi tfittex ] {"entity":" name"} informazzjoni dwar is [ saqajn tal ħut u l ħut
 tista' tniżżel 5 għalija
 għandek bżonn [ ħames ] {"entity":" bookpeople"} kmamar jekk jogħġbok
-jien qed infittex ukoll li nibqa' f'kamra
+jien qed infittex ukoll li nibqa' [ f'kamra ] {"entity": "type"}
 l-ebda klassifikazzjoni partikolari tal-lamtu iżda jrid ikun ħieles
 l-ipparkjar mhuwiex importanti jekk wieħed jirrakkomanda għalija.
 im looking for a [ room ] {"entity": "stars"} less then 130 a night with at least a 4 star rating
-Ġibiltà, spazju għal tlieta
-[ persuna waħda ] {"entity": "bookpeople"} biss
+Ġibiltà , spazju għal [ tlieta ] {"entity":" bookstay"}
+persuna [ waħda ] {"entity": "bookpeople"} biss
 hemm bżonn ta' taxi biex nivvjaġġaw bejn il-partitarju u l-partitarju wkoll
-[ tista' ] {"entity": "pricerange"} tgħin biex tħares lejn l ispejjeż
+tista' tgħin biex tħares [ lejn ] {"entity": "pricerange"} l ispejjeż
 iva għandu jkollu ħieles
 dak huwa tabilħaqq importanti għalija jekk jogħġbok irrakkomanda wieħed u nippreżentaha għal sitt persuni
-il-bidu tal-proċess tax-xogħol fuq il-persuni
-se jkollhom bżonn ta' taxi fil-lukanda
+il bidu tal proċess tax [ xogħol fuq ] {"entity":" bookday"} il persuni
+se jkollhom bżonn ta' taxi fil [ lukanda ] {"entity": "type"}
 għalhekk għandek bżonn ukoll issib post fejn tista' żżommni stilla għolja.
 can i book one with free parking
 i would need a room for [ 5 ] {"entity": "bookstay"} nights for 4 people please
@@ -491,15 +491,15 @@ i amlooking for a play to stay that has 4 of town
 iva, għandu jkun hemm 4 ipparkjar tal-prezzijiet u l-ipparkjar m'għandux isir
 kif wieħed għandu jara u [ jiswa ħafna flus ] {"entity": "pricerange"} .
 ma tistax tirdoppja l-ispiża tiegħek
-li wieħed kbir jista' jikseb spazju għal 4
+li wieħed kbir jista' jikseb spazju għal [ 4 ] {"entity": "bookpeople"}
 tista' tipprova għal lejl [ wieħed ] {"entity":" bookstay"} u tara jekk dak ix xogħol
-i amlooking for a cheap [ to ] {"entity": "pricerange"} stay in for my trip to cambridge
+i amlooking for a cheap to stay in for my trip to cambridge
 preferibbilment fil-lamtu tal-punent ikklassifikat jekk possibbli
 għandu [ 4 ] {"entity": "stars"} klassifikazzjoni ta' stilla u internet
 l għarfien ] {"entity":" name"} tiegħi dwar post imsejjaħ il [ paġna ta' carolina u l għarfien tiegħek dwarha
 tista' tagħtini l-kodiċi postali u għandek l-internet
-l-Unjoni Ewropea għandha bżonn ta' iktar fondi għall-perjodu 2007 - 2013.
-il-bdiewa jagħmlu dan jekk jogħġbok irreservah għal 6
+l [ Unjoni ] {"entity":" area"} Ewropea għandha bżonn ta' iktar fondi għall perjodu 2007 2013 .
+il bdiewa jagħmlu dan jekk jogħġbok irreservah għal [ 6 ] {"entity": "bookpeople"}
 i amlooking for a [ cheap ] {"entity": "pricerange"} place to stay
 għandna bżonn ta' parkeġġ ħieles.
 i għandek bżonn l-indirizz tat-tip ta' vawċer u tkun taf jekk għandekx
@@ -508,20 +508,20 @@ as i said before id like something cheap [ centre ] {"entity": "area"} area is p
 għandek tħares lejn ċentru biex toqgħod f'din il-ħaġa.
 i [ amnot ] {"entity": "stars"} sure yet but i would like it to have 3 stars
 il Ġimgħa l oħra l [ Ġimgħa ] {"entity":" name"} l Ġimgħa l Ħamis
-qabel ma tikteb , ] {"entity":" name"} tista' tieħu l indirizz [ taċ Ċilindru tal Parlament Ewropew
+[ qabel ma tikteb ] {"entity":" name"} , tista' tieħu l indirizz taċ Ċilindru tal Parlament Ewropew
 [ i amalso ] {"entity":" name"} wanting some information on a hotel called the kirkwood house can you tell me about them
-għandna bżonn ta' riżerva għal ħamsa
+għandna bżonn ta' riżerva għal [ ħamsa ] {"entity":" bookpeople"}
 it-tfittxija għal post fejn wieħed joqgħod fil-pont
-id bħala moderat b'saħħa libera
+id bħala moderat [ b'saħħa ] {"entity":" pricerange"} libera
 jien qed infittex [ pjanċa ta' 3 ] {"entity": "stars"} stillti b'żebgħa ħielsa
 i would like something [ cheap ] {"entity":" pricerange"}
-kif taħżen il vawċer bi klassifikazzjoni ta' [ 4 ] {"entity": "stars"} still
-grazzi għall ħtieġa ta' 4 b'ipparkjar [ bla ] {"entity": "stars"} ħlas
-l-ebda ħaġa li tirrakkomanda m'hi se tkun ħaġa ħażina ħafna li jkollha tniżżel fl-istess jum bil-lejl.
+kif taħżen il vawċer bi klassifikazzjoni [ ta' 4 ] {"entity": "stars"} still
+grazzi għall-ħtieġa ta' 4 b'ipparkjar bla ħlas
+l ebda ħaġa li tirrakkomanda m'hi se [ tkun ] {"entity":" bookday"} ħaġa ħażina ħafna li jkollha tniżżel fl istess jum bil lejl .
 the reference number is great but its going to be hard to find if i dont know the name can you tell me the name of the hotel
 iva qed infittex post fl-istess żona
-dik il materja veġetali [ fl istess ] {"entity":" pricerange"} żona b'ipparkjar ħieles
-din tkun tista' tiġi rrekordjata fuq it-tubi bil-lejl
+dik il materja [ veġetali ] {"entity":" pricerange"} fl istess żona b'ipparkjar ħieles
+din tkun tista' tiġi rrekordjata fuq it tubi [ bil ] {"entity": "bookday"} lejl
 jien qed infittex ukoll [ lukanda ] {"entity":" type"}
 iva, iva, waqgħa f'vawċer fiċ-ċentru
 ħass li kien tajjeb ħafna
@@ -530,14 +530,14 @@ qabel ma nagħmlu dan, x'inhu l-isem tal-kamra u għandhom ukoll ipparkjar ħiel
 can you help me find a cheap part of town
 għandu grad ta stilla ta [ 2 ] {"entity":" stars"}
 imbagħad insib waħda fil-medda tal-prezzijiet għalja
-issibni wieħed u ktieb għal 5
+issibni wieħed u ktieb għal [ 5 ] {"entity": "bookpeople"}
 nixtieq insib vawċer li għandu l-libertà tal-espressjoni
 ma għandhomx żona jew prezz speċifiku
 ser ikun hemm [ 8 ] {"entity": "bookpeople"} persuni
-i want to book it for 8
-permezz tiegħi tista' wkoll tagħrafni ] {"entity":" name"} xi informazzjoni dwar [ is saqajn tal ħut u l ħwejjeġ kienu qed jaħsbu li jibqgħu hemm
-can i book a room there for 3
-i amalso looking for a place to stay in the centre
+i want to book it for [ 8 ] {"entity": "bookpeople"}
+permezz tiegħi tista' wkoll tagħrafni xi ] {"entity":" name"} informazzjoni dwar [ is saqajn tal ħut u l ħwejjeġ kienu qed jaħsbu li jibqgħu hemm
+can i book a room there for [ 3 ] {"entity": "bookstay"}
+[ i ] {"entity":" area"} amalso looking for a place to stay in the centre
 għandhom ħieles
 effettivament huma se jagħmlu iżda l-ebda ħtieġa għall-kotba ma kien għadu qiegħed jikseb informazzjoni.
 jien kuntenti li nsib post li [ jiswa ħafna flus ] {"entity": "pricerange"} biex nibqa' ħieles .
@@ -545,35 +545,35 @@ can you find me one with a [ 3 ] {"entity": "stars"} star rating
 nixtieq nirrekordja dan għal 2 jekk jogħġbok
 jista' jniżżel taxi mill-KXK sal-KXK jekk jogħġbok
 jien qed infittex 3
-iva jekk jogħġbok għall [ istess ] {"entity":" bookpeople"} numru ta' persuni i se jkollha bżonn ukoll numru ta' referenza
-jien qed infittex ukoll kworum iżda għandu [ bżonn ] {"entity":" type"} ikollu ħieles .
-il [ kwistjoni tal ħasil tal ħwejjeġ ] {"entity":" area"} li tirrakkomanda
+iva jekk jogħġbok għall-istess numru ta' persuni i se jkollha bżonn ukoll numru ta' referenza
+jien qed infittex ukoll kworum iżda għandu bżonn ikollu ħieles.
+il [ kwistjoni tal ħasil tal ] {"entity":" area"} ħwejjeġ li tirrakkomanda
 kemm-il stilla għandha
-i għandek bżonn l-taxi biex tiċċelebraha bil-mod il-mod
+[ i ] {"entity": "type"} għandek bżonn l taxi biex tiċċelebraha bil mod il mod
 fil fatt [ din hija l ] {"entity":" area"} informazzjoni kollha li għandna bżonn biex nibqgħu fl istess żona .
-i tixtieq 3 postijiet [ jekk jogħġbok ] {"entity": "stars"}
+i tixtieq 3 postijiet jekk jogħġbok
 hija dik li tinsab [ fin Nofsinhar ] {"entity":" area"}
 għandu parkeġġ ħieles
 i għandhom bżonn post biex joqogħdu fil [ Lvant ] {"entity":" area"}
-għandha tkun spiża
-iva , jekk jogħġbok se jkun għall [ ġugarelli ] {"entity": "bookstay"} u għall ħtieġa ħażina għal 5 i se jkollok bżonn ukoll in numru ta' referenza meta jkollok
+għandha tkun [ spiża ] {"entity": "pricerange"}
+iva, jekk jogħġbok se jkun għall-ġugarelli u għall-ħtieġa ħażina għal 5 i se jkollok bżonn ukoll in-numru ta' referenza meta jkollok
 i amlooking for the [ facilitiesroomz ] {"entity": "name"} hotel
 jekk jogħġbok ikteb 6 permezz ta'
-il persuna jkollha bżonn ukoll li [ tniżżel ] {"entity": "name"} il vawċer fil ħarifa jekk dik il ġurnata tfalli u tipprovdi n numru ta' referenza .
+il-persuna jkollha bżonn ukoll li tniżżel il-vawċer fil-ħarifa jekk dik il-ġurnata tfalli u tipprovdi n-numru ta' referenza.
 għad m'għandekx għajnuna b'kamra mikxufa
 għandek tħares lejn [ is sodda ta' alexander u ] {"entity":" name"} għandek tħares lejha
 le grazzi biss għal riżenja għal 5 jekk jogħġbok
 il Parlament Ewropew għandu jadotta l [ pożizzjoni tiegħu ] {"entity":" name"} dwar il futur ta' l Ewropa .
-i would like to book rooms for the same group of people
-jien qed nivvjaġġa lejn il pont u [ jiena ] {"entity": "type"} interessat biex nipprova r ristoranti lokali u biex insib vaganza għas soġġorn tiegħi
-i [ għandek ] {"entity": "type"} bżonn issib klassifikazzjoni tal istat tal lamtu tal lamtu tal lamtu tal lamtu tal lamtu tal lamtu tal lamtu li tinkludi l istat tal lamtu tal lamtu tal lamtu ħieles
+i [ would ] {"entity":" bookpeople"} like to book rooms for the same group of people
+jien qed nivvjaġġa lejn il-pont u jiena interessat biex nipprova r-ristoranti lokali u biex insib vaganza għas-soġġorn tiegħi
+i għandek bżonn issib klassifikazzjoni tal istat tal [ lamtu ] {"entity": "type"} tal lamtu tal lamtu tal lamtu tal lamtu tal lamtu tal lamtu li tinkludi l istat tal lamtu tal lamtu tal lamtu ħieles
 iridu ż-żona tal-indirizz chinese u l-kodiċi postali jekk jogħġbok
-grazzi għall-għajnuna tiegħek mal-ikel roża
-i għandhom bżonn ukoll taxi mill-Knisja sal-Knisja
-hi tfittex li tibqa' xi ħaġa waħda li tinkludi l-ġugarelli ħielsa li jridu jibqgħu f'xi ġnien mhux f'ġnien
+grazzi għall għajnuna tiegħek mal ikel [ roża ] {"entity":" type"}
+i għandhom bżonn ukoll taxi mill Knisja sal [ Knisja ] {"entity":" type"}
+hi tfittex li tibqa' [ xi ] {"entity": "type"} ħaġa waħda li tinkludi l ġugarelli ħielsa li jridu jibqgħu f'xi ġnien mhux f'ġnien
 i would like one in the [ moderate ] {"entity": "pricerange"} price range and with free parking
-jekk jogħġbok ikteb li għal 3
-jien naħseb li l-kwistjonijiet jistgħu biss jiżguraw li l-ġugarelli jitħallew għal fuq il-lukanda
+jekk jogħġbok ikteb li għal [ 3 ] {"entity": "bookpeople"}
+jien naħseb li l kwistjonijiet [ jistgħu ] {"entity": "type"} biss jiżguraw li l ġugarelli jitħallew għal fuq il lukanda
 iva, jekk jogħġbok, għandek bżonn post li preferibbilment jibqa' baxx daqs il-Ħadd
 i would like to book it on the same day nights can i have the reference number
 jekk jogħġbok qiegħed tfittex post biex toqgħod fil-pont jekk jogħġbok
@@ -582,17 +582,17 @@ għandek bżonn l internet fil [ Punent ] {"entity":" area"}
 permezz tiegħi se jkollok bżonn ukoll" taxi" mill-partitarju għall-partitarju se jkollok timmaniġġja dan
 iva jekk jogħġbok ħares lejn naħa kuntrarja
 i would like it to be in the [ expensive ] {"entity": "pricerange"} range
-iva tixtieq tirreġistra dak għal lejl wieħed
+iva tixtieq tirreġistra dak għal lejl [ wieħed ] {"entity":" bookpeople"}
 imingħajr ħsieb li ssib xi ħaġa msejħa l [ Ġużepp ] {"entity":" name"} , tista' tgħin tiegħek
 Ġabra għalija u għall ikel għal [ ħames persuni li jkunu ] {"entity":" bookpeople"} għaddejjin minn emorraġija
 i għandek bżonn ] {"entity":" name"} iktar fuq il vawċer imsejjaħ [ a u b żraben
 għandhom ipparkjar ħieles
-iva jixtieq spiża u liema tip [ ta' ] {"entity": "pricerange"} attrazzjoni qiegħed fiż żona fid distanza tal mixi
+iva jixtieq spiża u liema tip ta' attrazzjoni qiegħed fiż-żona fid-distanza tal-mixi
 inti taf li ma tkunx lest li tniżżel fil [ kotba ] {"entity":" name"} , iżda tista' wkoll tagħtina xi informazzjoni dwar l istabbiliment
 għandek bżonn ukoll tieqaf tieqaf tieħu n-nifs
-i għandhom bżonn 4
+i għandhom bżonn [ 4 ] {"entity": "stars"}
 kif tista' tgħid xi ħaġa fil firxa tal prezzijiet [ għalja ] {"entity": "pricerange"} bi prezz ħieles
-għal 7 snin.
+għal 7 snin [ . ] {"entity": "bookpeople"}
 iva jekk jogħġbok immaġina wkoll 4 ċċanfrinati jekk possibbli
 iktar informazzjoni tista' tinkiseb
 ive heard good things about the [ acorn marshouse ] {"entity":" name"} what is their telephone number and do they have free параграф
@@ -604,21 +604,21 @@ permezz ta' dan ukoll [ għandu ] {"entity": "name"} bżonn ta' ġurnal partikol
 u għandek bżonn post fejn toqgħod
 jixtieq xi ħaġa fil-Lvant
 għalhekk għandna [ 7 ] {"entity": "bookpeople"} persuni b'kollox
-għandu jkun għall-lejl ta' bil-lejl
+għandu jkun għall lejl ta' [ bil ] {"entity": "bookday"} lejl
 hemm kamra oħra b'kategorija ta [ 4 ] {"entity": "stars"} stilli f'dik iż żona
 iva jekk jogħġbok għandek ipparkjar ħieles u internet
-jekk jogħġbok ipprova l-istess vawċer għal lejl wieħed jekk jogħġbok
+jekk jogħġbok ipprova l istess vawċer għal [ lejl wieħed ] {"entity": "bookstay"} jekk jogħġbok
 tajjeb li nista' nagħmel il-ħsibijiet tiegħi tista' tgħinni nsib kworum minflok
 għalkemm ilha tliet stilel, għandha tiġi inkluża l-internet
 jekk jogħġbok ippreżentaha għal 5
-iva jeħtieġ post biex preferibbilment jibqa' xi ħaġa [ moderata ] {"entity":" pricerange"} bi prezz baxx .
+iva jeħtieġ ] {"entity":" pricerange"} post biex preferibbilment jibqa' xi ħaġa [ moderata bi prezz baxx .
 i would like to stay in the [ east ] {"entity":" area"} i prefer a hotel if possible
 il Ġimgħa ] {"entity": "name"} l oħra jekk tista' biss tgħini nsib [ il Ħarifa
 irridu wkoll post fejn nibqgħu.
 iva x'aktarx li tkun fil-Lvant
 wieħed biss li għandu ħieles, jekk jogħġbok, l-ebda restrizzjoni fuq il-medda tal-prezzijiet
 hija dik il-persuna misjuba ħatja jew maħtura
-jekk jogħġbok ikteb kamra għal 2
+jekk jogħġbok ikteb kamra għal [ 2 ] {"entity": "bookpeople"}
 għandek bżonn ta' iktar informazzjoni u iktar informazzjoni.
 iż żona tal ħabitat tixtieq tibqa' [ f'kamra ] {"entity": "type"} għalkemm
 im interested f'żewġt ibwieq ħielsa
@@ -626,87 +626,87 @@ għandek xi ħaġa fiż żona [ tat Tramuntana ] {"entity": "area"}
 għalhekk tista' tikteb fuq il-lejl ta' kuljum.
 il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa l-Ġimgħa
 l i dont għandhom [ firxa ] {"entity": "stars"} ta' prezzijiet iżda jixtiequ li jkun hemm klassifikazzjoni ta' 4 stilli u ċelebrazzjoni li toffri parkeġġ ħieles
-no i dont care which area it is in just so it is a Bolhouse stars
+no i dont care [ which ] {"entity": "type"} area it is in just so it is a Bolhouse stars
 tista' tikteb għalija
-i [ need ] {"entity": "bookday"} to book it on friday people could i please have the reference number
+i need to book it on friday people could i please have the reference number
 iva għandu jkun hemm post fejn wieħed joqgħod fin-Nofsinhar jekk ikun possibbli
-dik il-ħaġa tajjeb ħafna għal 7
+dik il ħaġa tajjeb ħafna għal [ 7 ] {"entity": "bookpeople"}
 jien interessat f'ramel imsejjaħ [ carolina bed u f'marlozz ] {"entity":" name"}
 għandek interess li żżomm għal 5. tista' tiċċekkja d-disponibilità
 għandek bżonn li ssib [ lukanda ] {"entity": "type"} sabiex ikollok post fejn tibqa' l iktar sempliċi għandha tinkludi l internet iżda għandha tinkludi l ipparkjar bla ħlas
-tista' tgħidli iktar dwar il-kamra tal-prezzijiet tal-qamħ u dwar ċerti emendi oħra
-għandek xi ħaġa li għandha klassifikazzjoni ta' [ 3 ] {"entity": "stars"} stillti
+tista' tgħidli iktar dwar il kamra tal [ prezzijiet ] {"entity": "name"} tal qamħ u dwar ċerti emendi oħra
+għandek xi ħaġa li għandha klassifikazzjoni [ ta' 3 ] {"entity": "stars"} stillti
 iva tixtieq tibqa' [ fiċ ċentru ] {"entity": "area"} jekk jogħġbok
 i [ dont għandha preferenza ] {"entity":" area"} f'liema żona tal belt
 il-Ġermanja għandha l-ħelsien tal-Ġermanja.
 tista' tirrakkomanda waħda
-iva iktebha għal 7
+iva iktebha għal [ 7 ] {"entity": "bookpeople"}
 [ jekk jogħġbok għandi l għajnuna ] {"entity":" name"} biex insib il vawċer imsejjaħ flinches bed u r riċetta bis saħħa ta'
-permezz tiegħek tixtieq tniżżel kamra għal 6
+permezz tiegħek tixtieq tniżżel kamra għal [ 6 ] {"entity": "bookpeople"}
 i amalso looking for a place to stay
 id bħal xi ħaġa moderata u għandek bżonn xi ħaġa
 le iżda tista' tniżżel kamra fuq [ tuesday ] {"entity": "bookday"} għalija jekk jogħġbok
-7 [ iljieli ] {"entity": "bookpeople"} li jibdew mit tubi għandhom bżonn ukoll in numru ta' referenza jekk jogħġbok
+7 iljieli li jibdew mit-tubi għandhom bżonn ukoll in-numru ta' referenza jekk jogħġbok
 din il-ġurnata.
 tista' tgħinni nsib magħruf ukoll bħala l-kamra permezz ta'
-Ġurnal iva għal 8
+Ġurnal iva għal [ 8 ] {"entity": "bookpeople"}
 is-servizz tiegħek jista' jgħini wkoll biex issib post biex toqgħod il-lukanda għandu jkun lukanda moderata tal-lamtu
-fin nofsinhar tal lamtu bi [ prezz moderat ] {"entity": "area"}
-iva jekk jogħġbok ippreżentaha għal 5 iljieli li jibdew [ mill ] {"entity": "bookpeople"} ġurnata li naslu
-għandek tgħinni nsib [ kamra ] {"entity": "type"} għalkemm
+fin-nofsinhar tal-lamtu bi prezz moderat
+iva jekk jogħġbok ippreżentaha għal 5 iljieli li jibdew mill-ġurnata li naslu
+għandek tgħinni nsib kamra għalkemm
 le iżda tixtieq li jkun hemm prezzijiet moderati
 dan jista' jkun ktieb għalija għal 3
 tista' tagħmel tisjir għal 3 persuni u [ 4 ] {"entity": "bookstay"} iljieli li jibdew mix xemx
 jeħtieġ ukoll li jinstab post fejn wieħed joqgħod
 il-kwistjoni tal-ħasil tal-ħwejjeġ inkluża
-għandna bżonn ukoll nibqgħu fuq il [ vawċer tal armi universitarji ] {"entity": "name"}
-i want to stay for 3
-se jkun hemm [ 8 ] {"entity": "bookpeople"} minnna
-hemm kwalunkwe kamra
+għandna bżonn ukoll nibqgħu fuq il vawċer tal [ armi universitarji ] {"entity": "name"}
+i want to stay for [ 3 ] {"entity": "bookstay"}
+se jkun [ hemm 8 ] {"entity": "bookpeople"} minnna
+hemm kwalunkwe [ kamra ] {"entity":" type"}
 jeħtieġ li jkun [ baxx ] {"entity":" pricerange"}
 jista' jkolli l indirizz għad [ dar tal ħabs ] {"entity":" name"}
 għandhom l-internet u l-ipparkjar bla ħlas
 għalija
 hi im looking for a hotel the [ archway house ] {"entity":" name"}
-iva, jekk jogħġbok ikteb għal 8
+iva , jekk jogħġbok ikteb għal [ 8 ] {"entity": "bookpeople"}
 it tfittxija għal informazzjoni dwar il [ pjanura ta' carolina ] {"entity":" name"}
 tista' tikteb għalija
 i would like to book it for 2 people
-iva tista' tgħinni fil [ pjanijiet tiegħi ta' ] {"entity": "type"} filgħaxija
-irridu nibqgħu fil-pont u għandna bżonn irħis
+iva tista' tgħinni fil pjanijiet tiegħi [ ta' ] {"entity": "type"} filgħaxija
+irridu nibqgħu fil pont u għandna bżonn [ irħis ] {"entity": "pricerange"}
 jippreferi vojt preferibbilment wieħed b'ipparkjar ħieles
 jixtieq li jkun fil [ klassi ] {"entity":" area"}
-wara [ li ] {"entity": "pricerange"} ċerti affarijiet jerġgħu jiġu eżaminati , fil fatt jixtieq li jkun hemm id għalja li tkun għadha tixtieq ipparkjar ħieles ukoll .
+wara li ċerti affarijiet jerġgħu jiġu eżaminati, fil-fatt jixtieq li jkun hemm id għalja li tkun għadha tixtieq ipparkjar ħieles ukoll.
 jew tkun multa
 għadu ma ġiex ippubblikat fil-Parlament Ewropew.
-i want to book a room at the elatyaddai
+i want to book a room at the [ elatyaddai ] {"entity": "name"}
 permezz ta' iva , fil [ fatt hemm għażla oħra ] {"entity": "name"} jekk jogħġbok ġibt informazzjoni dwar il kaċċa tal larinġ marriott
 tista' tgħidli jekk għandek ipparkjar ħieles
-tista' ssib [ dar ta' valur ] {"entity": "name"} għalija permezz ta'
+tista' ssib dar ta' [ valur ] {"entity": "name"} għalija permezz ta'
 i amplanning a trip and could use some help with a place to stay
-l i [ dont ] {"entity":" pricerange"} għandu qasam partikolari li għandu bżonn ikun ipprezzat b'mod moderat .
+l-i dont għandu qasam partikolari li għandu bżonn ikun ipprezzat b'mod moderat.
 id iva bħall-ipparkjar ħieles u l-ipparkjar ħieles bis-saħħa ta'
 jixtieq li jkun [ kamra ] {"entity":" type"}
-għandu jkun fil-bliet
+għandu jkun fil [ bliet ] {"entity":" area"}
 ok imbagħad se [ tkompli għaddejja u se tieħu kwalunkwe ] {"entity":" area"} waħda minn dawk bi prezz moderat b'ipparkjar ħieles u jekk jogħġbok irrakkomanda waħda minn 12 il żona tkun il multa .
 dak il-prodott jista' jiġi kkummerċjalizzat għal 7
 iva jeħtieġ ukoll post f'kamra
-għandek bżonnha għal 5
-i sure hope so it like to find a place to stay with four
+għandek bżonnha għal [ 5 ] {"entity": "bookstay"}
+i sure hope [ so ] {"entity":" stars"} it like to find a place to stay with four
 il [ prezz ] {"entity": "stars"} ma għandu l ebda tħassib għalhekk għandu klassifikazzjoni ta 4 stilli
 għandna bżonn ta' 4 iljieli.
 iva jekk jogħġbok ikteb riservazzjoni
 can you [ help ] {"entity": "bookstay"} me find a place to stay that has a 4 star rating
-għandek tħares lejn il parti l kbira tal [ belt ] {"entity": "type"}
+għandek tħares lejn il [ parti l kbira ] {"entity": "type"} tal belt
 i do not have a preference
 wieħed jista' jaf jekk għandekx ipparkjar ħieles
-iva jekk jogħġbok ikteb għal 1
+iva jekk jogħġbok ikteb għal [ 1 ] {"entity": "bookpeople"}
 i għandek bżonn ta' vawċer bla ħlas jekk jogħġbok
 i għandek bżonn ta' [ kamra ] {"entity": "type"} minflok ramel jekk jogħġbok
 l istudenti jmorru bl [ 4 ] {"entity": "stars"} stilla jista' jkollhom in numru tat telefown ta' dak l istudent .
 għandek bżonn ukoll post fejn toqgħod
 jixtieq li jkun hemm kamra
-i dont trid tikteb , iżda [ l ewwel trid ] {"entity":" name"} tiżgura , li tista' tibqa' f'vawċer imsejjaħ acornbilanċ ta' dar .
+i dont trid tikteb , iżda [ l ewwel trid tiżgura ] {"entity":" name"} , li tista' tibqa' f'vawċer imsejjaħ acornbilanċ ta' dar .
 iva jekk jogħġbok irreġistrah għal 5
 i amalso looking for a place to stay
 sure 4 ly priced and free parking too
@@ -720,15 +720,15 @@ hemm xi wieħed fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
 i would like to book a room at that hotel can you go ahead and book that for me
 i għandna bżonn post biex nibqgħu fil-pont li jħares lejn stilla tal-larinġ
 i dont fil-fatt għandha żona ta' ħsieb i tixtieq li jkollha ħieles u tkun kuntent minflok ma jkollha ħażna
-iva nixtieq nippreżentaha għal 5
-[ can ] {"entity": "pricerange"} you help me find an expensive to stay at thanks
+iva nixtieq nippreżentaha għal [ 5 ] {"entity": "bookstay"}
+can you help me find an expensive to stay at thanks
 għandhom [ kamra ] {"entity": "type"} disponibbli
 kif wieħed jista' jlaħħaq mal [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
 jista' jkollok aħjar mit-tnejn u jgħiduli l-klassifikazzjoni tal-stilla
 jien qed ] {"entity":" name"} infittex informazzjoni dwar xi ħadd imsejjaħ [ hob materials house
-iva jekk jogħġbok għandek bżonn spiża [ li ] {"entity": "pricerange"} għandek ipparkjar ħieles jekk jogħġbok
+iva jekk jogħġbok għandek bżonn spiża li għandek ipparkjar ħieles jekk jogħġbok
 għandek kamra fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet b'ipparkjar ħieles
-no i dont can you pick the best one please i need a room for 2
+no i dont can you [ pick ] {"entity": "bookpeople"} the best one please i need a room for 2
 one in the east of town
 post biex jinżammu stillti moderati
 iż-żona Persuna fil-kompetenza
@@ -736,14 +736,14 @@ jekk jogħġbok irreġistrah għal persuna 1 u 2
 x'inhu l indirizz lill [ armata ashley ] {"entity":" name"}
 jien qed infittex biss informazzjoni dwar liema tip ta' lukanda jew ċentru għall-ivvjaġġar
 ħarsa lejn il [ belt imsejħa roomz ] {"entity":" name"}
-tista' jekk jogħġbok ikteb kamra għal 4
+tista' jekk jogħġbok ikteb kamra għal [ 4 ] {"entity": "bookpeople"}
 jien [ qed infittex ] {"entity":" name"} ukoll kwalunkwe informazzjoni li jista' jkollok fuq il vawċer gonville
 iva tista' tniżżel dak jekk jogħġbok
 [ gonvilleanniku ] {"entity":" name"} jista' jġib in numru ta' kuntatt u t tip ta' karozza jekk jogħġbok
-tista' tagħmel xi rakkomandazzjonijiet għal xi tip ta' lamtu moderat.
+tista' tagħmel xi rakkomandazzjonijiet [ għal ] {"entity":" pricerange"} xi tip ta' lamtu moderat .
 i need internet but not interested in parking
 jekk ma jkun hemm l ebda [ kamra tas ] {"entity": "type"} silġ , ikun hemm multa
-iva jekk jogħġbok imla l [ kotba ] {"entity": "bookstay"} għal 5 persuni , jekk jogħġbok , jekk jogħġbok ipprovdilu numru ta' referenza wara l inklużjoni
+iva jekk jogħġbok imla l-kotba għal 5 persuni, jekk jogħġbok, jekk jogħġbok ipprovdilu numru ta' referenza wara l-inklużjoni
 can you let me know about 4 who be perfect
 il-prezzijiet moderati se jaħdmu wkoll għandhom jinkludu l-ipparkjar ħieles
 tajjeb li tista' tniżżel fil-kotba tiegħi spazju għal 1
@@ -755,80 +755,80 @@ il ġimgħa [ l oħra l Membri tal Parlament Ewropew ] {"entity":" name"} huma m
 il parti l kbira tal ġugarelli huma magħmula [ minn ] {"entity": "stars"} żewġt ikliet ta' lamtu .
 nope pick a Il-ħsieb tiegħek jixtieq ukoll
 id like it to be the [ same area ] {"entity":" area"} as the attraction
-iva jeħtieġ li jitniżżel [ fil kotba għall ] {"entity":" bookday"} iljieli ta' bil lejl li jkunu għaddejjin , jeħtieġ ukoll in numru ta' referenza
+iva jeħtieġ li jitniżżel fil-kotba għall-iljieli ta' bil-lejl li jkunu għaddejjin, jeħtieġ ukoll in-numru ta' referenza
 jeħtieġ li nsib vawċer li għandu parkeġġ ħieles
 fil-klassifikazzjoni taċ-ċentru tal-stilla f'dik iż-żona
-iva jekk jogħġbok irreġistrah għal 5
+iva jekk jogħġbok irreġistrah għal [ 5 ] {"entity": "bookpeople"}
 jien qed infittex ] {"entity": "name"} ukoll lukanda partikolari li ismu jissejjaħ [ alphamilton mars house
-iva Ħal-lejl tal-ivvjaġġar
+iva Ħal lejl [ tal ] {"entity":" bookday"} ivvjaġġar
 it-tfittxija għal lamtu tal-biċċerija
-jekk jogħġbok ibda dak għal 7
+jekk jogħġbok ibda dak għal [ 7 ] {"entity": "bookpeople"}
 it tfittxija għal postijiet ] {"entity": "area"} biex wieħed joqgħod fil pont [ tan Nofsinhar tal Perù li joffru parkeġġ ħieles għall persuni li jkunu qegħdin jivvjaġġaw
 iva n nofsinhar tal belt preferibbilment u [ medda moderata ] {"entity": "pricerange"} ta' prezzijiet
 iva, x'għandek bżonn tista' tniżżel vawċer għal 3 iljieli bil-mod
 u jkun hemm xi ħaġa għall-ipparkjar
 l-istess bħall-kworum jekk jogħġbok
-4. Minnufih wara r-regolament 4 tar-regolamenti prinċipali,
+4 . ] {"entity": "stars"} Minnufih wara r regolament 4 [ tar regolamenti prinċipali ,
 għalkemm għadu mhuwiex ikkonfermat, għadu mhuwiex ikkonfermat.
-i dont have a particular price range in mind what do you suggest for 8
+i dont have a [ particular ] {"entity": "bookpeople"} price range in mind what do you suggest for 8
 iva, jekk jogħġbok, għandek tikteb taxi li jkun jista' jieħuni mill-kuntentizza għal hemm
-ħu nota tal-kworum għal 8
+ħu nota tal kworum għal [ 8 ] {"entity": "bookpeople"}
 tista' tgħinni b'xi informazzjoni fuq [ vawċer ] {"entity":" type"} partikolari
-hija ċ ċinga ta fuq il [ ponta ] {"entity":" name"} li taħseb li għandu l isem korrett
+hija ċ ċinga ta [ fuq il ponta ] {"entity":" name"} li taħseb li għandu l isem korrett
 għandhom l-internet b'xejn
 l istess bħal wieħed fil medda tal prezzijiet [ għalja ] {"entity": "pricerange"} li jinkludi t tqassim bla ħlas
-il-Ġermanja tista' ġġib miegħi spazju għal tliet
+il Ġermanja tista' ġġib miegħi spazju għal [ tliet ] {"entity":" bookpeople"}
 jekk jogħġbok ibda [ vawċer ] {"entity": "type"} għall għajnuna
 l [ iktar ħaġa sempliċi ] {"entity":" pricerange"} iżda għandek bżonn ipparkjar ħieles
 [ ma għandu l ebda preferenza ] {"entity":" area"} min naħa tal belt iżda għandu bżonn ukoll ta' ħelsien
 nixtieq li jkun [ kamra ] {"entity":" type"}
-japprezza għaliex ma jsemmiex qabel jekk jogħġbok ikteb il-Ġurnal Uffiċjali tal-Unjoni Ewropea.
+japprezza għaliex ma jsemmiex [ qabel ] {"entity": "bookday"} jekk jogħġbok ikteb il Ġurnal Uffiċjali tal Unjoni Ewropea .
 never mind i will worry [ about ] {"entity": "type"} food later i amactually looking for a hotel with aouslyhouse and free parking would be great as well
 jekk jogħġbok
 għandek bżonn xi vawċer jekk jogħġbok
 l Istati Membri ] {"entity":" type"} għandhom ikunu jistgħu jieħdu l miżuri [ kollha meħtieġa biex jiżguraw li dawn il miżuri jkunu jistgħu jiġu implimentati .
-tista', jekk jogħġbok, tikteb għal lejl il-lejl il-lejl jekk jogħġbok
-in cambridge i need a cheap [ please ] {"entity": "pricerange"}
+tista' [ , ] {"entity":" bookday"} jekk jogħġbok , tikteb għal lejl il lejl il lejl jekk jogħġbok
+in cambridge i need a cheap please
 i [ dont really care ] {"entity":" area"} i do want addizzjonalment b'saqaf ħieles għalkemm
 hemm waħda fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet b'internet ħieles
 il-klassifikazzjoni tal-stilla mhijiex rilevanti għalija
-mhux imħasseb [ dwar ] {"entity": "type"} il prezz iżda jixtieq li jkun hemm ċentru b'saqajn ħielsa
+mhux imħasseb dwar il-prezz iżda jixtieq li jkun hemm ċentru b'saqajn ħielsa
 iva u tista' jekk jogħġbok ikteb kamra filgħaxija għal 4 persuni
 i se jkun qiegħed jasal fil [ Ministeru ] {"entity":" bookday"} i se jkollu bżonn in numru ta' referenza jekk jogħġbok
 hemm xi ħaġa [ għalja ] {"entity": "pricerange"} madwar
 i do not have a location preference
 jixtieq li jkun għali għandu jkollu wkoll ipparkjar ħieles u ħieles
 jekk jogħġbok ikteb [ l armi universitarji ] {"entity": "name"}
-3.
+3 [ . ] {"entity": "bookstay"}
 se jkun hemm [ 4 ] {"entity": "bookpeople"} persuni
 im looking for a place to stay during my upcoming trip to cambridge
-għandu jkun fil-punent
+għandu jkun fil [ punent ] {"entity": "area"}
 fil fatt l imġieba ħaġa [ baxxa ] {"entity": "pricerange"} iżda fil fatt qed naħsbu li trid xi ħaġa għalja minflok
 tista' tniżżel jekk jogħġbok
 Ġabra 4 persuni
-għandek [ il ] {"entity": "stars"} ħsieb li toqgħod xi ħaġa b'mod ħieles u għandek 4 stilli ta' ħsieb għandek xi suġġerimenti .
+għandek [ il ħsieb ] {"entity": "stars"} li toqgħod xi ħaġa b'mod ħieles u għandek 4 stilli ta' ħsieb għandek xi suġġerimenti .
 għandek kull ħaġa li għandek.
 i amlooking for places to go in the [ centre ] {"entity": "area"} of town
 [ im also ] {"entity":" area"} looking for a place to stay in the same area as cambridge university toatec gardens
-biċċerija
+[ biċċerija ] {"entity": "type"}
 effettivament iva għandek bżonn vawċer bi prezz għoli bi prezz ħieles
 klassifikazzjoni tal-istat tal-lamtu tal-materja prima
-x'inhu madwar kamra b'grad ta' stilla ta' 4
-jekk jogħġbok ikteb għal 4
+x'inhu madwar kamra b'grad ta' stilla ta' [ 4 ] {"entity": "stars"}
+jekk jogħġbok ikteb għal [ 4 ] {"entity": "bookpeople"}
 nixtieq ukoll insib post biex nibqgħu ġebel għalkemm għalhekk jeħtieġ li jkun vawċer
 għandek bżonn li jkollok [ 4 ] {"entity": "stars"} stilel jekk jogħġbok
-tista' tniżżel fil-kotba tiegħek għal wieħed minn kull 6
+tista' tniżżel fil kotba tiegħek għal wieħed minn kull [ 6 ] {"entity": "bookpeople"}
 għandek isem ta' vawċer li jħares lejn il-kotba
 il [ gonville ] {"entity":" name"} sema' miegħu
 għandek bżonn għal 2 jekk jogħġbok
-titħares lejn 0 biex [ toqgħod ] {"entity": "stars"} f'dak li jinkludi parkeġġ ħieles taf li għandek
+titħares lejn 0 biex toqgħod f'dak li jinkludi parkeġġ ħieles taf li għandek
 i għandek bżonn vawċer bla ħlas
 iva jekk jogħġbok ippreżenta kamra għal lejl imħawwad jekk jogħġbok
 i għandek bżonn post fejn toqgħod
 irridu nibqgħu b'xi tip ta' stilla moderata jekk ikun possibbli
-il-Ġermanja
+il [ Ġermanja ] {"entity": "type"}
 għalhekk għandhom spazju għal kull wieħed minnhom
-il-Ġurnal Uffiċjali ta' l-Unjoni Ewropea għall-Mediterran
+il Ġurnal Uffiċjali ta' l [ Unjoni ] {"entity": "bookstay"} Ewropea għall Mediterran
 nixtieq insib klassifikazzjoni moderata ta' stilla
 [ kwalunkwe ] {"entity":" area"} żona għandha tiġi kkonservata sakemm il vaganzi jinkludu l ipparkjar bla ħlas i dont għandu bżonn l internet
 iva jekk jogħġbok irreġistrah għal [ 1 ] {"entity": "bookpeople"}
@@ -841,10 +841,10 @@ għandek bżonn ukoll informazzjoni dwar [ il lensfield hotel ] {"entity":" name
 il-lensfield għandu ipparkjar u internet bla ħlas
 il-Ġermanja tixtieq tgħid li jekk jogħġbok.
 għandna bżonn ta' post fejn nibqgħu ħielsa
-l artijiet ] {"entity":" pricerange"} jaraw dak li huwa disponibbli rħis [ hekk kif l artijiet jagħmlu l iktar sens iżda huma miftuħa għal kwalunkwe żona .
+l [ artijiet ] {"entity":" pricerange"} jaraw dak li huwa disponibbli rħis hekk kif l artijiet jagħmlu l iktar sens iżda huma miftuħa għal kwalunkwe żona .
 għandek il-pjaċir tiegħi li qed infittex pjaċir irħis bl-ipparkjar ħieles u bl-internet
 [ grazzi ħafna għalhekk nista' wkoll ngħin biex ] {"entity": "name"} nifhem kamra għall kaċċa tal kaċċa tal kaċċa tal marriott jekk jogħġbok
-8 jekk jogħġbok agħtih in-numru ta' referenza jekk jogħġbok
+8 jekk jogħġbok agħtih [ in ] {"entity": "bookpeople"} numru ta' referenza jekk jogħġbok
 tħares lejn naħa kuntenti
 dik il-ħaġa tajba iżda tista' tgħidu jekk tinkludi ħieles
 iva għal jum 1
@@ -852,36 +852,36 @@ tista' tieħu l informazzjoni ] {"entity":" name"} fuq vawċer imsejjaħ il vaw�
 ħoss bħal post deċenti biżżejjed ikun kapaċijżommni kamra għall [ imħabba ] {"entity":" bookday"}
 għandek bżonn il-kamra għal ħames iljieli li jibdew fil-wied jekk jogħġbok
 i għandek bżonn post fejn toqgħod
-l i [ dont ] {"entity": "type"} i se jkollu bżonn lamtu tal kamra għandu jkollu wkoll iċ ċomb ħieles
-l-ebda għażla ħażina jekk jogħġbok ikteb il-Ġermanja għall-Ġermanja
-[ i se ] {"entity": "area"} jkollha bżonn post biex toqgħod fuq in naħa tal punent tal belt
+l-i dont i se jkollu bżonn lamtu tal-kamra għandu jkollu wkoll iċ-ċomb ħieles
+[ l ] {"entity":" bookday"} ebda għażla ħażina jekk jogħġbok ikteb il Ġermanja għall Ġermanja
+[ i ] {"entity": "area"} se jkollha bżonn post biex toqgħod fuq in naħa tal punent tal belt
 jien qed inħares lejn is soġġorn fil [ kamra tal pont ] {"entity":" name"}
 għal [ 2 ] {"entity": "bookpeople"} persuni u agħmel ir riżervi għall injam 1218 jekk jogħġbok
 i need to book a room in the [ north ] {"entity": "area"} as well
 jien se jkolli bżonn [ vawċer ] {"entity": "type"} b'saħħtu
 i [ dont care ] {"entity":" pricerange"} about the price i absolutely do need free parking though
 i do not have a preference on the number of stars
-nixtieq li jkun fit-tip ta' vawċer
+nixtieq li jkun [ fit ] {"entity":" type"} tip ta' vawċer
 għandek tiktebni mal [ vawċer ashley ] {"entity": "name"} jekk jogħġbok
-għal 5
+għal [ 5 ] {"entity": "bookstay"}
 it-tfittxija għall-kuntentizza b'4 mill-bliet
 i fil ] {"entity":" name"} fatt jeħtieġ li jitniżżel vawċer speċifiku [ msejjaħ archway house
-jekk jogħġbok ikteb li għal 8
+jekk jogħġbok ikteb li għal [ 8 ] {"entity": "bookpeople"}
 jien qed infittex ukoll post ta' [ 4 ] {"entity": "stars"} stilli biex nibqa' b'saqajn ħielsa
-kura i dont fejn iżda jixtieq ukoll [ li ] {"entity":" type"} jkun hemm ipparkjar ħieles u jippreferi li jkun hemm kamra
+kura i dont fejn iżda jixtieq [ ukoll li ] {"entity":" type"} jkun hemm ipparkjar ħieles u jippreferi li jkun hemm kamra
 kull ħaġa li tkun [ baxxa ] {"entity":" pricerange"}
 i need to book a room for friday nights
 i għandek bżonn post fejn toqgħod
 no specific area i would like it to be in the moderate stars
-iva jekk jogħġbok ikteb għal 1
+iva jekk jogħġbok ikteb għal [ 1 ] {"entity": "bookpeople"}
 jeħtieġ ukoll taxi biex imur bejn il-partitarju u l-partitarju sal-ħin tar-riżervazzjoni
 jien qed infittex informazzjoni tista' tgħini nsib post biex nibqa' ħajt.
 [ moderat ] {"entity": "pricerange"} ikun firxa ta' prezzijiet perfetta
 iva , klassifikazzjoni ta' [ 2 ] {"entity": "stars"} stilla tkun kbira
-iva jekk jogħġbok irreġistrah għal 5
+iva jekk jogħġbok irreġistrah għal [ 5 ] {"entity": "bookpeople"}
 iva jekk jogħġbok
 5 persuni għal [ 4 ] {"entity": "bookstay"} iljieli li jibdew mill inkwiet
-Iva [ , jekk jogħġbok ] {"entity": "departure"} ikteb taxi li jitbiegħed mill iskambju tal ikel għall finijiet tal pont i se jkun jeħtieġ it tip ta karozza u n numru ta kuntatt
+Iva , jekk jogħġbok ikteb taxi [ li jitbiegħed mill iskambju ] {"entity": "departure"} tal ikel għall finijiet tal pont i se jkun jeħtieġ it tip ta karozza u n numru ta kuntatt
 jien qed infittex post fejn nibqgħu l-Ħelsinki għandu jinkludi l-ipparkjar bla ħlas u għandu jinkludi l-ipparkjar bla ħlas
 i need something cheap of town
 tista' tniżżel fil-kotba tiegħi kamra f'qiegħ il-bastiment ta' l-irmonk u l-iljieli ta' l-irmonk li jibdew minn friday
@@ -893,57 +893,57 @@ iva tista' jekk jogħġbok tieħu l-kotba għalija
 i amarriving on [ friday ] {"entity":" bookday"}
 għandek tħares ukoll lejn il [ ħolma ta' warkworth house ] {"entity": "name"}
 id bħal lamtu moderat, jiġifieri ftit li xejn għaqli.
-iva jekk jogħġbok 5
-iva għandek bżonn ukoll post biex [ toqgħod ] {"entity": "area"} fil parti l kbira tal stilla u għandek ħieles .
-tista' tniżżel miegħi kamra fil-marriott għal 3
-persuna waħda
+iva jekk jogħġbok [ 5 ] {"entity": "bookpeople"}
+iva għandek bżonn ukoll post biex toqgħod fil-parti l-kbira tal-stilla u għandek ħieles.
+tista' tniżżel miegħi kamra fil marriott għal [ 3 ] {"entity": "bookstay"}
+[ persuna ] {"entity": "bookpeople"} waħda
 [ i ] {"entity": "stars"} għandna bżonn post għali biex nibqgħu li jkun hemm żewġ stilel
 do any of them have free parking
 can you find me a [ three ] {"entity":" stars"} star place to stay
-l i ] {"entity": "pricerange"} dont għandha preferenza taż żona iżda [ jeħtieġ li jkollha l ipparkjar u l ipparkjar bla ħlas bi prezz moderat
+l i dont għandha preferenza taż żona iżda [ jeħtieġ li ] {"entity": "pricerange"} jkollha l ipparkjar u l ipparkjar bla ħlas bi prezz moderat
 il-Ġermanja għamlitha ċara li tista' ġġib spazju għalija
 fejn hu l [ grupp ta' l armi universitarji ] {"entity":" name"}
-jekk jogħġbok għandek bżonn kamra fuq nies imħarrġa
+jekk jogħġbok għandek bżonn kamra [ fuq nies imħarrġa ] {"entity": "bookday"}
 x'tista' tgħidli ] {"entity":" name"} dwar l [ espressjoni ta' inn cambridge waqt il vaganza
-tista' tniżżel għalija jekk jogħġbok għal 1
+tista' tniżżel għalija jekk jogħġbok għal [ 1 ] {"entity": "bookpeople"}
 tista' tgħinni nsib informazzjoni dwar il Logħob tal [ gon ] {"entity":" name"}
 i want to book it for [ 5 ] {"entity": "bookstay"} nights
 il-Ġurnal Uffiċjali ta' l-Unjoni Ewropea għandu bżonn ukoll in-numru ta' referenza li għandna bżonn ukoll biex insibu post għall-kuxjenza
 għandna bżonn ukoll post biex nibqgħu [ b'4 ] {"entity": "stars"} stillti li jinkludu żraben ħielsa
 le iżda nixtieq li jkun [ fit Tramuntana ] {"entity":" area"}
 iva im ] {"entity":" name"} ukoll qed tfittex informazzjoni dwar il [ każinò tal lenti
-jekk jogħġbok ikteb dan għall-istess grupp ta' 4
-iva nixtieq ukoll insib vawċer
-im also looking for a cheap [ to ] {"entity": "pricerange"} crash in can you find one for me
+jekk jogħġbok ikteb dan għall istess grupp [ ta' 4 ] {"entity": "bookpeople"}
+iva nixtieq ukoll [ insib vawċer ] {"entity": "type"}
+im also looking for a cheap to crash in can you find one for me
 għandu stilla ta' [ 3 ] {"entity":" stars"}
 għandek kwalunkwe klassifikazzjoni ta' stilla għalja
 x'inhu n numru tat telefon għal dak tal [ qarrej ] {"entity":" area"}
-tista' tħares lejn il-vawċer ukoll
-i would like to [ book ] {"entity": "bookpeople"} a room for 3 if possible if not sunday can i also have the reference number
-l ebda ħaġa f'dan iż [ żmien ] {"entity":" pricerange"} ma tista' tgħinni nsib kamra biex nibqa' għal żmien moderat .
+tista' tħares lejn il vawċer [ ukoll ] {"entity": "type"}
+i would like to book a room for 3 if possible if not sunday can i also have the reference number
+l-ebda ħaġa f'dan iż-żmien ma tista' tgħinni nsib kamra biex nibqa' għal żmien moderat.
 l-ebda tip ta' lamtu tal-kura i dont u i absolutely m'għandhom bżonn ħieles
 l Unjoni Ewropea għandha bżonn ta' iktar fondi għall [ perspettivi ] {"entity": "stars"} finanzjarji
 tfittxija speċifika għal [ kamra ] {"entity":" type"} u waħda li għandha ipparkjar ħieles biex tixtri karozza għall viżitaturi
 do any of them have parking
-ebda ħaġa bħal 2 minflok [ kwalunkwe ] {"entity": "stars"} rakkomandazzjoni
+ebda ħaġa bħal 2 minflok kwalunkwe rakkomandazzjoni
 ħu l-isem u tista' tieħu n-numru tat-telefown tiegħek jekk jogħġbok
 iva jekk jogħġbok u jixtieq ukoll iva bejn iż-żewġ postijiet
 it tfittxija għal xi informazzjoni dwar [ dar b'żewġt ikmamar ] {"entity":" name"}
 it tfittxija għal [ dar b'saħħitha u b'saħħitha ] {"entity": "name"}
-iva iktebha għal 4
+iva iktebha għal [ 4 ] {"entity": "bookpeople"}
 iva għandek bżonn ta' [ kamra ] {"entity": "type"} b'saqajn ħielsa
 iva jekk jogħġbok u ma jkollux bżonn ipparkjar ħieles ukoll
 permezz ta' iva , fil [ fatt hemm għażla oħra ] {"entity": "name"} jekk jogħġbok ġibt informazzjoni dwar il kaċċa tal larinġ marriott
-jien qed infittex post biex [ nibqgħu l ] {"entity": "type"} iktar miftuħa u l iktar waħda sempliċi għandha tinkludi l internet
+jien qed infittex post biex nibqgħu l-iktar miftuħa u l-iktar waħda sempliċi għandha tinkludi l-internet
 jippreferi 4 jekk jogħġbok
 is the parking free perchance
 iva tixtieq tibqa' fil-lejl il-Ħarifa tal-lenti
-nixtieq nibqa' fuq il persuni friġġi [ jeħtieġ ukoll ] {"entity":" bookday"} numru ta' referenza
+nixtieq nibqa' fuq il persuni [ friġġi ] {"entity":" bookday"} jeħtieġ ukoll numru ta' referenza
 jien qed infittex kworum partikolari
-iva tista' jekk jogħġbok irreġistrah għal 5
+iva tista' jekk jogħġbok irreġistrah għal [ 5 ] {"entity": "bookstay"}
 i need a [ place ] {"entity": "area"} to stay for my trip to cambridge in the east area
 i dont care and has free parking
-iva jekk jogħġbok jeħtieġ li r-riżerva tkun għal 8
+iva jekk jogħġbok jeħtieġ li r riżerva tkun għal [ 8 ] {"entity": "bookpeople"}
 jien qed infittex post fejn nibqgħu l-Ħelsinki għandu jinkludi l-ipparkjar bla ħlas u għandu jinkludi l-ipparkjar bla ħlas
 firxa ta' prezzijiet ta' l-imsaġar
 can you help me find a [ moderate ] {"entity":" pricerange"} ly priced place to stay
@@ -951,135 +951,135 @@ jekk jogħġbok imla [ 4 lamti ] {"entity":" stars"} jekk jogħġbok
 id prefer a moderately priced place in the [ north ] {"entity":" area"}
 ma għandhomx għalfejn ikunu jafu jekk għandhomx l-internet u x'inhu l-kodiċi postali u n-numru tat-telefown għal wieħed minnhom
 jien qed nippjana vjaġġ u neħtieġ għajnuna b'vawċer partikolari
-[ għal aktar informazzjoni: carolina bed Strasburgu tel . 33 3 ] {"entity":" name"} 881 74588 Brussel tel . 32 2 28 481 74588 e mail: econ press europarl . eu . int
+[ għal aktar informazzjoni: carolina bed ] {"entity":" name"} Strasburgu tel . 33 3 881 74588 Brussel tel . 32 2 28 481 74588 e mail: econ press europarl . eu . int
 i ser tkun qed tiġi inkluża fil-Ġurnal Uffiċjali tal-Unjoni Ewropea.
-im also looking for a 4
+im also looking for a [ 4 ] {"entity": "stars"}
 huma kwalunkwe wieħed minn dawk fil firxa [ moderata ] {"entity": "pricerange"} tal prezzijiet
 kif wieħed jista' jlaħħaq mal-medda tal-prezzijiet għalja
-iva għal 6 u għandek bżonn in [ numru ] {"entity": "bookpeople"} tal konferma
+iva għal 6 u għandek bżonn in-numru tal-konferma
 iva se [ jkun ] {"entity": "type"} hemm bżonn ta' taxi bejn l attrazzjoni u l vawċer jekk jogħġbok
-tista' tgħinni nsib kamra
+tista' tgħinni nsib [ kamra ] {"entity": "type"}
 l-ebda stilla partikolari ma ġiet ikklassifikata
 i would like one with internet what are the price ranges for those
 sakemm il kamra tiegħu fit Tramuntana [ b'4 ] {"entity": "stars"} stilel ma tkunx tista' tiġi rrakkomandata , jekk jogħġbok
 i could really use some help finding info on [ aouslyhouse ] {"entity": "type"} to stay in i would need free parking though
-[ il kwistjoni prinċipali ] {"entity":" pricerange"} u l iktar ħaġa sempliċi li trid tiġi inkluża fl internet
-għandu jkun ta' 6
+il [ kwistjoni prinċipali ] {"entity":" pricerange"} u l iktar ħaġa sempliċi li trid tiġi inkluża fl internet
+għandu jkun ta' [ 6 ] {"entity": "bookpeople"}
 tista' jekk jogħġbok itniżżel kamra fil [ ġenb ] {"entity":" name"} u jekk tista' jekk jogħġbok ipprovdi n numru ta' referenza li trid toħroġ f'każ ta' kwalunkwe kwistjoni
-iva im tħares ukoll ] {"entity":" name"} lejn il vakum [ taċ ċineg tal ponta tal baħar
+iva im tħares ukoll ] {"entity":" name"} lejn il vakum taċ [ ċineg tal ponta tal baħar
 tista' tgħidli dwar iċ [ ċineg ta' l ivvjaġġar ] {"entity":" name"}
 tista' tieħu n-numru tat-telefown jiġifieri li għandek ipparkjar ħieles ħafna bis-saħħa
 [ isem il ] {"entity":" name"} missier u liema parti taż żona hija dan il missier fid dar ukoll bħal informazzjoni dwar il Logħob tal lenti
-it-tfittxija għal post fit-Tramuntana
+it tfittxija għal post fit [ Tramuntana ] {"entity": "area"}
 id bħal post b'rata ta' [ 4 ] {"entity": "stars"} stillti li joffri ħieles għall ikel
 l-ebda ħaġa m'għandha bżonn l-internet ħieles u l-indirizz tal-firxa tal-prezzijiet u l-kodiċi postali ta' dak li ssib
-l-Unjoni Ewropea għandha bżonn ta' iktar fondi għall-perjodu 2007 - 2013
-i need to book it for 3
+l Unjoni Ewropea ] {"entity": "type"} għandha bżonn ta' iktar fondi għall [ perjodu 2007 2013
+i need to book it for [ 3 ] {"entity": "bookpeople"}
 issa għandek bżonn post fejn nibqa'.
 jien nifhem li jkun hemm kamra jekk jogħġbok
 iva , jippreferi post [ baxx ] {"entity": "pricerange"}
 għandu mill inqas [ 4 ] {"entity": "stars"} stillti
-għalhekk tista' tgħini wkoll b'vawċer
-iva jekk jogħġbok 5
-i do need 4 as [ well ] {"entity": "stars"}
+għalhekk tista' tgħini wkoll [ b'vawċer ] {"entity":" type"}
+iva jekk jogħġbok [ 5 ] {"entity": "bookpeople"}
+i do need 4 as well
 i would like it to be in the [ expensive ] {"entity": "pricerange"} range too
 għandu jew ikollu ħieles
-[ great ] {"entity": "bookstay"} either one is fine i need a reservation for 3 nights is not available try 2 nights and reference number
+great either one is fine i need a reservation for 3 nights is not available try 2 nights and reference number
 iva għandek bżonn ukoll post biex toqgħod fl-istess żona ta' stillti
 l-ebda persuna m'għandha bżonn tirreġistra iżda għandha bżonn tkun taf jekk għandhiex l-internet b'xejn in-numru tat-telefon u l-kodiċi tal-posta
 im looking for a place to sleep not too expensive but not bargain basement either
-nixtieq nibqa' [ fit Tramuntana ] {"entity":" area"}
-i jippreferi kura [ tas saħħa tal ] {"entity":" type"} annimali dwar il faċilitajiet l oħra
+nixtieq nibqa' fit [ Tramuntana ] {"entity":" area"}
+i jippreferi kura [ tas ] {"entity":" type"} saħħa tal annimali dwar il faċilitajiet l oħra
 iva jekk jogħġbok niżżel wieħed għalija li għandi bżonn nirreġistra għal 6 permezz ta' thursday
-i għandek bżonn għal [ żewġt ] {"entity":" bookstay"} iljieli li jibdew it tubi u għalhekk i għandek tħalli t thursday
-kif għandek tpoġġi l-stilli rħas
-iż żona [ taċ ċentru se taħdem iżda għandha tkun ċentru ] {"entity": "area"} fejn wieħed ikun jaf ikollha bżonn ukoll il kodiċi tal pożizzjonijiet u l kodiċi postali
+i għandek bżonn għal [ żewġt iljieli ] {"entity":" bookstay"} li jibdew it tubi u għalhekk i għandek tħalli t thursday
+kif għandek tpoġġi l [ stilli ] {"entity":" pricerange"} rħas
+iż żona [ taċ ċentru ] {"entity": "area"} se taħdem iżda għandha tkun ċentru fejn wieħed ikun jaf ikollha bżonn ukoll il kodiċi tal pożizzjonijiet u l kodiċi postali
 għandek bżonn ukoll post fejn toqgħod
 irridu lamtu tal-biċċerija
-iva [ li ] {"entity": "bookstay"} jkun hemm bżonn kbir li wieħed jirreġistra għall friday 3 iljieli
+iva li jkun hemm bżonn kbir li wieħed [ jirreġistra ] {"entity": "bookstay"} għall friday 3 iljieli
 terġa' tiċċekkja għal kamra fil-medda moderata ta' prezzijiet fit-Tramuntana b'erba' stillti jekk jogħġbok
 jixtieq li jkollok [ kamra ] {"entity": "type"} ħielsa jekk jogħġbok
-it-tfittxija għal kwalunkwe spiża
+it tfittxija għal kwalunkwe [ spiża ] {"entity": "pricerange"}
 ok how about a [ moderate ] {"entity":" pricerange"} ly priced one
-hemm kwalunkwe spiża
+hemm kwalunkwe [ spiża ] {"entity": "pricerange"}
 tista' tiċċekkja għal [ medda moderata ] {"entity": "pricerange"} ta' prezzijiet minflok
-i għandek bżonnha għal 5
+i għandek bżonnha għal [ 5 ] {"entity": "bookpeople"}
 jixtieq ukoll jgħin biex tinstab [ kamra ] {"entity":" type"}
-jixtieq isib firxa [ baxxa ] {"entity": "pricerange"} ta prezzijiet jekk jogħġbok
+jixtieq isib [ firxa baxxa ] {"entity": "pricerange"} ta prezzijiet jekk jogħġbok
 the area [ does not matter ] {"entity":" area"} just whatever you think is best in that criteria
 għandek saħħa ħielsa
-hemm bżonn ukoll ta' post bi prezz [ moderat ] {"entity": "pricerange"} biex nibqgħu mingħajr ħlas
+hemm bżonn ukoll ta' post bi prezz moderat biex nibqgħu mingħajr ħlas
 għandu jinkludi l-ipparkjar ħieles
 i dont għandek żona li tippreferi tista' tirrakkomanda xi ħaġa
 iva li għandek taħdem tista' tniżżel għalija
-dan se jkun l-istess grupp ta' nies bil-lejl
+dan se jkun l istess grupp ta' nies [ bil ] {"entity":" bookpeople"} lejl
 jeħtieġ ukoll li nsib [ kamra ] {"entity": "type"} b'saqajn ħielsa
 l-ebda biljett għall-ferrovija ma jixtieq li jkun hemm kamra fil-lvant jekk jogħġbok
 kif għandna fil firxa [ baxxa ] {"entity": "pricerange"} tal prezzijiet minflok
-iva tista' tniżżel għal 5
+iva tista' tniżżel għal [ 5 ] {"entity": "bookpeople"}
 hi tħares ] {"entity":" name"} lejn il kworum bl isem ta' [ acorn mars house
-i would like to know if it is available for 8
-l-intenzjoni li jinstab prezz ta' 4 ly jekk jogħġbok
+[ i ] {"entity": "bookpeople"} would like to know if it is available for 8
+l intenzjoni li jinstab [ prezz ] {"entity":" stars"} ta' 4 ly jekk jogħġbok
 le iżda għandu jkollu wkoll ħieles
-għandek xi stilla moderata [ b'lejżer ] {"entity":" pricerange"}
+għandek xi stilla moderata b'lejżer
 iva jekk tista' ssib post għal [ 5 ] {"entity": "bookpeople"} persuni
 2 jekk jogħġbok
 għandna bżonn [ ukoll ] {"entity":" area"} post biex nibqgħu Ħelsinki bl ipparkjar ħieles u fl għoljiet tal bliet
 jippreferi li jkun hemm [ kamra ] {"entity": "type"}
-il kworum bħala l kworum u [ għandu jinkludi l ] {"entity": "type"} kworum b'xejn
+il kworum [ bħala l kworum ] {"entity": "type"} u għandu jinkludi l kworum b'xejn
 id bħal post ta' stilla qawwija
 i would like to book the ashley hotel nights
 fuq il [ kliewi ] {"entity": "bookday"} jekk jogħġbok
 tista' tgħinni nsib tarf għali
 jien qed inħares b'mod speċifiku lejn [ kamra ] {"entity": "type"} fil firxa tal prezzijiet għalja fit Tramuntana tista' tħares għal darb' oħra jekk jogħġbok
 forsi tista' tiċċekkja ż-żona moderata tal-belt
-jekk jogħġbok ikteb ħafna ħass ħażin għall-oġġetti tax-xemx
-i għandhom bżonn post biex jibqgħu fil-parti l-kbira tal-stillti
+jekk jogħġbok ikteb ħafna ħass [ ħażin ] {"entity":" bookday"} għall oġġetti tax xemx
+[ i ] {"entity": "area"} għandhom bżonn post biex jibqgħu fil parti l kbira tal stillti
 nixtieq [ vakum ] {"entity":" type"}
 i dont care people
 im also looking for a train the train should be on the same day booking
 im also looking for [ aouslyhouse ] {"entity": "type"} in town
 ippreferu [ erba' partijiet ] {"entity":" stars"} tal lamtu li jippreferu jagħmlu l ħsara fejn fil belt hekk kif il marda jkollha l karozza , jippreferu wkoll li joffru parkeġġ u kumdità bla ħlas
-can you book me a room for thursday nights
+can you book me a room for [ thursday ] {"entity": "bookday"} nights
 it tfittxija għal vawċer imsejjaħ [ qiegħ il Ġugarelli ] {"entity": "name"} u l Ġugarelli
-nixtieq nippreżentaha għal 6.............
-iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva, iva.
+nixtieq nippreżentaha għal 6 [ . . . . . . ] {"entity": "bookpeople"} . . . . . . .
+iva , iva , iva , iva , [ ] {"entity": "pricerange"} iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva , iva .
 għandu parkeġġ ħieles
-iva nixtieq nippreżenta kamra għal 2
+iva nixtieq nippreżenta kamra għal [ 2 ] {"entity": "bookpeople"}
 l-esperjenza tiegħek tista' tgħinni nsib post mingħajr ħlas.
 jekk jogħġbok imla l parti tal [ lvant ] {"entity": "area"} tal belt jekk jogħġbok
 għandek [ 4 ] {"entity": "stars"} stillti
 irridu wkoll niżguraw li jkollhom ipparkjar ħieles
 iva , fil fatt tixtieq issib [ kamra ] {"entity": "type"} b'saqajn ħielsa
 it does not matter range and include free parking
-effettivament kif wieħed irid [ ikun irħas ] {"entity": "pricerange"}
-[ fiċ ċentru ] {"entity":" area"}
+effettivament kif wieħed irid [ ikun ] {"entity": "pricerange"} irħas
+fiċ [ ċentru ] {"entity":" area"}
 [ tr7804 Ivvjaġġajt għalija nnifsi iżda imsejjaħ ukoll ] {"entity":" name"} biex nibqa' fiċ ċineg ta' l ivvjaġġar ta' l ivvjaġġar fejn ikun dak
 għandna bżonn ukoll li nsib kamra [ b'żewġ ] {"entity":" stars"} stilel
 ma nixtieqx permezz ta' taxi għalkemm immur mill [ lukanda ] {"entity": "type"} għall proponent li jasal sal ħin ta' riżerva tiegħi jgħiduli t tip ta' karozza u n numru ta' kuntatt
-jien qed infittex lukanda
-irid wieħed mill-firxa tal-prezzijiet tal-kuntratti jekk jogħġbok
+jien qed infittex [ lukanda ] {"entity": "type"}
+irid wieħed mill firxa tal [ prezzijiet tal kuntratti ] {"entity":" type"} jekk jogħġbok
 i għandek bżonn ta' klassifikazzjoni ta' stilla qawwija
 Kapaċiniċċekkja jekk għandhiex ħieles
-iva għal 6
+iva għal [ 6 ] {"entity": "bookpeople"}
 jien qed infittex post fejn nibqgħu l-Ħelsinki għandu jinkludi l-ipparkjar bla ħlas u għandu jinkludi l-ipparkjar bla ħlas
-it-Tramuntana
-il-Ġurnal Uffiċjali ta' l-Unjoni Ewropea għandu jikkwota l-Ġurnal Uffiċjali tal-Unjoni Ewropea
+it [ Tramuntana ] {"entity": "area"}
+il Ġurnal Uffiċjali ta' l [ Unjoni Ewropea għandu jikkwota ] {"entity": "bookstay"} l Ġurnal Uffiċjali tal Unjoni Ewropea
 no i amnot picky
 kif għandek tuża l-fwied
 iva jekk jogħġbok ipprovaha
-fl infojna madwar 3 s [ u ] {"entity":" stars"} b'tali mod li joffru l libertà tal espressjoni
-il [ kwistjoni tal ħasil tal ħwejjeġ ] {"entity":" area"} sakemm ikollha ħieles
-għal 5 snin.
+fl-infojna madwar 3 s u b'tali mod li joffru l-libertà tal-espressjoni
+il [ kwistjoni tal ħasil tal ] {"entity":" area"} ħwejjeġ sakemm ikollha ħieles
+għal 5 snin [ . ] {"entity": "bookpeople"}
 minflok , probabbilment jibda l [ proċess tax xemx ] {"entity": "bookday"}
-[ il Ħamis filgħaxija ] {"entity":" type"} ser isir dibattitu dwar il futur ta' l Ewropa .
-il-vawċer għandu jkun fiċ-ċentru
-iktebha għal 1
+il Ħamis [ filgħaxija ] {"entity":" type"} ser isir dibattitu dwar il futur ta' l Ewropa .
+il vawċer għandu jkun fiċ [ ċentru ] {"entity": "area"}
+iktebha għal [ 1 ] {"entity": "bookpeople"}
 kif gћandek [ tuża ] {"entity":" bookday"}
 għandek interess f'kmamar għall-lejl fejn jista' jkollok ħieles
 im looking for something in a moderate star rating
 i [ dont għandha preferenza għaż ] {"entity":" area"} żona
-jekk jogħġbok ikteb lil nies li jaħdmu fuq ix-xemx
+jekk jogħġbok ikteb lil nies li jaħdmu [ fuq ix ] {"entity": "bookday"} xemx
 ma għandekx bżonnha għal dawk il-jiem tista' tipprova vaġina differenti
 tajjeb li wieħed jista' jipprova u jniżżel dak li jrid
 nistgħu nipprovaw biss [ 2 ] {"entity": "bookstay"} iljieli wara
@@ -1088,27 +1088,27 @@ jeżistu xi 1 s b'parkeġġ ħieles
 jien qed infittex [ kamra ] {"entity": "type"} b'ipparkjar ħieles preferibbilment stilla waħda
 x'għandek tkun taf qabel [ ma tieħu ] {"entity":" type"} n nifs
 x'inhu lamtu tal-larinġ
-iva se tkun qed tivvjaġġa waħidha bil-lejl għax-xemx
+iva se tkun qed tivvjaġġa waħidha bil lejl [ għax ] {"entity": "bookday"} xemx
 il-Ġermanja għandha tkompli għaddejja bil-Ġermanja
 l-ebda post b'mod partikolari x'taħseb li huwa tajjeb
 the reservation will start on sunday for [ one ] {"entity":" bookpeople"} person
 żgur li tista' tiċċekkja fuq il [ wasla ] {"entity": "bookday"} ta' tuesday
-i għandek bżonn ta' klassifikazzjoni ta' stilla qawwija [ u l ] {"entity": "type"} i dont għandhom bżonn ta' parkeġġ bla ħlas
+i għandek bżonn ta' klassifikazzjoni ta' stilla [ qawwija ] {"entity": "type"} u l i dont għandhom bżonn ta' parkeġġ bla ħlas
 jittama li jkun [ fiċ ċentru ] {"entity": "area"}
-i need to book it for one
+i need to book it for [ one ] {"entity":" bookpeople"}
 jekk jogħġbok ta' tul ta' żmien aħjar
-i say friday i meant i want a booking for 5
-imbagħad nista' nieħu waħda fuq il-lejl ta' bil-lejl ta' bil-lejl
+[ i ] {"entity": "bookstay"} say friday i meant i want a booking for 5
+imbagħad [ nista' ] {"entity": "bookday"} nieħu waħda fuq il lejl ta' bil lejl ta' bil lejl
 imsejsa fuq it [ 3 għażliet ] {"entity":" stars"} ta' depożitu ta' stilla disponibbli f'cambridge
 iċċekkja biss għal basktijiet li jinkludu wkoll ipparkjar ħieles
-iva jekk jogħġbok ipprova 5 s [ b'ipparkjar ] {"entity":" stars"} ħieles
-ipprova' l barra lejl wieħed imbagħad
+iva jekk jogħġbok ipprova 5 s b'ipparkjar ħieles
+ipprova' l barra [ lejl ] {"entity": "bookstay"} wieħed imbagħad
 irridu nibqgħu fi tliet postijiet b'ipparkjar ħieles
 [ iċ Ċentru ] {"entity": "area"} se jkun irfinat għalik
-ok tista' tniżżel għal 8 iljieli jekk jogħġbok
+ok tista' tniżżel għal 8 [ iljieli ] {"entity": "bookpeople"} jekk jogħġbok
 iva tista' tipprova għal lejl wieħed
 jien qed infittex [ post ] {"entity": "type"} fejn nibqgħu l Ħadd għandu jkun fit tip ta' kamra u għandu jinkludi l ipparkjar bla ħlas
-il-lukanda għandu jkollha stilla ta' 3
+il lukanda għandu jkollha stilla ta' [ 3 ] {"entity": "stars"}
 assigura li jekk jogħġbok ikteb għal 8
 il-parir tiegħi fuq tul ta' żmien ieħor ta' stennija
 int [ żgur ] {"entity": "bookstay"} li l aħjar li tista' taħdem 8 persuni u 3 iljieli jibdew mill inkwiet
@@ -1116,74 +1116,74 @@ jien qed nipprova nistaqsi lil xi ħadd imsejjaħ [ warkworth house ] {"entity":
 jippreżentaha għal 3
 minflok, għandek bżonn in-numru ta' referenza jekk jogħġbok
 i amlooking for a place to stay the hotel should be in the north
-lamtu tal-i dont care
+lamtu tal i dont [ care ] {"entity":" pricerange"}
 i għandek bżonn post [ b'4 ] {"entity": "stars"} stilel
 jien qed infittex post biex nibqgħu l-firxa tal-prezzijiet tal-kuntratti
 le iżda għandu jkollhom ipparkjar ħieles
-assigura li jekk jogħġbok ikteb 1
+assigura li jekk jogħġbok ikteb [ 1 ] {"entity": "bookpeople"}
 nistgħu nipprovaw għalih għall [ kliewi ] {"entity": "bookday"} minflok
 it tfittxija għal informazzjoni dwar lukanda msejħa [ warkworth house ] {"entity":" name"}
 iva li jkun fuq [ tuesday ] {"entity": "bookday"} jekk jogħġbok
 il marda tkun qed toqgħod għal [ 3 ] {"entity": "bookstay"} iljieli li jibdew fuq it tubi
 lejl wieħed
 jien [ qed ] {"entity": "area"} infittex post biex nibqgħu l Ħelsinki għandu jkun fil Lvant u għandu jinkludi l Ħelsinki Ħielsa
-il klassifikazzjoni għandha tkun ta' [ 4 ] {"entity": "stars"} stilel u jrid jiġi inkluż ipparkjar ħieles
-le se tibqa' biss tniżżel xi ħaġa għall-kliewi bil-lejl
+il klassifikazzjoni għandha tkun [ ta' 4 ] {"entity": "stars"} stilel u jrid jiġi inkluż ipparkjar ħieles
+le se tibqa' biss tniżżel xi ħaġa għall kliewi [ bil ] {"entity": "bookday"} lejl
 i qed ] {"entity": "name"} infittex [ ċentru tal belt fit Tramuntana b u b
-iva jekk jogħġbok irreġistrah għal 1
+iva jekk jogħġbok irreġistrah għal [ 1 ] {"entity": "bookpeople"}
 i amlooking for a place to stay the hotel should be in the expensive
 l-ok tiegħu jekk għandu parkeġġ ħieles
-hemm xi mħażen fil medda tal prezzijiet [ irħas ] {"entity": "pricerange"}
+hemm xi mħażen fil-medda tal-prezzijiet irħas
 tista' jekk jogħġbok tgħidli dwar l-istat tad-deheb
 i amlooking for a place to stay the hotel should be in the cheap
 i dont care as long as its cheap
 għalija
 iva wieħed biss għal lejl wieħed
 l-i dont għandhom bżonn ta' riżerva wara li kulħadd ikollu xi rħis bi ħlas ħieles.
-i want a reservation that has cheap
+i want a reservation that has [ cheap ] {"entity": "pricerange"}
 jeħtieġ ukoll li jkollok ipparkjar ħieles u jrid li jkollok akkomodazzjoni għall-ikel
-assigura li jekk jogħġbok ikteb għal 1
+assigura li jekk jogħġbok ikteb għal [ 1 ] {"entity": "bookpeople"}
 x'inhu [ friday ] {"entity":" bookday"}
-ifittex post li jaħseb li se jissejjaħ kamra [ tal pont ] {"entity": "name"} jew xi ħaġa
+ifittex post li jaħseb li se jissejjaħ [ kamra ] {"entity": "name"} tal pont jew xi ħaġa
 tista' tniżżel għal 3
-isem u indirizz tal-manifattur responsabbli
+isem u indirizz tal manifattur [ responsabbli ] {"entity": "bookstay"}
 jien qed infittex post biex nibqgħu l-firxa tal-prezzijiet tal-kuntratti
-l i [ dont għandha preferenza ] {"entity":" name"} li fil fatt tirrakkomanda
-jekk jogħġbok agħżel il [ vawċer ashley ] {"entity":" name"} liema indirizz jekk jogħġbok
+l [ i dont għandha preferenza ] {"entity":" name"} li fil fatt tirrakkomanda
+jekk jogħġbok agħżel [ il vawċer ashley ] {"entity":" name"} liema indirizz jekk jogħġbok
 xi ħaġa [ baxxa ] {"entity": "pricerange"} tkun tajba
-l ebda ħaġa mhux [ eżatta ] {"entity":" area"} u l ebda ħaġa simili kemm għall ipparkjar ħieles u kemm għall ipparkjar jekk ikun possibbli
-li għandhom bżonn ta' tliet
+l-ebda ħaġa mhux eżatta u l-ebda ħaġa simili kemm għall-ipparkjar ħieles u kemm għall-ipparkjar jekk ikun possibbli
+li għandhom bżonn ta' [ tliet ] {"entity":" bookstay"}
 hemm vojt ieħor li jaqbel ma' dawk il-kriterji
 i will try and restate so [ you ] {"entity": "pricerange"} can look again i need free параграф and parking cheap place type of room does not matter
-[ il kwistjoni prinċipali ] {"entity":" area"} tkun liema tkun disponibbli fil qrib se tkun il multa
+il [ kwistjoni prinċipali ] {"entity":" area"} tkun liema tkun disponibbli fil qrib se tkun il multa
 hemm [ 4 ] {"entity": "bookpeople"} minnna
-it [ tip ] {"entity": "type"} ta' ħtieġa tista' tgħin biex tinstab parti kbira mill belt
+it-tip ta' ħtieġa tista' tgħin biex tinstab parti kbira mill-belt
 do either of those have [ 4 ] {"entity": "stars"} stars
 a 4 would be fine too
 mhux ċar liema post tirrakkomanda
-iva hemm bżonn ta' riżerva għal [ 3 ] {"entity": "bookstay"} persuni fil partit tiegħi
+iva hemm bżonn [ ta' ] {"entity": "bookstay"} riżerva għal 3 persuni fil partit tiegħi
 hi tista' tgħinni nsib post ta' [ 4 ] {"entity": "stars"} stills biex nibqa'
 kif madwar post fil-Lvant mhux f'kamra
 iva tista' jekk jogħġbok tbiddel il post għaċ [ ċentru ] {"entity":" area"}
 din se [ tkun ] {"entity":" bookday"} multa , tista' tniżżel fil kotba tiegħi kamra għall Ġugarelli jekk jogħġbok
-il marda ta' l Ażerbajġan u l [ waqgħa 3 ] {"entity": "bookstay"} minnna
+il-marda ta' l-Ażerbajġan u l-waqgħa 3 minnna
 sure try for [ two ] {"entity":" bookstay"} days
 i għandek bżonn il-kworum jekk jogħġbok
-għalhekk [ tista' biss ] {"entity": "bookpeople"} tbiddel in numru ta' nies fil partit tiegħi għal 5 u tipprova għal darba oħra
+għalhekk tista' [ biss tbiddel in numru ] {"entity": "bookpeople"} ta' nies fil partit tiegħi għal 5 u tipprova għal darba oħra
 hemm kwalunkwe klassifikazzjoni tal-lamtu tal-kamra
 iva i tixtieq xi ħaġa [ moderata ] {"entity":" pricerange"}
-do you know of any 3 s [ to ] {"entity": "bookstay"} stay in
+do you know of any 3 s to stay in
 nixtieq għall-Ħelsinki u ninkludi l-Ħelsinki Ħielsa
-tista' tara jekk wieħed minnhom jistax ikollu kamra fuq il-fwied bil-lejl.
-find me an expensive [ with ] {"entity": "pricerange"} free parking
+tista' [ tara ] {"entity": "bookday"} jekk wieħed minnhom jistax ikollu kamra fuq il fwied bil lejl .
+find me an expensive with free parking
 mhux twil daqs kemm ikun fit tip ta' [ vawċer ] {"entity":" type"}
 hi tkellem dwar xi ħaġa msejħa [ warkworth house ] {"entity":" name"}
-x'tista' tgħidli madwar 4 s [ fil ] {"entity":" stars"} belt
+x'tista' tgħidli madwar 4 s fil-belt
 iva jixtieq li jkun hemm bini fil parti [ tan nofsinhar ] {"entity": "area"} tal belt u għandu jinkludi l belt
 iva, l-ivvjaġġar u l-ivvjaġġar
-tista' tgħidli jekk ikun hemm 4
-jiġifieri l biċċa l kbira tagħha tkun [ ġewwa . ] {"entity": "type"}
-no as long as its cheap and have 4
+tista' tgħidli jekk ikun hemm [ 4 ] {"entity":" stars"}
+jiġifieri l biċċa l kbira tagħha tkun ġewwa [ . ] {"entity": "type"}
+no as long as its cheap and have [ 4 ] {"entity": "stars"}
 għandek bżonn issib vawċer b'ipparkjar b'xejn u b'ipparkjar b'xejn.
 tista' ssibni kamra
 kif għaddej fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet
@@ -1198,23 +1198,23 @@ hi tista' tieħu xi ftit għajnuna biex issib kamra jew kamra jekk jogħġbok
 i għandek bżonn waħda fil [ medda moderata ] {"entity": "pricerange"} tal prezzijiet i tixtieq waħda li l akkwirent għandu l ipparkjar ħieles
 mhux b'mod partikolari
 jippreferu li jkun hemm kamra jekk jogħġbok
-iva l [ aphamilton tendenza ] {"entity": "name"} li wieħed jekk jogħġbok
+iva l [ aphamilton ] {"entity": "name"} tendenza li wieħed jekk jogħġbok
 hemm 3 iljieli jekk ikun possibbli
-għalhekk għandek tgħin biex issib post fejn toqgħod [ fiċ ċentru ] {"entity": "area"} tal belt
-jixtieq li l [ lamtu ] {"entity":" pricerange"} jkun għali
+għalhekk għandek tgħin biex issib post fejn toqgħod [ fiċ ] {"entity": "area"} ċentru tal belt
+jixtieq li l-lamtu jkun għali
 tista' tara jekk hix disponibbli għal 4 persuni
 can i get some help locating a room for the night
 jien qed infittex [ kamra b'ġugarelli ] {"entity": "type"} u parkeġġ bla ħlas jekk jogħġbok
 i [ dont care ] {"entity":" area"} about the area which one do you suggest
-li għandi bżonn riżerva sempliċi għalija għal 5
+li għandi bżonn riżerva sempliċi għalija għal [ 5 ] {"entity": "bookstay"}
 tista' tgħinni nsib irħas fil-bliet
 tista' ssib wieħed b'ipparkjar ħieles u b'grad ta' [ 0 ] {"entity": "stars"} stilla
 i just want to confirm that it is actually a hotel as opposed to aouslyhouse
-jeżistu xi żraben li huma stillti rħas
+jeżistu xi żraben li huma [ stillti ] {"entity": "pricerange"} rħas
 i għandna bżonn ta' [ ħames ] {"entity":" stars"} pjanijiet viċin ta' pjanijiet u ta' ristoranti prinċipali li l pjanijiet għandhom jinkludu l ħin liberu fil kamra
-kif għandek 4
-il Ġermanja hija waħda minn [ 4 ] {"entity": "stars"} iljieli
-i need a reservation for 4
+kif għandek [ 4 ] {"entity": "stars"}
+il-Ġermanja hija waħda minn 4 iljieli
+i need a reservation for [ 4 ] {"entity": "stars"}
 [ 3 ] {"entity": "bookpeople"} persuni jistgħu jiksbu n numru ta' referenza jekk jogħġbok
 se tipprova tasal il [ ħarifa tax ] {"entity": "bookday"} xemx
 iva tista' tipprova għal [ 3 ] {"entity": "bookstay"} iljieli jekk jogħġbok
@@ -1228,12 +1228,12 @@ tajjeb li tbiddel il-ħsieb tiegħi fuq l-internet tista' tgħidi għalija jekk 
 nixtieq insib post [ baxx ] {"entity": "pricerange"} għas soġġorn
 [ i ] {"entity":" area"} would like for it to be located in the center of town
 l-ebda i dont m'għandu preferenza għaliex dawk il-postijiet għandhom
-it tfittxija ] {"entity":" name"} għal lukanda msejħa ċ ċentru [ għall ippreżentazzjoni tal arbuxxelli
-iva jekk jogħġbok għal 5
-għandna bżonn insibu prezz tal-bini
+it tfittxija ] {"entity":" name"} għal lukanda msejħa ċ ċentru għall [ ippreżentazzjoni tal arbuxxelli
+iva jekk jogħġbok għal [ 5 ] {"entity": "bookstay"}
+għandna bżonn insibu [ prezz ] {"entity": "type"} tal bini
 i would like it to have a [ 3 ] {"entity": "stars"} star rating
 iva jekk jogħġbok għal [ erba' ] {"entity":" bookpeople"} persuni
-erbgħa tnejn
+erbgħa [ tnejn ] {"entity":" bookstay"}
 kif jaħdem madwar lejl wieħed
 tfittxija għal vawċer bi klassifikazzjoni ta' mill inqas [ tliet ] {"entity":" stars"} stilel
 im not to worried about price but the Regulation needs to have freetilan
@@ -1241,88 +1241,88 @@ l ewwel għażla [ biex wieħed ] {"entity": "pricerange"} isemmi li fil fatt ti
 huma kollha
 jekk jogħġbok agħtini n numru [ lill lodge ta' l isponża ] {"entity":" name"}
 im looking for a [ moderate ] {"entity":" pricerange"} ly priced place to stay
-mhux familjari [ maż żoni ] {"entity":" area"} differenti u għalhekk jixtieq li jkun hemm xi ħaġa waħda moderata għalkemm ħieles .
+mhux familjari maż-żoni differenti u għalhekk jixtieq li jkun hemm xi ħaġa waħda moderata għalkemm ħieles.
 għandu [ erba' ] {"entity":" stars"} klassifikazzjoni ta' stilla li għandu bżonn ta' parkeġġ ħieles ukoll
 jien qed infittex post [ baxx ] {"entity": "pricerange"} biex nibqa' ħieles għaliex tista' ssib kull ħaġa bħal dik
 i [ dont ] {"entity": "stars"} care about the area but i need one with 3 stars please
 tista' tara jekk hemmx xi wieħed fil [ medda moderata ] {"entity": "pricerange"}
 assigura 2 iljieli jekk jogħġbok
 il Ġermanja tħares lejn is soġġorn [ f'kamra ] {"entity": "type"} li tinkludi l ipparkjar ħieles
-l ebda ] {"entity": "stars"} ħaġa ma tixtieq li jkollha klassifikazzjoni ta' [ 4 stillti u l ebda ħaġa ħielsa
+l-ebda ħaġa ma tixtieq li jkollha klassifikazzjoni ta' 4 stillti u l-ebda ħaġa ħielsa
 għalhekk għandek bżonn ta' iktar informazzjoni dwar is-sitwazzjoni.
-nistgħu nipprovaw [ żewġt ] {"entity": "bookstay"} iljieli minflok waħda ħażina jkollhom bżonn in numru ta' referenza wkoll
+nistgħu nipprovaw żewġt [ iljieli ] {"entity": "bookstay"} minflok waħda ħażina jkollhom bżonn in numru ta' referenza wkoll
 għandek bżonn issib l [ arbli tal lenti ] {"entity":" name"}
-poġġiha fil kotba għal 7 agħtini n numru ta' [ referenza ] {"entity": "bookpeople"}
+poġġiha fil-kotba għal 7 agħtini n-numru ta' referenza
 hi tfittex post fejn toqgħod li għandu parkeġġ b'xejn u parkeġġ b'xejn
 ma għandhomx preferenza li ma jkollhomx dar fejn joqogħdu
 żgur li jkun kbir
-hemm 3
+hemm [ 3 ] {"entity": "bookpeople"}
 għandu jkun għal [ żewġt ] {"entity":" bookstay"} iljieli
-tista' tipprova għal lejl wieħed biss imbagħad
+tista' tipprova għal [ lejl wieħed ] {"entity": "bookstay"} biss imbagħad
 iva għal post fejn wieħed joqgħod [ fin Nofsinhar ] {"entity": "area"} li għandu parkeġġ ħieles
 l-ebda ħaġa iżda l-ebda ħaġa ħielsa wkoll
 il-kworum i se jkollu bżonn ukoll numru ta" referenza
 it tfittxija għal post fuq in naħa [ tat Tramuntana ] {"entity": "area"}
-ħares lejn wieħed [ b'0 ] {"entity": "stars"} stillti jekk jogħġbok
+ħares lejn wieħed b'0 [ stillti ] {"entity": "stars"} jekk jogħġbok
 ifittex post li jrid jibqa' żgur li jkun [ 4 ] {"entity": "stars"} stilel u jinkludi parkeġġ ħieles , tista' tgħin f'dan
 i would prefer something moderate of town
 ir-rebbieħ jirċievi l-Premju Sakharov għal-Liberta' tal-Ħsieb.
 effettivament i [ dont ] {"entity": "stars"} jaħsbu li mhumiex lesti li jagħmlu riżerva , iżda l post fuq in naħa tat Tramuntana tal belt għandu 4 stillti ta' parkeġġ ħieles u prezzijiet moderati .
 konnichiwa i amcoming to town and will be [ staying ] {"entity": "area"} a few days i need a place in town centre that offers free parking can you help me
-i will take one of the cheap [ s ] {"entity": "pricerange"} please
+i will take one of the cheap s please
 li tixtieq tikteb għal żewġt iljieli jekk jogħġbok
-jien qed infittex lukanda
+jien qed infittex [ lukanda ] {"entity": "type"}
 jixtieq li jkun [ għali ] {"entity":" pricerange"} jekk jogħġbok
 iva tista' ma tipprovax tipprova l [ gonville ] {"entity":" name"}
 jekk jogħġbok ibda [ 4 ] {"entity": "bookpeople"} persuni
-i ser jasal fuq il-ħajt tax-xemx persuna mhux 4
-ħarsa lejn [ prezz għoli bi ] {"entity": "pricerange"} ħlas ħieles
+i ser jasal fuq il ħajt tax xemx [ persuna ] {"entity": "bookday"} mhux 4
+ħarsa lejn prezz għoli bi ħlas ħieles
 [ mhux ] {"entity":" type"} tassew fiż żona iżda tixtieq li jkun hemm ħażna żejda
 għandna bżonn ukoll ta' post fejn nibqgħu ħielsa.
 is-sitwazzjoni fil-Ġeorġja
 ma għandekx bżonnha għal [ 4 ] {"entity": "bookstay"} iljieli i tipprova ħin ieħor grazzi
 għandek nies irħas jistgħu jekk jogħġbok iċċekkja għal darb' oħra
 tista' tgħinni nsib vawċer imsejjaħ [ alphamilton mars house ] {"entity":" name"}
-tista' tniżżel miegħi riżerva għal erbgħa
+tista' tniżżel miegħi riżerva għal [ erbgħa ] {"entity":" bookpeople"}
 i trid issib [ kamra ] {"entity": "type"} b'ipparkjar ħieles inkluż tista' tgħin tieħu
 i would really like something [ expensive ] {"entity":" pricerange"}
 l-alfals jippruvaw iħallsu bi prezz baxx
-i tfisser irħis [ mingħajr ] {"entity": "pricerange"} ħlas
+i tfisser irħis mingħajr ħlas
 il-Ġimgħa l-oħra l-Ġimgħa 8
 il-midja soċjali tiegħi tkun taf x'ifisser
 i dont fil fatt għandha firxa ta' prezzijiet li [ kwalunkwe ] {"entity": "stars"} ħaġa tkun multa jixtieq li jkollha l ipparkjar u l ipparkjar bla ħlas għalkemm u bejn wieħed u ieħor 4 stillti bħal dawk imsemmija
 l-ebda wieħed minnhom mhu se jaħdem biss bħala multa.
-hemm kwalunkwe prezz inqas minn 4
+hemm kwalunkwe [ prezz ] {"entity":" stars"} inqas minn 4
 biċċerija tħares lejn post [ fit Tramuntana ] {"entity": "area"} b'ipparkjar ħieles
 tista' tniżżel fil kotba tiegħek għal [ 3 ] {"entity": "bookpeople"} persuni
 il-bidu TAL-ĦAŻNA
 iva li ] {"entity":" bookstay"} tkun multa hemm kamra disponibbli għal lejl [ wieħed .
-għandek bżonn issib klassifikazzjoni tal-lamtu tal-biċċerija
+għandek bżonn issib klassifikazzjoni tal [ lamtu ] {"entity": "type"} tal biċċerija
 l-ebda i dont ma jrid wieħed li jinkludi l-ikel ħieles
 jekk jogħġbok ikteb lill-persuna li tippreżentaha
-għandna nibqgħu 2 snin u [ hemm ] {"entity": "bookstay"} 6 minnna
+għandna nibqgħu 2 snin u hemm 6 minnna
 tista' tipprova l-istess parametri f'vawċer ieħor
 dawn ma jaffettwawx biss [ tliet ] {"entity":" stars"} stilel u ħsejjes f'kamra jekk jogħġbok
 għandek informazzjoni dwar il parti l kbira ta' [ el deepaddai ] {"entity":" name"}
 tajjeb li tista' ġġib miegħek għal 3 minnna
-nistgħu nipprovaw lejl wieħed
+nistgħu nipprovaw [ lejl ] {"entity":" bookstay"} wieħed
 can you help me find a [ moderate ] {"entity": "pricerange"} price place to stay that includes free parking
 għandu wkoll laqx ħieles u għandu [ żewġ ] {"entity": "stars"} stilel
 hemmhekk, kemm bi ħlas kif ukoll b'parkeġġ.
 l-ippjanar tal-ħela għandu jibqa' fil-belt iżda jidher li se jkollu jgħinni nsib kamra ħafifa ħafna
 i amlooking for a [ cheap ] {"entity": "pricerange"} place to stay including free parking
-kemm il [ stilla għandha ] {"entity": "area"} post baxx fil parti l kbira tal stilli u l parkeġġ ħieles
+kemm [ il ] {"entity": "area"} stilla għandha post baxx fil parti l kbira tal stilli u l parkeġġ ħieles
 għandhom l-internet hemmhekk
 hi ill be coming in to [ cambridge ] {"entity": "type"} and id like a place to stay id like aouslyhouse with free parking
 jixtieq li jkun fil [ Lvant ] {"entity":" area"} jekk ikun possibbli
 jekk jogħġbok ħu [ persuna baxxa ] {"entity": "pricerange"} .
 iħarsu lejn is-soġġorn b'ipparkjar ħieles u ħieles
 xi ħaġa [ baxxa ] {"entity": "pricerange"} tkun iktar fil baġit tiegħi x'għandek disponibbli
-kura b'i dont
+kura b'i [ dont ] {"entity":" area"}
 aħna se nibqgħu għal [ ħames ] {"entity":" bookstay"} iljieli
 l-ebda ħaġa m'hi se tkun u ħaġa li se nibqgħu għal ħames iljieli u naslu fuq l-immaġni
 wieħed jista' jitkellem magħha għal [ 3 ] {"entity": "bookstay"} iljieli
-i amlooking for an expensive [ with ] {"entity": "pricerange"} free parking
+i amlooking for an expensive with free parking
 l [ ebda ] {"entity": "type"} ħaġa li mhijiex importanti għalija iżda li nippreferu nibqgħu f'kamra b'ipparkjar ħieles
-l [ irħas ] {"entity": "pricerange"} ikun il multa wkoll
+[ l irħas ] {"entity": "pricerange"} ikun il multa wkoll
 iva tista' tagħmel riżerva għal 4 persuni fil-partit tiegħi

@@ -1,167 +1,167 @@
 [ iva ] {"entity": "arriveby"} im ukoll tħares lejn ferrovija biex tasal f'nofs il lejl
 i se jitbiegħed mis-salib tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni
 i ser jitħalla jitlaq [ . ] {"entity":" day"}
-attwalment jitbiegħed mit-Triq tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tal-Fwied tat-T
+attwalment jitbiegħed mit Triq tal ] {"entity":" departure"} Fwied tal Fwied tal [ Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tal Fwied tat T
 kemm għandu jkun il-prezz tal-biljett
-għad irid jitħalla vojt
+għad irid jitħalla [ vojt ] {"entity": "bookday"}
 nixtieq inħalli wara t-8 ta' Settembru30
-jien qed nipprova nsib ferrovija wara 14-il sena, x'għandek
-i għandek bżonn ferrovija biex tgħaġġel
+jien qed nipprova nsib ferrovija wara 14 [ il ] {"entity": "leaveat"} sena , x'għandek
+i għandek bżonn ferrovija biex [ tgħaġġel ] {"entity": "destination"}
 iva jekk jogħġbok irreġistra l [ 15 il qari ] {"entity": "leaveat"}
 im looking to book a ticket for a train that leaves stevenage
 għandek tikteb il-biljett u, jekk ikun il-każ, kemm jiswa.
 [ iva ] {"entity": "bookpeople"} , jekk jogħġbok , għandek bżonn il kworum għal 8 persuni u jixtieq numru ta' referenza
-per eżempju, il-ferrovija li titlaq mill-ajruport ikkonċernat tista' tkun taf il-prezz ta' kwalunkwe ferrovija.
+[ per ] {"entity": "departure"} eżempju , il ferrovija li titlaq mill ajruport ikkonċernat tista' tkun taf il prezz ta' kwalunkwe ferrovija .
 this train works for me
-għandek bżonn biljett [ wieħed ] {"entity":" bookpeople"} biss jekk jogħġbok
-can you find me a train going to cambridge
-jien qed inħares lejn it-tneħħija tal-biċċa l-kbira tal-biċċa l-kbira tal-biċċa l-kbira
+għandek bżonn [ biljett wieħed ] {"entity":" bookpeople"} biss jekk jogħġbok
+can you find me a train going to [ cambridge ] {"entity": "destination"}
+jien qed inħares lejn it tneħħija tal [ biċċa ] {"entity": "departure"} l kbira tal biċċa l kbira tal biċċa l kbira
 i aminterested in booking a train to cambridge
-i would like to depart from birmingham new street
+i would like to depart from birmingham new [ street ] {"entity": "departure"}
 jekk jogħġbok
-im also looking for a train leaving cambridge
-jien qed inħares lejn il-Ġerusalemm
-nixtieq nippreżenta l [ ferrovija tal ħames passiġġieri ] {"entity": "leaveat"}
+im also looking for a train leaving [ cambridge ] {"entity": "departure"}
+jien qed inħares lejn il [ Ġerusalemm ] {"entity": "destination"}
+nixtieq nippreżenta l ferrovija tal [ ħames passiġġieri ] {"entity": "leaveat"}
 iva għandek bżonn ukoll taħriġ għall-funzjoni tal-kliewi
-jitħalla mill ħin ] {"entity": "departure"} tal wasla trażversali ta' l [ ispiżeriji viċin l ispiżeriji kemm jista' jkun possibbli jekk jogħġbok
+[ jitħalla ] {"entity": "departure"} mill ħin tal wasla trażversali ta' l ispiżeriji viċin l ispiżeriji kemm jista' jkun possibbli jekk jogħġbok
 iva jekk jogħġbok ukoll għal [ 5 ] {"entity": "bookpeople"} persuni u iva bħal numru ta' referenza jekk jogħġbok
 are there any trains on wednesday
 il ferrovija għandha tasal sal [ applikant jekk jogħġbok ] {"entity": "arriveby"}
-għandek bżonn ukoll ferrovija biex tħaffef il-passiġġieri
+għandek bżonn ukoll ferrovija biex tħaffef il [ passiġġieri ] {"entity": "destination"}
 għandek bżonn titbiegħed mill-għaġina
-iva biex tħares lejn ferrovija biex tnaqqas il-veloċità
-għandu jkun fuq il-kliewi
+iva biex tħares lejn ferrovija biex tnaqqas il [ veloċità ] {"entity": "destination"}
+għandu jkun fuq il [ kliewi ] {"entity": "day"}
 iva jeħtieġ li naslu [ għaliha kif ] {"entity": "arriveby"} mistqarr qabel
 [ assigura ] {"entity": "bookpeople"} li l oġġett tal bejgħ i se jkollu bżonn 4 biljetti jekk jogħġbok u n numru ta' referenza
 iva għandha bżonn ferrovija fl-istess ġurnata
 jivvjaġġa lejn il-pont
 i amlooking for a train departing from cambridge
-i għandek bżonn wieħed li jħalli wara t-twelid
+i għandek bżonn wieħed li jħalli wara t [ twelid ] {"entity": "leaveat"}
 u din il-ferrovija titlaq minn persuni li jkunu qed jaħdmu fuq il-baħar u tagħtuli n-numru ta' referenza
 dik il-ħaġa tajba għandha bżonn ukoll info fuq ferrovija li tħalli l-friday
-il-ferrovija għandha tmur għall-istudji bijoloġiċi.
+il ferrovija għandha tmur għall istudji bijoloġiċi [ . ] {"entity": "destination"}
 can i [ have ] {"entity":" arriveby"} the train id travel time and the departure time of the train that will get me there closest to 19talon
-jien qed infittex ukoll ferrovija li tħalli l-pont tal-ekwipaġġ
-id-destinazzjoni tiegħi hija birmingham new street
+[ jien ] {"entity": "departure"} qed infittex ukoll ferrovija li tħalli l pont tal ekwipaġġ
+id destinazzjoni tiegħi hija birmingham new [ street ] {"entity": "destination"}
 i need to book [ 8 ] {"entity": "bookpeople"} tickets for the train
-jien qed infittex ferrovija biex nisstieden lill-istudenti biex jippreżentaw l-ideat tagħhom.
-iva tixtieq tħalli fuq it-tubi
+jien qed infittex [ ferrovija ] {"entity":" destination"} biex nisstieden lill istudenti biex jippreżentaw l ideat tagħhom .
+iva tixtieq tħalli fuq it [ tubi ] {"entity": "day"}
 iva jekk jogħġbok i tixtieq [ 2 ] {"entity": "bookpeople"} biljetti fuq dik il ferrovija u i se jkollha bżonn in numru ta' referenza
-għandek bżonn ukoll ta' ferrovija li tasal sa 12-il miljun
+[ għandek ] {"entity": "arriveby"} bżonn ukoll ta' ferrovija li tasal sa 12 il miljun
 iva ħadd ma jitlaq mit-triq il-ġdida ta' birmingham
-ikun liema jkun l-eqreb għal 12-il biljett u jkun jeħtieġ ukoll in-numru ta" referenza jekk jogħġbok
+ikun liema jkun l eqreb għal 12 il [ biljett ] {"entity": "arriveby"} u jkun jeħtieġ ukoll in numru ta referenza jekk jogħġbok
 i need to book a train on [ sunday ] {"entity": "day"} as well
 im departing from [ cambridge ] {"entity":" departure"}
-the train should arrive in broxbourne
+the train should arrive in [ broxbourne ] {"entity": "destination"}
 jien se nippreżenta l-ferrovija tiegħi f'7 ta' filgħaxija jekk jogħġbok ipprovdili bin-numru ta' referenza
 i need to ] {"entity":" bookpeople"} make a reservation for the [ same group of people may i also have the reference number
 mistoqsija kbira tista' wkoll tgħinni nsib ferrovija li titbiegħed mill-istudju tal-biċċa xogħol.
-nixtieq nasal fil-pont jekk jogħġbok
+nixtieq nasal fil pont [ jekk jogħġbok ] {"entity": "destination"}
 jien qed infittex ferrovija li titbiegħed mit-Triq tal-Ġugarelli tal-Fwied
-il-ferrovija qiegħda għall-istazzjon tal-ferrovija
-i għandhom bżonn ferrovija biex jaqsmu stazzjonijiet
-nixtieq nivvjaġġa fuq il-ġnien
+il ferrovija qiegħda għall istazzjon tal [ ferrovija ] {"entity": "day"}
+i għandhom bżonn ferrovija biex [ jaqsmu ] {"entity":" destination"} stazzjonijiet
+nixtieq nivvjaġġa fuq il [ ġnien ] {"entity": "day"}
 iva għal [ 2 ] {"entity": "bookpeople"} persuni jekk jogħġbok
 tista' tgħinni nsib ferrovija biex tiftakar jekk jogħġbok
 i amleaving on sunday
-għandek tħares ukoll lejn ferrovija li tħalli wara t-twelid
-ivvjaġġar mill-pont
-iva tista' tniżżel l-20 persuna
-iva im tħares ukoll lejn ferrovija li titlaq wara t-8 ta' Settembru
-from cambridge
-jien miżżewweġ għal persuna waħda
-iva, jekk jogħġbok i tixtieq ukoll ferrovija li titbiegħed minn persuna li tagħmel it-talba għal biċċa xogħol
+għandek tħares ukoll lejn ferrovija li tħalli wara t [ twelid ] {"entity": "leaveat"}
+ivvjaġġar mill [ pont ] {"entity": "departure"}
+iva tista' tniżżel l [ 20 ] {"entity": "leaveat"} persuna
+iva im [ tħares ] {"entity": "leaveat"} ukoll lejn ferrovija li titlaq wara t 8 ta' Settembru
+from [ cambridge ] {"entity": "departure"}
+jien miżżewweġ għal [ persuna ] {"entity":" bookpeople"} waħda
+iva , jekk jogħġbok i tixtieq ukoll ferrovija [ li ] {"entity": "departure"} titbiegħed minn persuna li tagħmel it talba għal biċċa xogħol
 il-ferrovija għandha tasal sal-Ħadd bħala l-Amministraturtal-Ferrovija
 [ li jkun tard ] {"entity":" arriveby"} wisq ikollok bżonn xi ħaġa li tasal għaliha jekk jogħġbok
-i need a train departing from cambridge
+i need a train departing from [ cambridge ] {"entity":" departure"}
 għandek bżonn tmur lura għall-għajnuna tiegħek jekk jogħġbok
 iva għal [ 7 ] {"entity": "bookpeople"} persuni jekk jogħġbok i għandek bżonn in numru ta' referenza
-għandek bżonn issib ferrovija partikolari li tasal fil Ġerusalemm [ jekk ] {"entity": "arriveby"} tista' tgħinni .
-li ġejja mir-reġjun tal-Baħar Baltiku
+għandek bżonn issib ferrovija partikolari li tasal fil [ Ġerusalemm ] {"entity": "arriveby"} jekk tista' tgħinni .
+li ġejja mir reġjun tal Baħar [ Baltiku ] {"entity": "departure"}
 [ iva ] {"entity": "bookpeople"} , jekk jogħġbok , tista' tagħmel ir riżerva għal 7 persuni u mbagħad tibgħatli n numru ta' referenza
-im also looking for a train to leave on friday
-ill be departing from cambridge
+im also looking for a train to leave [ on ] {"entity": "day"} friday
+ill be departing from [ cambridge ] {"entity": "departure"}
 iva jekk jogħġbok għall [ istess numru ta' nies ] {"entity":" bookpeople"} tista' wkoll tieħu n numru ta' referenza
-i amlooking for a train departing from cambridge
+i amlooking for a train departing from [ cambridge ] {"entity": "departure"}
 i would like to leave on thursday
 tista' tniżżel [ 3 ] {"entity": "bookpeople"} biljetti għalija u tibgħatli n numru ta' referenza
 il-ferrovija tiegħek tħalli l-pont
-effettivament nippruvaw ] {"entity": "departure"} [ inħarsu lejn ferrovija li għandna bżonn immorru lura għall istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet
+effettivament nippruvaw [ inħarsu lejn ] {"entity": "departure"} ferrovija li għandna bżonn immorru lura għall istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet tal istazzjonijiet
 jitbiegħed minn salib it-tojlits u jeħtieġ li jmur għall-pont
 i se tkun qed tivvjaġġa fuq [ tuesday ] {"entity":" day"}
-jixtieq li jkun hemm ferrovija biex tgħaqqadhom
-nixtieq inħallih fuq il-ħofra
+jixtieq li jkun hemm ferrovija biex [ tgħaqqadhom ] {"entity": "destination"}
+nixtieq inħallih fuq il [ ħofra ] {"entity": "day"}
 i dont mind we can get there [ any ] {"entity":" arriveby"} time
 hemm kwalunkwe ferrovija li tħalli wara 17-il sena
-iva , sakemm tħalli l proċess ta' qtugħ tiegħu [ . ] {"entity": "departure"}
+iva , sakemm tħalli l proċess ta' [ qtugħ ] {"entity": "departure"} tiegħu .
 [ 5 ] {"entity": "bookpeople"} biljetti jistgħu jekk jogħġbok ipprovdi wkoll in numru ta' referenza
-i għandek bżonn ferrovija biex tgħaġġel
-l-eżenzjoni mill-ħtieġa tal-ivvjaġġar mill-ivvjaġġar bl-ajru
-il ħin tal [ wasla ] {"entity": "bookpeople"} għall ivvjaġġar għandu jitħalla biss wara 12 il ħaġa ħażina biex jitniżżel il vjaġġ għal 8 li jistgħu jakkomodaw li ħafna
+i għandek bżonn ferrovija biex [ tgħaġġel ] {"entity": "destination"}
+l eżenzjoni mill ħtieġa tal ivvjaġġar mill ivvjaġġar bl [ ajru ] {"entity": "departure"}
+il-ħin tal-wasla għall-ivvjaġġar għandu jitħalla biss wara 12-il ħaġa ħażina biex jitniżżel il-vjaġġ għal 8 li jistgħu jakkomodaw li ħafna
 iva, jekk jogħġbok iħares ukoll lejn il-ktieb ta' ferrovija ma' broxbourne, tista' tgħinni b'dan il-mod.
-għad hemm bżonn li nippreservaw [ l opinjoni ] {"entity":" arriveby"}
-l-ivvjaġġar lejn il-pont
-irridu nitilqu mill pont u [ naslu f'salib ] {"entity": "departure"} it tojlits
+għad hemm bżonn li nippreservaw l [ opinjoni ] {"entity":" arriveby"}
+l ivvjaġġar lejn il [ pont ] {"entity": "departure"}
+irridu nitilqu mill pont [ u ] {"entity": "departure"} naslu f'salib it tojlits
 i would like to book [ 4 ] {"entity":" bookpeople"} can you tell me the price for each ticket before i book them
-jien fil-fatt nixtieq infakkar 5 triljun
-i would like to book it for 5 [ can ] {"entity": "bookpeople"} i also get the reference number for that as well
+jien fil fatt nixtieq infakkar 5 [ triljun ] {"entity": "bookpeople"}
+i would like to book it for 5 can i also get the reference number for that as well
 i need to book a train that will arrive in cambridge
 i would like to travel on [ friday ] {"entity":" day"}
 il marda ta' l ilsien u d [ dwiefer ] {"entity":" departure"}
 kif għandek tħares lejn it-8 persuni u tipprovdilu n-numru ta' referenza
 i would like to book a train
-wara t-twelid
+wara t [ twelid ] {"entity": "leaveat"}
 iva , il ħin tal [ wasla 20 ] {"entity": "arriveby"} sena għandu jaħdem
-biljett jekk jogħġbok
+[ biljett ] {"entity":" bookpeople"} jekk jogħġbok
 hi tħares lejn il ferrovija biex tisma' wara t [ traġedja ] {"entity":" leaveat"}
-ir-Repubblika Ċeka
+ir Repubblika [ Ċeka ] {"entity":" destination"}
 [ kura i dont ] {"entity":" arriveby"} dwar il ħin tal wasla bis saħħa ta'
 għal [ tmien ] {"entity":" bookpeople"} ġeneri u jekk jogħġbok inkludi n numru ta referenza tiegħi
 i amlooking for a train that leaves on thursday
-ir-reġistrazzjoni tas-salib ta' l-għoljiet
+ir reġistrazzjoni tas salib ta' l [ għoljiet ] {"entity":" departure"}
 i għandek bżonn biljett [ wieħed ] {"entity":" bookpeople"} u jista' jkollok in numru ta' referenza
 għalhekk wieħed jista' jgħinni nsib ferrovija li titbiegħed minn fuq il-baħar.
-żgur li jrid imur għas-salib tal-ġugarelli
-nixtieq li l [ ferrovija ta' 17 il mil ] {"entity": "arriveby"} jekk jogħġbok
+żgur li jrid imur għas salib tal [ ġugarelli ] {"entity": "destination"}
+nixtieq li l ferrovija ta' [ 17 il mil ] {"entity": "arriveby"} jekk jogħġbok
 l-indirizz eżatt ukoll għandu bżonn jgħin biex tinstab ferrovija biex tmur f'ajruport ta' l-ajruport
 iva jixtieq ferrovija diretta mingħajr ekwipaġġ
-nixtieq inħalli mill pont li [ għandek bżonn ] {"entity": "departure"} tasal għaliha sal Ġimgħa .
+nixtieq inħalli mill-pont li għandek bżonn tasal għaliha sal-Ġimgħa.
 iva għandek bżonn [ 4 ] {"entity": "bookpeople"} biljetti
-il-Parlament Ewropew għandu jadotta riżoluzzjoni dwar is-sitwazzjoni fil-Ġeorġja
-għandek xi ħaġa li tista' [ taħdem ] {"entity": "destination"} għalija
-i need a train departing cambridge
-għandek bżonn tmur tgħallimt fuq il [ piż tal ] {"entity": "destination"} kliewi u għandek bżonn tasal qabel tgħallimt
+[ il ] {"entity": "departure"} Parlament Ewropew għandu jadotta riżoluzzjoni dwar is sitwazzjoni fil Ġeorġja
+għandek xi ħaġa li tista' taħdem għalija
+i need a train departing [ cambridge ] {"entity": "departure"}
+għandek bżonn tmur tgħallimt fuq [ il piż ] {"entity": "destination"} tal kliewi u għandek bżonn tasal qabel tgħallimt
 assigura li tixtieq tikteb ] {"entity": "bookpeople"} il biljetti għal [ 6 persuni u l persuni foqra għandhom bżonn numru ta' referenza għall biljett
 jitħarsu wkoll lejn linji tal-ferrovija li jkunu qed jitilqu minn fuq il-baħar
 iva li l-proponent
-i għandhom bżonn ta' riżervi ferrovjarji mingħajr ma jkunu jafu
-nixtieq inħallih fuq il-ħofra
+i għandhom bżonn ta' riżervi ferrovjarji mingħajr ma jkunu [ jafu ] {"entity": "departure"}
+nixtieq inħallih fuq il [ ħofra ] {"entity": "day"}
 i amlooking for a train that departs on friday
 i just need [ one ] {"entity":" bookpeople"} ticket can you book that for me please
-jekk jogħġbok, il-ferrovija li titlaq minn fuq il-pont tat-tluq jekk jogħġbok
+jekk jogħġbok [ , il ferrovija ] {"entity": "departure"} li titlaq minn fuq il pont tat tluq jekk jogħġbok
 i would like to leave on friday
 iva bħal [ 3 ] {"entity": "bookpeople"} biljetti fuq id 19 il ferrovija tal ferrovija tal ferrovija jekk jogħġbok u jista' jkollok in numru ta' referenza
 i also want information on any trains that depart from broxbourne
-nixtieq inħallih fuq it-tubu
+nixtieq inħallih fuq it [ tubu ] {"entity": "day"}
 it [ tkomplija tal ] {"entity":" leaveat"} ħidma meta jitilqu
 i amin ely by train
-għandek bżonn tivvjaġġa.
-waħda biss
+għandek bżonn tivvjaġġa [ . ] {"entity": "day"}
+waħda [ biss ] {"entity":" bookpeople"}
 you what time did the train depart
 għandek bżonn tieħu [ salib it tobba ] {"entity":" destination"} , tista' tgħinni nsib ferrovija
-il-ferrovija għandha tasal sal-15 ta' Settembru
+il ferrovija għandha tasal sal 15 ta' [ Settembru ] {"entity": "arriveby"}
 ikun żgur li jaħdem kemm għandu jkun il-ħin tal-vjaġġ u kemm għandu jkun il-ħin tal-vjaġġ.
-grazzi issa għandek bżonn nirreġistra ferrovija [ mingħand u mingħand ħaddieħor ] {"entity":" departure"}
-se tkompli tnaqqas jekk jogħġbok
+grazzi issa għandek bżonn nirreġistra ferrovija mingħand [ u mingħand ħaddieħor ] {"entity":" departure"}
+se tkompli tnaqqas [ jekk jogħġbok ] {"entity": "destination"}
 iva jekk jogħġbok ikteb li għal [ 4 ] {"entity": "bookpeople"} persuni u għandek bżonn in numru ta' referenza
-iva qed infittex ukoll ferrovija li tħalli fuq friday
+iva qed infittex ukoll ferrovija li tħalli fuq [ friday ] {"entity": "day"}
 dan ix xogħol jista' jkollu dan il kworum għal [ sitt ] {"entity":" bookpeople"} persuni kif ukoll in numru ta' referenza jekk jogħġbok
-tista' wkoll tgħinni b'ferrovija li tħalli fuq il-ħofra
+tista' wkoll tgħinni b'ferrovija li tħalli fuq il [ ħofra ] {"entity": "day"}
 għandek bżonn ferrovija li titlaq wara t [ 18 il sena ] {"entity":" leaveat"}
 din għandha tkun multa kemm tieħu ħsieb li jkun hemm
 il ħin li l ferrovija tieħu biex tasal għall [ ekwipaġġ ] {"entity":" destination"}
-it-tfittxija ta' ferrovija għall-pontaġġ
-nixtieq li noqgħod lura u lanqas nirringrazzja
+it tfittxija ta' ferrovija għall [ pontaġġ ] {"entity": "destination"}
+nixtieq li noqgħod lura u lanqas [ nirringrazzja ] {"entity": "departure"}
 għalija......
 [ i ] {"entity":" destination"} actually do need to find a train going to ely
 iva se tkun qed tħalli l-pont tal-baħar
@@ -169,261 +169,261 @@ għalhekk għandna bżonn nivvjaġġaw
 jista' jikseb informazzjoni dwar il-prezz u l-fergħat jekk jogħġbok
 real quickly actually can i get a train booked as well for thursday
 nixtieq nasal sal [ 17 ta' Settembru ] {"entity": "arriveby"}
-li jidħlu ] {"entity": "departure"} mill istazzjon [ tat toroq ta' l ekwipaġġ tal fwied
+li jidħlu ] {"entity": "departure"} mill istazzjon tat [ toroq ta' l ekwipaġġ tal fwied
 jekk jogħġbok agħtini [ l ferrovija id ] {"entity":" arriveby"} tal ferrovija li tasal l eqreb għal 17 il i dont care dwar il ħin tat tluq
-it-tfittxija għal ferrovija minn fuq il-pont
-nixtieq nasal sal-08 ta' Settembru
+it tfittxija għal ferrovija minn fuq [ il pont ] {"entity": "departure"}
+nixtieq nasal sal 08 ta' [ Settembru ] {"entity":" arriveby"}
 [ iva ] {"entity": "bookpeople"} , tixtieq tasal għand 7 ħaddiema jekk jogħġbok għal 8 persuni li għandhom bżonn in numru ta' referenza
 no that isnt [ necessary ] {"entity":" destination"} could you help me find a train going to cambridge
-i need a train from leicester
+i need a train from [ leicester ] {"entity": "departure"}
 għandna bżonn [ 4 ] {"entity": "bookpeople"} jekk jogħġbok għandek 2 tfal taħt it 12 il sena li jkollhom rata speċjali
-can i have information for a train departing from ely
+can i have information for a train departing from [ ely ] {"entity":" departure"}
 i se tkun qed tivvjaġġa għall-ekwipaġġ ix-xahar li jmiss u għandek bżonn issib ferrovija li tgħaddi mill-biċċa xogħol li l-intestatura tal-biċċa xogħol tgħaddi għall-ekwipaġġ tista' tgħini nagħmel dan jekk jogħġbok
-iva li tkun eżemplari
+iva li tkun [ eżemplari ] {"entity": "day"}
 biljetti kbar għal [ 6 ] {"entity": "bookpeople"} persuni u n numru ta' referenza
-[ għandek bżonn ] {"entity": "destination"} tirreġistra biljett li jkun se jaqbad , tista' tgħini b'dak il mod .
-im departing from broxbourne
-jien qed inħares ] {"entity":" destination"} ukoll lejn il ktieb ta' ferrovija [ u l anqas lejn il ktieb tal ferrovija
-nixtieq inħalli fuq il-Ħodor
-jien qed infittex ukoll ferrovija li titlaq jew titla'
-friday jekk jogħġbok
+għandek bżonn tirreġistra biljett li jkun se jaqbad [ , tista' ] {"entity": "destination"} tgħini b'dak il mod .
+im departing from [ broxbourne ] {"entity": "departure"}
+jien [ qed ] {"entity":" destination"} inħares ukoll lejn il ktieb ta' ferrovija u l anqas lejn il ktieb tal ferrovija
+nixtieq inħalli fuq il [ Ħodor ] {"entity": "day"}
+jien qed infittex ukoll ferrovija li titlaq jew [ titla' ] {"entity":" departure"}
+friday [ jekk jogħġbok ] {"entity": "day"}
 tr2 Il-ktieb irid ikun irfinat jekk jogħġbok
-hemm kwalunkwe ferrovija li titlaq mill-ajruport ta' oriġini
-iva nixtieq inħalli [ l pont wara t tluq u ] {"entity":" leaveat"} t tluq mill ajruport ta' oriġini u l lif fuq ix xemx
+hemm kwalunkwe ferrovija li titlaq mill ajruport ta' [ oriġini ] {"entity": "departure"}
+iva nixtieq inħalli l pont wara t tluq [ u ] {"entity":" leaveat"} t tluq mill ajruport ta' oriġini u l lif fuq ix xemx
 iva jekk jogħġbok agħmel ir riżerva għal [ 6 ] {"entity": "bookpeople"} persuni u ibgħatli n numru ta' referenza
 i amlooking for aa train to cambridge
-il-mard jitħalla mill-ħmieġ
+il mard jitħalla mill [ ħmieġ ] {"entity": "departure"}
 dik il-multa tista' tgħallimni naf kemm kull ferrovija se tkun għalja
-i need a train that leaves on wednesday
+i need a train that leaves on [ wednesday ] {"entity": "day"}
 i amdeparting from birmingham new street
-ok i jrid ukoll isib ferrovija minn fuq il-pont
+ok i jrid ukoll isib ferrovija minn fuq il [ pont ] {"entity": "departure"}
 thats alright i can book it later im also looking to book a train
 i amlooking to get on a train that departs from ely
-il ferrovija għandha titlaq fit [ 18: 00 ] {"entity": "leaveat"}
+il ferrovija għandha titlaq fit 18: [ 00 ] {"entity": "leaveat"}
 is there any train leaving sooner
 il-Ġimgħa d-dieħla u l-Ġimgħa d-19 ta' Marzu
 biss [ 1 ] {"entity": "bookpeople"}
-i għandek bżonn tirreġistra ferrovija għall-ekwipaġġ
-nixtieq ngħaddi għat-toroq tal-fwied b'saħħtu
+i għandek bżonn tirreġistra ferrovija għall [ ekwipaġġ ] {"entity": "leaveat"}
+nixtieq ngħaddi għat toroq tal fwied [ b'saħħtu ] {"entity": "destination"}
 iva li taħdem tista' tniżżel fil kotba għal [ żewġ ] {"entity":" bookpeople"} persuni li jkollhom bżonn ukoll in numru ta' referenza jekk jogħġbok
-ħarsa lejn ferrovija li tħalli fuq il-ħofra
-i amgoing to cambridge
-għandek bżonn tirreġistra biljett ferrovjarju biex tgħinni ngħin fil-proċess.
-i se tħalli s-salib ta' l-isponsers
+ħarsa lejn ferrovija li tħalli fuq il [ ħofra ] {"entity": "day"}
+i amgoing [ to cambridge ] {"entity": "destination"}
+għandek bżonn tirreġistra biljett ferrovjarju biex tgħinni [ ngħin ] {"entity": "destination"} fil proċess .
+i se tħalli s salib ta' l [ isponsers ] {"entity": "departure"}
 grazzi ħafna tista' wkoll tgħinni nsib ferrovija li tixtieq tivvjaġġa minn triq b'saħħitha tal-fwied
 could you book [ 2 ] {"entity": "bookpeople"} tickets on that train please also what is the reference number
 im looking for a train the train should go to birmingham new street
 iva, il-ferrovija għandha tasal sal-Ġimgħa
-[ jekk jogħġbok ] {"entity":" arriveby"} i se jkollok bżonn il prezz u l fergħa id
-il-Ġimgħa d-dieħla fil-Parlament Ewropew
-i amleaving on sunday
-għandek bżonn ukoll ta' ferrovija mingħajr ma tkun tista' [ tgħinni ] {"entity": "departure"} .
-i would like to leave on tuesday
+jekk jogħġbok i se jkollok bżonn il-prezz u l-fergħa id
+il Ġimgħa d dieħla fil [ Parlament Ewropew ] {"entity": "departure"}
+i amleaving on [ sunday ] {"entity":" day"}
+għandek bżonn ukoll ta' ferrovija mingħajr ma tkun tista' tgħinni.
+i would like to leave on [ tuesday ] {"entity": "day"}
 kemm għandek tħallas għall-biljett
 tista' tgħidli x'inhi ż-żona fejn qiegħed il-vawċer u nixtieq ukoll insib ferrovija biex tgħin fil-pont
 għandek bżonn ukoll ta' biljett ferrovjarju mingħand l-istudenti, jekk jogħġbok
 nixtieq nasal sal-20 ta' Settembru.
 hi i need a train on sunday
-jien kuntenti li nasal għall-proċess ta' qbid
+jien kuntenti li nasal għall proċess ta' [ qbid ] {"entity": "destination"}
 il hm ill tieħu [ kwalunkwe ] {"entity":" arriveby"} ferrovija li tasal biex nasal sal wasla tagħha jew qabel
 no thank you i amneeding a train that will leave on wednesday
-bis-saħħa ta' l-intestatura' ill be heading' minn broxbourne
+bis saħħa ta' l intestatura' ill be heading' [ minn broxbourne ] {"entity": "departure"}
 tr5953 jaħdem fine i għandu bżonn [ 3 ] {"entity": "bookpeople"} persuni
 i need a train that departs from ely
 i would like to go to cambridge
-nixtieq infakkar lil 19 il persuna oħra li [ se ] {"entity": "leaveat"} jkollhom bżonn in numru ta' referenza jekk jogħġbok
-jien qed infittex ferrovija li titbiegħed mill-istazzjon tal-ferrovija
-aħna se nħallu fuq il ġnien [ tax xemx ] {"entity": "day"}
-iva għandek tħalli wara l 20 ta' [ Settembru ] {"entity": "leaveat"} u mhux wara t tlugħ mix xemx jekk jogħġbok agħtini ħin ta' vjaġġar bi prezz u ħin ta' wasla għal kwalunkwe ferrovija
-i għandna bżonn ukoll nippreżentaw ferrovija mill-Ġerusalemm
-uġigħ [ fil kliewi ] {"entity":" day"}
+nixtieq infakkar lil 19-il persuna oħra li se jkollhom bżonn in-numru ta' referenza jekk jogħġbok
+jien qed infittex ferrovija li titbiegħed mill istazzjon tal [ ferrovija ] {"entity": "departure"}
+aħna se nħallu fuq il ġnien [ tax ] {"entity": "day"} xemx
+iva għandek tħalli wara l-20 ta' Settembru u mhux wara t-tlugħ mix-xemx jekk jogħġbok agħtini ħin ta' vjaġġar bi prezz u ħin ta' wasla għal kwalunkwe ferrovija
+i għandna bżonn ukoll nippreżentaw ferrovija mill [ Ġerusalemm ] {"entity":" departure"}
+uġigħ fil [ kliewi ] {"entity":" day"}
 għandek bżonn biljetti kbar għal [ 2 ] {"entity":" bookpeople"}
-iva nixtieq ukoll nieħu ferrovija li tħalli l-pont tal-baħar
-jekk jogħġbok, jekk jogħġbok, għandek tieħu l-ajruport ikkonċernat
+[ iva ] {"entity": "departure"} nixtieq ukoll nieħu ferrovija li tħalli l pont tal baħar
+[ jekk ] {"entity": "destination"} jogħġbok , jekk jogħġbok , għandek tieħu l ajruport ikkonċernat
 that wont be necessary im looking to book a train too
 i għandek tħalli l-friday
-jitbiegħed mit [ Triq tal Qalb tal Fwied ] {"entity":" departure"}
-fil-fatt l-ewwel nett nixtieq ngħinni nsib ferrovija li tgħaddi bejn it-tnejn li huma.
+jitbiegħed mit Triq tal [ Qalb tal Fwied ] {"entity":" departure"}
+fil fatt l ewwel nett [ nixtieq ngħinni ] {"entity": "departure"} nsib ferrovija li tgħaddi bejn it tnejn li huma .
 tixtieq tasal sal [ 20 ta' Settembru jekk ikun ] {"entity": "arriveby"} possibbli
 i għandek bżonn ferrovija biex tkun taf jekk jogħġbok
-i għandek bżonn issib ] {"entity":" departure"} ferrovija li titbiegħed mit [ Triq tal Ġugarelli tal Fwied
+i għandek bżonn issib ] {"entity":" departure"} ferrovija li titbiegħed [ mit Triq tal Ġugarelli tal Fwied
 iva , irridu nitilqu fuq [ it tubi ] {"entity":" day"}
-kura b'i dont
+kura b'i [ dont ] {"entity":" leaveat"}
 im not sure how much is it
-it-tfittxija ta' ferrovija għall-pontaġġ
-l-eżenzjoni mill-ħtieġa tal-ivvjaġġar mill-ivvjaġġar bl-ajru
-għandek bżonn tieħu biljett ferrovjarju biex tħalli l-pont tal-biljett jekk jogħġbok
-għandna bżonn immorru lejn triq ġdida għat-trobbija tal-annimali
+it tfittxija ta' ferrovija għall [ pontaġġ ] {"entity": "destination"}
+l eżenzjoni mill ħtieġa tal ivvjaġġar mill ivvjaġġar [ bl ajru ] {"entity": "departure"}
+għandek [ bżonn tieħu ] {"entity": "departure"} biljett ferrovjarju biex tħalli l pont tal biljett jekk jogħġbok
+għandna bżonn immorru lejn triq ġdida għat trobbija tal [ annimali ] {"entity": "destination"}
 im looking for a train that leaves on sunday
-i se titbiegħed mill-pont tal-baħar
+i se titbiegħed mill pont tal [ baħar ] {"entity": "departure"}
 jien qed nivvjaġġa lejn il [ pont ] {"entity": "destination"} u neħtieġ għajnuna biex insib ferrovija
-i would like to leave on tuesday
-effettivament ma tkunx tista' titbiegħed minn [ leicester ] {"entity":" departure"} x'għandek minn hemm
+i would like to leave on [ tuesday ] {"entity": "day"}
+effettivament ma tkunx tista' titbiegħed minn leicester x'għandek minn hemm
 iva għandek bżonn tikteb għal [ 4 ] {"entity": "bookpeople"} persuni
-tista' [ wkoll tgħinni nsib ferrovija biex tissottometti ] {"entity":" destination"} l appoġġ tiegħi għall appoġġ tiegħi għall appoġġ tiegħi .
-jien qed ] {"entity": "departure"} inħalli l pont tal passiġġieri [ , jekk jogħġbok , tgħidli l ħin tal ivvjaġġar fuq dak il passiġġier
-għandek tħalli wara [ 14 il sena wkoll ] {"entity": "leaveat"}
+tista' wkoll tgħinni nsib [ ferrovija biex tissottometti ] {"entity":" destination"} l appoġġ tiegħi għall appoġġ tiegħi għall appoġġ tiegħi .
+jien qed inħalli l-pont tal-passiġġieri, jekk jogħġbok, tgħidli l-ħin tal-ivvjaġġar fuq dak il-passiġġier
+għandek tħalli wara 14 il [ sena wkoll ] {"entity": "leaveat"}
 jien qed ] {"entity":" destination"} infittex ukoll ferrovija li tasal f'nofsinhar [ u f'nofsinhar .
-għandna bżonn nitilqu mill-iffirmar ta' l-istrateġija ta' l-Unjoni Ewropea għas-soċjetà ċivili
-sakemm tasal sal [ 10 ta' Settembru , i ] {"entity":" arriveby"} se jkollha bżonn ukoll l id ferrovjarja u l prezz
-bis-saħħa tiegħi neħtieġu wkoll ferrovija biex ngħollu l-ekwipaġġ
+għandna bżonn nitilqu [ mill iffirmar ] {"entity":" day"} ta' l istrateġija ta' l Unjoni Ewropea għas soċjetà ċivili
+sakemm tasal sal 10 ta' Settembru , [ i ] {"entity":" arriveby"} se jkollha bżonn ukoll l id ferrovjarja u l prezz
+bis saħħa tiegħi neħtieġu wkoll ferrovija biex ngħollu l [ ekwipaġġ ] {"entity": "destination"}
 iva dan se jkun għal persuna waħda biss li tixtieq ħafna
-l-Ewropa għandha bżonn ukoll ta' ferrovija.
+l Ewropa għandha bżonn ukoll ta' ferrovija [ . ] {"entity": "departure"}
 jixtieq li għall [ friday ] {"entity":" day"} jekk jogħġbok ipprovdi wkoll numru ta' referenza
 i għandna bżonn nieħdu ferrovija minn fuq il-pont
 nixtieq inħalli fuq il [ Ħodor ] {"entity":" day"}
 i għandek tieħu [ u lanqas tieħu ħsieb ] {"entity": "destination"} tiegħek
-il Ġimgħa l oħra l Ġimgħa l Ġimgħa [ d ] {"entity": "departure"} dieħla
+il Ġimgħa l oħra l Ġimgħa l [ Ġimgħa ] {"entity": "departure"} d dieħla
 thats fine i dont want to book yet is the train you found going to ely
-għandna bżonn ukoll li nsibu approċċ minn fuq il-proċess tal-ibbrejkjar
+għandna [ bżonn ] {"entity": "departure"} ukoll li nsibu approċċ minn fuq il proċess tal ibbrejkjar
 nixtieq inħalli wara [ 16 il sena ] {"entity":" leaveat"}
 that works [ same group of people ] {"entity":" bookpeople"} i need the reference number
-hemm kwalunkwe ferrovija mis-salib tal-ferroviji tal-ferroviji
-kura b'i dont
+hemm kwalunkwe ferrovija mis salib tal ferroviji tal [ ferroviji ] {"entity": "departure"}
+kura b'i [ dont ] {"entity":" leaveat"}
 iva jekk jogħġbok ikteb [ 8 ] {"entity": "bookpeople"} biljetti u pprovdi n numru ta' referenza
 jien qed [ infittex ] {"entity":" departure"} ukoll ferrovija li titbiegħed minn fuq il pont tal baħar
-id-destinazzjoni tiegħi hija l-Għarbi
+id destinazzjoni tiegħi hija l [ Għarbi ] {"entity": "destination"}
 x'inhi l-aħħar ferrovija li marret għall-Ġerusalemn
 what time does that train depart
-persuna [ waħda ] {"entity":" bookpeople"} jekk jogħġbok ikteb dik il ferrovija għal persuna waħda
-iva u imsejħa wkoll għal ferrovija mingħajr ekwipaġġ
+persuna waħda jekk jogħġbok ikteb dik il-ferrovija għal persuna waħda
+iva u imsejħa wkoll għal ferrovija mingħajr [ ekwipaġġ ] {"entity": "departure"}
 jien qed infittex ferrovija minn fuq il [ baħar ] {"entity":" departure"}
 are there any trains that leave on [ thursday ] {"entity":" day"}
 hemm xi ħaġa li tasal eqreb għal [ 15 il miljun ] {"entity":" arriveby"}
-għandek il kandidatura tiegħek li trid tipprova xi ristoranti [ lokali ] {"entity": "day"}
+għandek il-kandidatura tiegħek li trid tipprova xi ristoranti lokali
 iva nixtieq nasal ] {"entity": "arriveby"} sa [ 12 il sena wara l Ġimgħa l Ġimgħa l Ġimgħa
 għalija għandek bżonnha għal [ 5 ] {"entity": "bookpeople"} persuni
-i għandhom bżonn ferrovija li tħalli fuq il-baħar
-iva ma tkunx qed titbiegħed mis-salib ta' l-ivvjaġġar
+i għandhom bżonn ferrovija li tħalli fuq il [ baħar ] {"entity": "day"}
+iva ma tkunx qed titbiegħed mis salib ta' l [ ivvjaġġar ] {"entity":" departure"}
 the booking is for [ 8 ] {"entity": "bookpeople"} people if the train can accommodate that number of people please book the train and provide a reference number
 no thanks i need a train from cambridge is there anything like that
 [ iva ] {"entity": "bookpeople"} , għalkemm bikri tajjeb , tista' tikteb biljetti għal 4 persuni fuq dak li jogħġbok
-jien qed inħares ukoll lejn il-ktieb ta' ferrovija li tħalli wara t-tluq
-it tfittxija għal wieħed li jħalli fuq it tubi [ tkun ] {"entity": "day"} disponibbli
+jien qed inħares [ ukoll ] {"entity": "leaveat"} lejn il ktieb ta' ferrovija li tħalli wara t tluq
+it-tfittxija għal wieħed li jħalli fuq it-tubi tkun disponibbli
 iva tista' tniżżel il ferrovija għal [ 8 ] {"entity": "bookpeople"} persuni
 għandek bżonn ferrovija biex tgħaġġel jekk jogħġbok
-i ser titħalla mill-ajruport ta' oriġini
+i ser titħalla mill ajruport ta' [ oriġini ] {"entity": "departure"}
 dan il proċess għadu kmieni ħafna . . [ . ] {"entity":" arriveby"}
-hi tista' tgħinni nippjana l-pont tiegħi lejn il-pont
-effettivament għandek tħalli t-tubuday
+hi tista' tgħinni nippjana l pont tiegħi lejn [ il ] {"entity": "destination"} pont
+effettivament għandek tħalli t [ tubuday ] {"entity": "day"}
 iva jekk jogħġbok agħmel riżerva għal [ 6 persuni foqra ] {"entity": "bookpeople"} li għandhom bżonn in numru ta' referenza
-tista' tgħinni nsib ferrovija ukoll i trid tħalli l-pont
+tista' tgħinni nsib ferrovija ukoll i trid tħalli l [ pont ] {"entity": "departure"}
 jeħtieġ li l-ferrovija tmur għall-ekwipaġġ
 li l-aħħar multa tista' tieħu biljetti għall-grupp sħiħ tiegħi jekk jogħġbok
-iktar tard ikollok bżonn ukoll li ssib ferrovija biex [ tkun ] {"entity": "destination"} tista' tgħin ma' dak
-i ser titħalla mill-punt ta' riferiment jekk jogħġbok
+iktar tard ikollok bżonn ukoll li ssib ferrovija biex tkun tista' tgħin ma' dak
+i ser titħalla mill punt ta' riferiment [ jekk jogħġbok ] {"entity": "departure"}
 il lif [ tal ] {"entity":" leaveat"} ġugarelli f'dak il ħin , bħal dak li ntqal hawn fuq , jeħtieġ xi ħaġa li titħalla wara l ħlas
 iva jixtieq riżervi fuq il-ferrovija tr3420
-biljett [ wieħed ] {"entity":" bookpeople"} jekk jogħġbok imla
+[ biljett ] {"entity":" bookpeople"} wieħed jekk jogħġbok imla
 iva, jekk jogħġbok u qed infittex ukoll ferrovija li tħalli l-pont tal-ekwipaġġ
 [ l ebda ħin speċifiku , sakemm ] {"entity":" arriveby"} il wasla tkun sa 18 il sena , jekk jogħġbok agħtini l għażliet tal prezzijiet .
-mistoqsija kbira inti tista' tgħinni bi skedi tal-ferrovija wkoll għandek bżonn tnaqqas il-veloċità.
-i se tkun qed tivvjaġġa fuq tuesday
+mistoqsija kbira inti tista' [ tgħinni bi ] {"entity": "destination"} skedi tal ferrovija wkoll għandek bżonn tnaqqas il veloċità .
+i se tkun qed tivvjaġġa fuq [ tuesday ] {"entity": "day"}
 l-ebda ħaġa ma għandha tkun multa jekk ikollha bżonn biss biljett għall-ivvjaġġar
 ħafna nies jeħtieġu wkoll ferrovija biex jivvjaġġaw lejhom minn stazzjon ta' fuq l-istazzjon tal-istazzjon tal-istazzjon tal-istazzjon tal-istazzjon tal-istazzjon
 għandu jkun biljett iva tajjeb għal [ 1 ] {"entity": "bookpeople"} jekk jogħġbok
 [ i ] {"entity":" day"} need to find a spot on a train on wednesday can you help me find one
-il-qtugħ mill-ġenbejn jaqsam il-piż fuq il-kliewi
-ħu l ewwel waħda fil [ 15 ta' Settembru meta tasal ] {"entity":" leaveat"}
+il qtugħ mill ġenbejn jaqsam il piż [ fuq il ] {"entity": "departure"} kliewi
+ħu l ewwel waħda fil [ 15 ta' Settembru meta ] {"entity":" leaveat"} tasal
 i amlooking for a train that leaves sunday
 il ħin tat tluq m'għandux jasal iżda għandu jasal [ f'nofsinhar ] {"entity":" arriveby"}
 iva għal [ wieħed ] {"entity":" bookpeople"} jekk jogħġbok
-tista' wkoll tiktebni ferrovija għall-Ġerarkija
-x'għandek tieħu biex tivvjaġġa fit-toroq il-ġodda
-jien qed infittex li nivvjaġġa fuq il-ħofra l-ewwel ferrovija fi 17-il sena tkun multa għaliex il-ferrovija info
+tista' wkoll tiktebni ferrovija għall [ Ġerarkija ] {"entity":" day"}
+x'għandek tieħu biex tivvjaġġa fit toroq il [ ġodda ] {"entity":" destination"}
+jien qed infittex li nivvjaġġa fuq [ il ] {"entity":" day"} ħofra l ewwel ferrovija fi 17 il sena tkun multa għaliex il ferrovija info
 l ebda [ ħaġa ] {"entity": "departure"} m'għandek bżonn tirreġistra ferrovija li titlaq minn fuq il pont għalkemm
-nixtieq inħalli fuq il-Ħodor
+nixtieq inħalli fuq il [ Ħodor ] {"entity": "day"}
 nixtieq inħalli wara [ 17 il sena ] {"entity":" leaveat"}
 din tkun multa [ li ] {"entity": "bookpeople"} jkollok bżonn tirreġistra siġġijiet fuq dik il ferrovija għal 7 persuni
 i għandek bżonn ferrovija li tgħaddi wkoll minn fuq il-pont jekk jogħġbok
 i se tkun qed tivvjaġġa fuq [ thursday ] {"entity":" day"}
 iva jekk jogħġbok għall [ istess ammontta nies ] {"entity":" bookpeople"} li għandek bżonn in numru ta referenza wkoll
-it-tfittxija għal ferrovija li titbiegħed mill-ajruport ta' oriġini
+it tfittxija għal ferrovija li titbiegħed mill ajruport ta' [ oriġini ] {"entity": "departure"}
 iva jekk jogħġbok se jkollok bżonn [ 7 ] {"entity": "bookpeople"} biljetti għal din il ferrovija
-il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ħamis
-i għandek tħalli fuq il-Ġerusalemm
+il Ġimgħa l oħra l Ġimgħa [ l ] {"entity": "departure"} Ġimgħa l Ħamis
+i għandek tħalli fuq il [ Ġerusalemm ] {"entity": "day"}
 iva li l persuna tista' tniżżel dak għal [ 8 ] {"entity": "bookpeople"} persuni
-nixtieq nippreżenta tabella għal 3 dwar il-Ġurnal Uffiċjali
-i amalso looking for a train departing from cambridge
+nixtieq nippreżenta tabella għal 3 dwar il Ġurnal [ Uffiċjali ] {"entity": "bookday"}
+i amalso looking for a train departing from [ cambridge ] {"entity": "departure"}
 li għadu kmieni ħafna hemm kwalunkwe ferrovija eqreb lejn il-Ġerusalemm
-jista' jkollhom in-numru tat-telefon u l-indirizz tagħhom ukoll hemm xi ferroviji li jmorru minn fuq il-baħar
+jista' jkollhom in numru tat telefon u l indirizz [ tagħhom ] {"entity": "departure"} ukoll hemm xi ferroviji li jmorru minn fuq il baħar
 l-ebda ħaġa bis-saħħa tagħha, iżda għandha bżonn xi ħaġa ta' ħaddieħor.
 tista' tniżżel dak għalija għal [ 2 ] {"entity": "bookpeople"} persuni
 hi i need a train to [ broxbourne ] {"entity":" destination"} please
-i ser titħalla fuq il-Ġerusalemm
+i ser titħalla fuq il [ Ġerusalemm ] {"entity": "day"}
 għandek tasal għand 16-il persuna oħra
-hemm il-ferroviji biex jitnaqqas il-veloċità
-il-pont tat-Tluq
-i would like to go from ely
+hemm il ferroviji biex jitnaqqas il [ veloċità ] {"entity": "destination"}
+il pont tat [ Tluq ] {"entity": "departure"}
+i would like to go from [ ely ] {"entity": "departure"}
 jien qed infittex ukoll ġugarelli msejħa yu gardeni għandek bżonn in-numru ta' referenza jekk jogħġbok ikkuntattja lil
 ħarsa lejn il-ferrovija biex tħares lejn it-toroq tal-fwied
-il-ferrovija għandha titbiegħed mill-pont tal-ferrovija
+il ferrovija għandha titbiegħed mill pont tal [ ferrovija ] {"entity": "departure"}
 iva jekk jogħġbok ikteb sit fuq il-ferrovija tr concerned2 għalija
 - - - - - - - - - - - - - - - - - - - - -
-il-ħtieġa ta' ferrovija għall-pontaġġ
+il ħtieġa ta' ferrovija għall [ pontaġġ ] {"entity": "destination"}
 jitħalla fuq il-kliewi
 iva nixtieq infakkar għal [ 2 ] {"entity": "bookpeople"} persuni
 l-ajruport jista' jgħinni.
 jekk jogħġbok imla
 iva tista' jekk jogħġbok tagħmel riċetta għalija.
 jiġifieri l ferrovija tiegħi kellha tkun għat [ tubi ] {"entity": "bookday"} u kif ukoll għar riżerva tiegħi għall għawm
-imbagħad il-persuna tixtieq tirriżerva spiża wkoll
-are there trains arriving in cambridge
+imbagħad il persuna tixtieq tirriżerva [ spiża ] {"entity": "pricerange"} wkoll
+are there trains arriving in [ cambridge ] {"entity": "destination"}
 l għoti ta' [ biċċiet għall ivvjaġġar ] {"entity":" departure"}
-need a train to broxbourne
+need a train to [ broxbourne ] {"entity": "destination"}
 i would be traveling on friday
 iva jekk jogħġbok ikteb li għal [ 8 ] {"entity": "bookpeople"} persuni u għandek bżonn ukoll in numru ta' referenza
-iva għandek bżonn ukoll ferrovija biex tieħu l-passi meħtieġa
+iva għandek bżonn ukoll ferrovija biex tieħu l [ passi meħtieġa ] {"entity": "destination"}
 għandek [ il marda li ] {"entity":" day"} tiġi mit toroq tal fwied tal vaġina fl istess ġurnata bħar riżerva tal vaġina tiegħi .
-hi are there any trains from cambridge
+hi are there any trains from [ cambridge ] {"entity": "departure"}
 i need to leave on friday
 iva bħal [ tmien ] {"entity":" bookpeople"} biljetti jekk jogħġbok
-il ferroviji għandhom fuq il ħoġor minn fuq [ il ] {"entity": "day"} ħoġor
-i need a train that will arrive in cambridge
+il ferroviji għandhom fuq il ħoġor minn [ fuq ] {"entity": "day"} il ħoġor
+i need a train that will arrive in [ cambridge ] {"entity": "destination"}
 just for me please
 imbagħad tista' tniżżel ferrovija għalija imingħajr ma tħalli' l fuq.
-tneħħija ta' l-għeruq mill-għeruq
+tneħħija ta' l għeruq mill [ għeruq ] {"entity": "departure"}
 tista' terġa' tiċċekkja ] {"entity": "arriveby"} għal xi ħaġa li tasal qabel [ 12 il sena
 iva kemm se jkun il-każ li l-ferrovija tħallasni kemm fil-ħin kif ukoll fil-flus
 tista' tgħinni biex nippjana l-vjaġġ tiegħi li għandek bżonn ferrovija
 iva fuq il-ġilda tax-xemx
 can i book the train for [ 4 ] {"entity": "bookpeople"} people please and can ai get a reference number
-għandek tħares ukoll lejn il-ferrovija li titbiegħed minn fuq il-baħar
-hemm żewġ
+għandek [ tħares ] {"entity": "departure"} ukoll lejn il ferrovija li titbiegħed minn fuq il baħar
+hemm [ żewġ ] {"entity":" bookpeople"}
 aħna se nivvjaġġaw fuq din il kwistjoni [ . ] {"entity":" day"}
 the tr5892 would be great could i book [ two ] {"entity":" bookpeople"} tickets for that train please
-i għandhom bżonn ta' ferrovija mill-Ġenerazzjoni tal-Ferrovija
-tixtieq tħalli fuq it-tubi
+i għandhom bżonn ta' ferrovija mill Ġenerazzjoni tal [ Ferrovija ] {"entity": "departure"}
+tixtieq tħalli fuq it [ tubi ] {"entity": "day"}
 iva għandek bżonn [ 4 ] {"entity": "bookpeople"} biljetti
-need a train from cambridge
-tneħħija ta" thursday
-għandek ferrovija li tasal fit-tojlit
+need a train from [ cambridge ] {"entity": "departure"}
+tneħħija ta [ thursday ] {"entity": "day"}
+għandek ferrovija li tasal fit [ tojlit ] {"entity": "arriveby"}
 għalhekk irridu naslu biex naslu għall-aħjar.
 i would like to book a train to [ cambridge ] {"entity":" destination"}
 nixtieq nasal sal-Ġimgħa d-dieħla
 liema ħin se jasal jekk se tieħu s-7 ferrovija tal-linja ferrovjarja
-i għandhom bżonn [ ferrovija ] {"entity":" arriveby"} biex jagħmlu l għasafarham ġodda li għaddejja minn 16 il sena .
-i fil-fatt għandhom bżonnha għall-ġenerazzjoni li tkun perfetta
+i għandhom bżonn ferrovija biex jagħmlu l-għasafarham ġodda li għaddejja minn 16-il sena.
+i fil fatt għandhom bżonnha għall [ ġenerazzjoni li ] {"entity":" day"} tkun perfetta
 iva jekk jogħġbok imxi' l quddiem u ibda li
 tista' tgħinni nsib taħriġ għax [ xemx ] {"entity":" day"} i tixtieq żżur it Triq tal Ġugarelli
-nixtieq inħalli l-ġugarelli
+nixtieq inħalli l [ ġugarelli ] {"entity": "departure"}
 iva tista' jekk jogħġbok ikteb [ 7 ] {"entity": "bookpeople"} biljetti għalija fuq dik il ferrovija
 i għandna bżonn nieħdu ferrovija minn fuq il-pont
 iva għandek bżonn tħalli broxbourne
-i need a train that is departing from cambridge
-il-programm ta" studju għandu jkun ippubblikat wara l-approvazzjoni tas-sena t.
+i need a train that is departing from [ cambridge ] {"entity": "departure"}
+il programm ta [ studju ] {"entity": "destination"} għandu jkun ippubblikat wara l approvazzjoni tas sena t .
 jekk jogħġbok qiegħed tħares lejn xi ħaġa jekk jogħġbok
 i also need a train to [ ely ] {"entity":" destination"}
-i need to travel sunday
+i need to travel [ sunday ] {"entity": "day"}
 im also looking for a train departing from [ cambridge ] {"entity":" departure"}
-iva se tibda tagħmel it-triq il-ġdida ta' birmingham
+iva se tibda tagħmel it triq il ġdida ta' [ birmingham ] {"entity":" destination"}
 i għandek bżonn ferrovija mill-iqsar żgħir għall-biċċiet
-i għandek bżonn ferrovija biex tasal sal-21 ta' Settembru
+i għandek bżonn ferrovija biex tasal sal 21 ta' [ Settembru ] {"entity": "arriveby"}
 pick the [ closest ] {"entity": "bookpeople"} one to the arrival time i need it for 3 people and i need the reference number
 wieħed jistenna iktar ċans li jgħinni nsib ferrovija
-i amtraveling on sunday
+i amtraveling on [ sunday ] {"entity": "day"}
 le iżda jekk tista' tagħtina l-ħin tal-ivvjaġġar bil-prezz u d ferrovjarju li jkun kbir
-[ im looking ] {"entity": "destination"} for a train to stevenage is there anything available then
+im looking for a train to stevenage [ is ] {"entity": "destination"} there anything available then
 i would like to leave on thursday
 iva li l proponent i tixtieq rivoluzzjoni għal [ 4 ] {"entity": "bookpeople"} persuni
 iva, fil-fatt, nistaqsi għal għajnuna għas-sejba ta' ferrovija għall-ikel
@@ -431,73 +431,73 @@ għalkemm għadu mhuwiex [ ikkonfermat , għad ] {"entity":" arriveby"} hemm bż
 il-persuna tista' tniżżel li l-ferrovija għal żewġ persuni ladarba tkun ġejt reġistrat tista' tibgħatli n-numru ta' referenza jekk jogħġbok
 iva li tkun kbira i se jkollha bżonn ukoll ferrovija
 i need the train to go to [ broxbourne ] {"entity":" destination"}
-l ivvjaġġar fuq l ivvjaġġar [ bl ajru ] {"entity":" day"}
-[ i ] {"entity": "destination"} would like to arrive in broxbourne i will need a departure time too please
+l ivvjaġġar fuq l ivvjaġġar bl [ ajru ] {"entity":" day"}
+i would like to arrive in broxbourne i will need a departure time too please
 l-ebda ħaġa ma tista' tniżżel l-istudju tal-ferrovija
 i need a train as well
-i se jitħalla mill-ħmieġ
-nixtieq li jasal sal [ 10 ta' Settembru jekk jogħġbok ] {"entity": "arriveby"}
+i se jitħalla mill [ ħmieġ ] {"entity": "departure"}
+nixtieq li jasal sal 10 ta' Settembru [ jekk jogħġbok ] {"entity": "arriveby"}
 l eqreb waħda għall oħra [ hija l ] {"entity": "arriveby"} multa
 jeħtieġ ukoll għajnuna biex tinstab ferrovija li tħalli l [ pont ] {"entity":" departure"}
 ser nivvjaġġa lejn l-ajruport
 l I dont għandhom preferenza fir [ rigward ] {"entity":" arriveby"} tal ħin tat tluq iżda għandhom bżonn jaslu sal Ġimgħa
-l-ewwel biljett biss jekk jogħġbok
+l ewwel [ biljett ] {"entity": "bookpeople"} biss jekk jogħġbok
 tista' tikkonferma kemm il-ferrovija tkun twila jekk jogħġbok
 jekk jogħġbok ikteb li se jkollok bżonn ukoll in-numru ta' referenza
 nope that is all for today according to my list i did not really need to book that train but it saves me time thank you so much
 il Ġermanja għandha ] {"entity":" destination"} bżonn ta' ferrovija biex tgħin [ lit toroq tal fwied
-iva tixtieq tħalli l-pont
+iva tixtieq tħalli l [ pont ] {"entity": "departure"}
 għalhekk għandek bżonn tkun fuq kollox
-l [ ispejjeż ] {"entity": "leaveat"} tal biljetti għandhom ikunu rħas
+[ l ispejjeż ] {"entity": "leaveat"} tal biljetti għandhom ikunu rħas
 u [ jekk jogħġbok għidli l ħin li l ] {"entity":" destination"} ferrovija tasal fit Triq tal Fwied tal Fwied tal Fwied
-iva qed inħares lejn ferrovija li tħalli l-pont tal-baħar
-barra minn hekk, id-destinazzjoni hija s-salib ta' l-ispiżeriji
+[ iva ] {"entity": "departure"} qed inħares lejn ferrovija li tħalli l pont tal baħar
+barra [ minn ] {"entity": "destination"} hekk , id destinazzjoni hija s salib ta' l ispiżeriji
 iva jekk jogħġbok biljett [ wieħed ] {"entity":" bookpeople"} biss
-im also going to need to catch a train into cambridge
-nixtieq immur minn fuq il-pont għall-im attendenza ta' xi ħadd
+[ im ] {"entity": "departure"} also going to need to catch a train into cambridge
+nixtieq immur minn fuq il pont għall im [ attendenza ] {"entity": "departure"} ta' xi ħadd
 could you please tell me the train id
 jeħtieġ ukoll li jkun hemm xi informazzjoni dwar il-ferroviji għall-ġestjoni tal-ferroviji
 iva tixtieq tasal sal [ aħħar jekk ikun ] {"entity": "arriveby"} possibbli
 [ għalhekk għandek tkompli ] {"entity":" departure"} tgħin lill Istati Membri biex jippromwovu l ħolqien ta' żona Ewropea ta' sigurta' .
 [ il ferrovija għandha titbiegħed minn persuna ] {"entity":" departure"} li tkun għamlet il biċċa xogħol fil Parlament Ewropew .
-nixtieq nivvjaġġa fuq friday jekk jogħġbok
-[ x'inhu l ] {"entity": "leaveat"} ħin tal ivvjaġġar għall 15 il ferrovija li titlaq minn fuq il ferrovija
-i għandek bżonn ferrovija biex tgħaġġel
-il-Ġermanja
-as long as i arrive in cambridge thats [ all i ] {"entity": "destination"} care about i dont want to cut it too close though in case of a train delay
+nixtieq nivvjaġġa fuq friday [ jekk jogħġbok ] {"entity": "day"}
+[ x'inhu l ħin tal ] {"entity": "leaveat"} ivvjaġġar għall 15 il ferrovija li titlaq minn fuq il ferrovija
+i għandek bżonn ferrovija biex [ tgħaġġel ] {"entity": "destination"}
+il [ Ġermanja ] {"entity":" day"}
+as long as i arrive in cambridge [ thats ] {"entity": "destination"} all i care about i dont want to cut it too close though in case of a train delay
 din tkun multa għal [ 9 ] {"entity": "bookpeople"} persuni jekk jogħġbok i se jkollha bżonn ukoll in numru ta' referenza
 fil fatt [ tista' ] {"entity": "bookpeople"} tbiddel ir riżerva tiegħi li għandek bżonnha biss għal 6 persuni
 jeħtieġ ukoll li ssib ferrovija biex titla' fuq [ it tuesday ] {"entity":" day"}
-i ser titbiegħed mit-triq il-ġdida ta' birmingham
+i ser titbiegħed mit triq il ġdida ta' [ birmingham ] {"entity": "departure"}
 nixtieq nasal għand il [ Ħonduras fil ] {"entity": "arriveby"} pont
 jista' jkollok in numru tat telefown [ tiegħek ] {"entity":" day"} ukoll jekk jogħġbok għandek tgħin biex issib ferrovija għall ispettaklu
-i jeħtieġ ukoll ferrovija mit-triq il-ġdida ta' birmingham
-iva, l-ivvjaġġar għal ferrovija li titħalla fuq it-tuesday
-se nivvjaġġa fuq it-tuesday
-iktar kmieni fil-ġurnata huwa iktar sikur permezz ta' ħtieġa ta' biljett wieħed fl-iktar ħin bikri.
+i jeħtieġ ukoll ferrovija mit triq il ġdida ta' [ birmingham ] {"entity": "departure"}
+[ iva ] {"entity": "day"} , l ivvjaġġar għal ferrovija li titħalla fuq it tuesday
+se nivvjaġġa fuq it [ tuesday ] {"entity": "day"}
+iktar [ kmieni ] {"entity": "bookpeople"} fil ġurnata huwa iktar sikur permezz ta' ħtieġa ta' biljett wieħed fl iktar ħin bikri .
 iva għandek ] {"entity":" departure"} bżonn informazzjoni dwar ferrovija għandek informazzjoni dwar [ ferroviji li jitilqu minn persuni li jkunu qed jivvjaġġaw bl ajru .
 pożizzjoni ħażina għall [ pont ] {"entity":" destination"}
-jitħalla fuq il-kwistjoni tal-Ġugarelli
+jitħalla fuq il kwistjoni tal [ Ġugarelli ] {"entity": "day"}
 iva għall-indirizz u ż-żona tal-ġemellaġġ jekk jogħġbok
 b'saħħithom bis-saħħa ta' l-i dont u l-i dont fil-fatt għandhom bżonn ta' riżerva għal dik il-ferrovija sabiex jaħsbu li kulħadd għandu bżonn ikompli joħloq konfużjoni dwar il-kwistjoni
 x'ħin tixtieq titlaq
 i amlooking for a train from cambridge
 jekk jogħġbok irreġistra għal [ 8 ] {"entity": "bookpeople"} persuni u agħti n numru ta' referenza
-hi tista' tgħinni nsib ferrovija mingħajr ferrovija.
+hi tista' tgħinni nsib ferrovija mingħajr ferrovija [ . ] {"entity": "departure"}
 nixtieq inħalli wara 12-il sena
 iva ħafna tista' ssib skeda ferrovjarja għalija ma nkunx qed nivvjaġġa u lanqas nirringrazzja
 i għandek tħalli wara t [ twelid ] {"entity":" leaveat"}
-il ħin [ tal ] {"entity":" arriveby"} wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla
+il ħin tal wasla [ Il ħin tal wasla Il ] {"entity":" arriveby"} ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla
 i amalso looking for a train that leaves after 2145
-i amleaving from leicester
-għandu jiġi injorat li għad iridu jitilqu l-ferrovija wara l-21 ta' Settembru.
-[ mhux ] {"entity":" day"} ċert li għandna bżonn immorru lura għall Ġerusalemm fuq il Ġerusalemm li l ferrovija tmur hemmhekk
+i amleaving from [ leicester ] {"entity": "departure"}
+għandu jiġi injorat li [ għad ] {"entity": "leaveat"} iridu jitilqu l ferrovija wara l 21 ta' Settembru .
+mhux ċert li ] {"entity":" day"} għandna bżonn immorru lura għall [ Ġerusalemm fuq il Ġerusalemm li l ferrovija tmur hemmhekk
 żgur li tista' tniżżel għal [ 3 ] {"entity": "bookpeople"} persuni jekk jogħġbok
 i need to catch a train going to [ broxbourne ] {"entity":" destination"} can you help me
-i se jitħalla mill-pont
+i se jitħalla mill [ pont ] {"entity": "departure"}
 nixtieq nirringrazzja lil [ 7 ] {"entity": "bookpeople"} persuni u għandek bżonn ukoll in numru ta' referenza biex nirreġistra kamra li tkun għalja
 [ jien ] {"entity": "destination"} qed nipprova nistaqsi dwar il ferroviji li jaslu fil pontaġġ
-nixtieq nasal sal [ 16 ta' Settembru ] {"entity": "arriveby"}
+nixtieq nasal sal 16 ta' [ Settembru ] {"entity": "arriveby"}
 i se titbiegħed mill fwar u se [ titla' ] {"entity": "departure"} għal fuq il pont
 jien qed infittex li nivvjaġġa fuq il [ konvoj ] {"entity":" day"}
 i amlooking for a train going to cambridge
@@ -505,17 +505,17 @@ jitilqu mit [ toroq tal ħasil tal fwied ] {"entity":" departure"}
 [ il ] {"entity": "day"} ħin tal wasla fuq dik il ferrovija jekk jogħġbok
 i amlooking for a train from cambridge
 jien qed nipprova nirringrazzja lit-toroq tal-fwied
-iva qed infittex ferrovija biex tnaqqas il-veloċità
+iva qed infittex ferrovija biex tnaqqas il [ veloċità ] {"entity": "destination"}
 fl-istess ġurnata
 ix-xemx tagħha llum
-nixtieq inħalli l-ġugarelli...
-i would also like to see if i could catch a train from leicester
-jien irridu naslu għat tubi [ li jkunu kemm jista' jkun ] {"entity": "day"}
-hi tista' tgħinni nsib ferrovija biex tnaqqas il-veloċità
+nixtieq inħalli l ġugarelli [ . . . ] {"entity": "departure"}
+i would [ also ] {"entity": "departure"} like to see if i could catch a train from leicester
+jien irridu naslu għat tubi li [ jkunu kemm ] {"entity": "day"} jista' jkun
+hi tista' tgħinni nsib ferrovija biex tnaqqas il [ veloċità ] {"entity": "destination"}
 no im coming from [ ely ] {"entity":" departure"}
 nixtieq nasal sal [ 16 ta' Settembru ] {"entity":" arriveby"}
-it-tfittxija għal ferrovija li tmur għall-Ġerusalemm
-iva għandek bżonn tħalli fuq il-ħofra tax-xemx għal laqgħa
+it tfittxija għal ferrovija li tmur għall [ Ġerusalemm ] {"entity": "destination"}
+iva għandek bżonn tħalli fuq il ħofra tax [ xemx għal ] {"entity": "day"} laqgħa
 jekk jogħġbok ikteb li għal [ 4 ] {"entity": "bookpeople"} persuni jista' jkollok in numru ta' referenza jekk jogħġbok
 i [ would ] {"entity":" destination"} also like help with a train booking going to leicester
 iva għandha u jixtieq jasal sal [ Ġimgħa ] {"entity": "arriveby"}
@@ -523,293 +523,293 @@ i would like to travel on [ tuesday ] {"entity":" day"}
 dak li jkun jixtieq jaħdem jista' jgħiduli l-ispiża tal-biljett
 l-informazzjoni kollha li għandek bżonn biex tgawdi l-vjaġġ tiegħi lejn il-Parlament
 i għandek bżonn tmur fuq broxbourne
-Ġerarkija tal-Ferrovija
+Ġerarkija tal [ Ferrovija ] {"entity":" day"}
 għandek tħalli l pont wara l [ 21 ta' Settembru ] {"entity": "leaveat"}
-għandek bżonn ta' diskussjoni mar-raġel tiegħi sabiex ma tkunx tista' tgħidli dwar il-ferroviji li jħallu l-konjizzjoni
-i ser jivvjaġġa minn fuq il-pont
-hi tista' tgħinni nsib ferrovija minn fuq il-pont
-iva, irridu nitilqu fuq it-tubi
+għandek bżonn ta' diskussjoni mar raġel [ tiegħi sabiex ma ] {"entity":" day"} tkunx tista' tgħidli dwar il ferroviji li jħallu l konjizzjoni
+i ser jivvjaġġa minn fuq il [ pont ] {"entity": "departure"}
+hi tista' tgħinni nsib ferrovija minn fuq [ il pont ] {"entity": "departure"}
+iva , irridu nitilqu fuq it [ tubi ] {"entity":" day"}
 il-kworum ser ikun għal persuna waħda biss u jista' jkollu wkoll numru ta' referenza
 im looking for a train that leaves on tuesday please
 i want to depart from stevenage
 can i get a train from leicester
 tista' tniżżel li wieħed għandu bżonn ir riċetta għal [ 8 ] {"entity": "bookpeople"} persuni jista' jikseb numru ta' referenza
-għalhekk nixtieq ukoll li jgħin biex tinstab ferrovija biex tgħin lill-passiġġieri jaqsmu l-fruntieri
+għalhekk nixtieq ukoll li [ jgħin ] {"entity": "destination"} biex tinstab ferrovija biex tgħin lill passiġġieri jaqsmu l fruntieri
 se nħalli l-ħaxix ħażin
-hi tista' ssibni ferrovija biex tgħammar it-toroq il-ġodda
-nixtieq inħalli l-pont
+hi tista' ssibni ferrovija biex tgħammar it toroq il [ ġodda ] {"entity": "destination"}
+nixtieq inħalli l [ pont ] {"entity": "departure"}
 iva li taħdem jekk jogħġbok irreġistrah għal [ 6 ] {"entity": "bookpeople"} persuni
 tista' tgħinni [ f'dan ] {"entity":" departure"} il proċess
 jixtieq li ferrovija timxi' l quddiem jekk jogħġbok
 pick wieħed jeħtieġ il [ ħin tal ivvjaġġar ] {"entity":" leaveat"} u l ħin tal wasla wara l 20 ta' Settembru
-iva, jekk jogħġbok, għandek tgħinni nsib ferrovija li għandek bżonn tivvjaġġa fuq friday jekk jogħġbok
-jitħalla mill-pont
+iva , jekk jogħġbok [ , għandek tgħinni ] {"entity":" day"} nsib ferrovija li għandek bżonn tivvjaġġa fuq friday jekk jogħġbok
+jitħalla mill [ pont ] {"entity": "departure"}
 le iżda jekk tixtieq tiddeċiedi waħedha , [ waħedha ] {"entity":" arriveby"} li tħalli l aħħar u li għadha tixtieq sal 21 sena .
 iva jekk jogħġbok ikteb lill ferrovija għal [ 4 ] {"entity": "bookpeople"} persuni
 hemm bżonn ukoll ta' ferrovija li tħalli l [ ekwipaġġ ] {"entity":" departure"}
-i għandek tħalli wara [ 21 sena għandek ] {"entity":" leaveat"} iktar ħass ħażin ara
-jixtieq iħalli l istess ġurnata bħal [ fil ] {"entity":" bookday"} każ tal prodott tal larinġ li jkun qed jintiżen bil mod jista jkollu n numru ta referenza għall prodott tal larinġ ukoll
+i għandek tħalli wara [ 21 sena ] {"entity":" leaveat"} għandek iktar ħass ħażin ara
+jixtieq iħalli l-istess ġurnata bħal fil-każ tal-prodott tal-larinġ li jkun qed jintiżen bil-mod jista" jkollu n-numru ta" referenza għall-prodott tal-larinġ ukoll
 is-sitta flimkien
 hi tħares lejn ferrovija [ u lanqas ] {"entity":" destination"} tgħin biex tgħin jekk jogħġbok
-it-tneħħija mill-pont
+it tneħħija mill [ pont ] {"entity": "departure"}
 nixtieq nasal sal [ Ħadd ] {"entity":" arriveby"}
 iva li għandek bżonn [ 6 postijiet imniżżla ] {"entity": "bookpeople"} fil kotba jekk jogħġbok
 iva tista' tgħinni nsib ferrovija
-i [ se nħalli ] {"entity": "departure"} t triq il ġdida ta' birmingham bħala l ħbieb tiegħi
+i se nħalli t-triq il-ġdida ta' birmingham bħala l-ħbieb tiegħi
 għandek id doppju tal ħin biex [ tħares ] {"entity":" leaveat"} lejn il lif tal ġugarelli sa wara t twelid .
 dak ta' [ 14 il sena għandu ] {"entity": "leaveat"} jkun il multa . . . meta tasal
-iva jekk jogħġbok biljett [ wieħed ] {"entity":" bookpeople"} biss ikun multa
+iva jekk jogħġbok [ biljett ] {"entity":" bookpeople"} wieħed biss ikun multa
 i amneeding a train to arrive in cambridge
-nixtieq nivvjaġġa fuq it-tuesday
+nixtieq nivvjaġġa fuq it [ tuesday ] {"entity":" day"}
 sakemm tasal għand 14-il persuna oħra
 i also need a train for sunday
 jitilqu sa wara 17-il sena
 iva nixtieq infakkar għal [ 3 ] {"entity": "bookpeople"} persuni jekk jogħġbok għandi għarfien tan numru ta' referenza mistieden għalik
-il-Ġermanja tista' tagħtini informazzjoni dwar il-ferroviji li se jmorru għall-pont
+il Ġermanja [ tista' ] {"entity": "destination"} tagħtini informazzjoni dwar il ferroviji li se jmorru għall pont
 [ jien qed infittex li noħroġ ] {"entity": "leaveat"} mill fwar u nħalli wara 11 il sena jekk jogħġbok
 iva , jekk jogħġbok , tista' tikteb siġġijiet għal [ 4 ] {"entity": "bookpeople"} persuni u agħti n numru ta' referenza
 i jeħtieġ ukoll ferrovija li titbiegħed mill [ pont tal baħar ] {"entity":" departure"}
-i would like to visit leicester
-i għandhom bżonn ikunu f'materjal likwidu
+i would like to visit [ leicester ] {"entity": "destination"}
+i għandhom bżonn ikunu [ f'materjal likwidu ] {"entity": "destination"}
 what is the price for that train
-[ it ] {"entity": "destination"} tfittxija għal ferrovija biex tgħaddi l ferrovija tista' tgħin biex
-il-Ġermanja
+it tfittxija għal ferrovija biex tgħaddi [ l ferrovija tista' ] {"entity": "destination"} tgħin biex
+il [ Ġermanja ] {"entity": "day"}
 [ għandek bżonn ] {"entity":" arriveby"} ta' prezz u żgur li tasal sal Ġimgħa l Kbira
-għandek bżonn ukoll ferrovija minn fuq il-baħar
+għandek bżonn ukoll ferrovija minn fuq il [ baħar ] {"entity": "departure"}
 im going to [ birmingham new street ] {"entity":" destination"}
 tista' wkoll issibni ferrovija [ li għandek bżonnha u titbiegħed minn ] {"entity":" departure"} persuni li jkollhom il biċċa xogħol fil biċċa l kbira
-il-proċess li jwassal għall-qtugħ
+il proċess li jwassal għall [ qtugħ ] {"entity": "destination"}
 iva jekk jogħġbok għal persuna waħda tista' tieħu prezz
-i għandek ] {"entity": "day"} bżonn ta' ħin ta' tluq għall ikel [ jekk jogħġbok
+i għandek bżonn ta' ħin ta' tluq [ għall ikel ] {"entity": "day"} jekk jogħġbok
 jixtieq jitlaq fuq il-belt u għandu jitlaq wara nofsinhar biex jixtieq jidħol fit-toroq tal-fwied.
 ir reġistrazzjoni għal [ 2 ] {"entity": "bookpeople"} persuni
 għandna bżonn ukoll ferrovija li tmur għall-Ġerusalemm
-im also looking for a train that departs from cambridge
+im also looking for a train that departs from [ cambridge ] {"entity": "departure"}
 i se tkun qed tivvjaġġa fuq il-konvoj
 iva jekk jogħġbok jeħtieġ ukoll ferrovija fuq [ it tuesday ] {"entity":" day"}
-tuesday wara t-twelid
+tuesday wara [ t twelid ] {"entity":" leaveat"}
 għandek tgħid illi għal persuna [ waħda ] {"entity":" bookpeople"} , jekk jogħġbok , għandek tkun taf in numru ta' referenza
-i għandek bżonn ferrovija għall-anqas iċ-ċomb
-fuq tuesday
+i għandek bżonn ferrovija għall anqas iċ [ ċomb ] {"entity":" destination"}
+fuq [ tuesday ] {"entity":" day"}
 il-Ġimgħa l-oħra l-Ġimgħa l-Ġimgħa l-Ġimgħa
-i għandek bżonn ferrovija għall-istess jum
-im coming to cambridge
-l-istrateġija Ewropea għad-Drittijiettal-Bniedem
+i għandek bżonn ferrovija għall istess [ jum ] {"entity":" day"}
+im coming to [ cambridge ] {"entity": "destination"}
+l istrateġija Ewropea għad Drittijiettal [ Bniedem ] {"entity": "departure"}
 irridu naslu fl-ajruport ikkonċentrat fuq it-tuesday
 is sitwazzjoni fil Ġimgħa ftit li xejn ser tkun [ waħda ] {"entity":" leaveat"} fejn il ħin tat tluq huwa ta' 06 sena .
 i will get tickets at the train station early trains usually arent that full can you find me a hotel though
 għandek tħares ukoll lejn ferrovija li tħalli l [ ekwipaġġ ] {"entity":" departure"}
 i amleaving on [ friday ] {"entity":" day"}
-i amgoing to cambridge
+i amgoing to [ cambridge ] {"entity":" destination"}
 [ is ] {"entity":" departure"} it a Regulation i also need a train leaving cambridge
-i se titbiegħed mill-pont tal-baħar
+i se titbiegħed mill pont [ tal baħar ] {"entity": "departure"}
 i would like help finding a train headed to [ cambridge ] {"entity":" destination"}
-li titbiegħed mis-salib tal-ħwienet
+li titbiegħed mis salib tal [ ħwienet ] {"entity": "departure"}
 għandek tasal sal [ Ġimgħa ] {"entity":" arriveby"}
-i għandek bżonn ferrovija biex tgħaġġel jekk jogħġbok
+i għandek bżonn ferrovija biex [ tgħaġġel ] {"entity":" destination"} jekk jogħġbok
 [ twissija IET SPEĊJALI ] {"entity":" departure"}
-iċ-ċittadini jixtiequ jitilqu fuq il-Ġerusalemm
+iċ ċittadini jixtiequ jitilqu fuq il [ Ġerusalemm ] {"entity": "day"}
 jekk jogħġbok ikteb lill ferrovija għal [ 4 ] {"entity": "bookpeople"} persuni
 iva għandek bżonn tivvjaġġa minn fuq il-baħar, tista' tgħini nsib ferrovija
 ma tistax tiċċekkja għal darb' oħra li għandek bżonn tieħu tojlit tal-fwied
 dak [ li jkun ] {"entity":" day"} disponibbli l aħħar jekk mhux fuq il ħġieġa tax xemx
-tr0189 departs cambridge
+tr0189 departs [ cambridge ] {"entity": "departure"}
 iva jekk jogħġbok ikollok bżonn [ 5 ] {"entity": "bookpeople"} biljetti
 se jkollhom bżonn ukoll ferrovija biex jitilqu minn Triq il-Fwied
-il-ġelatina tax-xemx
+il ġelatina tax [ xemx ] {"entity":" day"}
 iva se jkollok bżonn siġġijiet għal [ 5 ] {"entity": "bookpeople"} persuni jekk jogħġbok ipprovdilu numru ta' referenza li jissejjaħ għall għajnuna tiegħek .
 can you help me find a train
 from cambridge
 għandu jkun kemm ikun il-biljett
 ikun possibbli li wieħed isib ferrovija għalija wkoll
-għandek bżonn tivvjaġġa fuq il-ġnien
+għandek bżonn tivvjaġġa fuq il [ ġnien ] {"entity": "day"}
 iva jekk jogħġbok ikteb il-ferrovija għal persuna waħda u pprovdi n-numru ta' referenza
-i għandek bżonn ta' ferrovija li titlaq wara t-tluq
+i għandek bżonn ta' ferrovija li titlaq wara [ t tluq ] {"entity": "leaveat"}
 nixtieq inħalli l [ ġugarelli ] {"entity":" day"}
 [ se jkollok ] {"entity": "leaveat"} titlob li tiċċekkja għal darb' oħra wara nofsinhar jekk jogħġbok
 it tneħħija mill [ pont ] {"entity": "departure"}
 iva , jekk jogħġbok ikteb għal [ 5 ] {"entity": "bookpeople"} persuni
 i amlooking for a train to cambridge
-il-ġelatina tax-xemx
+il ġelatina tax [ xemx ] {"entity":" day"}
 iva nixtieq infakkar għal [ 7 ] {"entity": "bookpeople"} persuni
 i would also like a train leaving from [ cambridge ] {"entity":" departure"}
-[ il programm ta studju ] {"entity":" destination"} għandu jkun ippubblikat wara l approvazzjoni tas sena t .
+il [ programm ta studju ] {"entity":" destination"} għandu jkun ippubblikat wara l approvazzjoni tas sena t .
 i also need a train
-għandek tieqaf tieħu
+għandek tieqaf [ tieħu ] {"entity": "destination"}
 i amalso looking for a train on [ sunday ] {"entity":" day"}
 in-numru tar-ritorn ta' persuni li jkunu qed ibagħtu x-xemx għandu jitħalla vojt.
-jien qed infittex ferrovija mill imħuħ li jgħinu' [ l barra ] {"entity": "departure"}
-nixtieq inħalli l-Ħaġa
-i jeħtieġ ukoll ferrovija biex tgħaddi minn fuq il-pont
+jien qed infittex ferrovija mill-imħuħ li jgħinu' l barra
+nixtieq inħalli l [ Ħaġa ] {"entity": "day"}
+i jeħtieġ ukoll ferrovija biex tgħaddi minn fuq il [ pont ] {"entity": "destination"}
 i amalso looking for a train that day
-i se tħalli l-fwied miftuħ fit-toroq
-għandek tasal sal-9 ta' Settembru
+i se tħalli l fwied miftuħ fit [ toroq ] {"entity": "departure"}
+għandek tasal sal 9 ta' [ Settembru ] {"entity":" arriveby"}
 i għandek bżonn ferrovija minn [ Triq il Ġugarelli tal Fwied ] {"entity":" departure"}
-il-pont tal-baħar
+il pont tal [ baħar ] {"entity":" destination"}
 l ebda ħaġa m'għandha titħalla wara t [ twelid ] {"entity":" leaveat"}
 għandna bżonn ukoll ta' ferrovija għat-tbaħħir fit-toroq ġodda
-im departing from cambridge if possible
-il-passiġġieri għandhom ikunu jistgħu jivvjaġġaw bil-ferrovija.
+im departing from cambridge [ if ] {"entity": "departure"} possible
+il passiġġieri għandhom ikunu jistgħu jivvjaġġaw bil ferrovija [ . ] {"entity": "day"}
 iva jitbiegħed mill [ ponta ] {"entity":" departure"}
 le iżda m'għandix bżonn nasal sal [ Ġimgħa ] {"entity":" arriveby"}
-iva jixtieq li n-numru tat-telefown i jkollu bżonn ukoll ta' ferrovija fuq l-immaġni
+iva jixtieq li n numru [ tat ] {"entity": "day"} telefown i jkollu bżonn ukoll ta' ferrovija fuq l immaġni
 kwalunkwe ħin għandu jagħmel sakemm jitlaq wara [ 13 il xahar ] {"entity":" leaveat"} .
 i would like for you to find a train that leaves on wednesday
-l-im intenzjoni li jitnaqqas il-piż
-iva għal [ 4 ] {"entity": "bookpeople"} persuni jekk jogħġbok
+l im intenzjoni li jitnaqqas il [ piż ] {"entity": "destination"}
+iva għal [ 4 persuni ] {"entity": "bookpeople"} jekk jogħġbok
 iva għandek bżonn ukoll ferrovija biex tħaffef il-pont
-i se titbiegħed mill-ajruport ta' l-ajruport
-grazzi għandna bżonn ukoll ferrovija li tħalli t-tlugħ mix-xemx
+i se titbiegħed mill ajruport ta' l [ ajruport ] {"entity": "departure"}
+grazzi għandna bżonn ukoll ferrovija li tħalli t tlugħ [ mix ] {"entity": "day"} xemx
 nixtieq li l ferrovija tħalli l eqreb wara l [ Ġimgħa ] {"entity":" leaveat"}
-i għandek bżonn ferrovija biex tgħaġġel
-i amleaving ely
+i għandek bżonn ferrovija biex [ tgħaġġel ] {"entity": "destination"}
+i amleaving [ ely ] {"entity": "departure"}
 hemm waħda iktar tard [ li ] {"entity": "bookpeople"} tibqa' teżisti minn 11 il siġġu li għandhom bżonn 4 siġġijiet
 ok you can book that one for [ 4 ] {"entity": "bookpeople"} people
 hi tista' tgħinni nsib ferrovija
-i want to depart from leicester
+i want to depart from [ leicester ] {"entity": "departure"}
 i għandek tħalli wara [ 13 il sena tista' ] {"entity":" leaveat"} tgħin biex issib xi ħaġa
 iva li tkun multa tista' ġġib miegħek siġġu għal [ 2 ] {"entity": "bookpeople"} persuni u agħtini n numru ta' referenza
-jien qed [ infittex ] {"entity": "departure"} ferrovija li titbiegħed mill pont tal baħar jekk ikun hemm disponibbli
-għandu jitħalla fuq il-Ġerusalemm
+jien qed infittex ferrovija li titbiegħed mill-pont tal-baħar jekk ikun hemm disponibbli
+għandu jitħalla fuq il [ Ġerusalemm ] {"entity": "day"}
 dan ikun kbir jekk ikollok bżonn [ 6 ] {"entity": "bookpeople"} biljetti jekk jogħġbok
-iva qed infittex ukoll ferrovija li tasal fil-pontaġġ
-i se jitlaq mill-konjizzjoni tal-konjizzjoni
+iva qed infittex ukoll ferrovija li tasal fil [ pontaġġ ] {"entity": "destination"}
+i se jitlaq mill konjizzjoni tal [ konjizzjoni ] {"entity": "departure"}
 iva jekk ] {"entity":" bookpeople"} jogħġbok ħu l biljetti għall [ istess grupp ta' nies
 i also need a train from broxbourne
 i se tkun ukoll fuq il ħajt [ tax xemx ] {"entity":" day"}
 iva l [ istess grupp ta' nies ] {"entity":" bookpeople"} jekk jogħġbok
-i jeħtieġ ukoll ferrovija biex tgħaddi minn fuq il-pont
-disturbi fil-kliewi
+i jeħtieġ ukoll ferrovija biex tgħaddi minn fuq [ il pont ] {"entity": "destination"}
+disturbi fil [ kliewi ] {"entity": "day"}
 great i also need a train
-i amdeparting from ely
+i amdeparting from [ ely ] {"entity": "departure"}
 iva , jekk jogħġbok ikteb [ 5 ] {"entity": "bookpeople"} postijiet għalija
-iva għandek ħafna ferroviji minn fuq il-baħar
-jeħtieġ li nitilqu fuq il-Ġenerazzjoni
+iva għandek ħafna ferroviji minn fuq il [ baħar ] {"entity": "departure"}
+jeħtieġ li nitilqu fuq il [ Ġenerazzjoni ] {"entity":" day"}
 assigura li jekk jogħġbok ikteb [ 6 ] {"entity": "bookpeople"} biljetti għalija u agħtini n numru ta' referenza
-tista' ssib ferrovija biex timxi' l quddiem
+tista' ssib ferrovija biex timxi' l [ quddiem ] {"entity": "destination"}
 iva, li titbiegħed minn kemm se tkun għolja l-ispiża
 mistoqsija li tista' tgħinni nsib ferrovija għall [ imħabba ] {"entity":" day"}
-se nħalli l-pont tal-baħar
+se nħalli l pont [ tal baħar ] {"entity": "departure"}
 għandek tkun hemm sal [ 10 ta' filgħaxija u ] {"entity": "arriveby"} għandek bżonn il ferrovija jekk jogħġbok
 can i get some information on a train
-M'għandekx titlaq il-pont tat-tluq
+M'għandekx titlaq il pont tat [ tluq ] {"entity":" departure"}
 għandek bżonn tħalli l [ Ħaġa ] {"entity":" day"}
 għad iridu naslu sal aħħar tas [ 16 ta' Settembru ] {"entity":" arriveby"}
 bis-saħħa tal-għajnuna tiegħi, il-ferrovija u l-għawm kollha għandhom bżonn għal proċess tajjeb issa.
 i need a train on [ friday ] {"entity":" day"}
 jitħalla mill-pont
 iva jekk jogħġbok ikollok bżonn [ 7 ] {"entity": "bookpeople"} biljetti
-il-Ġimgħa l-oħra l-Ġimgħa l-Ħamis
-nixtieq nirringrazzja lil broxbourne
+il Ġimgħa l oħra l Ġimgħa l [ Ħamis ] {"entity": "arriveby"}
+nixtieq nirringrazzja lil [ broxbourne ] {"entity": "destination"}
 ladarba ssib ] {"entity": "bookpeople"} il ferrovija , tixtieq tagħmel riżerva għal [ persuna waħda , tiżgura li jkollok in numru ta' referenza
 iva jekk jogħġbok ikteb biljett għal persuna waħda
-i also looking for a train the train should go to cambridge
-i need to the train on friday
+i [ also ] {"entity": "destination"} looking for a train the train should go to cambridge
+i need to the train on [ friday ] {"entity": "day"}
 għandna [ bżonn ] {"entity":" day"} ukoll li nsibu ferrovija għal dawk li jagħmlu dan .
 għandu jitħalla wara l [ 15 ta' Settembru ] {"entity": "leaveat"} .
-jitbiegħed mill-maqtugħ
+jitbiegħed mill [ maqtugħ ] {"entity": "departure"}
 li se taħdem għal [ sitt ] {"entity":" bookpeople"} persuni wkoll jekk jogħġbok kun ċert li se tirċievi n numru ta' referenza
 i [ għandhom bżonn ferrovija ] {"entity":" leaveat"} li tħalli l vjaġġaturi tal vjaġġ wara 14 il vjaġġ
 i want to depart on [ friday ] {"entity":" day"}
-l-Ewropa għandha bżonn ta' ferrovija biex tħeġġeġ lin-nies jaqsmu l-fruntieri
+l Ewropa [ għandha ] {"entity": "destination"} bżonn ta' ferrovija biex tħeġġeġ lin nies jaqsmu l fruntieri
 jekk jogħġbok ippreżenta biljetti u pprovdilu l-ispiża totali tal-biljetti u n-numru tal-konferma
 nixtieq nieħu ferrovija minn fuq il-baħar, tista' jekk jogħġbok iċċelebra l-ħinijiet tiegħek.
-jien se naqsam ir-rebbieħa
+jien se naqsam ir [ rebbieħa ] {"entity":" destination"}
 iva tista' jekk jogħġbok itniżżel [ 2 ] {"entity": "bookpeople"} postijiet
-ibda dan għal 6
-għandek bżonn tmur lura [ fit toroq tal fwied ] {"entity":" destination"}
-i għandek tħalli l-pont
+ibda dan għal [ 6 ] {"entity": "bookpeople"}
+għandek bżonn tmur lura fit [ toroq tal fwied ] {"entity":" destination"}
+i għandek tħalli l [ pont ] {"entity": "departure"}
 jekk jogħġbok ikteb il ferrovija għal [ 6 ] {"entity": "bookpeople"} persuni kif ukoll għandhom bżonn ukoll numru ta' referenza
-yes i need a train that is departing on wednesday
-iva mmexxija lejn il-pont
+yes i need a train that is departing [ on ] {"entity": "day"} wednesday
+iva mmexxija lejn il [ pont ] {"entity": "destination"}
 iva tista' tniżżel fil kotba għal [ 2 ] {"entity": "bookpeople"} persuni u agħtini numru ta' referenza
 hi jrid jivvjaġġa lejn il [ pont ] {"entity": "destination"} bil ferrovija
 nixtieq nasal sal [ Ġimgħa ] {"entity":" arriveby"}
 tneħħija minn broxbourne
-tista' tirreġistra għall-wasla eqreb għal kulħadd fiċ-ċentru
+tista' tirreġistra għall wasla eqreb għal kulħadd [ fiċ ] {"entity": "arriveby"} ċentru
 tkun tista' tgħinni nsib ferrovija għall [ friday ] {"entity":" day"}
 i need a train that departs cambridge
 għandek ħafna biljetti.
-fejn tkun il-ferrovija li tasal fil-Ħarifa
-i want to depart from broxbourne
+fejn tkun il ferrovija li tasal fil [ Ħarifa ] {"entity": "arriveby"}
+i want to depart from [ broxbourne ] {"entity": "departure"}
 iva , jekk jogħġbok ikteb għal [ 6 ] {"entity": "bookpeople"} persuni
 qatt iktar irridu għall-ferrovija u għall-informazzjoni kummerċjali tajba.
-nixtieq li jkun hemm ferrovija ħierġa mill [ Ġerusalemm ] {"entity":" departure"}
-il-pont tal-baħar
+nixtieq li jkun hemm ferrovija ħierġa [ mill Ġerusalemm ] {"entity":" departure"}
+il pont tal [ baħar ] {"entity":" destination"}
 iva għal [ 3 ] {"entity": "bookpeople"} persuni
-hi titlob għal ferrovija li se titħalla wara t-tluq
+hi titlob għal ferrovija li se titħalla wara t [ tluq ] {"entity": "leaveat"}
 m'għandekx tħalli l-pont
-għandek tasal sal-Ġimgħa
+għandek tasal sal [ Ġimgħa ] {"entity": "arriveby"}
 iva jekk jogħġbok iktebni għal [ 2 ] {"entity": "bookpeople"} persuni u għandek bżonn in numru tas Saħħa elettronika
-can you locate for me a train that leaves on tuesday thanks
-li għad iridu jitilqu kmieni wisq wara [ 15 il sena ] {"entity":" leaveat"}
+[ can you ] {"entity": "day"} locate for me a train that leaves on tuesday thanks
+li għad iridu jitilqu kmieni wisq wara 15 il [ sena ] {"entity":" leaveat"}
 Ġurnal iva , wieħed għal [ 8 ] {"entity": "bookpeople"} persuni
-can i get a train to cambridge
+can i get a train to [ cambridge ] {"entity": "destination"}
 i se tħalli t-triq il-ġdida għat-trobbija tal-għasafar
 nixtieq nasal sal [ Ħadd ] {"entity":" arriveby"}
 hi tista' tagħtini xi informazzjoni dwar l-iskedi tal-ferrovija
-iva l-maqtugħ tas-silġ
+iva l [ maqtugħ tas silġ ] {"entity": "departure"}
 that is fine book for me for [ 1 ] {"entity": "bookpeople"} person and give me the reference number
 i need help finding a train can you help
-jekk jogħġbok imla
-dwar hekk, jekk jogħġbok
+jekk [ jogħġbok imla ] {"entity": "departure"}
+dwar hekk [ , ] {"entity":" day"} jekk jogħġbok
 iva, jekk jogħġbok u tista' tħaffef il-proċess ta' aċċelerazzjoni llum
 bħala kwistjoni ta' fatt iva, għandek bżonn ferrovija li tħalli wara t-13 ta' Settembru
-i se tkun ġejja mill-Għaqda tal-Ġugarelli
+i se tkun ġejja mill Għaqda tal [ Ġugarelli ] {"entity": "departure"}
 iva jekk jogħġbok ikteb li għal [ 8 ] {"entity": "bookpeople"} persuni
 what part of [ town ] {"entity":" day"} is that on ill also need a train on friday
 u ferrovija għall-friday
-hi im looking for a train that departs from cambridge
-ikunu qed jivvjaġġaw bil-friday jekk possibbli
+hi im looking for a train that departs from [ cambridge ] {"entity": "departure"}
+ikunu qed jivvjaġġaw bil friday [ jekk ] {"entity":" day"} possibbli
 il-passiġġieri jmorru lura għall-istazzjon tal-ferrovija issa
 actually yes im looking for a train from [ ely ] {"entity":" departure"}
-id-destinazzjoni tiegħi hija l-maqtugħ
+id destinazzjoni tiegħi hija l [ maqtugħ ] {"entity": "destination"}
 l ewwel waħda [ għas 7 ta' Settembru hija ] {"entity": "leaveat"} l multa u l prezz ukoll
-il-Ġermanja għandha bżonn tieħu ferrovija fuq il-baħar
+il Ġermanja għandha bżonn tieħu ferrovija fuq [ il baħar ] {"entity":" day"}
 kwalunkwe ħin wara t [ 13 ta' Settembru ] {"entity": "leaveat"} jkun multa
 i amplanning a trip and could use some help with the trains
-i would like to leave on tuesday
+i would like to leave on [ tuesday ] {"entity": "day"}
 iva , jekk jogħġbok iktebni għal [ 3 ] {"entity": "bookpeople"} persuni u ħallih in numru ta' referenza
-alright are there any trains going to cambridge
+alright are there any trains going to [ cambridge ] {"entity": "destination"}
 il-marda ta' l-ilsien u d-dwiefer qed titbiegħed mis-siġġijiet tat-toroq ġodda ta' birmingham, x'inhi l-ispiża
 għandek bżonn tikteb [ 7 ] {"entity": "bookpeople"} siġġijiet .
 inti ma tkunx ta' għajnuna kbira
 iva għandek bżonn ukoll tirreġistra ferrovija għall [ eżemplari ] {"entity":" day"} tista' tgħinni b'dan il mod .
-i ser jivvjaġġa minn fuq il-pont
+i ser jivvjaġġa minn fuq [ il pont ] {"entity": "departure"}
 nixtieq nasal sal [ aħħar mill aħħar ] {"entity":" arriveby"} biex nasal għall prezz jekk jogħġbok
 il-kandidatura tiegħek.
 can [ you ] {"entity":" day"} help me find a train ill be traveling on wednesday
-il-Ġermanja
-nixtieq nasal sal [ 16 ta' Settembru ] {"entity":" arriveby"}
+il [ Ġermanja ] {"entity": "departure"}
+nixtieq nasal sal 16 ta' [ Settembru ] {"entity":" arriveby"}
 [ l i dont għandha preferenza ] {"entity":" leaveat"} fuq il ħin tat tluq
 jien qed inħares lejn [ it tuesday ] {"entity": "day"} train
-from cambridge
+from [ cambridge ] {"entity": "departure"}
 il-ferrovija għandha tasal għand 11-il persuna u għandi n-numru ta' referenza tiegħi
 għalhekk il-Kummissjoni għandha tiżgura li l-Istati Membri jkollhom aċċess għall-informazzjoni kollha meħtieġa.
 i jeħtieġ ukoll li l-ferrovija titlaq wara 18-il sena
-se [ nħalli l ] {"entity": "departure"} biljetti għall biċċiet żgħar u l kunf ukoll jekk jogħġbok
+se nħalli l-biljetti għall-biċċiet żgħar u l-kunf ukoll jekk jogħġbok
 iva għal ferrovija li tħalli fuq il-kliewi
 jekk jogħġbok
-[ għandek tħalli l elju u għandek ] {"entity": "departure"} tkun taf kemm idum il ħin tal wasla u l ħin speċifiku tal wasla jekk jogħġbok
-tista' tgħidli x'inhuma l-ferroviji li jmorru għand il-persuni li jivvjaġġaw fuq żewġ binarji.
+għandek tħalli l elju [ u ] {"entity": "departure"} għandek tkun taf kemm idum il ħin tal wasla u l ħin speċifiku tal wasla jekk jogħġbok
+tista' tgħidli x'inhuma l [ ferroviji li ] {"entity":" day"} jmorru għand il persuni li jivvjaġġaw fuq żewġ binarji .
 għandek bżonn li titbiegħed wara [ 11 il sena ] {"entity":" leaveat"}
-Madankollu, l-ebda persuna m'għandha bżonn l-indirizz li tista' tgħinni nsib ferrovija li tħalli l-persuna li tagħmel it-taħriġ tagħha.
+Madankollu , [ l ebda ] {"entity": "destination"} persuna m'għandha bżonn l indirizz li tista' tgħinni nsib ferrovija li tħalli l persuna li tagħmel it taħriġ tagħha .
 jekk jogħġbok grazzi għall-għajnuna tiegħek
-iva għandek bżonn tikteb biljetti għal [ 7 ] {"entity": "bookpeople"} persuni jekk jogħġbok
+iva għandek bżonn tikteb biljetti għal [ 7 persuni ] {"entity": "bookpeople"} jekk jogħġbok
 i also need a train leaving on [ sunday ] {"entity":" day"}
 i would be departing from [ cambridge ] {"entity": "departure"} and going to the airport
 irridu naslu sal [ 10 am ] {"entity":" arriveby"}
 [ i need ] {"entity":" departure"} info on a train that would be departing fromblanc toate
-i would like to leave on sunday
-( 2 ) Dawn ir-regolamenti għandhom jidħlu fis-seħħ f'dik id-data li l-Ministru jista" b'avviż fil-Gazzetta jistabbilixxi.
-i amalso looking for a train i want [ to ] {"entity": "departure"} depart cambridge could i get departure time price and travel time please
+i would like to leave on [ sunday ] {"entity": "day"}
+2 Dawn ir regolamenti għandhom jidħlu fis seħħ [ f'dik id ] {"entity":" bookpeople"} data li l Ministru jista b'avviż fil Gazzetta jistabbilixxi .
+i amalso looking for a train i want to depart cambridge could i get departure time price and travel time please
 i għandek bżonn ta' ferrovija li titlaq [ wara t tluq ] {"entity": "leaveat"}
 i għandek tħalli l-pont
-l-ewwel waħda għandha bżonn ta' biljett wieħed jekk jogħġbok
+l ewwel waħda għandha bżonn ta' [ biljett ] {"entity": "bookpeople"} wieħed jekk jogħġbok
 i need a train as well
-ill be departing from cambridge
-il-ferrovija tiegħek għandha tasal fit-13 ta' Marzu
-jekk jogħġbok irreġistrah għal 3
+ill be departing [ from cambridge ] {"entity": "departure"}
+il ferrovija tiegħek għandha tasal fit 13 ta' [ Marzu ] {"entity": "arriveby"}
+jekk jogħġbok irreġistrah għal [ 3 ] {"entity": "bookpeople"}
 i għandek bżonn dawk ir-riżervi jekk jogħġbok
 nixtieq li ferrovija timxi' l [ quddiem ] {"entity":" destination"}
 i amdeparting from ely
@@ -818,11 +818,11 @@ irridu ngħaddu għall lif tal ivvjaġġar wara t [ twelid ] {"entity":" leaveat
 tista' tgħinni nsib [ ferrovija li tasal ] {"entity":" arriveby"} fit toroq il ġodda ta' birmingham sas 16 ta' Settembru
 i would like to leave friday
 iva nixtieq infakkar għal [ 3 ] {"entity": "bookpeople"} persuni
-għalkemm għadu mhuwiex ikkonfermat, għadu mhuwiex ikkonfermat.
+għalkemm għadu mhuwiex ikkonfermat , għadu mhuwiex ikkonfermat [ . ] {"entity":" destination"}
 jekk jogħġbok imla
 iva jekk jogħġbok ikteb dan għal [ żewġ ] {"entity":" bookpeople"} persuni li għandhom bżonn in numru ta' referenza wkoll
 i also need a train on [ sunday ] {"entity":" day"}
-se tissottometti l-applikazzjoni tiegħek għall-applikazzjoni.
+se tissottometti l applikazzjoni tiegħek għall applikazzjoni [ . ] {"entity": "destination"}
 nixtieq nasal għand il-persuna msemmija hawn fuq.
 tista' tniżżel dak jekk jogħġbok
 jixtieq [ 3 ] {"entity": "bookpeople"} biljetti jekk jogħġbok
@@ -830,113 +830,113 @@ i also need a train leaving on friday
 iva għandek bżonn [ 6 ] {"entity": "bookpeople"} biljetti
 fil-fatt hemm bżonn li nħarsu lejn il-ferrovija li għandna bżonn immorru lil hinn mill-konverżazzjoni tal-Ġerusalemm
 din tkun ħaġa kbira li nirriservaw is siġġijiet għal [ 4 ] {"entity": "bookpeople"} persuni fuq dik il ferrovija
-i amalso looking for a train the train should depart from cambridge
-saħansitra bis-saħħa ta' kwalunkwe ferrovija li titla' minn fuq il-pont
+[ i ] {"entity": "departure"} amalso looking for a train the train should depart from cambridge
+[ saħansitra bis ] {"entity": "departure"} saħħa ta' kwalunkwe ferrovija li titla' minn fuq il pont
 the train should go to birmingham new street
-yes i need a train from broxbourne
+yes i need a train from [ broxbourne ] {"entity": "departure"}
 iva għandek tasal sa [ 12 il sena jekk jogħġbok ] {"entity": "arriveby"}
 iva għal [ 7 ] {"entity": "bookpeople"} persuni
 [ iva ] {"entity":" departure"} għandek bżonn ukoll ferrovija li titlaq minn fuq il pont
 se nivvjaġġa fuq il ħajt [ tax xemx ] {"entity":" day"}
-jien qed noħroġ mit-Triq tal-Fwied tal-Fwied tal-Fwied
+[ jien ] {"entity": "departure"} qed noħroġ mit Triq tal Fwied tal Fwied tal Fwied
 i għandek bżonn ferrovija biex tkun tista' [ tagħmel biċċiet . ] {"entity":" destination"}
-iva għaliex qed tintalab l-għajnuna mill-belt ta' cambridge
+iva għaliex qed tintalab l għajnuna mill belt [ ta' ] {"entity": "departure"} cambridge
 i se tkun qed tivvjaġġa fuq il ħajt [ tax xemx ] {"entity":" day"}
 nixtieq nasal sal [ Ħadd ] {"entity":" arriveby"}
 i jeħtieġ ukoll ferrovija biex tgħaddi minn fuq il [ pont ] {"entity":" destination"}
-im departing from birmingham new street
+im departing from birmingham new [ street ] {"entity": "departure"}
 iva tista' tniżżel li għal [ 5 ] {"entity": "bookpeople"} persuni
 grazzi għall fatt li tħares lejn ferrovija għall [ ġugarelli ] {"entity":" day"} , tista' tgħinni f'dan il proċess
-i ser tkun ġejja minn klieb il-baħar imnixxfa
+i ser tkun ġejja minn klieb il [ baħar imnixxfa ] {"entity": "departure"}
 i need a train that is leaving on [ friday ] {"entity":" day"}
 jivvjaġġa minn fuq il-pont
 no i dont can you give me the earliest departure out of the 4 trains
 iva li tista' tikteb ħafna għalija.
-i jeħtieġ ukoll ferrovija li tħalli fuq il-ħofra
+i jeħtieġ ukoll ferrovija li tħalli fuq il [ ħofra ] {"entity": "day"}
 i amleaving ely
 tista' tikteb [ 4 ] {"entity": "bookpeople"} biljetti
-għandek bżonn [ ta' ] {"entity": "departure"} biljett ferrovjarju biex tgħinni ngħid il ħofra tal fwied .
-hi i għandha bżonn ferrovija li titbiegħed minn persuna li tagħmel il-biċċiet
-id-destinazzjoni tiegħi hija l-maqtugħ
-nixtieq insib ferrovija mill-pont tal-baħar
+għandek bżonn ta' biljett ferrovjarju biex tgħinni ngħid il [ ħofra ] {"entity": "departure"} tal fwied .
+hi i [ għandha ] {"entity": "departure"} bżonn ferrovija li titbiegħed minn persuna li tagħmel il biċċiet
+id destinazzjoni tiegħi hija l [ maqtugħ ] {"entity": "destination"}
+nixtieq insib ferrovija mill pont tal [ baħar ] {"entity": "departure"}
 nixtieq nivvjaġġa lejn il [ pont ] {"entity":" destination"}
-iva, it-tluq għandu jkun mill-ajruport ta' oriġini jekk jogħġbok
+[ iva , ] {"entity": "departure"} it tluq għandu jkun mill ajruport ta' oriġini jekk jogħġbok
 iva , jekk jogħġbok agħmel riċetta għal [ 4 ] {"entity": "bookpeople"} persuni u ibgħatli kopja tan numru ta' referenza
-il-Ġermanja tista' tgħinni nsib ferrovija li titlaq wara l-Ġermanja wkoll
+il Ġermanja tista' tgħinni nsib ferrovija li titlaq wara [ l ] {"entity":" leaveat"} Ġermanja wkoll
 i would like to leave on [ friday ] {"entity":" day"}
 l im intenzjoni li jitnaqqas il [ piż ] {"entity":" destination"}
 biljett [ wieħed ] {"entity":" bookpeople"} biss
 what time does the next train to [ stevenage ] {"entity": "departure"} depart
-that is wrong i amleaving from stevenage
-i se tħalli friday
+that is wrong i amleaving from [ stevenage ] {"entity": "departure"}
+i se tħalli [ friday ] {"entity": "day"}
 iva nixtieq nippreżentaha għal [ 5 ] {"entity": "bookpeople"} persuni
 yes i need a train for [ sunday ] {"entity":" day"}
-jien qed inħalli s-salib tal-ġugarelli
+jien qed inħalli s salib tal [ ġugarelli ] {"entity": "departure"}
 iva għal [ 7 ] {"entity": "bookpeople"} persuni
 the train should go to birmingham new street
 tixtieq tħalli wara [ 09 . ] {"entity":" leaveat"}
 iva , jekk jogħġbok , għandek bżonn riċetta għal [ 8 ] {"entity": "bookpeople"} persuni u għandek bżonn numru ta' referenza għar riċetta
-i għandhom bżonn ferrovija li titlaq minn fuq il [ ħoġor ] {"entity":" departure"}
+i għandhom bżonn ferrovija li titlaq minn fuq [ il ħoġor ] {"entity":" departure"}
 nixtieq inħallih fuq [ it tubu ] {"entity":" day"}
 i se tkun qed tivvjaġġa lejn il [ pont ] {"entity":" destination"}
 ikun [ xi ] {"entity":" arriveby"} jkun il ħin li noqgħod l iktar viċin ta' kulħadd
-i need [ to find ] {"entity": "destination"} a train going to leicester do you know of one
-jitbiegħed mill-maqtugħ
+i need to find a train going to [ leicester do ] {"entity": "destination"} you know of one
+jitbiegħed mill [ maqtugħ ] {"entity": "departure"}
 iva għandek bżonn [ 8 ] {"entity": "bookpeople"} biljetti jekk jogħġbok ibgħat ir ref le meta għandek
-i għandna bżonn nieħdu ferrovija minn fuq il-pont
-iva , ] {"entity": "arriveby"} 18 il miljun se jkollhom jaħdmu [ f'dan il pajjiż , jiġifieri li għażla
+i għandna bżonn nieħdu ferrovija minn fuq il [ pont ] {"entity":" departure"}
+[ iva , ] {"entity": "arriveby"} 18 il miljun se jkollhom jaħdmu f'dan il pajjiż , jiġifieri li għażla
 can you help me find a train now
-i għandek bżonn il-ferrovija biex titbiegħed mill-pont tal-ferrovija jekk jogħġbok
-i need a train from birmingham new street
-ix-xewqa li jmorru għall-pont
+i [ għandek bżonn ] {"entity": "departure"} il ferrovija biex titbiegħed mill pont tal ferrovija jekk jogħġbok
+i need a train from birmingham new [ street ] {"entity": "departure"}
+ix xewqa li jmorru għall [ pont ] {"entity": "destination"}
 għalija tista' ġġib miegħi [ 6 ] {"entity": "bookpeople"} biljetti
 hi i amtrying to plan a trip and could use some help with the trains
-iħallu l-pont tal-baħar
+iħallu l pont tal [ baħar ] {"entity": "departure"}
 iva jekk jogħġbok irreġistrah għal [ 4 ] {"entity": "bookpeople"} persuni
 hi qed tfittex ferrovija mill [ pont ] {"entity": "departure"} tal ferrovija , jekk jogħġbok
-jitħalla mill ] {"entity":" destination"} pont għall ivvjaġġar għall ivvjaġġar għall ivvjaġġar [ għall ivvjaġġar
-i would like to leave on sunday
+jitħalla mill ] {"entity":" destination"} pont għall ivvjaġġar għall ivvjaġġar għall [ ivvjaġġar għall ivvjaġġar
+i would like to leave on [ sunday ] {"entity": "day"}
 [ 1 għandhiex ] {"entity": "bookpeople"} tkun multa wkoll issibni ċertifikat li għandu bżonn iż żona tal kodiċi postali u n numru tat telefon
 i also need a train that leaves from broxbourne
 effettivament iva iżda se jkollok bżonn total ta' [ 6 ] {"entity": "bookpeople"} biljetti jekk jogħġbok
 hi i need to catch a train from stevenage
-i għandek tħalli fuq il-kliewi
+i għandek tħalli fuq il [ kliewi ] {"entity": "day"}
 kemm ser idum il-vjaġġ
-il Ġimgħa l oħra l Ġimgħa l [ Ġimgħa ] {"entity": "destination"} l Ġimgħa
+il Ġimgħa l oħra l Ġimgħa [ l ] {"entity": "destination"} Ġimgħa l Ġimgħa
 nixtieq inħalli fuq il [ Ħodor ] {"entity":" day"}
 [ nixtieq nasal għand il kandidatura ] {"entity":" arriveby"} fi jew eżatt qabel it 13 ta' Settembru jekk jogħġbok
-i għandek bżonn ferrovija li tħalli fuq [ il baħar ] {"entity":" day"}
+i għandek bżonn ferrovija li tħalli fuq il [ baħar ] {"entity":" day"}
 jitħalla mill [ pont ] {"entity":" departure"}
-i amleaving leicester
+i amleaving [ leicester ] {"entity": "departure"}
 nixtieq nasal sal [ 20 ta' Settembru ] {"entity": "arriveby"} kull meta jkun hemm bżonn li nħallu l ħin .
-i need to find a train from cambridge
+i need to find a train from [ cambridge ] {"entity": "departure"}
 i se tkun qed tivvjaġġa fuq il [ konvoj ] {"entity":" day"}
 i għandek bżonn ta' ferrovija wara 08 ta' Settembru.
-nixtieq inħalli l-ġugarelli
+nixtieq inħalli l [ ġugarelli ] {"entity": "departure"}
 iva tista' tikteb għal [ 4 ] {"entity": "bookpeople"} persuni
 iva tista' tgħinni nsib ferrovija mill-Ġerusalemn
-jixtieq jitbiegħed fuq il prezz tal ħin [ tat tluq eżatt ] {"entity": "day"} u fuq il ħin tal ferrovija .
-il ferrovija m'għandhiex ] {"entity":" arriveby"} għalfejn tasal sal Ħadd [ mhux qabel il Ħamis 5 ta' Settembru
+jixtieq jitbiegħed fuq il prezz tal [ ħin ] {"entity": "day"} tat tluq eżatt u fuq il ħin tal ferrovija .
+il ferrovija m'għandhiex għalfejn ] {"entity":" arriveby"} tasal sal Ħadd [ mhux qabel il Ħamis 5 ta' Settembru
 i amlooking for a train that leaves on wednesday
-din [ ] {"entity":" arriveby"} il ġimgħa l ġimgħa l ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħ
+din il ] {"entity":" arriveby"} ġimgħa l ġimgħa l ġimgħa [ l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħa l Ġimgħ
 no how long will the train take
-i would a train im going from birmingham new street
-jitħalla fuq il-kwistjoni tal-Ġugarelli
+i would a train im going from birmingham new [ street ] {"entity": "departure"}
+jitħalla fuq il kwistjoni tal [ Ġugarelli ] {"entity":" day"}
 i need the schedule of the train going to ely
 il ħin tal lif tiegħi huwa [ flessibbli . ] {"entity":" arriveby"}
 i se titbiegħed mill pont tal [ baħar ] {"entity":" departure"}
 iva għandek bżonn biljetti
 għandek tgħinni nippreżenta ferrovija llum.
-to broxbourne
+to [ broxbourne ] {"entity": "destination"}
 tista' biss tikteb [ 5 ] {"entity": "bookpeople"} siġġijiet fuq dik il ferrovija
-i need to catch a train out of cambridge
+i need to catch a train out of [ cambridge ] {"entity": "departure"}
 it like to go to [ stevenage ] {"entity":" destination"}
 i għandek bżonn tħalli fuq persuni eżemplari u tista' tieħu n-numru ta' referenza
 jixtieq isib ferrovija li tħalli l-ekwipaġġ u jekk jogħġbok ara jekk tħallix fuq il-ħofra tal-ekwipaġġ
-nixtieq nitbiegħed mill-ġugarelli
+nixtieq nitbiegħed mill [ ġugarelli ] {"entity": "departure"}
 that train would work well but i really need [ 2 ] {"entity": "bookpeople"} tickets and the reference number please
 għandek tħares lejn biljett ferrovjarju
-it-tneħħija mill-pont
+it tneħħija mill [ pont ] {"entity": "departure"}
 għandek bżonn tirreġistra ferrovija għall-applikanti li jkunu se jitfgħu biljetti fuq żewġ binarji. Jekk jogħġbok, il-biljetti fuq żewġ binarji jistgħu jiksbu numru ta' referenza
 i need a train leaving from [ cambridge ] {"entity":" departure"}
 i se tkun qed tivvjaġġa lejn broxbourne fis-suq
@@ -945,55 +945,55 @@ iva jekk jogħġbok immur fit-toroq il-ġodda ta' birmingham
 li għandek taħdem iva jekk jogħġbok ħu [ 8 ] {"entity": "bookpeople"} biljetti
 it tfittxija ta' ferrovija għall [ pontaġġ ] {"entity":" destination"}
 i would like to leave on [ friday ] {"entity":" day"}
-jien qed inħalli thurtsday f'2 biljetti tal-ivvjaġġar
-fil fatt ] {"entity":" departure"} qatt ma qallek fejn [ kien qed inħalli mill bżonn tal ferrovija biex titbiegħed mill konverżazzjoni tal konverżazzjoni tal konverżazzjoni
+jien qed inħalli thurtsday f'2 biljetti tal [ ivvjaġġar ] {"entity": "leaveat"}
+fil fatt ] {"entity":" departure"} qatt ma qallek fejn kien [ qed inħalli mill bżonn tal ferrovija biex titbiegħed mill konverżazzjoni tal konverżazzjoni tal konverżazzjoni
 iva jekk jogħġbok [ 7 ] {"entity": "bookpeople"} persuni u iva bħan numru ta' referenza jekk jogħġbok
-se jitħallew jitilqu fuq il-konvoj
+se jitħallew jitilqu fuq il [ konvoj ] {"entity": "day"}
 i ser jibda mill-ajruport ta' l-ajruport ta' l-ajru
 i would like to [ go ] {"entity": "bookpeople"} ahead and book the Internazzjonali tal Ferrovija tr7 għal 5 persuni jekk wieħed ikun jista' , jekk jogħġbok , jikseb numru ta' referenza għall ivvjaġġar meta jkun komplut
 tista' tgħin bil-ferroviji.
 nixtieq inħalli ftit ħin wara 13-il ġimgħa jekk jogħġbok
 iva li x xogħlijiet jistgħu jiġbru [ 7 ] {"entity": "bookpeople"} biljetti jekk jogħġbok
 l-ebda ħaġa m'għandek bżonn tkun daqshekk ta' għajnuna.
-se jkun hemm bżonn ukoll li naqbdu ferrovija li se tnaqqas il-veloċità tal-ferroviji li se jpoġġuna fil-pont
-il-mard jitbiegħed mill-ħmieġ tas-silġ
+se jkun hemm bżonn ukoll li naqbdu ferrovija li [ se ] {"entity": "destination"} tnaqqas il veloċità tal ferroviji li se jpoġġuna fil pont
+il mard jitbiegħed mill ħmieġ tas [ silġ ] {"entity": "departure"}
 kif jistgħu jitilqu l istazzjonijiet tal ferrovija ħdejn il [ leicester ] {"entity":" departure"}
-i għandek bżonn ferrovija biex tissorvelja
+i għandek bżonn ferrovija biex [ tissorvelja ] {"entity": "destination"}
 jien qed infittex ferrovija li qed tasal [ f'Ġerusalemm ] {"entity":" destination"}
-m'għandekx tħalli l-pont
+m'għandekx tħalli l [ pont ] {"entity": "departure"}
 iva li tkun multa tista' tieħu biljett
 għandek bżonn [ 7 ] {"entity": "bookpeople"} biljetti
-iħarsu lejn ferrovija li titbiegħed mill-istazzjon tal-ferrovija
-i amgoing to cambridge
+iħarsu lejn ferrovija li titbiegħed mill istazzjon tal [ ferrovija ] {"entity": "departure"}
+i amgoing to [ cambridge ] {"entity": "destination"}
 assigura x'ħin jitbiegħed u kemm jiswa.
 għandek [ bżonn ta' ] {"entity": "destination"} għajnuna oħra ma' jekk jogħġbok iħares lejn l ajruport ikkonċernat permezz tal ferrovija u neħtieġ għajnuna biex jiskopriha .
 i will travel on [ thursday ] {"entity":" day"}
-it tluq mill [ pont tal baħar ] {"entity":" departure"}
-nixtieq inħalli l-pont
-i għandek tħalli wara [ 14 il sena ] {"entity":" leaveat"}
+it tluq mill pont tal [ baħar ] {"entity":" departure"}
+nixtieq inħalli l [ pont ] {"entity": "departure"}
+i għandek tħalli wara 14 il [ sena ] {"entity":" leaveat"}
 iva jekk tista' tirrekordjaha għal [ tliet ] {"entity":" bookpeople"} persuni jekk jogħġbok se jkollok bżonn in numru ta' referenza
 għandek bżonn ferrovija ] {"entity":" leaveat"} li tħalli l ekwipaġġ wara t [ 13 ta' Settembru
 dan se jkun għall ħalib [ tal fwied ] {"entity":" day"}
-jista' jħalli kwalunkwe ħin ] {"entity": "leaveat"} wara 13 il sena li [ tiċċekkja l iskeda għal darb' oħra jekk jogħġbok
+[ jista' ] {"entity": "leaveat"} jħalli kwalunkwe ħin wara 13 il sena li tiċċekkja l iskeda għal darb' oħra jekk jogħġbok
 għandna bżonn insibu jekk hemmx ferrovija li tmur lejn l-ajruport ta' oriġini
 iva se titħalla fuq [ it tuesday ] {"entity":" day"}
 iva għandek bżonnha għal [ 8 ] {"entity": "bookpeople"} persuni
-im also looking for a train arriving in cambridge
-i għandek tħalli fuq il-Ġerusalemm
+im also looking for a train arriving in [ cambridge ] {"entity": "destination"}
+i għandek tħalli fuq il [ Ġerusalemm ] {"entity": "day"}
 it-tħassib taċ-ċittadini
 għandna bżonn ta' ferrovija biex naslu għall-pont
-i want the train same day
-għandna bżonn ukoll ta' ferrovija biex inħallu l-imħuħ
+i want the train same [ day ] {"entity":" day"}
+għandna bżonn ukoll ta' ferrovija biex inħallu l [ imħuħ ] {"entity": "day"}
 iva jekk jogħġbok ikteb li għal [ 8 ] {"entity": "bookpeople"} persuni
-il-ferrovija tiegħi ssib ruħha fit-toroq
-hija fuq il kwistjoni [ tal ġugarelli ] {"entity":" day"}
+il ferrovija tiegħi ssib ruħha fit [ toroq ] {"entity": "destination"}
+hija fuq il kwistjoni tal [ ġugarelli ] {"entity":" day"}
 jekk jogħġbok ikollok in-numru tal-konferma wkoll
-[ nixtieq ] {"entity": "departure"} insib ferrovija li tħalli l pont tal baħar tista' tgħinni
+nixtieq insib ferrovija li tħalli l pont [ tal ] {"entity": "departure"} baħar tista' tgħinni
 għandna bżonn inħallu wara t-twelid
 iva tista' tniżżel biljett [ wieħed ] {"entity":" bookpeople"} għalija u agħti n numru ta' referenza
 i would also like a train that leaves on tuesday
-i ser tkun qed tivvjaġġa minn fuq il-pont
-jeħtieġ li naslu sal aħħar [ tal ħin tat tluq ] {"entity": "arriveby"}
+i ser tkun qed tivvjaġġa minn fuq [ il pont ] {"entity": "departure"}
+jeħtieġ li naslu sal aħħar tal [ ħin ] {"entity": "arriveby"} tat tluq
 [ Ħallimt ] {"entity": "bookpeople"} li taħdem għalija tista' tniżżel dik il ferrovija għal 6 persuni u mbagħad għandi n numru ta' referenza tiegħi
 għandna bżonn ukoll ta' ferrovija biex inħallu l-pont
 iva jekk jogħġbok se jkollok bżonn biljetti għal [ 7 ] {"entity": "bookpeople"} persuni jekk jogħġbok
@@ -1004,7 +1004,7 @@ għandek [ bżonn ] {"entity":" departure"} ukoll informazzjoni dwar il ferrovij
 id-destinazzjoni tiegħi
 għandek tasal sal-20 ta' Settembru jekk jogħġbok
 hemm [ ferrovija li tasal ] {"entity":" arriveby"} eqreb għad data ta' l għeluq ta' 20 sena jekk ma tkunx se tieħu d 9 sena
-dwar it-tieni ħsieb li jkun hemm ferrovija biex jitnaqqas ir-riskju li l-biships jitilqu.
+dwar it tieni ħsieb li jkun hemm ferrovija biex [ jitnaqqas ] {"entity":" destination"} ir riskju li l biships jitilqu .
 i would like to leave on thursday
 Ġurnal Iva għal [ 1 ] {"entity": "bookpeople"}
 hi i amlooking for information on a train
@@ -1015,162 +1015,162 @@ iva li l oħrajn ma [ jeħtiġux 4 ] {"entity": "bookpeople"} siġġijiet
 hi i amtrying to plan a trip and need some help with a train im not familiar with trains at all unfortunately
 għandek bżonn ta' għajnuna
 l im intenzjoni li jitnaqqas il [ piż ] {"entity":" destination"}
-11 Persuni foqra
-it tfittxija ] {"entity":" day"} għal ferrovija biex toħroġ minn ajruport sostanzjat [ fil wied
+11 Persuni [ foqra ] {"entity": "arriveby"}
+[ it ] {"entity":" day"} tfittxija għal ferrovija biex toħroġ minn ajruport sostanzjat fil wied
 iva hemm waħda li tħalli wara [ 11 il sena . ] {"entity":" leaveat"}
-x'inhu l [ ħin tal ivvjaġġar ] {"entity":" leaveat"} fuq dak li jħalli l eqreb lejn il 11: 00
-i want to book a train list all tuesday
-il-punt tat-tluq tiegħi huwa l-għarqub
+x'inhu l ħin [ tal ivvjaġġar ] {"entity":" leaveat"} fuq dak li jħalli l eqreb lejn il 11: 00
+i want to book a train list all [ tuesday ] {"entity": "day"}
+il punt tat tluq tiegħi huwa l [ għarqub ] {"entity": "departure"}
 iva jekk jogħġbok ikteb li għal persuna waħda u agħtih in-numru ta' referenza
-tista' tgħinni nsib ferrovija li tmur għaddejja bl-għaqal biss
-jitħalla mill-pont
+tista' tgħinni nsib ferrovija li tmur għaddejja bl [ għaqal biss ] {"entity": "destination"}
+jitħalla mill [ pont ] {"entity": "departure"}
 effettivament i għandek bżonn [ 3 ] {"entity": "bookpeople"} biljetti jekk jogħġbok ipprovdi numru ta' referenza
 għal aktar informazzjoni dwar il-ferrovija
 intitolata għall-maqtugħ jekk jogħġbok
-għandna bżonn naslu fil-pont sabiex nispiċċaw fil-ħin biex naslu hemm sa dak iż-żmien.
-dak ix-xogħol ta' rebbieħ jeħtieġ li naslu għalih fil-Parlament Ewropew.
+għandna bżonn naslu fil pont [ sabiex nispiċċaw ] {"entity": "destination"} fil ħin biex naslu hemm sa dak iż żmien .
+dak [ ix xogħol ] {"entity": "destination"} ta' rebbieħ jeħtieġ li naslu għalih fil Parlament Ewropew .
 that would be just fine i just need the train id for now i also need a place to stay
 iva nixtieq ukoll insib ferrovija minn fuq il [ baħar ] {"entity":" departure"}
 se nkompli nħalli t-toroq il-ġodda
 nixtieq nasal sa [ 12 il sena wara nofsinhar ] {"entity": "arriveby"} .
-jekk jogħġbok ikteb wieħed għall-istess grupp ta' nies
+jekk jogħġbok ikteb wieħed għall istess grupp ta' [ nies ] {"entity":" bookpeople"}
 yes please i need a train for [ wednesday ] {"entity":" day"}
-i amgoing to cambridge
+i amgoing to [ cambridge ] {"entity": "destination"}
 i għandi bżonn inħalli wara nofsinhar
-l ebda ] {"entity": "leaveat"} ktieb [ tal 11 il ferrovija tal ferrovija tal ferrovija jekk jogħġbok
+l ebda ] {"entity": "leaveat"} ktieb tal 11 il [ ferrovija tal ferrovija tal ferrovija jekk jogħġbok
 i għandhom bżonn ukoll ferrovija li għandha titbiegħed mill-konverżazzjoni tal-konverżazzjoni
-ikun qed jivvjaġġa ħażin fil-wied
+ikun qed jivvjaġġa ħażin fil [ wied ] {"entity": "day"}
 iva tista' tniżżel għal [ 8 ] {"entity": "bookpeople"} persuni
 tista' tgħinni nsib ferrovija biex [ issaħħaħ ] {"entity":" destination"}
-il-ferrovija għandha titlaq wara t-tluq
+il ferrovija għandha titlaq wara t [ tluq ] {"entity":" leaveat"}
 [ bis ] {"entity":" departure"} saħħa ta ħidma immedjata għal ferrovija li tħalli s silġ
 nixtieq immur lejn il-pont
 ikun kapaċijgħini l-kotba tiegħi.
 i would just like to find a train first and get the info i think i have the info i needed
-iva għall ferrovija mit [ triq il ġdida ta' birmingham ] {"entity": "departure"}
-ix-xewqa li wieħed jivvjaġġa fuq it-twieqi tax-xemx
+iva għall ferrovija [ mit triq il ġdida ta' birmingham ] {"entity": "departure"}
+ix xewqa li wieħed jivvjaġġa fuq it twieqi tax [ xemx ] {"entity":" day"}
 iva li tkun [ ta' ] {"entity": "bookpeople"} għajnuna jekk tkun tista' tniżżel fil kotba tiegħek għal 7 persuni jekk ikun hemm bżonn in numru ta' referenza wkoll .
 i amlooking for a train leaving on [ tuesday ] {"entity":" day"}
-im leaving from leicester
-are there any trains leaving out of cambridge
-stevenage
+im leaving from [ leicester ] {"entity": "departure"}
+are there any trains leaving out of [ cambridge ] {"entity": "departure"}
+[ stevenage ] {"entity":" destination"}
 iva jekk jogħġbok biljetti għal [ tlieta ] {"entity":" bookpeople"} jekk jogħġbok
 im looking for a train leaving on friday
-nixtieq nasal sal [ 15 ta' Settembru ] {"entity":" arriveby"}
-nies li ma jkunux qed jivvjaġġaw u nies li jkunu qed jivvjaġġaw
+nixtieq nasal sal 15 ta' [ Settembru ] {"entity":" arriveby"}
+nies li ma jkunux qed jivvjaġġaw u nies li [ jkunu ] {"entity":" departure"} qed jivvjaġġaw
 iva jeħtieġ li nara jekk hemmx ferrovija mit-Triq tal-Fwied
 l-ebda ħaġa m'għandha tħares lejn ferrovija li l-ferrovija għandha tasal għaliha
 għandek issib ferrovija jekk jogħġbok
-( b ) il-paragrafu ( ċ ) tiegħu għandu jiġi sostitwit b'dan li ġej:
+[ b ] {"entity": "destination"} il paragrafu ċ tiegħu għandu jiġi sostitwit b'dan li ġej:
 nixtieq nasal għand il-konvinzjoni tiegħi meta nitilqu
 attwalment għandek bżonn ferrovija
-il-Ġermanja
+il [ Ġermanja ] {"entity": "day"}
 nixtieq ngħid li t [ toroq tal fwied ] {"entity":" destination"} jistgħu jiċċekkjaw il prezz għalija
-i se jkollha bżonn ukoll ferrovija li tħalli l [ pont ] {"entity":" departure"} tal ekwipaġġ
+i se jkollha ] {"entity":" departure"} bżonn ukoll ferrovija li tħalli l [ pont tal ekwipaġġ
 għandna bżonn immorru lejn l-ajruport ta' oriġini
-jekk [ jogħġbok imla l ajruport mill Ġermanja jekk jogħġbok ] {"entity": "arriveby"}
+jekk jogħġbok imla l ajruport mill [ Ġermanja jekk jogħġbok ] {"entity": "arriveby"}
 i also need to book a train
-aħna qed nitilqu mit-toroq il-ġodda ta' birmingham
-nixtieq nivvjaġġa fuq il-ġugarelli jekk jogħġbok
-iva agħżel il ħin tal wasla [ l eqreb ] {"entity": "arriveby"} għal 13 il persuna oħra imbagħad agħtini n numru ta' referenza
-għandek bżonn ta' ferrovija minn fuq il-baħar
-se nivvjaġġa ] {"entity":" leaveat"} fuq u neħtieġ inħalli wara t [ 18 il sena
-jekk jogħġbok [ imla x xemx ] {"entity": "day"}
+aħna qed nitilqu mit toroq il ġodda ta' [ birmingham ] {"entity": "departure"}
+nixtieq nivvjaġġa fuq il ġugarelli [ jekk jogħġbok ] {"entity": "day"}
+iva agħżel il-ħin tal-wasla l-eqreb għal 13-il persuna oħra imbagħad agħtini n-numru ta' referenza
+għandek bżonn ta' ferrovija minn fuq il [ baħar ] {"entity": "departure"}
+se nivvjaġġa fuq u neħtieġ inħalli wara t [ 18 ] {"entity":" leaveat"} il sena
+[ jekk jogħġbok imla x xemx ] {"entity": "day"}
 iva jekk jogħġbok hemm [ sitta ] {"entity":" bookpeople"} minnhom li għandna bżonn fuqha
 i amalso looking for a train to go between ely
-dwar is-Sinjur jekk jogħġbok
+dwar is Sinjur [ jekk jogħġbok ] {"entity":" day"}
 iva jekk jogħġbok ikteb biljetti tal ferrovija għal [ ħames ] {"entity":" bookpeople"} persuni jekk jogħġbok , jista' jkollok in numru ta' referenza tal każinò
 i amalso looking for a train
-i se jitlaq mill-pont tat-tluq
-irridu naslu sal-Ġimgħa
+i se jitlaq mill pont tat [ tluq ] {"entity": "departure"}
+irridu naslu sal [ Ġimgħa ] {"entity": "arriveby"}
 iva jeħtieġ [ 4 ] {"entity": "bookpeople"} biljetti u n numru ta' referenza jekk jogħġbok grazzi
 hi tista' tgħinni fil-pjanijiet tiegħi biex infittex ferrovija
-i se titbiegħed mill-pont tal-baħar
-i would like to arrive in ely could [ you ] {"entity": "destination"} please tell me the price and what the departure time is
-għandna bżonn ukoll nippreżentaw fergħa fuq il-Ġerusalemm
-i għandhom bżonn ukoll ta' pont għat-tluq tal-ferrovija
-l-intestatura għal ġewwa u lanqas għal ġewwa jekk possibbli
+i se titbiegħed mill pont tal [ baħar ] {"entity": "departure"}
+i would like to arrive in ely [ could ] {"entity": "destination"} you please tell me the price and what the departure time is
+għandna bżonn ukoll nippreżentaw fergħa fuq il [ Ġerusalemm ] {"entity": "day"}
+i għandhom bżonn ukoll ta' pont għat tluq tal [ ferrovija ] {"entity": "departure"}
+l intestatura għal ġewwa u lanqas għal [ ġewwa jekk ] {"entity":" destination"} possibbli
 i sure would i need [ 8 ] {"entity": "bookpeople"} seats please
-iħarsu lejn il-ħasil
-bis-saħħa ta' iva, għandek bżonn ukoll ferrovija minn fuq il-ponta jekk jogħġbok
-qatt għandek ħin tħallas il-multa sakemm tasal sa nofsinhar.
+iħarsu lejn il [ ħasil ] {"entity":" destination"}
+bis saħħa [ ta' ] {"entity": "departure"} iva , għandek bżonn ukoll ferrovija minn fuq il ponta jekk jogħġbok
+[ qatt ] {"entity": "arriveby"} għandek ħin tħallas il multa sakemm tasal sa nofsinhar .
 iva , jekk jogħġbok ikteb għal [ 6 ] {"entity": "bookpeople"} persuni
-i need a train on thursday
-m'għandekx tħalli l-pont
+i need a train on [ thursday ] {"entity":" day"}
+m'għandekx tħalli l [ pont ] {"entity": "departure"}
 dak il-qarrej bħala ktieb tar-rebbieħa huwa jekk jogħġbok għal persuna waħda
 jien qed infittex ] {"entity":" destination"} ferrovija bl intenzjoni li ngħollu l [ fwied fit toroq
-fuq it-tubi wkoll
-i amlooking for a train that should depart from cambridge
+fuq it tubi [ wkoll ] {"entity": "day"}
+i amlooking for a train that should depart from [ cambridge ] {"entity": "departure"}
 ivvjaġġar fuq il [ konvoj ] {"entity": "day"}
 ikun qed jivvjaġġa ħażin għal [ stevenage ] {"entity":" destination"}
 iva tista' fil fatt tikteb [ 4 ] {"entity": "bookpeople"} biljetti jekk jogħġbok
 i also need a train on [ tuesday ] {"entity":" day"}
-i se jitlaq mill-pont tat-tluq
+i se jitlaq mill pont tat [ tluq ] {"entity": "departure"}
 jixtieq li l ferrovija titlaq wara l [ 08 ta' Settembru30 ] {"entity": "leaveat"}
 dan għandu jkun perfett jista' jikseb riżervi għal [ 2 ] {"entity":" bookpeople"}
-il-Parlament Ewropew għandu jadotta riżoluzzjoni dwar is-sitwazzjoni fil-Ġeorġja
-jitbiegħed mis-salib tat-tojlits
+[ il ] {"entity": "destination"} Parlament Ewropew għandu jadotta riżoluzzjoni dwar is sitwazzjoni fil Ġeorġja
+jitbiegħed mis salib tat [ tojlits ] {"entity": "departure"}
 im actually looking for a train im leaving from cambridge
 i need to travel to [ ely ] {"entity":" destination"}
-nixtieq nasal sal aħħar għall aħħar [ xi ] {"entity":" arriveby"} ħaġa li tkun ta' ħsara għall ħin tat tluq u l ħin tal ivvjaġġar jekk jogħġbok
-iva 5 ipparkjar ħieles mhuwiex meħtieġ
+nixtieq nasal sal aħħar għall aħħar [ xi ħaġa ] {"entity":" arriveby"} li tkun ta' ħsara għall ħin tat tluq u l ħin tal ivvjaġġar jekk jogħġbok
+iva 5 ipparkjar [ ħieles ] {"entity": "bookpeople"} mhuwiex meħtieġ
 jista' jkollok ukoll ferrovija li titlaq wara 16-il sena
 il-belt tal-wasla ovvjament se tkun magħluqa għal kollox u se tkun ġejja minn duxford
-jista' jkollok kontroll doppju ] {"entity": "departure"} fuq il fatt li l [ ebda prodott mediċinali ma jista' jittieħed mill prodott mediċinali .
+jista' jkollok [ kontroll ] {"entity": "departure"} doppju fuq il fatt li l ebda prodott mediċinali ma jista' jittieħed mill prodott mediċinali .
 iva tista' tikteb għalija jekk jogħġbok
-hi tista' tgħinni nsib ferrovija li tasal sal-wasla tagħha
-i will b departing from cambridge
+hi tista' tgħinni nsib ferrovija li tasal sal wasla [ tagħha ] {"entity": "arriveby"}
+i will b departing from [ cambridge ] {"entity": "departure"}
 iva se jkollha bżonn ta' [ 8 ] {"entity": "bookpeople"} biljetti . se tkun grupp ta' ħaddiema
-i jeħtieġ ukoll ferrovija wara l-ekwipaġġ
+i jeħtieġ ukoll ferrovija wara l [ ekwipaġġ ] {"entity": "leaveat"}
 i would like to go to ely
 għalija tista' tibni [ 5 ] {"entity": "bookpeople"} biljetti għalija
-i għandek bżonn ferrovija biex timxi' l quddiem
+i għandek bżonn ferrovija biex timxi' l [ quddiem ] {"entity": "destination"}
 tista' biss tgħidu meta dak il-persuna jitlaq
 tista' tiġbed l attenzjoni tiegħi għal [ 3 ] {"entity": "bookpeople"} persuni
-iva qed infittex ukoll ferrovija li tħalli wara 11-il sena.
+[ iva qed ] {"entity": "leaveat"} infittex ukoll ferrovija li tħalli wara 11 il sena .
 iva fuq it [ tiġrifa ] {"entity": "day"}
 tista' jekk jogħġbok iktebni għal [ 3 ] {"entity": "bookpeople"} persuni
 ok għandek tikteb għalik
 għandek bżonn ukoll tikteb ferrovija biex tgħin lill passiġġieri [ jaqsmu ] {"entity":" destination"} l ferrovija
-jitbiegħed mit [ Triq tal Qalb tal Fwied ] {"entity": "departure"}
+jitbiegħed mit Triq tal [ Qalb tal Fwied ] {"entity": "departure"}
 jekk jogħġbok immaġina sempliċiment nuqqas fuq il-qarrejja
 liema għażliet għandhom
 i għandhom bżonn ta' ferrovija li titlaq wara t [ tluq ] {"entity": "leaveat"}
 i just need [ one ] {"entity":" bookpeople"} ticket can you tell me what time it arrives
-fil fatt l [ i dont ] {"entity":" day"} għandu bżonn ta' kamra issa iżda għandu bżonn ta' ferrovija ħażina biex ikun jista' jaqla' l ħofra fuq ix xemx .
-ħadd ma seta' jitlaq minn fuq il-pont
-tista' tikteb biljetti għal [ 4 ] {"entity": "bookpeople"} persuni jekk jogħġbok
-great can i get a train leaving after 09 параграф
-i amleaving from stevenage
+fil [ fatt l i dont għandu ] {"entity":" day"} bżonn ta' kamra issa iżda għandu bżonn ta' ferrovija ħażina biex ikun jista' jaqla' l ħofra fuq ix xemx .
+ħadd ma seta' jitlaq minn fuq il [ pont ] {"entity": "departure"}
+tista' tikteb biljetti għal [ 4 persuni ] {"entity": "bookpeople"} jekk jogħġbok
+great can i get a train leaving after 09 [ параграф ] {"entity": "leaveat"}
+i amleaving from [ stevenage ] {"entity": "departure"}
 tista' tagħmel kummerċ għal [ 2 ] {"entity": "bookpeople"} persuni u tagħtih numru ta' referenza jekk jogħġbok
-i għandek bżonn ferrovija għall-ajruport ta' oriġini
+i għandek bżonn ferrovija għall ajruport ta' [ oriġini ] {"entity": "destination"}
 għandek tasal sal [ Ġimgħa ] {"entity":" arriveby"}
 dan ifisser li nixtieq nirringrazzja lil [ 6 ] {"entity": "bookpeople"} persuni jekk jogħġbok
-għandna bżonn ukoll ta' ferrovija li tħalli fuq il-ħaddiema.
-i għandek tħalli [ wara 14 il sena ] {"entity": "leaveat"}
+għandna bżonn ukoll ta' ferrovija li tħalli fuq il [ ħaddiema ] {"entity": "day"} .
+i għandek tħalli wara 14 [ il sena ] {"entity": "leaveat"}
 iva , jekk jogħġbok ikteb [ 3 ] {"entity": "bookpeople"} persuni
 il-ferrovija għandha bżonn ta' ferrovija biex tixtieq jekk jogħġbok
-kif wieħed jasal sal-Ġimgħa l-Kbira
+kif wieħed jasal sal Ġimgħa l [ Kbira ] {"entity": "arriveby"}
 iva li jkollok bżonn biljetti kbar għal [ 8 ] {"entity": "bookpeople"} persuni għandek numru ta' referenza
 i għandek konferenza li jmiss fil-Parlament Ewropew u l-ħtieġa li t-trasport jiġi ċċarat tista' tgħiduli dwar ferrovija biex tieħu l-passiġġieri
-għandek il-marda li tħalli lil dawk li jaqsmu l-fruntieri jkollhom referenza għalihom.
+għandek il marda [ li ] {"entity": "departure"} tħalli lil dawk li jaqsmu l fruntieri jkollhom referenza għalihom .
 Ġabra iva għal [ 3 ] {"entity": "bookpeople"} persuni
 għandek kwalunkwe ferrovija li tħalli barra mill-ajruport ta' oriġini
-jitħalla l-ajruport in teressat għalhekk mhux tard
+jitħalla l ajruport in teressat [ għalhekk ] {"entity": "departure"} mhux tard
 iva jekk jogħġbok agħmel riċetta għal [ 6 ] {"entity": "bookpeople"} persuni
 [ i ] {"entity":" day"} also need a train out to the airport on friday
-il-pont tat-Tluq
+il pont tat [ Tluq ] {"entity": "departure"}
 dan se jaħdem se jkollu bżonn biljetti għal [ 3 ] {"entity": "bookpeople"} persuni
-l-ebda ħaġa li teħtieġ ferrovija li tmur għaddejja biex tgħaddi minn fuq il-baħar
+l ebda ħaġa li [ teħtieġ ] {"entity": "destination"} ferrovija li tmur għaddejja biex tgħaddi minn fuq il baħar
 iva jekk jogħġbok ikteb li għal [ 5 ] {"entity": "bookpeople"} persuni
 i also need a train for [ thursday ] {"entity":" day"}
-ikunu qed jitilqu u lanqas jitilqu
-i għandek bżonn ferrovija biex tasal fil-pont
-il-ferrovija għandha tmur għas-salib tas-sewwieqa tal-ferrovija
+ikunu qed jitilqu u lanqas [ jitilqu ] {"entity":" departure"}
+i għandek bżonn ferrovija biex tasal fil [ pont ] {"entity": "departure"}
+il ferrovija għandha tmur għas salib tas sewwieqa tal [ ferrovija ] {"entity": "destination"}
 għandek bżonn [ 2 ] {"entity": "bookpeople"} biljetti jekk jogħġbok u n numru ta' referenza jista' jgħini b'dak
 kwalunkwe tip ta' ħassieb ikun irqiq miegħi tista' tniżżel tabella għalina fil-ħassieb tiegħek li għandek bżonnha qabel ma nieħdu dik il-ferrovija.
-nixtieq ukoll insibu informazzjoni dwar l-iskeda ferrovjarja mill-anzjani.
-l [ istess ] {"entity":" day"} jum bħall Jiem
+[ nixtieq ] {"entity": "departure"} ukoll insibu informazzjoni dwar l iskeda ferrovjarja mill anzjani .
+[ l istess ] {"entity":" day"} jum bħall Jiem
 jekk jogħġbok imla l [ eqreb ] {"entity":" arriveby"} wieħed għal dak iż żmien jekk jogħġbok
 għandek ħafna ħin biex tirreġistra l-laħam
 no i dont need to book any tickets at this time
@@ -1178,67 +1178,67 @@ tista' tgħinni nsib ferrovija għal broxbourne jekk jogħġbok
 għandek bżonn tkun in broxbourne minn [ żgħażagħ ] {"entity":" arriveby"}
 jekk tħalli l-persuna ta" quddiem u n-numru ta" referenza jekk jogħġbok
 i also need a train going to leicester
-nixtieq li wara nofsinhar [ ma jkun hemm l ebda ] {"entity":" leaveat"} preferenza ta' wasla
+nixtieq li wara nofsinhar ma jkun hemm l [ ebda ] {"entity":" leaveat"} preferenza ta' wasla
 iva , jekk jogħġbok ikteb [ biljett tal ferrovija 1 ] {"entity": "bookpeople"}
-il-Ġermanja għandha bżonn ferrovija għall-Ġermanja u l-Ġermanja
-m'għandekx tħalli l-pont
+il Ġermanja għandha bżonn ferrovija għall Ġermanja u l [ Ġermanja ] {"entity": "destination"}
+m'għandekx tħalli l [ pont ] {"entity": "departure"}
 [ no ] {"entity": "bookpeople"} tr2266 will work could you get me tickets for 5 people and a reference number
-ħarsa lejn il-ħruġ ta' ferrovija wara l-Ġimgħa
-nixtieq ngħaddi t-triq il-ġdida ta' birmingham
+ħarsa lejn il ħruġ ta' ferrovija wara l [ Ġimgħa ] {"entity": "leaveat"}
+nixtieq ngħaddi t triq il ġdida ta' [ birmingham ] {"entity": "destination"}
 iva jekk jogħġbok ikollok bżonn riċetta għal [ 4 ] {"entity": "bookpeople"} persuni u jrid in numru ta' referenza peress li jkun daqshekk ta' għajnuna
 i would like to find a train leaving on [ thursday ] {"entity":" day"}
-i se jitħalla mill-Ġerusalemm
+i se jitħalla mill [ Ġerusalemm ] {"entity":" departure"}
 kwalunkwe ħin wara [ l Ġimgħa ] {"entity": "leaveat"} jkun kbir
-sakemm tħalli wara [ l iva , ] {"entity":" leaveat"}
+sakemm tħalli wara l [ iva , ] {"entity":" leaveat"}
 hemm bżonn ukoll ta' ferrovija għall [ ikel ] {"entity": "day"}
-nixtieq inħalli l-miżerja u nasal għand il-biċċa l-kbira tal-biċċa l-kbira tal-biċċa l-kbira tal-biċċiet
-[ żgur li ħadd ma jista' ] {"entity":" leaveat"} jieħu l ħaġa li tħalli l ħamsa ta' filgħaxija x'inhi l ispiża
+[ nixtieq ] {"entity": "destination"} inħalli l miżerja u nasal għand il biċċa l kbira tal biċċa l kbira tal biċċa l kbira tal biċċiet
+żgur [ li ħadd ma jista' ] {"entity":" leaveat"} jieħu l ħaġa li tħalli l ħamsa ta' filgħaxija x'inhi l ispiża
 i attwalment għandhom bżonn ferrovija
-it-tluq mill-pont tal-baħar
+it tluq mill pont tal [ baħar ] {"entity": "departure"}
 iva għal [ 3 ] {"entity": "bookpeople"} persuni
-can you help me find a train departing from cambridge
-i want to leave on thursday
+can you help me find a train departing from [ cambridge ] {"entity": "departure"}
+i want to leave on [ thursday ] {"entity": "day"}
 l i dont għandu [ żmien speċifiku ] {"entity":" arriveby"} biex jitlaq iżda jrid jasal qabel ma jkun jaf kemm se jkun għaliha .
 i se jkollha bżonn ukoll biljetti tal-ferrovija
 i would like to go to [ cambridge ] {"entity":" destination"}
 jekk jogħġbok [ imla ] {"entity": "departure"} l ħin tat tluq jekk jogħġbok
 din il-ħaġa għandha titħalla fuq il-persuni li jkunu qegħdin ifittxuha.
 għandek tħares ukoll lejn il ferrovija [ tax xemx ] {"entity": "day"}
-jeħtieġ li noqgħod mingħajr saħħa
-il-Ġermanja għandha bżonn ta' ferrovija fuq il-kliewi
+jeħtieġ li noqgħod mingħajr [ saħħa ] {"entity": "departure"}
+il Ġermanja għandha bżonn ta' ferrovija fuq il [ kliewi ] {"entity": "day"}
 jitbiegħed mill-pont u għandu jasal sal-Ġimgħa
 jekk jogħġbok agħmel tajjeb għal [ 3 ] {"entity": "bookpeople"} persuni biex tiżgura li jkollok in numru ta' referenza
 i would like to take a train to cambridge
-jitbiegħed mill intestatura tal ħasil tal fwied tal [ għadma ] {"entity":" destination"} tal għadma tal għadma tal għadma tal għadma tal għadma
+jitbiegħed mill intestatura tal ħasil tal fwied [ tal għadma ] {"entity":" destination"} tal għadma tal għadma tal għadma tal għadma tal għadma
 għandek tasal sal [ Ġimgħa ] {"entity": "arriveby"}
 iva jekk jogħġbok iktebha għal [ 2 ] {"entity": "bookpeople"} biljetti inkluż ukoll in numru ta' referenza
 i għandek bżonn ta' xi informazzjoni dwar it-teħid ta' ferrovija mill-Ġerusalemn
-il-kliewi jridu jitilfu r-rota tal-għajnuna
-[ nixtieq ] {"entity": "departure"} insib ferrovija li tħalli l pont tal baħar tista' tgħinni
+il kliewi jridu jitilfu [ r ] {"entity":" day"} rota tal għajnuna
+nixtieq insib ferrovija li tħalli l pont [ tal ] {"entity": "departure"} baħar tista' tgħinni
 għandna bżonn inħallu wara t-twelid
 iva tista' tniżżel biljett [ wieħed ] {"entity":" bookpeople"} għalija u agħti n numru ta' referenza
 i would also like a train from leicester too
-għandu jasal fil Parlament Ewropew [ fl istess ] {"entity": "destination"} ġurnata li għamel ir riżerva ta' kuljum għal
+għandu jasal fil-Parlament Ewropew fl-istess ġurnata li għamel ir-riżerva ta' kuljum għal
 tista', jekk jogħġbok, tikteb ferrovija biex tgħin fil-pont
-fl-istess jum
-hemm ferrovija li tasal eqreb [ għall eqreb ] {"entity":" arriveby"} għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb g
+fl istess [ jum ] {"entity":" day"}
+hemm ferrovija li [ tasal ] {"entity":" arriveby"} eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb g
 im also looking for a train going to cambridge
-l-Unjoni Ewropea għandha bżonn tgħin biex issib ferrovija li trid tmur għall-istazzjon tat-traffiku
-jixtieq jitbiegħed mill pont wara [ l ikel ] {"entity":" leaveat"}
+l Unjoni Ewropea għandha bżonn [ tgħin ] {"entity": "destination"} biex issib ferrovija li trid tmur għall istazzjon tat traffiku
+jixtieq jitbiegħed mill pont wara l [ ikel ] {"entity":" leaveat"}
 biljetti għal [ 4 ] {"entity": "bookpeople"} persuni jista' jkollhom in numru ta' referenza jekk jogħġbok
-għandek tħares lejn it-tubu.
-ikunu qed jitilqu mill-pont tal-baħar jekk jogħġbok
+għandek tħares lejn it tubu [ . ] {"entity": "day"}
+ikunu qed jitilqu mill pont tal baħar [ jekk jogħġbok ] {"entity":" departure"}
 se jkun hemm [ 6 ] {"entity": "bookpeople"} persuni li jivvjaġġaw
-i għandek bżonn ferrovija mingħajr ekwipaġġ
+i għandek bżonn ferrovija mingħajr [ ekwipaġġ ] {"entity": "departure"}
 i għandek bżonn [ 3 ] {"entity": "bookpeople"} biljetti
 bis-saħħa tiegħi neħtieġu wkoll ferrovija għall-ġemellaġġ tax-xemx
-i għandek tasal fil-pont
+i għandek tasal fil [ pont ] {"entity": "destination"}
 iva jekk jogħġbok għall [ istess grupp ta' nies ] {"entity":" bookpeople"}
 iva għandek bżonn ukoll issib ferrovija jekk jogħġbok
 i għandek titbiegħed mill-ġilda tal-kliewi strevenage
 dan ikun kbir kemm ilha ħafna l-ferrovija għaddejja bil-mod
-i għandek bżonn tħalli mill-pont
-l-ebda ħaġa permezz ta' ferrovija m'għandha bżonn tħalli l-pont tat-trasport
+i għandek bżonn tħalli mill [ pont ] {"entity": "departure"}
+l ebda [ ħaġa ] {"entity": "departure"} permezz ta' ferrovija m'għandha bżonn tħalli l pont tat trasport
 tixtieq tħallas is-silġ jekk jogħġbok
 nixtieq inħalli wara d [ 09 ta' Settembru , tista' ] {"entity":" leaveat"} tniżżel l ewwel wieħed disponibbli wara l ieħor u n numru ta' referenza tiegħi
 il-Ġimgħa l-Ġdida se tkun l-ivvjaġġar
@@ -1247,236 +1247,236 @@ il ferrovija għandha bżonn tasal sal [ Ġimgħa ] {"entity": "arriveby"}
 tista' jekk jogħġbok iċċekkja għal darb' oħra li kien hemm ċerta ferrovija mill-ajruport ta' oriġini
 iva , jekk jogħġbok irreġistrah għal [ 8 ] {"entity": "bookpeople"} persuni u mbagħad agħtih in numru ta' referenza
 im also looking for a train that goes to [ cambridge ] {"entity":" destination"}
-għandek bżonn il-ferrovija biex toħroġ mill-istazzjon tal-ferrovija
+għandek bżonn il ferrovija biex toħroġ mill istazzjon tal [ ferrovija ] {"entity": "departure"}
 iva li l proponent i għandu bżonn riżerva għal [ 7 ] {"entity": "bookpeople"} persuni jista' jkollu n numru ta' referenza tiegħek ukoll permezz tal għajnuna tiegħek
 jippreferi
 i għandhom bżonn ukoll ferrovija minn fuq il [ pont ] {"entity":" departure"}
-iva jekk jogħġbok għandek [ bżonn ukoll taħriġ ] {"entity":" arriveby"} li jeħtieġ li jkun hemm madwar id dinja kollha tista' tħares' il fuq ukoll
-il-Ġermanja
+iva jekk jogħġbok għandek [ bżonn ] {"entity":" arriveby"} ukoll taħriġ li jeħtieġ li jkun hemm madwar id dinja kollha tista' tħares' il fuq ukoll
+il [ Ġermanja ] {"entity":" day"}
 iva tista' tniżżel [ 2 ] {"entity": "bookpeople"} biljetti jekk jogħġbok u tista' wkoll tieħu numru ta' referenza meta tkun mistiedna .
-il-Ġurnal imħallas huwa tabella għal 6
+il Ġurnal imħallas huwa tabella għal [ 6 ] {"entity": "bookpeople"}
 għandek bżonn ukoll in-numru ta' referenza jekk jogħġbok
 i jeħtieġ ukoll ferrovija li tgħaddi għal fuq il [ pont ] {"entity":" destination"}
-ħtieġa ħażina li wieħed jasal għaliha
-għandek bżonn tieħu ferrovija mill-Istazzjon tal-Ferrovija jekk jogħġbok
+ħtieġa ħażina li wieħed jasal [ għaliha ] {"entity":" arriveby"}
+għandek bżonn tieħu ferrovija mill Istazzjon tal Ferrovija [ jekk jogħġbok ] {"entity": "departure"}
 jekk jogħġbok se jkollok bżonn ukoll in-numru ta' referenza bis-saħħa tal-għajnuna tiegħek.
 għandna bżonn ukoll ta' ferrovija [ għat tbaħħir fit toroq ġodda ] {"entity":" destination"}
-friday jekk jogħġbok
+friday jekk [ jogħġbok ] {"entity":" day"}
 iva għal [ wieħed ] {"entity":" bookpeople"} jekk jogħġbok
 ok were you able to book it
 għal [ xi ] {"entity":" bookpeople"} ħadd
 can you help me find a train going to leicester
 i will be leaving on [ thursday ] {"entity":" day"}
 i would like to catch an early train what time does the first train depart
-Ġurnal Iva ġurnata
+Ġurnal [ Iva ] {"entity":" bookpeople"} ġurnata
 [ imħabba ħafna li għandek ] {"entity":" destination"} bżonn informazzjoni dwar ferrovija biex tgħin lit toroq tal fwied
-dwar friday
+dwar [ friday ] {"entity": "day"}
 iva għadu kemm kellu bżonn in-numru tal-ferrovija sabiex tiġi mistiedna
 no that will be it i will book the train later
 għandek bżonn ukoll ta' ferrovija
-nixtieq inħalli [ wara t twelid ] {"entity": "leaveat"}
+nixtieq inħalli wara [ t twelid ] {"entity": "leaveat"}
 i se tkun ] {"entity":" destination"} qed tivvjaġġa lejn it [ toroq il ġodda ta' birmingham
-i se jkollha bżonn tivvjaġġa fuq il-ħin tal-wasla u l-prezz jekk jogħġbok
-can you help me find a train leaving on sunday
-ħass ħażin li jaqa' taħt il-ġilda
+i se jkollha bżonn tivvjaġġa [ fuq ] {"entity": "day"} il ħin tal wasla u l prezz jekk jogħġbok
+can you help me find a train leaving on [ sunday ] {"entity": "day"}
+ħass ħażin li jaqa' taħt il [ ġilda ] {"entity": "destination"}
 il-ħin totali ta' l-ivvjaġġar
 Fil-fatt, ma kienx hemm bżonn li jinstab mod kif wieħed jasal għall-klassifikazzjoni tal-Ġerusalemm i kien qed jaħseb li l-ferrovija tista' tkun irħas
 i għandek tħalli l-pont
 u kemm għandu prezz tal-biljett
-im looking for a train leaving on tuesday
-il-biċċa l-kbira tal-biċċiet tat-tubi
+im looking for a train leaving on [ tuesday ] {"entity": "day"}
+il biċċa l kbira [ tal biċċiet tat ] {"entity": "departure"} tubi
 eċċellenti jekk jogħġbok agħmel riċetta għal [ sitt ] {"entity":" bookpeople"} persuni imbagħad agħtini n numru ta' referenza
-iva għandek bżonn tgħin biex issib fergħa li tixtieq issib waħda mill-anzjani
-nixtieq li jkun hemm...
+iva għandek [ bżonn ] {"entity": "departure"} tgħin biex issib fergħa li tixtieq issib waħda mill anzjani
+nixtieq li jkun hemm . . [ . ] {"entity": "arriveby"}
 l-ebda ħaġa li għandha bżonn ġurnata tajba
 i an also looking for a train the train should depart from leicester
-[ l ] {"entity": "destination"} ebda ħaġa li għandek bżonn ta' ferrovija għall ivvjaġġar ma tista' tgħin ma' dan .
-iva tixtieq tħallas is-silġ
-l-im intenzjoni li jitnaqqas il-piż
+l-ebda ħaġa li għandek bżonn ta' ferrovija għall-ivvjaġġar ma tista' tgħin ma' dan.
+iva tixtieq tħallas is [ silġ ] {"entity": "departure"}
+l im intenzjoni li jitnaqqas il [ piż ] {"entity":" destination"}
 jekk jogħġbok ikteb [ lil 5 ] {"entity": "bookpeople"} persuni
-le grazzi iżda [ nista' ] {"entity":" destination"} nuża xi għajnuna biex insib ferrovija għal fuq il baħar
-jitħalla mill-anqas darba kuljum
+le grazzi [ iżda nista' ] {"entity":" destination"} nuża xi għajnuna biex insib ferrovija għal fuq il baħar
+jitħalla mill anqas [ darba kuljum ] {"entity": "departure"}
 iva jekk jogħġbok ikteb dan
-għandek tikteb biljett tal-ferrovija wieħed għall-ġojjelli tal-vjaġġ bl-ajru bin-numru tal-ferrovija tr3948 jitlaq minn fuq il-biljett tal-vjaġġ u jitlaq minn fuq il-biljett tal-vjaġġ ta' 8 snin.
+għandek tikteb biljett tal ferrovija [ wieħed ] {"entity": "departure"} għall ġojjelli tal vjaġġ bl ajru bin numru tal ferrovija tr3948 jitlaq minn fuq il biljett tal vjaġġ u jitlaq minn fuq il biljett tal vjaġġ ta' 8 snin .
 i also need a train from ely
-jivvjaġġaw ħażin fuq il-kliewi
+jivvjaġġaw ħażin fuq il [ kliewi ] {"entity":" day"}
 iva jekk jogħġbok iktebni għal [ 4 ] {"entity": "bookpeople"} persuni .
-għandek kwalunkwe ferrovija li tħalli wara 09.
-ivvjaġġar minn Triq il-Ġilda tal-Fwied
+għandek kwalunkwe ferrovija li tħalli wara 09 [ . ] {"entity": "leaveat"}
+ivvjaġġar minn Triq il Ġilda tal [ Fwied ] {"entity": "departure"}
 iva għandek bżonn [ 5 ] {"entity": "bookpeople"} biljetti
-i also need a train on wednesday
-iva nixtieq nasal fil-pont jekk jogħġbok
+i also need a train [ on ] {"entity":" day"} wednesday
+iva nixtieq nasal fil pont [ jekk jogħġbok ] {"entity": "destination"}
 mhux qed infittxu wkoll ferrovija minn fuq il [ baħar ] {"entity":" departure"}
-i amgoing to leicester
+i amgoing to [ leicester ] {"entity": "destination"}
 im looking for a train departing from cambridge
 i amattending a seminar in [ ely ] {"entity":" destination"}
 irridu nitilqu wara d [ 9 ta' Settembru ] {"entity":" leaveat"}
 jekk jogħġbok ikollok in-numru ta' referenza
 iva għandek bżonn ukoll ferrovija għal tagħmir [ tax xemx ] {"entity":" day"}
-il-marda ta' l-ilsien u d-dwiefer tibda titqassam
+il marda ta' l ilsien u d dwiefer tibda [ titqassam ] {"entity": "destination"}
 iva jekk jogħġbok ikteb dak għalija
 can you help me find a train leaving thursday
-l-i dont għandhom preferenza iżda għandhom bżonn ikunu inviżibbli
+l i dont għandhom preferenza iżda għandhom bżonn ikunu [ inviżibbli ] {"entity": "destination"}
 għandek bżonn tgħin b'ferrovija minn fuq il-baħar.
 il-ferrovija għandha titlaq wara t-tluq
 iva jekk jogħġbok kull persuna
 i would like to get a train as well
-aħna se nitilqu minn broxbourne
+aħna se nitilqu minn [ broxbourne ] {"entity": "departure"}
 iva jekk ] {"entity": "bookpeople"} jogħġbok agħżel wieħed u ġibdu għal [ 6 persuni foqra għandhom bżonn in numru ta' referenza
 i għandek bżonn ukoll ferrovija biex tgħaqqadhom jekk jogħġbok
-ikunu qed jitilqu minn broxbourne
+ikunu qed jitilqu minn [ broxbourne ] {"entity":" departure"}
 iva li jkun hemm bżonn kbir ta' biljetti għal [ 5 ] {"entity": "bookpeople"} persuni jista' jkollhom in numru ta' referenza jekk jogħġbok
-għandek bżonn tieħu ferrovija' l barra mill-pont ta' fuq il-baħar jekk jogħġbok
-i għandek tivvjaġġa fuq it-tuesday
+għandek bżonn [ tieħu ferrovija' ] {"entity": "departure"} l barra mill pont ta' fuq il baħar jekk jogħġbok
+i għandek tivvjaġġa fuq [ it tuesday ] {"entity": "day"}
 iva għal [ 6 ] {"entity": "bookpeople"} persuni
 iva għandek bżonn ferrovija li tħalli l [ pont ] {"entity":" departure"}
-intestatura għal, jew għal,
+intestatura għal , jew għal [ , ] {"entity": "destination"}
 nixtieq inħalli wara 15 il [ sena ] {"entity": "leaveat"}
 jien qed infittex ukoll ferrovija li l-ferrovija għandha titbiegħed mill-ajruport ta' oriġini
-iva li għandek taħdem tista' tiktebni għal biljett wieħed jekk jogħġbok
-im also looking for a train the train should be on the same day booking
+iva li għandek taħdem tista' tiktebni għal [ biljett ] {"entity": "bookpeople"} wieħed jekk jogħġbok
+im also [ looking for a ] {"entity":" day"} train the train should be on the same day booking
 li jkun kbir
-jiġifieri vjaġġ [ lejn ] {"entity":" destination"} il ħarġa tal ħarġa tal ħarġa tal ħarġa tal ħarġa tal ħarġa tal ħarġa tal ħarġa u li jfittex ferrovija
-it-tħollija fuq it-tubi
+jiġifieri vjaġġ lejn il-ħarġa tal-ħarġa tal-ħarġa tal-ħarġa tal-ħarġa tal-ħarġa tal-ħarġa tal-ħarġa u li jfittex ferrovija
+it tħollija fuq it [ tubi ] {"entity":" day"}
 [ 2 ] {"entity": "bookpeople"} persuni li għandhom bżonn in numru ta' referenza wkoll
 iva jekk jogħġbok ikteb dik il-ferrovija
 għandek tħares ukoll lejn ferrovija li tgħaddi minn fuq il-baħar
-jivvjaġġa ħażin fuq il-kliewi
+jivvjaġġa ħażin fuq il [ kliewi ] {"entity":" day"}
 jien nixtieq infakkar għal [ 4 ] {"entity": "bookpeople"} persuni jekk jogħġbok
-im also looking for information on trains departing from cambridge
+im also looking for information on trains departing from [ cambridge ] {"entity": "departure"}
 nixtieq inħalli wara t-twelid
 le iżda qed infittxu wkoll ferrovija li l-ferrovija għandha tmur għall-pont
 i amleaving on tuesday
 iva għandek bżonn biljett
-im needing a train leaving on wednesday
-from broxbourne
+im needing a train leaving on [ wednesday ] {"entity": "day"}
+from [ broxbourne ] {"entity": "departure"}
 iva jekk jogħġbok se tagħmel riċetta għalija għal [ 2 ] {"entity": "bookpeople"} persuni .
-tista' tieħu xi ftit għajnuna biex issib ferrovija għall-ivvjaġġar
-i se jitħalla mill-pont
-[ kwalunkwe ] {"entity":" arriveby"} ħin fuq il ħruġ ta tali ħaġa
-jekk jogħġbok ikteb biljett [ wieħed ] {"entity":" bookpeople"} .
+tista' tieħu xi ftit għajnuna biex issib ferrovija għall [ ivvjaġġar ] {"entity": "destination"}
+i se jitħalla mill [ pont ] {"entity": "departure"}
+[ kwalunkwe ħin ] {"entity":" arriveby"} fuq il ħruġ ta tali ħaġa
+jekk jogħġbok ikteb [ biljett wieħed ] {"entity":" bookpeople"} .
 grazzi għall-għajnuna tiegħek mal-ferrovija u għall-attrazzjoni, dawk kienu t-tħassib tiegħi b'mod tajjeb
-jistenna li titħalla l-ferrovija wara 16-il sena
+jistenna li titħalla l ferrovija wara 16 [ il ] {"entity": "leaveat"} sena
 nixtieq inħalli fuq il-Ħodor
 tr7804 Ivvjaġġajt għalija [ nnifsi iżda imsejjaħ ukoll ] {"entity":" name"} biex nibqa' fiċ ċineg ta' l ivvjaġġar ta' l ivvjaġġar fejn ikun dak
 i would like info on train travel
-[ il ] {"entity":" day"} ħin tat tluq u l prezz
-il ferrovija għandha tasal [ sal 11 ta' Settembru fuq ] {"entity": "arriveby"} il ġnien ukoll għandhom bżonn postijiet biex imorru fil Lvant tal belt
+il-ħin tat-tluq u l-prezz
+il-ferrovija għandha tasal sal-11 ta' Settembru fuq il-ġnien ukoll għandhom bżonn postijiet biex imorru fil-Lvant tal-belt
 iva jekk jogħġbok iktebni
 [ wieħed ] {"entity":" bookpeople"} biss għall mistoqsija u għall mistoqsija tiegħek
-iva fil-fatt ferrovija tkun kbira jekk ikollha bżonn ferrovija li tkun se timxi' l quddiem
-iva hemm bżonn li noħorġu minn hekk...
+iva fil fatt ferrovija tkun [ kbira ] {"entity":" destination"} jekk ikollha bżonn ferrovija li tkun se timxi' l quddiem
+iva hemm bżonn li noħorġu minn hekk [ . . . ] {"entity": "day"}
 liema drabihuma disponibbli biex jitilqu mit-toroq tal-ħasil tal-fwied
 i need a train to leave from birmingham new street
 iva , [ il pont ] {"entity": "destination"} huwa d destinazzjoni tiegħi
 iva hemm bżonn li naslu sat [ 13 ] {"entity":" arriveby"} ta' Settembru biex naslu sal vjaġġ .
-i would like to find a train first i need one on sunday
+i [ would ] {"entity": "day"} like to find a train first i need one on sunday
 iva li hemm bżonn li noqgħod attent ħafna bil [ Ġermaniż ] {"entity":" leaveat"}
-għandek bżonn taċċelera għal laqgħa [ tan negozju ] {"entity": "destination"} , tista' tagħtina xi informazzjoni dwar il ferrovija
-mill-isqfijiet tal-biċċa
+għandek bżonn taċċelera [ għal laqgħa tan ] {"entity": "destination"} negozju , tista' tagħtina xi informazzjoni dwar il ferrovija
+mill isqfijiet tal [ biċċa ] {"entity": "departure"}
 i amlooking for a train departing [ cambridge ] {"entity":" departure"}
 i għandek bżonn tgħaddi mit-toroq tal-fwied
 l ebda ħaġa għadha ma għandha tintlaħaq sa [ ċertu punt ] {"entity": "arriveby"}
-il-Parlament Ewropew għandu jadotta l-pożizzjoni tiegħu fuq din il-kwistjoni.
-il ħin [ tal ] {"entity":" leaveat"} wasla għandu jkun daqshekk ieħor iżda jrid iħalli wara nofsinhar mhux persuna ta' filgħodu .
+il Parlament [ Ewropew ] {"entity": "day"} għandu jadotta l pożizzjoni tiegħu fuq din il kwistjoni .
+il-ħin tal-wasla għandu jkun daqshekk ieħor iżda jrid iħalli wara nofsinhar mhux persuna ta' filgħodu.
 im looking for a train please
-għandek tmur lura u lanqas tħobb
+għandek tmur lura u lanqas [ tħobb ] {"entity": "destination"}
 i se tkun qed tivvjaġġa fuq [ friday ] {"entity":" day"}
-any time on friday get me [ the ] {"entity":" day"} train id please
+any time on friday get me the train id please
 i need to make a train reservation for friday
 i se titbiegħed mill pont tal [ baħar ] {"entity":" departure"}
-i ser ikun sejjer lejn [ l ajruport ta' l ajruport ] {"entity":" destination"}
+i ser ikun sejjer lejn l [ ajruport ta' l ajruport ] {"entity":" destination"}
 li wasla [ bikrija jkun hemm ] {"entity":" arriveby"} ferrovija aktar tard li tasal qabel il wasla jekk jogħġbok
 iva li tista' taħdem tista' tniżżel għal [ 5 ] {"entity": "bookpeople"} persuni
-iva qed infittex ferrovija li se titħalla wara t-tluq
-il-ferrovija għandha tmur għall-pont
+iva qed infittex ferrovija li se titħalla wara t [ tluq ] {"entity": "leaveat"}
+il ferrovija għandha tmur [ għall pont ] {"entity": "destination"}
 tista' tniżżel dak għal [ 8 ] {"entity": "bookpeople"} persuni jekk jogħġbok
-i amlooking for a train to cambridge
-[ ser ] {"entity": "departure"} titlaq fit triq il ġdida ta' birmingham , tista' tgħinni
-hi qed tfittex li taqbad ferrovija għal ġewwa u lanqas għal ġewwa
+i amlooking for a train to [ cambridge ] {"entity": "destination"}
+ser titlaq fit-triq il-ġdida ta' birmingham, tista' tgħinni
+hi [ qed ] {"entity":" destination"} tfittex li taqbad ferrovija għal ġewwa u lanqas għal ġewwa
 does that train leave on [ friday ] {"entity":" day"}
 [ l ebda preferenza ] {"entity":" arriveby"}
 sure thing id like [ 7 ] {"entity": "bookpeople"} tickets please
-i amlooking for a train from cambridge
+i amlooking for a train [ from cambridge ] {"entity": "departure"}
 i għandhom bżonn ferrovija li titlaq wara l-08 ta' Settembru30
 iva jekk jogħġbok li l-proponent
-[ i amwanting ] {"entity": "destination"} to book a train arriving in stevenage can you help me
-i se tħalli l-pont
+i amwanting to book a train arriving in stevenage [ can ] {"entity": "destination"} you help me
+i se tħalli l [ pont ] {"entity": "departure"}
 i amlooking for a train that will depart on sunday
-jien se naqta' u [ iva , ] {"entity": "destination"} jekk jogħġbok irreġistrah għalija
+jien se naqta' u iva, jekk jogħġbok irreġistrah għalija
 [ 7 ] {"entity": "bookpeople"} jekk jogħġbok
-nixtieq ferrovija minn Triq il-Ġugarelli tal-Fwied
+nixtieq ferrovija minn Triq il Ġugarelli tal [ Fwied ] {"entity": "departure"}
 i want to leave on [ thursday ] {"entity":" day"}
 nixtieq inħaffef kemm se jkun hemm bżonn din l-ispiża
 tista' tgħidli kemm il-biljett huwa
-i għandek bżonn ferrovija biex nieħuni mill-pont tal-ferrovija
+i għandek bżonn ferrovija biex nieħuni mill pont tal [ ferrovija ] {"entity": "departure"}
 l I dont jafu ] {"entity": "arriveby"} li jridu jaslu hemm fit [ 08 ta' Settembru għalkemm
 i se tkun qed tivvjaġġa fuq il [ konvoj ] {"entity":" day"}
 can you book me a seat on the train please
 i need a train going from ely please
 nixtieq inħalli fuq friday
 l-ebda ħin b'mod partikolari jekk jogħġbok irriserva kwalunkwe persuna
-għandek bżonn tħalli l ekwipaġġ tiegħek jista' jdaħħal [ ferrovija ] {"entity": "departure"} għalija .
-jitbiegħed kwalunkwe
+għandek bżonn tħalli l ekwipaġġ [ tiegħek jista' ] {"entity": "departure"} jdaħħal ferrovija għalija .
+jitbiegħed [ kwalunkwe ] {"entity":" leaveat"}
 għandna bżonn inħallu dan il-ġugarelli
-hi tista' ssibni ferrovija għal friday
+hi tista' ssibni ferrovija għal [ friday ] {"entity":" day"}
 nixtieq inħalli wara [ 12 il sena ] {"entity":" leaveat"}
-tixtieq tmur għall [ pont ] {"entity":" destination"} jekk jogħġbok
+tixtieq tmur għall-pont jekk jogħġbok
 iva tista' tniżżel li għal [ 7 ] {"entity": "bookpeople"} persuni u agħtini n numru ta' referenza jekk jogħġbok
 għandek bżonn issib ferrovija biex tgħaġġel jekk jogħġbok
-irridu noħorġu mill-fwar
-iva nixtieq nasal sal-Ġimgħa
-tista' tgħini fil-kotba ta' ferrovija li tixtieq titlaq wara 10 snin
+irridu noħorġu mill [ fwar ] {"entity": "departure"}
+iva nixtieq nasal sal [ Ġimgħa ] {"entity":" arriveby"}
+tista' [ tgħini ] {"entity": "leaveat"} fil kotba ta' ferrovija li tixtieq titlaq wara 10 snin
 id-dħul fl-ajruport ta' oriġini jkun hemm ferrovija għal dak
 għal kemm żmien idum l-istudju
 le iżda wieħed jista' jgħiduli kemm jiswew il-biljetti
 hi tixtieq issib ferrovija minn fuq il-pont
 nixtieq nivvjaġġa fuq il [ ġnien ] {"entity":" day"}
 nixtieq nasal sat [ 13 ta' Settembru ] {"entity":" arriveby"}
-jien qed infittex ferrovija' l barra mill [ Ġerusalem ] {"entity": "departure"} jekk jogħġbok
+jien qed infittex ferrovija' l barra [ mill Ġerusalem ] {"entity": "departure"} jekk jogħġbok
 nixtieq ngħaddi għall [ aħjar ] {"entity":" destination"}
 nixtieq inħalli wara 14-il sena jekk jogħġbok
-i need a train that leaves on wednesday
-ivvjaġġar mill-pont
+i need a train that leaves on [ wednesday ] {"entity": "day"}
+ivvjaġġar mill [ pont ] {"entity": "departure"}
 iva li jkollok bżonn [ 7 ] {"entity": "bookpeople"} biljetti .
 il-passiġġieri jmorru fuq il-ferrovija għall-ewwel darba għal waħda li tħalli wara t-tluq
-nixtieq inħalli l-pont
+nixtieq inħalli l [ pont ] {"entity": "departure"}
 iva bħal [ tliet ] {"entity":" bookpeople"} biljetti jekk jogħġbok
 hi i amlooking for a train can you help me please
 għandna bżonn immorru lura għat toroq il ġodda sal [ Ġimgħa ] {"entity": "arriveby"}
-i amtraveling on sunday
-i għandhom bżonn ferrovija mis-salib ta' l-għads ta' l-għads
-żgur li nixtieq immur fuq il-Ġenerazzjoni tal-Ġenerazzjoni tal-Ġenerazzjoni hekk kif nista' nasal għaliha
+i amtraveling on [ sunday ] {"entity": "day"}
+i [ għandhom ] {"entity": "departure"} bżonn ferrovija mis salib ta' l għads ta' l għads
+żgur li ] {"entity":" day"} nixtieq immur fuq il [ Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni hekk kif nista' nasal għaliha
 għandek [ 7 ] {"entity": "bookpeople"} biljetti jekk jogħġbok
-it-tfittxija għal ferrovija li tasal fit-Tojlit
-i need to leave sunday
+it tfittxija għal ferrovija li tasal fit [ Tojlit ] {"entity":" arriveby"}
+i need to leave [ sunday ] {"entity": "day"}
 iva tista' tieħu biljett għal [ 8 ] {"entity": "bookpeople"} persuni jekk jogħġbok
-can i get a train from cambridge
-dwar is-sitwazzjoni b'hekk
-l-ebda ħaġa m'għandha titbiegħed mill-isqfijiet tal-isqfijiet tal-isqfijiet
+can i get a train from [ cambridge ] {"entity": "departure"}
+dwar is sitwazzjoni [ b'hekk ] {"entity": "day"}
+[ l ] {"entity": "departure"} ebda ħaġa m'għandha titbiegħed mill isqfijiet tal isqfijiet tal isqfijiet
 iva [ li ] {"entity": "bookpeople"} l ferrovija taħdem aħjar għalija tista' tniżżel biljetti għal 7 persuni jekk jogħġbok
-hi għandek bżonn tieħu l inizjattiva mill [ Ġenerazzjoni ] {"entity": "destination"} tal Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni
-bil ħsieb li titħalla friday jekk [ tista' tniżżel ] {"entity": "day"} miegħi riżerva għal dak il perjodu ta' żmien li jkun kbir
+hi għandek bżonn tieħu l inizjattiva [ mill Ġenerazzjoni ] {"entity": "destination"} tal Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni tal Ġenerazzjoni
+bil ħsieb li titħalla friday [ jekk ] {"entity": "day"} tista' tniżżel miegħi riżerva għal dak il perjodu ta' żmien li jkun kbir
 i għandek [ 2 ] {"entity": "bookpeople"}
-tista' tgħinni biex insib ferrovija li tkun qed titlaq minn fuq l-ivvjaġġar
+tista' tgħinni [ biex ] {"entity":" departure"} insib ferrovija li tkun qed titlaq minn fuq l ivvjaġġar
 għandna bżonn immorru lejn [ triq ġdida għat trobbija tal annimali ] {"entity":" destination"}
-i would like to leave on sunday
-il-Ġimgħa l-oħra l-Ġimgħa d-dieħla
+i would like to leave on [ sunday ] {"entity": "day"}
+il Ġimgħa l oħra l Ġimgħa d [ dieħla ] {"entity": "day"}
 nixtieq inħalli wara t [ twelid ] {"entity":" leaveat"}
 i amleaving from broxbourne people
-i need a train that will be in cambridge
-i ser jivvjaġġa fuq il parti [ tal kliewi ] {"entity":" day"}
+i need a train that will be in [ cambridge ] {"entity": "destination"}
+i ser jivvjaġġa fuq il parti tal [ kliewi ] {"entity":" day"}
 it-tħollija barra mis-salib ta' l-ispiżeriji
 l ebda ħaġa m'hemm bżonn li naslu sal [ Ġimgħa ] {"entity":" arriveby"}
 tista" tieħu biljett għal persuna waħda u n-numru ta" referenza jekk jogħġbok
 hi tista' tgħidli x'inhuma l-ferroviji disponibbli fuq friday
-im going from stevenage
+im going from [ stevenage ] {"entity": "departure"}
 iva nixtieq nippreżentaha għal [ 8 ] {"entity": "bookpeople"} persuni u se jkolli bżonn in numru ta' referenza
-hi tfittex ferrovija li titlaq mill-ajruport ta' oriġini
+hi tfittex ferrovija li titlaq mill ajruport ta' [ oriġini ] {"entity":" departure"}
 i need to leave on [ thursday ] {"entity":" day"}
-[ iva ] {"entity":" destination"} nixtieq inħaffef lin nies u nsemmi n numru ta' referenza
+iva nixtieq inħaffef lin nies u [ nsemmi ] {"entity":" destination"} n numru ta' referenza
 iva li jista' jkollok [ 7 ] {"entity": "bookpeople"} biljetti jekk jogħġbok
-i amlooking for a train that departs cambridge
-l intestatura għall [ persuni ta' ] {"entity":" destination"} l ajruport ikkonċernati u jistgħu , jekk jogħġbok , jiksbu numru ta' referenza
-id like a train from cambridge please
-iva nixtieq inħalli fuq il-ħofra tax-xemx
+i amlooking for a train that departs [ cambridge ] {"entity": "departure"}
+l-intestatura għall-persuni ta' l-ajruport ikkonċernati u jistgħu, jekk jogħġbok, jiksbu numru ta' referenza
+id like a train from [ cambridge ] {"entity": "departure"} please
+iva nixtieq inħalli fuq il ħofra tax [ xemx ] {"entity": "day"}

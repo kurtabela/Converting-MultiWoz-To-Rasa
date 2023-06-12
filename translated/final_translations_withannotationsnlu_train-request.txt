@@ -2,24 +2,24 @@ real quickly what is the travel time
 x'kien il-prezz tal-biljett tal-ferrovija
 [ iva ] {"entity": "bookpeople"} , jekk jogħġbok , għandek bżonn il kworum għal 8 persuni u jixtieq numru ta' referenza
 x'inhi l-firxa ta" prezzijiet ta" dawn iż-żewġ ristoranti
-per eżempju, il-ferrovija li titlaq mill-ajruport ikkonċernat tista' tkun taf il-prezz ta' kwalunkwe ferrovija.
+[ per ] {"entity": "departure"} eżempju , il ferrovija li titlaq mill ajruport ikkonċernat tista' tkun taf il prezz ta' kwalunkwe ferrovija .
 assigura u tista' tikkonferma l-prezz għall-15-il triljun9680
 naħseb li l-ħin tal-ivvjaġġar huwa daqshekk kbir u tista' tgħidu.
 iva li x-xogħlijiet jixtiequ n-numru ta" referenza jekk jogħġbok
 fil-fatt għandek bżonn ta' kwalunkwe biljetti llum iżda tista' tgħidli l-ħin tal-ivvjaġġar għal dik il-ferrovija
 iva jekk jogħġbok ukoll għal [ 5 ] {"entity": "bookpeople"} persuni u iva bħal numru ta' referenza jekk jogħġbok
 i think that will work what is the departure time of that train
-iva, jekk jogħġbok, tista' tieħu d-direzzjoni tal-ferrovija tiegħi im ukoll trid tieħu ħsieb għal ħaġa li sservi l-firxa tal-prezzijiet tal-ġugarelli
+iva , jekk [ jogħġbok , tista' tieħu ] {"entity": "food"} d direzzjoni tal ferrovija tiegħi im ukoll trid tieħu ħsieb għal ħaġa li sservi l firxa tal prezzijiet tal ġugarelli
 tista' jekk jogħġbok tgħidli l-prezz ta' dik il-ferrovija
 [ assigura ] {"entity": "bookpeople"} li l oġġett tal bejgħ i se jkollu bżonn 4 biljetti jekk jogħġbok u n numru ta' referenza
-nixtieq insib ikel moderat
+nixtieq insib ikel [ moderat ] {"entity":" pricerange"}
 jista' jkolli d-dipartiment tal-ferrovija u l-prezz tat-tluq tas-7 ta' Settembru
 għalhekk tista' tirdoppja l-fatt li t-taħriġ fid-djar u fil-prezzijiet iħarsu lejni.
 i just need the departure time confirmed and thats all i shouldnt need it booked
 can i [ have ] {"entity":" arriveby"} the train id travel time and the departure time of the train that will get me there closest to 19talon
 iva jekk jogħġbok i tixtieq [ 2 ] {"entity": "bookpeople"} biljetti fuq dik il ferrovija u i se jkollha bżonn in numru ta' referenza
 i need to ] {"entity":" bookpeople"} make a reservation for the [ same group of people may i also have the reference number
-iva jixtieq xi ħaġa fil [ medda tal prezzijiet għalja ] {"entity": "pricerange"} jekk jogħġbok
+iva jixtieq xi ħaġa fil [ medda tal prezzijiet ] {"entity": "pricerange"} għalja jekk jogħġbok
 i think ill go with whichever one is latest can i have the price and departure time for that train please
 jekk jogħġbok agħtini l-prezz
 can i get the train id please
@@ -28,7 +28,7 @@ ok great could you just confirm that departure time
 il [ medda moderata ] {"entity": "pricerange"} tal prezzijiet tkun l aħjar
 could you give me the price for this train please
 l-ebda ħaġa li tħares lejn l-informazzjoni ma tista' tagħtina l-prezz tal-biljett.
-iva għal [ 7 ] {"entity": "bookpeople"} persuni jekk jogħġbok i għandek bżonn in numru ta' referenza
+iva għal [ 7 persuni ] {"entity": "bookpeople"} jekk jogħġbok i għandek bżonn in numru ta' referenza
 [ iva ] {"entity": "bookpeople"} , jekk jogħġbok , tista' tagħmel ir riżerva għal 7 persuni u mbagħad tibgħatli n numru ta' referenza
 iva jekk jogħġbok għall [ istess numru ta' nies ] {"entity":" bookpeople"} tista' wkoll tieħu n numru ta' referenza
 dak il-qarrej bħal qarrej tajjeb jista" jkollu n-numru ta" referenza
@@ -38,7 +38,7 @@ iva tista' tagħtina l-ħin tal-ivvjaġġar
 [ 5 ] {"entity": "bookpeople"} biljetti jistgħu jekk jogħġbok ipprovdi wkoll in numru ta' referenza
 iva li jista' jkollok bżonn il-prezz ferrovjarju u tal-biljett jekk jogħġbok
 i would like to book [ 4 ] {"entity":" bookpeople"} can you tell me the price for each ticket before i book them
-jien fil-fatt nixtieq infakkar 5 triljun
+jien fil fatt nixtieq infakkar 5 [ triljun ] {"entity": "bookpeople"}
 kif għandek tħares lejn it-8 persuni u tipprovdilu n-numru ta' referenza
 iva , il ħin tal [ wasla 20 ] {"entity": "arriveby"} sena għandu jaħdem
 għal [ tmien ġeneri ] {"entity":" bookpeople"} u jekk jogħġbok inkludi n numru ta referenza tiegħi
@@ -47,7 +47,7 @@ i għandek bżonn biljett [ wieħed ] {"entity":" bookpeople"} u jista' jkollok 
 iva, jekk jogħġbok, tista' tagħtih il-ħin totali ta' l-ivvjaġġar u tħarreġ id għar-rekords tiegħi
 x'inhu l-ħin tat-tluq tiegħi
 dak għandu jaħdem dak li huwa l-ħin tal-ivvjaġġar fuq dak
-assigura li tixtieq tikteb ] {"entity": "bookpeople"} il biljetti għal [ 6 persuni u l persuni foqra għandhom bżonn numru ta' referenza għall biljett
+assigura li tixtieq tikteb il biljetti għal [ 6 ] {"entity": "bookpeople"} persuni u l persuni foqra għandhom bżonn numru ta' referenza għall biljett
 i just need the departure time and train id plase
 qabel il-kiri, jixtieq ukoll ikun jaf il-prezz tal-vjaġġ u l-ħin tat-tluq jekk jogħġbok
 x'inhu l-prezz
@@ -62,7 +62,7 @@ il ħin li l ferrovija tieħu biex tasal għall [ ekwipaġġ ] {"entity":" desti
 what time does the train arrive
 i għandek bżonn il-ħin tal-ivvjaġġar u l-prezz jekk jogħġbok
 jista' jikseb informazzjoni dwar il-prezz u l-fergħat jekk jogħġbok
-jekk jogħġbok agħtini [ l ferrovija id ] {"entity":" arriveby"} tal ferrovija li tasal l eqreb għal 17 il i dont care dwar il ħin tat tluq
+jekk jogħġbok agħtini l ferrovija [ id ] {"entity":" arriveby"} tal ferrovija li tasal l eqreb għal 17 il i dont care dwar il ħin tat tluq
 [ iva ] {"entity": "bookpeople"} , tixtieq tasal għand 7 ħaddiema jekk jogħġbok għal 8 persuni li għandhom bżonn in numru ta' referenza
 naħseb li se taħdem qabel ma tikteb biljett għalkemm tista' tagħtini l-ħin tal-ivvjaġġar
 għandek kull ħaġa li għandek bżonn.
@@ -72,21 +72,21 @@ għandek daqshekk ħin biex tivvjaġġa 79 minuta.
 i għandek bżonn il-ħin tal-vjaġġ jekk jogħġbok
 iva jekk jogħġbok agħmel ir riżerva għal [ 6 ] {"entity": "bookpeople"} persuni u ibgħatli n numru ta' referenza
 l ebda pass' il quddiem u l [ ebda ] {"entity":" pricerange"} ktieb aktar tard ma nħarsu lejn kamra li tkun moderata bi prezz baxx .
-huma kwalunkwe wieħed ] {"entity": "pricerange"} minn dawn il każijiet fil [ medda tal prezzijiet għalja
+huma kwalunkwe wieħed minn dawn il każijiet fil [ medda tal ] {"entity": "pricerange"} prezzijiet għalja
 tista' jekk jogħġbok tgħidli l-ħin tal-ivvjaġġar u tikkonferma li l-ispiża hija ta' 1320.
 iva li taħdem tista' tniżżel fil kotba għal [ żewġ ] {"entity":" bookpeople"} persuni li jkollhom bżonn ukoll in numru ta' referenza jekk jogħġbok
 what is the train id
 fil-fatt iddeċidejt li ma tniżżilx fil-kotba, madankollu, x'inhu l-ħin tal-ivvjaġġar għal dik ir-rotta
 could you book [ 2 ] {"entity": "bookpeople"} tickets on that train please also what is the reference number
-[ jekk jogħġbok ] {"entity":" arriveby"} i se jkollok bżonn il prezz u l fergħa id
+jekk jogħġbok i se jkollok bżonn il-prezz u l-fergħa id
 iva jekk jogħġbok jeħtieġ firxa ta" prezzijiet u numru tat-telefon
 iva, agħżel li nipprova niddeċiedi ħaġa ġdida u mbagħad agħtini l-firxa tal-prezzijiet tal-ġenotip u n-numru tat-telefown, tant kiesaħ
 mhux tajjeb issa iżda tista' tgħidli l-ħin tal-ivvjaġġar għal din il-ferrovija
 waħda bi prezz moderat hija multa jekk jogħġbok agħti n-numru tat-telefon u ż-żona tal-kodiċi postali
 iva jekk jogħġbok, jista' jkollok in-numru ta' referenza
-nixtieq infakkar lil 19 il persuna oħra li [ se ] {"entity": "leaveat"} jkollhom bżonn in numru ta' referenza jekk jogħġbok
-iva għandek tħalli wara l 20 ta' [ Settembru ] {"entity": "leaveat"} u mhux wara t tlugħ mix xemx jekk jogħġbok agħtini ħin ta' vjaġġar bi prezz u ħin ta' wasla għal kwalunkwe ferrovija
-iva jekk jogħġbok, x'inhu l-ħin tal-ivvjaġġar, għandek bżonn ukoll ta' firxa wiesgħa ta' prezzijiet, tista' tgħini b'dan ukoll.
+nixtieq infakkar lil 19-il persuna oħra li se jkollhom bżonn in-numru ta' referenza jekk jogħġbok
+iva għandek [ tħalli ] {"entity": "leaveat"} wara l 20 ta' Settembru u mhux wara t tlugħ mix xemx jekk jogħġbok agħtini ħin ta' vjaġġar bi prezz u ħin ta' wasla għal kwalunkwe ferrovija
+iva jekk jogħġbok , x'inhu [ l ] {"entity": "type"} ħin tal ivvjaġġar , għandek bżonn ukoll ta' firxa wiesgħa ta' prezzijiet , tista' tgħini b'dan ukoll .
 no thats alright could i have the train id and travel time however
 assigura kemm huwa twil il-ħin tal-ivvjaġġar jekk jogħġbok
 le fuq il-vawċer x'inhu l-apparat ferrovjarju għal dak il-vawċer u kemm huwa twil il-ħin tal-ivvjaġġar
@@ -97,34 +97,34 @@ ma nixtieqx nirringrazzja lil xi ħadd li jrid ikun jaf x'inhu l-ħin tal-ivvja�
 l-Ewropa għandha bżonn ta' iktar ikel fin-Nofsinhar
 tista' tgħidli l-prezz tal-biljett jekk jogħġbok
 x'inhu l-ħin eżatt tal-ivvjaġġar fuq il-tr5435
-jien qed inħalli l pont tal passiġġieri [ , ] {"entity": "departure"} jekk jogħġbok , tgħidli l ħin tal ivvjaġġar fuq dak il passiġġier
+jien qed inħalli l pont tal [ passiġġieri ] {"entity": "departure"} , jekk jogħġbok , tgħidli l ħin tal ivvjaġġar fuq dak il passiġġier
 sakemm tasal sal [ 10 ta' Settembru , i ] {"entity":" arriveby"} se jkollha bżonn ukoll l id ferrovjarja u l prezz
 just 1 ticket and i need the train id and total fees
 jixtieq li għall [ friday ] {"entity":" day"} jekk jogħġbok ipprovdi wkoll numru ta' referenza
 could i have the departure time for that particular train please
 that works [ same group of people ] {"entity":" bookpeople"} i need the reference number
 iva jekk jogħġbok ikteb [ 8 ] {"entity": "bookpeople"} biljetti u pprovdi n numru ta' referenza
-ħtieġa ta' riċetta li tkun moderata
+ħtieġa ta' riċetta li tkun [ moderata ] {"entity": "pricerange"}
 iva li se taħdem x'inhu l-prezz tal-biljett
-jista' jkollok il-ħin tal-ivvjaġġar u tat-tluq għal dak li jkun qed ifittex ukoll chinese
+jista' jkollok il ħin tal ivvjaġġar [ u ] {"entity": "food"} tat tluq għal dak li jkun qed ifittex ukoll chinese
 the booking is for [ 8 ] {"entity": "bookpeople"} people if the train can accommodate that number of people please book the train and provide a reference number
 iva jeħtieġ biss numru ta' referenza
 tista' tieħu l-ħin tat-tluq u l-prezz tar-riżerva tiegħi tal-ferrovija tista' wkoll tipprova tniżżel l-iskeda tiegħi għall-ekwipaġġ.
-iva l [ medda tal prezzijiet għalja ] {"entity": "pricerange"} jekk jogħġbok
+iva l [ medda tal ] {"entity": "pricerange"} prezzijiet għalja jekk jogħġbok
 iva jekk jogħġbok agħmel riżerva għal [ 6 persuni foqra ] {"entity": "bookpeople"} li għandhom bżonn in numru ta' referenza
 x'inhu l-ħin tal-ivvjaġġar
-kwalunkwe
+[ kwalunkwe ] {"entity":" pricerange"}
 l ebda [ ħin speċifiku , sakemm ] {"entity":" arriveby"} il wasla tkun sa 18 il sena , jekk jogħġbok agħtini l għażliet tal prezzijiet .
 ħu l ewwel waħda fil [ 15 ta' Settembru meta ] {"entity":" leaveat"} tasal
 iva, x'inhu n-numru ta" referenza għall-biljetti jekk jogħġbok
 iva jekk jogħġbok agħmel riżerva u agħtih in-numru ta' referenza
-iva jekk jogħġbok għall [ istess ammontta nies ] {"entity":" bookpeople"} li għandek bżonn in numru ta referenza wkoll
+iva jekk jogħġbok għall [ istess ammontta nies li ] {"entity":" bookpeople"} għandek bżonn in numru ta referenza wkoll
 iva li jkun kbir x'inhu l-ħin totali tal-ivvjaġġar
 bħalissa għadu ma kellux bżonn il-ħin tal-ivvjaġġar
 iva jekk jogħġbok ikteb li għal 6 persuni u għandek bżonn in-numru ta' referenza
 nixtieq inniżżel is-7 ta' filgħaxija jekk jogħġbok agħtini wkoll il-ferrovija id u se nkun viċin il-ġugarelli
 tista' tieħu l-ħin tal-ivvjaġġar u tat-tluq tal-prezz ta' dak li jasal fit-18-il jum
-mhux f'dan iż żmien [ iżda ] {"entity": "food"} jien qed infittex ukoll firxa wiesgħa ta' prezzijiet tista' tgħin ma' dak
+[ mhux ] {"entity": "food"} f'dan iż żmien iżda jien qed infittex ukoll firxa wiesgħa ta' prezzijiet tista' tgħin ma' dak
 iva jekk jogħġbok ikteb li għal [ 8 ] {"entity": "bookpeople"} persuni u għandek bżonn ukoll in numru ta' referenza
 nixtieq li l-aħħar ħruġ tal-ferrovija jasal għand id-9 ta' Settembru jekk jogħġbok, jekk jogħġbok, ħin tat-tluq u ħin tal-ivvjaġġar
 can you tell me what time that train leaves
@@ -141,7 +141,7 @@ ma għandekx għalfejn tirreġistraha iżda tista' tgħidli l-prezz
 pick the [ closest ] {"entity": "bookpeople"} one to the arrival time i need it for 3 people and i need the reference number
 le iżda jekk tista' tagħtina l-ħin tal-ivvjaġġar bil-prezz u d ferrovjarju li jkun kbir
 il-persuna tista' tniżżel li l-ferrovija għal żewġ persuni ladarba tkun ġejt reġistrat tista' tibgħatli n-numru ta' referenza jekk jogħġbok
-[ i ] {"entity": "destination"} would like to arrive in broxbourne i will need a departure time too please
+i would like to arrive in broxbourne i will need a departure time too please
 i dont trid tikteb id-drittissa iżda tista' tieħu l-prezz tal-biljett u l-ħin tat-tluq fuq tr2969
 what is the train departure time
 l I dont għandhom preferenza fir [ rigward ] {"entity":" arriveby"} tal ħin tat tluq iżda għandhom bżonn jaslu sal Ġimgħa
@@ -156,7 +156,7 @@ im not sure yet for now can i just get the train id travel time and departure ti
 il ħinijiet [ tal wasla ] {"entity":" name"} huma wkoll li wieħed ifittex informazzjoni dwar il knisja kollha li wieħed jista' jgħid dwarha .
 jekk jogħġbok irreġistra għal [ 8 ] {"entity": "bookpeople"} persuni u agħti n numru ta' referenza
 im not sure if i need to book just yet can you tell me the travel time for this please
-il ħin tal wasla [ Il ħin tal wasla Il ħin ] {"entity":" arriveby"} tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla
+il ħin tal wasla [ Il ħin tal wasla Il ] {"entity":" arriveby"} ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla Il ħin tal wasla
 liema ħin tasal dik il-ferrovija
 jekk jogħġbok għidli l-ħin tal-wasla
 nixtieq nirringrazzja lil [ 7 ] {"entity": "bookpeople"} persuni u għandek bżonn ukoll in numru ta' referenza biex nirreġistra kamra li tkun għalja
@@ -164,7 +164,7 @@ il-ħin tal-wasla fuq dik il-ferrovija jekk jogħġbok
 x'inhu l-ħin tat-tluq u tal-ivvjaġġar
 can you give me the price of a ticket
 għandna bżonn ukoll insibu post biex nibqgħu li [ l ] {"entity": "pricerange"} ġugarelli għandhom bżonn ta' parkeġġ ħieles u jinsabu f'limiti baxxi ta' prezzijiet .
-irħas
+[ irħas ] {"entity": "pricerange"}
 l-ebda ħaġa li tista' tagħtini l-ħin tat-tluq tiegħu
 i għandhom bżonn il-ħin tal-ivvjaġġar għal dak
 jekk jogħġbok ikteb li għal [ 4 ] {"entity": "bookpeople"} persuni jista' jkollok in numru ta' referenza jekk jogħġbok
@@ -184,7 +184,7 @@ i need the departure time for that train
 għandek [ bżonn ] {"entity":" arriveby"} ta' prezz u żgur li tasal sal Ġimgħa l Kbira
 l-ebda ħtieġa li wieħed jirreġistra għalija ma teżisti firxa ta' prezzijiet ta' 3
 il-prezzijiet jistgħu jingħataw lilek ukoll permezz ta'
-dwar it tieni ħsieb ġdid bħal [ bini ] {"entity":" pricerange"} tal kejtering bi prezzijiet moderati
+dwar it tieni ħsieb ġdid bħal [ bini tal ] {"entity":" pricerange"} kejtering bi prezzijiet moderati
 iva jekk jogħġbok għal persuna waħda tista' tieħu prezz
 [ l ebda preferenza ] {"entity":" name"} ma tista taħrab waħda u tieħu l pożizzjoni u l firxa tal prezzijiet jekk jogħġbok
 għandek bżonn il-prezz
@@ -196,11 +196,11 @@ dan għandu jkun il-ħin tal-ivvjaġġar
 tista" tieħu l-prezz għal biljett l-ewwel
 jixtieq l-ewwel ikun jaf x'inhuma l-firxa ta' prezzijiet u t-tip ta' vawċer li jissejħu?
 iva se jkollok bżonn siġġijiet għal [ 5 ] {"entity": "bookpeople"} persuni jekk jogħġbok ipprovdilu numru ta' referenza li jissejjaħ għall għajnuna tiegħek .
-iva jekk jogħġbok ikteb il-ferrovija għal persuna waħda u pprovdi n-numru ta' referenza
+iva jekk jogħġbok ikteb il ferrovija għal [ persuna ] {"entity": "bookpeople"} waħda u pprovdi n numru ta' referenza
 l-arranġamenti għat-trasport li għadhom kbar u għalhekk m'hemmx bżonn li wieħed jirreġistra kemm huwa twil il-ħin tal-ivvjaġġar
 tista' tagħtini l-prezz tal-biljett jekk jogħġbok
 could you give me the travel time and price of that train please
-jixtieq xi ħaġa fil-prezz baxx
+jixtieq xi ħaġa fil prezz [ baxx ] {"entity": "area"}
 iva, jekk jogħġbok, għandek bżonn ukoll il-prezz tal-ġugarelli u l-ħin tal-ivvjaġġar bis-saħħa
 kemm il-ħin tal-ivvjaġġar huwa involut f'din il-ferrovija għandu bżonn ukoll ta' firxa ta' vvjaġġar
 i għandek bżonn il-ħin tal-ivvjaġġar eżatt jekk jogħġbok
@@ -238,9 +238,9 @@ iva , jekk jogħġbok [ iktebni għal 3 ] {"entity": "bookpeople"} persuni u ħa
 nixtieq nasal sal [ aħħar mill aħħar ] {"entity":" arriveby"} biex nasal għall prezz jekk jogħġbok
 i għandek bżonn ta' ħin ta' vjaġġar wieħed ta' tluq u għandek bżonn ukoll ta' kulleġġ fil-Punent i għandek bżonn in-numru tat-telefon u l-kodiċi postali tiegħu
 il-ferrovija għandha tasal għand 11-il persuna u għandi n-numru ta' referenza tiegħi
-għandek tħalli l elju u [ għandek ] {"entity": "departure"} tkun taf kemm idum il ħin tal wasla u l ħin speċifiku tal wasla jekk jogħġbok
+għandek tħalli l elju [ u ] {"entity": "departure"} għandek tkun taf kemm idum il ħin tal wasla u l ħin speċifiku tal wasla jekk jogħġbok
 no i would just like to know how much the tickets are and how long the trip lasts
-i amalso looking for a train i want [ to ] {"entity": "departure"} depart cambridge could i get departure time price and travel time please
+i amalso looking for a train i want to depart cambridge could i get departure time price and travel time please
 il-ħin u l-prezz tal-ivvjaġġar totali
 iva jekk jogħġbok se jkollok bżonn in-numru ta' referenza
 iva jekk jogħġbok ikteb dan għal [ żewġ ] {"entity":" bookpeople"} persuni li għandhom bżonn in numru ta' referenza wkoll
@@ -253,7 +253,7 @@ jekk jogħġbok ikteb dan u għandek bżonn numru ta' referenza jekk jogħġbok
 jista' jkollok il-ħin tal-ivvjaġġar u l-prezz jekk jogħġbok
 dak li jkun il-medda ta' prezzijiet għal dak
 iva , jekk jogħġbok agħmel riċetta għal [ 4 ] {"entity": "bookpeople"} persuni u ibgħatli kopja tan numru ta' referenza
-iva jekk jogħġbok u jekk jogħġbok ibgħat in [ numru ] {"entity": "type"} ta' referenza li qiegħed ifittex ukoll kulleġġ biex iżur tista' jekk jogħġbok issib wieħed għalija .
+iva jekk jogħġbok u jekk [ jogħġbok ] {"entity": "type"} ibgħat in numru ta' referenza li qiegħed ifittex ukoll kulleġġ biex iżur tista' jekk jogħġbok issib wieħed għalija .
 iva , jekk jogħġbok , għandek bżonn riċetta għal [ 8 ] {"entity": "bookpeople"} persuni u għandek bżonn numru ta' referenza għar riċetta
 iva li taħdem ħafna x'inhu l-prezz għal kull biljett għal dik il-ferrovija
 iva għandek bżonn [ 8 ] {"entity": "bookpeople"} biljetti jekk jogħġbok ibgħat ir ref le meta għandek
@@ -263,9 +263,9 @@ x'inhu l-ħin tal-ivvjaġġar
 nixtieq nasal sal [ 20 ta' Settembru kull meta jkun ] {"entity": "arriveby"} hemm bżonn li nħallu l ħin .
 jekk jogħġbok ikteb il-ħin tat-tluq u l-ħin tal-ivvjaġġar jekk jogħġbok
 x'inhu l-ħin tal-ivvjaġġar u l-prezz
-kif tista' tgħid xi ħaġa fil firxa [ tal prezzijiet għalja ] {"entity": "pricerange"} bi prezz ħieles
+kif tista' tgħid xi ħaġa fil [ firxa ] {"entity": "pricerange"} tal prezzijiet għalja bi prezz ħieles
 i għandu bżonn in-numru ta" referenza
-jixtieq jitbiegħed fuq il prezz tal ħin [ tat tluq eżatt ] {"entity": "day"} u fuq il ħin tal ferrovija .
+jixtieq jitbiegħed fuq il-prezz tal-ħin tat-tluq eżatt u fuq il-ħin tal-ferrovija.
 iva jekk jogħġbok ikteb dawk is-siġġijiet jekk jogħġbok ipprovdili bl-id ferrovjarja
 all i need is the departure time price and train id thanks
 not yet first i would like to get price and departure time
@@ -275,7 +275,7 @@ that train would work well but i really need [ 2 ] {"entity": "bookpeople"} tick
 għandek bżonn tirreġistra ferrovija għall-applikanti li jkunu se jitfgħu biljetti fuq żewġ binarji. Jekk jogħġbok, il-biljetti fuq żewġ binarji jistgħu jiksbu numru ta' referenza
 iva jekk jogħġbok [ 7 ] {"entity": "bookpeople"} persuni u iva bħan numru ta' referenza jekk jogħġbok
 is-servizz tiegħek jista' jgħini wkoll biex issib post biex toqgħod il-lukanda għandu jkun lukanda moderata tal-lamtu
-fin nofsinhar tal lamtu bi [ prezz moderat ] {"entity": "area"}
+fin-nofsinhar tal-lamtu bi prezz moderat
 iva jekk tista' tirrekordjaha għal [ tliet ] {"entity":" bookpeople"} persuni jekk jogħġbok se jkollok bżonn in numru ta' referenza
 l-ebda ħaġa li tista' tkun meħtieġa ma tista' tgħidli x'inhu l-ħin tal-wasla
 l-ewwel tluq biss wara t-13 ta' Settembru, jekk jogħġbok imla l-prezz u l-ħin tal-wasla biss
@@ -295,10 +295,10 @@ iva li tkun [ ta' ] {"entity": "bookpeople"} għajnuna jekk tkun tista' tniżże
 thats fine i dont need a booking yet youve given me the departure time may i also have the ticket price and travel time please
 le grazzi għall-ħtieġa tal-ħin tat-tluq u l-prezz tal-biljett
 nixtieq ngħid li t [ toroq tal fwied ] {"entity":" destination"} jistgħu jiċċekkjaw il prezz għalija
-iva agħżel il ħin tal wasla [ l eqreb ] {"entity": "arriveby"} għal 13 il persuna oħra imbagħad agħtini n numru ta' referenza
+iva agħżel il-ħin tal-wasla l-eqreb għal 13-il persuna oħra imbagħad agħtini n-numru ta' referenza
 iva jekk jogħġbok ikteb biljetti tal ferrovija għal [ ħames ] {"entity":" bookpeople"} persuni jekk jogħġbok , jista' jkollok in numru ta' referenza tal każinò
 iva jeħtieġ [ 4 ] {"entity": "bookpeople"} biljetti u n numru ta' referenza jekk jogħġbok grazzi
-i would like to arrive in ely could [ you please ] {"entity": "destination"} tell me the price and what the departure time is
+i would like to arrive in ely [ could ] {"entity": "destination"} you please tell me the price and what the departure time is
 i [ dont care ] {"entity":" pricerange"} about the price i absolutely do need free parking though
 iva x'inhu l-prezz tal-biljett u meta tasal il-ferrovija jekk jogħġbok
 dan ikun ta' ħsara għall-prezz tal-ħin tal-ivvjaġġar u tal-ferrovija jekk jogħġbok
@@ -309,7 +309,7 @@ iva jekk jogħġbok agħmel l-istipu u l-email me n-numru ta" referenza
 i just need [ one ] {"entity":" bookpeople"} ticket can you tell me what time it arrives
 tista' tagħmel kummerċ għal [ 2 ] {"entity": "bookpeople"} persuni u tagħtih numru ta' referenza jekk jogħġbok
 iva li jkollok bżonn biljetti kbar għal [ 8 ] {"entity": "bookpeople"} persuni għandek numru ta' referenza
-għandek il-marda li tħalli lil dawk li jaqsmu l-fruntieri jkollhom referenza għalihom.
+għandek il marda [ li ] {"entity": "departure"} tħalli lil dawk li jaqsmu l fruntieri jkollhom referenza għalihom .
 ok can i get the train id
 għandek bżonn [ 2 ] {"entity": "bookpeople"} biljetti jekk jogħġbok u n numru ta' referenza jista' jgħini b'dak
 oġġett għall-ivvjaġġar jista' jkollu l-ħin tal-ivvjaġġar u l-prezz tal-biljett jekk jogħġbok
@@ -321,7 +321,7 @@ hemm kwalunkwe ħaġa li tasal eqreb għal 8 ħaddiema kif mitlub.
 iva jekk jogħġbok ikollok bżonn riċetta għal [ 4 ] {"entity": "bookpeople"} persuni u jrid in numru ta' referenza peress li jkun daqshekk ta' għajnuna
 whats the arrival time for that train
 no thanks whats the travel time for that train
-l ebda ħaġa f'dan iż [ żmien ] {"entity":" pricerange"} ma tista' tgħinni nsib kamra biex nibqa' għal żmien moderat .
+l ebda ħaġa f'dan [ iż żmien ] {"entity":" pricerange"} ma tista' tgħinni nsib kamra biex nibqa' għal żmien moderat .
 jekk [ jogħġbok imla ] {"entity": "departure"} l ħin tat tluq jekk jogħġbok
 l-ebda riżerva għal issa ma għandha bżonn il-ħin tat-tluq
 assigurazzjoni ta' x'inhu l-prezz u l-ħin tat-tluq
@@ -329,13 +329,13 @@ jekk jogħġbok agħmel tajjeb għal [ 3 ] {"entity": "bookpeople"} persuni biex
 iva jekk jogħġbok iktebha għal [ 2 ] {"entity": "bookpeople"} biljetti inkluż ukoll in numru ta' referenza
 int x'inhu l-prezz għal dik il-ferrovija b'id tr3677
 iva tista' tniżżel biljett [ wieħed ] {"entity":" bookpeople"} għalija u agħti n numru ta' referenza
-hemm ferrovija li ] {"entity":" arriveby"} [ tasal eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb g
+hemm ferrovija ] {"entity":" arriveby"} li tasal [ eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb għall eqreb g
 biljetti għal [ 4 ] {"entity": "bookpeople"} persuni jista' jkollhom in numru ta' referenza jekk jogħġbok
 tista' tniżżel fil-kotba tiegħi u tieħu numru ta' referenza
 tista' tniżżel fil-kotba tiegħi u tieħu numru ta' referenza
 tista' tagħtini l-ħin tal-wasla ta' wieħed minnhom u l-prezz jekk jogħġbok
 le iżda meta l-ħin tat-tluq għadu ma spiċċax
-nixtieq inħalli wara [ d 09 ta' Settembru , ] {"entity":" leaveat"} tista' tniżżel l ewwel wieħed disponibbli wara l ieħor u n numru ta' referenza tiegħi
+nixtieq inħalli wara [ d 09 ta' Settembru , tista' ] {"entity":" leaveat"} tniżżel l ewwel wieħed disponibbli wara l ieħor u n numru ta' referenza tiegħi
 iva , jekk jogħġbok irreġistrah għal [ 8 ] {"entity": "bookpeople"} persuni u mbagħad agħtih in numru ta' referenza
 iva li l proponent i għandu bżonn riżerva għal [ 7 ] {"entity": "bookpeople"} persuni jista' jkollu n numru ta' referenza tiegħek ukoll permezz tal għajnuna tiegħek
 iva tista' tniżżel [ 2 ] {"entity": "bookpeople"} biljetti jekk jogħġbok u tista' wkoll tieħu numru ta' referenza meta tkun mistiedna .
@@ -343,13 +343,13 @@ jekk jogħġbok se jkollok bżonn ukoll in-numru ta' referenza bis-saħħa tal-g
 l-ebda ħaġa m'għandha bżonn l-internet ħieles u l-indirizz tal-firxa tal-prezzijiet u l-kodiċi postali ta' dak li ssib
 wieħed mit-tnejn jekk jogħġbok agħtini l-ħin tal-vjaġġ u l-prezz
 il-ħin totali tal-ivvjaġġar għal dak l-ivvjaġġar fuq il-ferrovija
-i se jkollha bżonn tivvjaġġa fuq il [ ħin ] {"entity": "day"} tal wasla u l prezz jekk jogħġbok
+i se jkollha bżonn tivvjaġġa [ fuq ] {"entity": "day"} il ħin tal wasla u l prezz jekk jogħġbok
 il-ħin totali ta' l-ivvjaġġar
 sure could you give me the id for that train
-u l-ħin tal-ivvjaġġar għandna bżonn ukoll ta' ċentru
+u l ħin tal ivvjaġġar għandna bżonn ukoll ta' [ ċentru ] {"entity": "type"}
 eċċellenti jekk jogħġbok agħmel riċetta għal [ sitt ] {"entity":" bookpeople"} persuni imbagħad agħtini n numru ta' referenza
 i need the train id instead please
-moderat u neċessarju l indirizz [ tan ] {"entity": "pricerange"} numru tat telefon u t tip tal ikel
+moderat u [ neċessarju l indirizz ] {"entity": "pricerange"} tan numru tat telefon u t tip tal ikel
 l-I dont għandu bżonn biljett iżda għandu bżonn il-ħin tal-ivvjaġġar u l-prezz
 jekk jogħġbok ikollok in-numru ta' referenza
 fil-fatt m'għandekx bżonn iktar informazzjoni mogħtija miegħi l-ferrovija li għandek bżonn il-ħin tal-ivvjaġġar u l-prezz tal-biljetti
@@ -365,13 +365,13 @@ qabel [ ma ] {"entity": "area"} jkun hemm bżonn in numru ta' referenza għall k
 i fil-fatt irridu nippreżentaw il-kotba tagħna iżda l-ok i għadha kemm għandha bżonn biex tkun taf kemm jiswew il-biljetti
 tista' jekk jogħġbok tgħid liema ħin il-ferrovija tħalli u l-ħin totali ta' l-ivvjaġġar
 iva u tista' tagħtina l-ħin tal-wasla wkoll
-il [ ħin ] {"entity":" day"} tat tluq u l prezz
+il-ħin tat-tluq u l-prezz
 x'inhu l-ħin tal-ivvjaġġar għal dak il-vjaġġ
 iva li għandek taħdem tista' tagħtina l-prezz
 mhux f'dan il-ħin iżda tista' tagħtina l-ħin tal-ivvjaġġar eżatt jekk jogħġbok
 iva li tkun perfetta x'inhu l-ħin tal-ivvjaġġar
 il ħin [ tal ] {"entity":" leaveat"} wasla għandu jkun daqshekk ieħor iżda jrid iħalli wara nofsinhar mhux persuna ta' filgħodu .
-any time on friday get me [ the ] {"entity":" day"} train id please
+any time on friday get me the train id please
 iva jekk jogħġbok għandi l-għajnuna biex inkun imħarreġ id u l-ħin tal-ivvjaġġar
 il-ħin u l-prezz tal-vjaġġ tal-ferroviji
 dik il-ħaġa tajba għal dak li huwa l-ħin tal-ivvjaġġar għal dik il-ferrovija
@@ -385,8 +385,8 @@ iva li jkun perfett jista' jkollu l-prezz u l-ħin tat-tluq
 iva jekk jogħġbok agħtini ħin tal-ivvjaġġar
 jekk jogħġbok agħti l-ħin tal-ivvjaġġar u l-prezz ta' tr6908
 x'inhu l-prezz fuq dik il-ferrovija
-tista" tieħu biljett għal persuna waħda u n-numru ta" referenza jekk jogħġbok
+tista tieħu biljett għal [ persuna ] {"entity": "bookpeople"} waħda u n numru ta referenza jekk jogħġbok
 iva nixtieq nippreżentaha għal [ 8 ] {"entity": "bookpeople"} persuni u se jkolli bżonn in numru ta' referenza
-[ iva ] {"entity":" destination"} nixtieq inħaffef lin nies u nsemmi n numru ta' referenza
+iva nixtieq inħaffef lin nies u [ nsemmi ] {"entity":" destination"} n numru ta' referenza
 l-intestatura għall-persuni ta' l-ajruport ikkonċernati u jistgħu, jekk jogħġbok, jiksbu numru ta' referenza
 iva u jista' jkollha n-numru ta' referenza wara
