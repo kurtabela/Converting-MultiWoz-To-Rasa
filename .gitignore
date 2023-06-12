@@ -157,3 +157,6 @@ cython_debug/
 *.iml
 *.xml
 *.iml
+*.iml
+output.json
+data/test.json

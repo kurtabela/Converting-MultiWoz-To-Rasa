@@ -1,0 +1,286 @@
+i trid ] {"entity": "bookpeople"} tikteb tabella għal 4 jekk jogħġbok agħtih [ numru ta' referenza
+i għandhom bżonn ir riżerva għall ġugarelli u [ għandhom bżonn ] {"entity": "bookday"} ukoll in numru ta referenza
+i dont għandha wkoll preferenza tista' tieħu n-numru ta' referenza
+grazzi, jekk jogħġbok ipprovdi n-numru ta" referenza
+ħafna x'inhu l-kodiċi postali
+il bdiewa jmorru' l [ quddiem ] {"entity": "bookpeople"} u jagħmlu riżerva għal 6 snin u jistgħu jiksbu dak in numru ta' referenza ukoll jekk jogħġbok
+bħalissa għandek bżonn l-indirizz tal-posta u ż-żona jekk jogħġbok
+iktar informazzjoni dwar l-indirizz u l-kuntatt
+jista' jkollok l-indirizz għall-faħam u l-bar tal-baqra jekk jogħġbok
+i [ għandek bżonn it ] {"entity": "bookday"} tabella mniżżla għal nies imħarrġa bis saħħa tagħha wkoll tista' tieħu r ref
+i [ dont care ] {"entity":" area"} what part of town it is in i would like a telephone number please
+għal 3 numri ta" referenza jekk jogħġbok
+[ minflok , ] {"entity": "bookpeople"} ma rriservax tabella għal 3 jekk jogħġbok ibgħatli n numru ta' referenza
+dik il-multa li tista' tiġi kkuppjata tista' jekk jogħġbok u ġibli n-numru ta' referenza
+[ i ] {"entity": "bookpeople"} would like a table for 5 and i will need the reference number thanks
+jekk jogħġbok ikteb dak ta' 30 pont fit-toroq tista' wkoll tagħtina l-kodiċi postali u n-numru tat-telefown
+i għandek bżonn l-indirizz u l-kodiċi postali għall-uffiċċju tar-reġistrazzjoni
+[ il kejk u l ġibs huma ] {"entity": "name"} tajbin għal dak li huwa n numru tat telefown għal dak il ġibs
+tista' tieħu n-numru ta' referenza għal dak
+l-oġġett tal-għawm jista" jkollu n-numru tat-telefon għall-għawm tal-ogħla klassifikat
+x'inhu l-indirizz tagħhom
+[ l indirizz u ] {"entity": "name"} l indirizz ta' l applikant .
+[ iva ] {"entity": "bookpeople"} , tabella għal 1 i għandha bżonn in numru ta' referenza
+jista' jkollok l indirizz għall [ kċina tal baqra ] {"entity": "name"} jekk jogħġbok
+iva jekk jogħġbok ipprovdi n-numru tat-telefown qabel ma tikteb
+il [ Lvant huwa ] {"entity": "area"} l multa li jista jkollu n numru tat telefon u l kodiċi postali tal indirizz
+jixtieq jippreżenta tabella għal [ 3 ] {"entity":" bookpeople"} jista' jkollu wkoll in numru tat telefon u l kodiċi postali għall qarrej
+dan ir-rebbieħ jista' biss jipprovdilu n-numru tat-telefon u l-kodiċi postali tiegħu jekk jogħġbok
+għandek bżonn tirreġistra l-ispjegazzjoni tiegħi jekk dak li jgħid għal 2 huwa dak li nistaqsi, jiġifieri n-numru ta' referenza wkoll.
+il ħin disponibbli f'19 il [ jum jista' wkoll ] {"entity":" booktime"} jingħata numru ta' referenza
+ħaġa waħda biss u ħaġa ħażina għandhom bżonn in-numru ta' referenza
+tista' tieħu l-kodiċi postali u n-numru tat-telefon jekk jogħġbok
+[ moderata jekk jogħġbok agħtih l indirizz tan ] {"entity":" pricerange"} numru tat telefon u l kodiċi postali għall partitarju li ssib permezz tiegħek ?
+liema tip ta' attrazzjoni hija misruqa fi tnax-il każ tista' tgħidli wkoll x'inhuma l-miżati tad-dħul u l-kodiċi postali tagħhom.
+wieħed biss jekk jogħġbok u l-indirizz biss huwa neċessarju.
+dak [ l oġġett ] {"entity": "bookpeople"} għandu jirriserva tabella għal 3 jista' jikseb numru ta' referenza li jissejjaħ għalik
+le iżda ma rridux iż-żona u l-firxa tal-prezzijiet tiegħu
+iva jista' jkolli n-numru ta' referenza tiegħi għall-ivvjaġġar jekk jogħġbok
+i qed infittex żieda qawwija fil medda [ moderata ] {"entity": "pricerange"} tal prezzijiet u t tip tal ikel għal dawk ir ristoranti
+għalkemm l indirizz għadu [ kif ] {"entity": "area"} ġie indirizzat , jeżistu xi attrazzjonijiet fil parti tal punent tal belt .
+iva jekk jogħġbok se [ jkolli bżonn ] {"entity": "bookpeople"} tabella għal 3 jista' jkolli wkoll in numru ta' referenza għalih meta jitniżżel fil kotba .
+l-ebda mistoqsija ma tista' tgħidli x'inhi ż-żona tal-belt għalkemm għaddejja l-immaġni u l-ġemellaġġ.
+mhux tajjeb issa iżda jista' jkollok il-kariga tiegħek?
+iva , [ jekk jogħġbok ] {"entity": "bookpeople"} ikteb tabella għal 4 u ibgħatli n numru ta' referenza ladarba jitniżżel fil kotba .
+għoli għoli mill-erbgħa
+l-indirizz jekk jogħġbok
+iva , għandek bżonn tirriserva tabella għal persuna [ waħda ] {"entity": "bookday"} fuq il kliewi .
+iva [ jekk jogħġbok ] {"entity": "bookpeople"} ikollok bżonn tabella għal 8 jista' jkollok in numru ta' referenza għall Bejgħ
+għandek il [ possibbiltà li tieqaf ] {"entity":" pricerange"} tieħu xi ħaġa u li tagħtina l kodiċi postali u l medda tal prezzijiet jekk jogħġbok
+mhux issa liema żona tal-belt hija dik
+tista' tagħtini n-numru tat-telefon tagħhom
+iva se jkollha bżonn il-firxa tal-prezzijiet għal dak il-ġnien u ż-żona li tkun tinsab fiha wkoll jekk jogħġbok
+l-ebda ħaġa b'mod partikolari ma tista' tirrakkomanda waħda u tagħtih l-indirizz
+tista' biss tagħtini l-għadd tagħhom
+iħares lejn l [ għaġina tal peking ] {"entity": "name"} liema tip ta' ikel iservi u għandek bżonn ukoll l indirizz
+no i assume it is moderately priced though if so i just need an address post source and telephone number
+ħaġa li tirrakkomanda
+Ġabra ta' tabella għal 1 jekk jogħġbok ħtieġ [ li jkollu ] {"entity": "bookpeople"} n numru ta' referenza
+li l-qarrejja fil-fatt jistgħu jagħtuni l-indirizz u n-numru tat-telefon
+effettivament iva x'inhu l-kodiċi postali ta' caffeeLAD
+jekk jogħġbok ikkuntattja l-indirizz inkluż il-kodiċi postali u n-numru tat-telefon jekk jogħġbok
+tista' tieħu n-numru tat-telefon tal-indirizz u l-firxa tal-prezzijiet jekk jogħġbok
+kull persuna se taħdem għaliex il-mard disponibbli għandu bżonn il-kodiċi postali għal kull fejn ikun reġistrat.
+il-btieħi jippruvaw jippreżentaw u jistgħu jiksbu n-numru ta" referenza jekk jogħġbok
+i would like something in the [ cheap ] {"entity": "pricerange"} range and i need the address and telephone number
+li [ l ] {"entity": "bookpeople"} multa i tixtieq tiġbor riżerva għal 1 jista' jkollha n numru ta' referenza
+liema wieħed minnhom ikun l-aħjar li jkun...
+can you tell me a few more about the place i need to know what type of food they serve price range and where its located
+jista' [ jkollok ] {"entity":" name"} in numru tat telefon u l kodiċi postali għall eraina jekk jogħġbok
+le iżda ma għandekx bżonn l-indirizz tan-numru tat-telefon u l-kodiċi postali jekk jogħġbok
+dak ir-rebbieħ ikun meħtieġ x'inhu l-kodiċi postali
+i amnot quite ready to book a table however i would like the telephone number and address of each poor including the post allowed
+jista' jkollok l-indirizz u n-numru tat-telefon jekk jogħġbok
+i għandhom bżonn l-indirizz u l-kodiċi postali tagħhom
+iva tixtieq l-indirizz jekk jogħġbok
+jista' jkollok in-numru ta' referenza għar-riżerva jekk jogħġbok
+għalkemm tista' wkoll issib post biex tieħu xi ikel
+i se jkollok bżonn l-indirizz jekk issib waħda bis-saħħa
+l-ebda ħaġa b'mod partikolari ma tista' tgħidli l-indirizz tal-ewwel wieħed elenkat.
+kif madwar post [ b'ikel ħanin ] {"entity": "food"} jista' wkoll jikseb l esperjenza sħiħa ta' l ikel bħall indirizz bil kodiċi postali u n numru tat telefown jekk jogħġbok irriserva tabella li għadha kif għaddiet .
+il ħobż imur [ għand il frat tar ram ] {"entity":" name"} bħall indirizz tagħhom ukoll .
+iva jista' jkollha n-numru tat-telefon tagħha u l-firxa tal-prezzijiet
+li kollha għandhom bżonn
+liema żona hija dik
+tista' tirrakkomanda waħda bit-tip ta' ikel
+iva tista' tagħtina numru tat-telefon jekk jogħġbok
+iva, jekk jogħġbok ikteb tabella għal 8 persuni fl-istess ġurnata jekk iva disponibbli, jekk jogħġbok ikollok bżonn numru ta' referenza wkoll.
+għandek żewġ għażliet x'inhi l-għażla l-oħra disponibbli
+no i think i amok għalkemm tixtieq il-kodiċi postali
+iva tista' jekk jogħġbok agħti l-indirizz speċifiku tal-qarrej
+tista' tgħidli t-tip tal-ikel kif ukoll in-numru tat-telefown u l-indirizz
+jista' jkollok in-numru ta' referenza
+għalhekk hemm bżonn li l-Unjoni Ewropea tieħu l-miżuri kollha meħtieġa biex tiżgura li l-Istati Membri jkollhom aċċess għall-informazzjoni u l-informazzjoni kollha meħtieġa.
+jista' jkollhom in-numru tat-telefon u l-indirizz tagħhom ukoll hemm xi ferroviji li jmorru minn fuq il-baħar
+x'inhi l-firxa tal-prezzijiet tal-ġugarelli
+jien qed infittex ukoll ġugarelli msejħa yu gardeni għandek bżonn in-numru ta' referenza jekk jogħġbok ikkuntattja lil
+jekk jogħġbok [ ikkuntattja ] {"entity": "name"} l istejjer kollha .
+se jkun hemm [ 7 ] {"entity": "bookpeople"} minnhom li tista' jekk jogħġbok agħti n numru ta' referenza wkoll
+nixtieq ngħid fil-parti ċentrali tal-belt
+tista" tieħu n-numru ta" referenza
+i amnot sure how many people will be coming so i will do that later but can you provide me with their post allowed and telephone number
+if you could find me one and if i could get the address that would be great
+żgur li jista' jkollhom in-numru u l-indirizz postali tagħhom
+[ kulleġġ jekk jogħġbok ħass ] {"entity": "type"} li għandu bżonn it tariffa ta' l entratura kodiċi postali u n numru tat telefown għal dak li qed tissuġġerixxi
+jista' jkollhom it-tieni rakkomandazzjoni bin-numru tat-telefon u l-kodiċi postali tagħhom
+sure can i get the telephone number
+Kapaċinkolli n-numru tat-telefon u l-kodiċi postali
+jista' jkollok il-kodiċi postali jekk jogħġbok
+għandek firxa ta' prezzijiet tista' biss tirrakkomanda waħda mill-ħames ristoranti u tgħiduli l-kodiċi postali u l-firxa ta' prezzijiet
+x'inhu l kodiċi [ postali ] {"entity":" name"} għall ispejjeż għall ispejjeż għall ispejjeż għall ispejjeż tal ispejjeż
+jippreferi li jkollok bżonn in-numru tat-telefon u l-kodiċi postali jekk jogħġbok
+sure tista' tieħu [ ż żona ta' l indirizz u ] {"entity":" name"} l kodiċi postali għall konverżazzjoni tal familja ta' l ispettaklu
+jista' jkollok in-numru ta' referenza
+iva jekk jogħġbok għal 7 u jista jkollok [ in ] {"entity": "bookpeople"} numru ta referenza
+le iżda tista' tagħtina l-indirizz tal-posta u n-numru tat-telefown
+il-Ġerusalemm huwa dak li qed infittex għall-miżata tad-dħul u għall-kodiċi postali jekk jogħġbok iġibni taxi mill-attrazzjoni sal-1015 iġibni n-numru ta' kuntatt tiegħu u t-tip ta' karozza tiegħu
+[ il logħob tal azzard ] {"entity": "name"} ikun biss multa li jkollok bżonn il kodiċi postali jekk jogħġbok
+iva tista' tieħu indirizz u numru tat-telefon jekk jogħġbok
+ma għandhomx żona jew prezz speċifiku
+għidli l kodiċi postali għall biċċa l [ kbira tal irħis ] {"entity": "pricerange"}
+il-Ġermanja m'għandha l-ebda ikel għall-agrikoltura
+x'inhu n-numru tat-telefon
+għandek bżonn ukoll il-kodiċi postali
+i amnot bothered about the price why dont you select one and provide me with their telephone number and price range
+x'inhu n-numru tat-telefon tiegħu
+l-ebda ħaġa iżda tista' tieħu n-numru tat-telefon għalih
+iva jekk jogħġbok waħda għalija għandek bżonn l-indirizz bil-kodiċi postali ukoll bħan-numru tat-telefon ukoll permezz tal-għajnuna tiegħek.
+jien nipprova nispjega x'inhu n-numru tat-telefon u l-kodiċi postali tal-indirizz jekk jogħġbok
+x'inhu l-kodiċi postali u n-numru tat-telefon
+jekk jogħġbok għandek biss tgħidli l-kodiċi postali u l-indirizz
+mhux biss għandek bżonn il-kodiċi tat-telefon u l-indirizz tagħhom jekk jogħġbok
+[ l ] {"entity": "food"} ikel għall konsumaturi se jkun irfinat
+x'inhu n-numru tat-telefon u l-indirizz
+i se jkollha bżonn in-numru ta" referenza jekk jogħġbok
+prezz moderat fiċ-ċentru jixtieq jiġbor tabella għal 2 f'18-il jum fuq il-ġilda tax-xemx
+l-ebda ħaġa imma jista' jkollok l-indirizz tan-numru tat-telefon u l-kodiċi postali
+iva jixtieq li n-numru tat-telefown i jkollu bżonn ukoll ta' ferrovija fuq l-immaġni
+kif għandek tuża l-ġog
+il-perċezzjoni ta' x'inhu t-telefon tagħhom
+l-I dont għandhom bżonn drittta' riżerva issa liema tip ta' ikel iservi
+jista' jkollok biss il-kodiċi postali u n-numru tat-telefon jekk jogħġbok
+għandek bżonn l-indirizz jekk jogħġbok
+għandek bżonn għall-indirizz li għandek bżonn illum
+nixtieq [ li ] {"entity": "bookpeople"} tikteb tabella għal 6 i għandek bżonn in numru ta' referenza
+iva li kulħadd jaf [ li trid ] {"entity": "bookpeople"} tikteb tabella għal 4 persuni foqra jeħtieġ ukoll numru ta' referenza
+għandek tieħu l-indirizz jekk jogħġbok
+can i get the area of town and the price range pleas
+irħas u għandu bżonn in-numru ta" referenza
+jixtieq li jkollok għajnuna jekk jogħġbok
+tista' tirrakkomanda waħda u tagħtih in-numru tat-telefown
+aħna qed infittxu post li preferibbilment jiswa [ ] {"entity": "pricerange"} ħafna flus hekk kif l attrazzjoni qed tissuġġerixxi li għandek bżonn indirizz u kodiċi postali jekk jogħġbok
+tista' tniżżel fil-kotba tiegħi u tieħu numru ta' referenza
+ma għandhiex bżonn riżerva li jkollha bżonn kodiċi postali u indirizz biss
+kbir sakemm il-ħuġa tkun qrib il-lejl il-ħuġa sseħħ biex wieħed ikun jaf il-ħuġa tal-ħuġa
+iva jista' jkollha l-kodiċi postali għal dak il-post
+dak jgħodd ħafna għall ] {"entity":" name"} firxa tal prezzijiet għall frott [ tal qamħirrun tal qamħirrun
+li għandek ħafna x'tagħmel
+tista' tniżżel fil-kotba tiegħi u tagħtih in-numru ta' referenza għal persuni li jkollhom il-ġugarelli
+i dont fil-fatt għandek tip ta' ħsieb li tista' tirrakkomanda xi ħaġa bi prezz moderat u fiċ-ċentru tal-belt
+no thanks i do need the telephone number and post code
+jaħseb li jixtieq li l-indirizz tal-posta u n-numru tat-telefown jikkuntattjawhom.
+jeħtieġ ukoll riżerva għal firxa ta" prezzijiet ta" 4 jekk jogħġbok ipprovdi n-numru ta" referenza wara l-bejgħ
+ma tistax jekk jogħġbok agħti l-indirizz u n-numru tat-telefon għal-lamtu tal-ikel grazzi għal daqshekk.
+mhux imħasseb dwar iż-żona sempliċement post għali għali għal kulħadd
+i għandek bżonn il-kodiċi postali jekk jogħġbok
+iva , jixtieq jirriserva tabella [ dwar ] {"entity": "bookday"} il ġugarelli tax xemx . In nies jistgħu jiksbu n numru ta' referenza
+jeħtieġ li nkun naf it-tip tal-ikel u l-kodiċi postali u għandu jkollu wkoll sports eċċellenti.
+jien, it-tip tal-ikel u l-kodiċi postali
+jista' jkollok l-indirizz u l-kodiċi postali jekk jogħġbok
+fil fatt ] {"entity": "area"} jeħtieġ li xi postijiet imorru fiż żona [ taċ ċentru
+din tkun multa tista' tieħu l-indirizz u n-numru tat-telefown
+tista' tniżżel fil kotba tiegħi [ tabella ] {"entity": "bookpeople"} għal 3 i se jkollha bżonn in numru ta' referenza
+iva li tkun kbira
+could you give me the address and telephone number
+liema tip ta' ikel huwa
+għandek bżonn l-indirizz u l-kodiċi postali
+l-ebda i dont m'għandu bżonn drittta' riżerva issa biss in-numru tat-telefown tiegħu
+effettivament i dont għandu bżonn il-kotba issa jista' jkollok il-kodiċi postali u n-numru tat-telefown
+kien irrakkomandat permezz ta' friend u im not sure liema tip ta' ikel ikun jaf
+il-Ġermanja tista' tieħu n-numru tat-telefown
+i għandek bżonn indirizz u l-qasam jekk jogħġbok
+jista' jkollhom ukoll in-numru tat-telefon u l-kodiċi postali tagħhom
+li kollha għandhom bżonn
+tista' tieħu aktar informazzjoni inkluż l-indirizz tal-posta u ż-żona
+m'għandekx tagħżel tip ieħor ta' post għalija għalija u għandek tikteb tabella fi 13-il ġurnata għal 8 persuni mill-inkwiet
+il-prezz mhuwiex oġġett li s-soltu jkollok tpoġġi bħal tnaqqis f'daqqa waħda fil-ħajja tiegħek, iżda b'dak li tirrakkomanda li jkollok bżonn l-indirizz tagħhom
+x'inhu l-indirizz
+effettivament tista' [ tgħid li ] {"entity":" pricerange"} għandek bżonn il kodiċi postali u l indirizz jekk jogħġbok żżomm it talba tiegħi mibdula .
+il-varjabilità hija tajba biex wieħed jasal għall-kodiċi postali jekk jogħġbok
+iva jista' [ jkollok l ] {"entity":" name"} indirizz tal posta u n numru tat telefon għall ivvjaġġar
+jekk jogħġbok imla l-kodiċi postali u l-indirizz jekk jogħġbok
+[ 15 Sitwazzjoni u ] {"entity":" booktime"} jixtieq in numru ta' referenza
+iva, jekk jogħġbok irreġistrah u agħti n-numru ta' referenza tiegħu
+għandek tħares lejn in numru ta' [ referenza ] {"entity": "area"} im ukoll biex tħares lejn il postijiet fuq in naħa t'isfel tal belt
+le iżda l-indirizz u n-numru tat-telefon
+tista' tagħtini n-numru tat-telefown
+liema waħda tirrakkomanda
+jippreferi dak fuq iċ [ ċentru ] {"entity":" area"} jista' jkollu n numru tat telefon u l kodiċi postali jekk jogħġbok
+dak il [ prodott tajjeb ] {"entity": "name"} għall ikel jista' jikseb il kodiċi postali għal ftit ġugarelli jekk jogħġbok
+ma għandekx bżonn il-kodiċi postali u n-numru tat-telefon jekk jogħġbok
+effettivament se nippreżentaha kullimkien tista' jekk jogħġbok ikollok in-numru tar-ristoranti tat-telefon u l-kodiċi postali
+jekk jogħġbok ikkuntattja l-indirizz ukoll
+kif jissuġġerixxi [ ktieb wieħed tabella ] {"entity": "bookpeople"} għal 4 u għandek bżonn ukoll in numru ta' referenza jekk jogħġbok
+ok għal 6 u għandek bżonn ukoll [ referenza ] {"entity": "bookpeople"}
+jekk jogħġbok għandek tgħidli l-indirizzpost
+għandek bżonn ta' numru ta' referenza.
+jista' jkollok in-numru tat-telefon jekk jogħġbok
+can you tell me what area they are in i also need some help finding a train
+huma ċerti li għandhom żewġ postijiet li jistgħu jgħiduli l-indirizz tagħhom
+iva l-kodiċi postali tagħhom u jekk għandhomx ipparkjar ħieles jew le
+għandek twieġeb għall-mistoqsija tiegħi jekk għandekx bżonn il-kodiċi postali għall-kodiċi taċ-ċineg tal-ponta u għandek tkun taf jekk għandekx ipparkjar ħieles jew le
+[ għandek bżonn tkun taf ] {"entity":" food"} it tip ta' ikel għal wara l bejgħ u n numru tat telefown jekk jogħġbok
+tista' tirrakkomanda wieħed minn dawk
+iva tista' tagħmel il-kodiċi postali tagħha
+liema medda ta' prezzijiet hija dik
+għandi nagħti l-post ukoll.
+x'inhu l-indirizz għall-varjabbiltà ssuġġerita tiegħek
+Ġimgħa biss, l-indirizz li jkun kollu
+jekk jogħġbok ikollok il-kodiċi postali u l-indirizz
+id like expensive [ food ] {"entity": "pricerange"} pick one and give me a telephone number please
+[ jekk ] {"entity": "bookday"} jogħġbok u jekk tistax tagħtina numru ta' referenza li jkun kbir
+nixtieq li l ġugarelli jkollhom post fuq l [ ikel ] {"entity": "name"} tajjeb għas saħħa
+[ għandek ] {"entity":" pricerange"} bżonn ta' żieda fl għadd ta' postijiet tax xogħol .
+le iżda nixtieq li l-kodiċi postali għal dak il-klassi jekk jogħġbok jeħtieġ ukoll li ssib post biex tibqa' tista' tgħini b'dak il-kodiċi.
+kien għaqli li tista' tirrakkomanda xi ħaġa
+x'inhi l-firxa tal-prezzijiet fuq dik il-waħda
+permezz ta' dan l-indirizz
+jekk jogħġbok imla n-numru tat-telefon
+nixtieq nistaqsi lill-kollegi tiegħi
+moderat u neċessarju [ l indirizz tan numru ] {"entity": "pricerange"} tat telefon u t tip tal ikel
+iva li tkun multa, dak li huwa l-indirizz u n-numru tat-telefown
+għandek tħares ukoll lejn post imsejjaħ id [ direzzjoni ] {"entity":" name"}
+wieħed jista' jara l-pożizzjoni tiegħek
+give me the address of the one you recommend
+liema tip ta' ikel iservi
+mhux f'dan il-ħin
+jien qed inħares b'mod speċifiku lejn [ kamra ] {"entity": "type"} fil firxa tal prezzijiet għalja fit Tramuntana tista' tħares għal darb' oħra jekk jogħġbok
+forsi tista' tiċċekkja ż-żona moderata tal-belt
+l-ebda ħaġa m'għandek bżonn il-medda tal-prezzijiet u l-kodiċi postali
+tista' tieħu l indirizz għas [ saff taċ ċitru ] {"entity":" name"}
+jista' jikkjarifika li kien ikel ħażin u mhux ikel ħażin jekk jogħġbok
+x'inhi l-firxa tal-prezzijiet għall-meghna
+le iżda tixtieq il-ħin tal-wasla tal-prezzijiet u l-ħin tal-ivvjaġġar jekk jogħġbok
+jista' jkollok l ] {"entity": "name"} indirizz u l kodiċi postali għall [ għajnuna tiegħek ?
+tista' tniżżel fil-kotba tiegħi u tieħu numru ta' referenza
+3 jekk jogħġbok agħtih numru ta' referenza
+l-indirizz tal-posta u n-numru tat-telefown jekk jogħġbok.
+i dont għandek preferenza ta' prezz li tissuġġerixxi
+iva għandek bżonnha għall [ kuntatt ma' friday u għat ] {"entity":" bookday"} tip ta' karozza
+jekk jogħġbok, iġbor in-numru tat-telefon u l-indirizz tiegħek
+il-Ġermanja tista' wkoll tieħu l-kodiċi postali taż-żona u n-numru tat-telefon
+għandna bżonn ukoll in-numru tat-telefown biex nirringrazzjahom
+għalija
+qatt ma ħu ktieb ħażin, il-qarrej jista' jkollu l-indirizz u l-kodiċi postali u n-numru tat-telefown waqt li tkun qed tieħu.
+ma nafx iżda għandek bżonn l-indirizz u n-numru tal-kodiċi postali
+l-indirizz tiegħek għalissa jekk jogħġbok
+tista" tieħu n-numru ta" referenza għal dik ir-riżerva
+eċċellenti li huwa kwalunkwe ħaġa
+kbir [ tista' ] {"entity": "bookpeople"} tniżżel fil kotba tiegħi tabella għal 7 u tipprovdili b'numru ta' referenza
+never mind im all set i even have the reference number for my reservation thanks for your help goodbye
+għalhekk għandek bżonn ta' riżerva iżda għandek bżonn ta' riżerva.
+effettivament tista' tissuġġerixxi li wieħed minnhom jista' jikkuntattja lill-info tagħhom ukoll.
+iva jista' jkollha [ l indirizz tal posta ] {"entity":" name"} u n numru tat telefon għall ktieb il ħażin tad dar residenzjali .
+x'inhu n-numru ta" referenza għall-kotba tiegħi
+mhux partikolari kif għandek bżonn l indirizz [ tan ] {"entity":" pricerange"} numru tat telefon u l kodiċi postali tagħhom jekk jogħġbok
+i really dont għandhom preferenza dwar chinese i se jkollhom bżonn in-numru tat-telefon u l-kodiċi postali tagħhom jekk jogħġbok
+l ebda ] {"entity": "name"} ħadd ma għandu jiddiskutih mal ħbieb [ tiegħi , tista' biss tieħu miegħi l kodiċi postali għall Ġerusalemm tal Ġerusalemm , jekk jogħġbok
+iva imxi' l quddiem u ikteb u jekk jogħġbok ibgħat l-indirizz
+m'għandekx għalfejn tirrekordjaha x'inhu l-kodiċi postali u ż-żona jekk jogħġbok
+jien interessat fit-Tramuntana jista' jkollu l-kodiċi postali u l-indirizz tiegħu
+iva għal ] {"entity": "bookpeople"} 4 i se jkollha bżonn ukoll [ numru ta' referenza
+kif jista' jkollok l-indirizz tiegħek jekk jogħġbok
+x'inhu l-indirizz tagħhom
+effettivament ma tistax tkun qed teħtieġ riżerva, iżda tista' biss tivverifika t-tip ta' ikel li jservi l-belt tar-reġistrazzjoni
+iva tista' tieħu n-numru tat-telefon u l-kodiċi postali
+ok tista' tikteb [ tabella għal ] {"entity": "bookpeople"} 6 i se jkollha bżonn numru ta' referenza jekk jogħġbok
+kbir li kollha għandhom bżonn
+għandek tagħtini [ l indirizz ] {"entity":" name"} tan numru tat telefon u l kodiċi postali għan noti jekk jogħġbok
+għandek xi ħaġa li tista' tirrakkomanda se jkollok bżonn ukoll it-telefon u t-tip tal-posta u tal-ikel jekk jogħġbok
+jista" jkollhom in-numru ta" referenza tal-kummerċ
+l-i dont eċċellenti għandu bżonn ta' drittgħall-mejda issa iżda jekk tista' tagħti l-indirizz u n-numru tat-telefown li jkun kbir.
+iva għal 6 jekk jogħġbok kellek bżonn in numru [ ta' ] {"entity": "bookpeople"} referenza
+li għandna bżonn
+effettivament għandek bżonn in-numru u l-indirizz
+għandek l-indirizz u n-numru tat-telefon jekk jogħġbok.
+ma tistax tagħżel waħda għalija u tipprovdili bil-kodiċi postali

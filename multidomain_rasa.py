@@ -53,6 +53,8 @@ def buildRasaDomain(entities, intents, actions, messages, writeFile):
             f_out.write(' - ' + intent + '\n')
         f_out.write('\n' + 'actions:\n')
         for i, action in enumerate(actions):
+            if "hospital-inform" in action:
+                print("t")
             if "inform" in action or "recommend" in action or "select" in action:
                 f_out.write('- action_' + action + '\n')
         f_out.write('\n' + 'responses:\n')
@@ -230,6 +232,8 @@ def constructRasaStory(story):
                     reqlist = constructRequestList(turn['dialog_act'][intent])
                     for req in reqlist:
                         fullTurn = prefix + core + '-' + req
+                        if "hospital-inform" in fullTurn:
+                            print("t")
                         intents.append(fullTurn)
 
                 else:
