@@ -1,5 +1,5 @@
 m'għandekx issib ħaġa waħda
-[ l ] {"entity": "type"} ebda ħaġa li ma turi l ebda ħaġa ta' bil lejl tista' tħares lejn parti differenti tal belt għalik
+l-ebda ħaġa li ma turi l-ebda ħaġa ta' bil-lejl tista' tħares lejn parti differenti tal-belt għalik
 għad fadal xi għaqda ta' [ ġugarelli biex ] {"entity": "type"} tespandi t tiftix tiegħek għal żoni differenti jew għal tipi oħra ta' attrazzjonijiet
 l isport iżda l isport [ multiplu ] {"entity": "type"}
 jiġifieri ma jkun hemm l ebda għaqda ta' [ ġugarelli ] {"entity": "type"} li tkun interessata li tisma' attrazzjoni differenti
