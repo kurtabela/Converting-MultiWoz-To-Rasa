@@ -1,52 +1,52 @@
 m'għandekx issib ħaġa waħda
-l-ebda ħaġa li ma turi l-ebda ħaġa ta' bil-lejl tista' tħares lejn parti differenti tal-belt għalik
-għad fadal xi għaqda ta' [ ġugarelli biex ] {"entity": "type"} tespandi t tiftix tiegħek għal żoni differenti jew għal tipi oħra ta' attrazzjonijiet
-l isport iżda l isport [ multiplu ] {"entity": "type"}
-jiġifieri ma jkun hemm l ebda għaqda ta' [ ġugarelli ] {"entity": "type"} li tkun interessata li tisma' attrazzjoni differenti
+l ebda ħaġa li ma turi l ebda ħaġa ta' [ bil lejl ]{"entity":" area"} tista' tħares lejn parti differenti tal belt għalik
+għad fadal xi [ għaqda ta' ]{"entity": "type"}[ ġugarelli biex tespandi ]{"entity":" area"} t tiftix tiegħek għal żoni differenti jew għal tipi oħra ta' attrazzjonijiet
+l isport iżda l isport [ multiplu ]{"entity":" area"}
+jiġifieri ma jkun hemm l ebda [ għaqda ta' ]{"entity": "type"}[ ġugarelli li ]{"entity":" area"} tkun interessata li tisma' attrazzjoni differenti
 l-i dont għandha kwalunkwe sodisfazzjon li l-kriterji jistgħu jippruvaw xi ħaġa
-l ebda ħaġa [ fiċ ċentru ma ] {"entity":" area"} tista' tbiddel il post
-sfortunatament i dont għandu kwalunkwe [ kulleġġ ] {"entity": "type"} li jinsab f'dik iż żona jista' jipprova żona jew tip ta' attrazzjoni differenti
-i dont have any sports may i try a different area
+l ebda ħaġa [ fiċ ċentru ma tista' ]{"entity":" area"} tbiddel il post
+sfortunatament i dont għandu kwalunkwe [ kulleġġ li ]{"entity": "type"} jinsab f'dik iż żona jista' jipprova żona jew tip ta' attrazzjoni differenti
+i dont have [ any sports may ]{"entity": "type"} i try a different area
 assigura li ma jkun hemm l-ebda
 l-ebda logħob
-liema parti tal belt m'hemm xejn fil [ Punent ] {"entity":" area"}
+liema parti tal belt m'hemm xejn fil [ Punent ]{"entity":" area"}
 jien ma għandek l-ebda attrazzjoni li tissodisfa l-kriterji elenkati hawnhekk hemm tip ieħor ta' attrazzjoni jew qasam li tixtieq infittex
-ma hemm xejn [ f'dak il ġenb li ] {"entity":" area"} nistgħu nbiddlu l post
-i dont għandek xi ħaġa elenkata speċifikament [ bħala ] {"entity": "type"} għandek tkun interessat f'xi ħaġa oħra
-ma hemm l ebda [ ċans ieħor li ] {"entity": "type"} tista' tgħin biex issib attrazzjoni għalik
-iżda ma nistgħux inħarsu lejna bħal għandna għaqda li [ taqbel ] {"entity": "type"} mal kriterji tiegħek
-attwalment għal raġunijiet li jidhru ċari għalija m'hemm l-ebda divertiment ta" kontradizzjoni fil-listi tagħna
-sfortunatament m'hemm l ebda żona [ kulleġġjali ] {"entity": "type"} tal belt li tixtieq tipprova żona oħra ta' belt
+ma hemm xejn [ f'dak il ġenb li nistgħu ]{"entity":" area"} nbiddlu l post
+i dont għandek xi ħaġa elenkata speċifikament [ bħala għandek ]{"entity":" area"} tkun interessat f'xi ħaġa oħra
+ma hemm l [ ebda ċans ]{"entity": "type"} ieħor li tista' tgħin biex issib attrazzjoni għalik
+iżda ma nistgħux inħarsu lejna bħal għandna għaqda li [ taqbel mal ]{"entity": "type"} kriterji tiegħek
+attwalment għal raġunijiet li jidhru ċari għalija m'hemm l ebda [ divertiment ta ]{"entity": "type"} kontradizzjoni fil listi tagħna
+sfortunatament m'hemm l ebda żona [ kulleġġjali tal ]{"entity": "area"} belt li tixtieq tipprova żona oħra ta' belt
 m'hemmx disponibbli attrazzjoni oħra
-ma hemm l ebda [ kura ] {"entity": "type"} li tixtieq tħares lejha f'qasam differenti
+ma hemm l ebda [ kura li ]{"entity":" area"} tixtieq tħares lejha f'qasam differenti
 jien kuntenti iżda m'hemm xejn li jaqbel mat-talba tiegħek li tixtieq tipprova parti oħra ta' belt jew tip ta' attrazzjoni
-jien ma nara l [ ebda riċetta ] {"entity": "type"}
-għalkemm m'hemm l-ebda elenkar għall-qasam tal-kulleġġ ta' l-ispettaklu, hemm kulleġġ ieħor li tixtieq inħares għalih.
-sfortunatament m'hemmx [ attrazzjonijiet sportivi multipli ] {"entity": "type"} fiż żona speċifikata hemm xi tip ieħor ta' attrazzjoni jew żona oħra li tista' tieħu ħsieb għalik
+jien ma nara l [ ebda riċetta ]{"entity":" area"}
+għalkemm m'hemm l ebda elenkar għall qasam tal [ kulleġġ ta' ]{"entity": "name"} l ispettaklu , hemm kulleġġ ieħor li tixtieq inħares għalih .
+sfortunatament m'hemmx [ attrazzjonijiet sportivi multipli fiż ]{"entity": "type"} żona speċifikata hemm xi tip ieħor ta' attrazzjoni jew żona oħra li tista' tieħu ħsieb għalik
 ma hemm xejn li jaqbel ma' dak il-kriterju li trid tfittex f'żona differenti
-m'hemm l-ebda kulleġġ li jista' jsib xi ħaġa għalik
-l ebda ħaġa li tinsab fid [ divertiment ma ] {"entity": "type"} tista' tipprova xi ħaġa
-m'hemm l ebda [ pniezel ] {"entity": "type"}
-is sistema tiegħi mhijiex qed tiċċelebra kwalunkwe [ bil ] {"entity": "type"} lejl , iżda hemm tip ieħor ta' attrazzjoni jew żona oħra li tkun interessat li tiċċelebra
-għad hemm xi [ ċinema ] {"entity": "type"} fil qasam ġenerali iżda liema tipi ta' sports huma interessati
-i cannot find any multiple sports is [ there ] {"entity": "type"} another area i can check
-l-ebda persuna ma tista' tfittex għal xi ħaġa differenti.
+m'hemm l ebda [ kulleġġ li ]{"entity": "type"} jista' jsib xi ħaġa għalik
+l ebda ħaġa li tinsab fid [ divertiment ma tista' ]{"entity":" area"} tipprova xi ħaġa
+m'hemm l [ ebda pniezel ]{"entity": "type"}
+is sistema tiegħi mhijiex qed tiċċelebra kwalunkwe [ bil lejl ]{"entity":" area"} , iżda hemm tip ieħor ta' attrazzjoni jew żona oħra li tkun interessat li tiċċelebra
+għad hemm xi [ ċinema fil ]{"entity": "type"} qasam ġenerali iżda liema tipi ta' sports huma interessati
+i cannot find [ any multiple sports is ]{"entity": "type"}[ there another ]{"entity":" area"} area i can check
+l ebda [ persuna ma ]{"entity": "type"} tista' tfittex għal xi ħaġa differenti .
 b'xorti ħażina ma tistax
-m'għandhomx sports [ multiplu ] {"entity": "type"}
-l ebda riżultat għad divertiment [ ma ] {"entity": "type"} jista' jkun hemm xi ħaġa oħra .
-ma hemm l-ebda ċinema fil-Punent
-iżda l I dont għandhom xi ħaġa [ miftiehma ] {"entity": "type"}
-issib xi forom ta' divertiment
-sfortunatament jidher li kwalunkwe attrazzjoni [ arkitettura ] {"entity": "type"} f'dik iż żona tal belt tista' ssib xi ħaġa għalik
-sfortunatament m'hemm l ebda arkitettura [ tajba iżda nista' nħares ] {"entity": "type"} lejn partijiet oħra tal belt jekk tixtieq
-ma hemm l-ebda kulleġġ li tixtieq tipprova żona differenti
-b'xorti ħażina m'hemm l [ ebda divertiment ] {"entity": "type"} f'żona ta' belt differenti li taħdem għalik
-ma hemm l ebda [ kulleġġ ] {"entity": "type"} viċin iż żona li qed titlob , li tixtieq tagħżel destinazzjoni oħra
-f'każ li ma jkun hemm l [ ebda divertiment ] {"entity": "type"} , ħadd ma jista' jassisti miegħek .
-sfortunatament m'hemm l-ebda attrazzjoni fuq l-isport multiplu
+m'għandhomx sports [ multiplu ]{"entity":" area"}
+l ebda riżultat għad [ divertiment ma ]{"entity": "type"} jista' jkun hemm xi ħaġa oħra .
+l ebda riżultat għad [ divertiment ma ]{"entity": "type"} jista' jkun hemm xi ħaġa oħra .
+iżda l I dont [ għandhom xi ]{"entity": "type"} ħaġa [ miftiehma ]{"entity":" area"}
+issib [ xi forom ]{"entity":" area"} ta' divertiment
+sfortunatament jidher li kwalunkwe attrazzjoni [ arkitettura f'dik ]{"entity": "type"} iż żona tal belt tista' ssib xi ħaġa għalik
+sfortunatament m'hemm l ebda [ arkitettura tajba ]{"entity": "type"} iżda nista' nħares lejn partijiet oħra tal belt jekk tixtieq
+ma hemm l ebda [ kulleġġ li ]{"entity": "type"} tixtieq tipprova żona differenti
+b'xorti ħażina m'hemm l [ ebda divertiment f'żona ]{"entity":" area"} ta' belt differenti li taħdem għalik
+ma hemm l ebda [ kulleġġ viċin ]{"entity": "type"} iż żona li qed titlob , li tixtieq tagħżel destinazzjoni oħra
+f'każ li ma jkun hemm l [ ebda divertiment , ]{"entity":" area"} ħadd ma jista' jassisti miegħek .
+sfortunatament m'hemm l [ ebda attrazzjoni ]{"entity":" area"} fuq l isport multiplu
 l-ebda ħaġa ma tixtieq tipprova żona differenti
-jien ma nistax nispjega kwalunkwe kulleġġ li tixtieq tipprova taqsima oħra
-ma hemm l [ ebda sport ] {"entity": "type"}
-jien miżżewweġ iżda miżżewweġ u ma hemm l ebda [ kulleġġ ] {"entity": "type"} f'dak il qasam hemm xi ħaġa li nista' nagħmel għalik
-ma hemm l-ebda kulleġġ f'dik il-parti tal-belt
-sfortunatament għandek kwalunkwe elenkar għal kunċerti miftiehma jista' jikkontrolla żona oħra ta' belt għalik
+jien ma nistax nispjega kwalunkwe [ kulleġġ li ]{"entity": "type"} tixtieq tipprova taqsima oħra
+ma hemm l [ ebda sport ]{"entity":" area"}
+jien miżżewweġ iżda miżżewweġ u ma hemm l ebda [ kulleġġ f'dak ]{"entity": "type"} il qasam hemm xi ħaġa li nista' nagħmel għalik
+jien miżżewweġ iżda miżżewweġ u ma hemm l ebda [ kulleġġ f'dak ]{"entity": "type"} il qasam hemm xi ħaġa li nista' nagħmel għalik
+sfortunatament għandek kwalunkwe elenkar għal [ kunċerti miftiehma ]{"entity": "type"} jista' jikkontrolla żona oħra ta' belt għalik

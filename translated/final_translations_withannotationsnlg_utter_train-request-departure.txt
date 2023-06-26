@@ -49,7 +49,7 @@ fejn qed titbiegħed u għandek xi żmien partikolari f'moħħok
 x'inhuma l-postijiet tat-tluq u tad-destinazzjoni tiegħek
 ovvjament taf fejn inti se titlaq minn
 assigura liema stazzjonijiet qed tivvjaġġa bejn
-għandek biss tikkonferma li trid tħalli waħedha u fejn qed titbiegħed minn
+għandek biss tikkonferma li trid tħalli [ waħedha u ]{"entity":" day"} fejn qed titbiegħed minn
 iżomm f'moħħu sit tad-destinazzjoni jew tat-tluq
 minn fejn toqgħod
 fejn qed titbiegħed
@@ -93,7 +93,7 @@ u fejn ser titbiegħed minn
 nixtieq ngħinlek b'dak fejn tkun il-post tat-tluq tiegħek
 u fejn qed tħalli l-
 fejn ser titlaq u tasal minn
-fejn ser ] {"entity":" day"} titbiegħed u liema ħin tixtieq tivvjaġġa fuq [ ix xemx
+fejn ser titbiegħed u liema ħin tixtieq tivvjaġġa fuq [ ix xemx ]{"entity":" day"}
 x'inhu l-istazzjon tat-tluq tiegħek
 id-destinazzjoni mixtieqa tiegħek
 sure i can help you with that what is your place of departure

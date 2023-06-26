@@ -5,7 +5,7 @@ kemm-il lejl se tkun qed toqgħod
 meta tixtieq tibda ż-żjara tiegħek
 iva tista' tkun għal lejl wieħed biss
 kemm-il ġurnata ser tibqa'
-kemm-il lejl kienu interessati
+hemm għadd [ ta' ristoranti li ]{"entity": "choice"} jixraq dak li qed tfittex għal liema qasam tixtieq u kemm hemm nies
 alright i can take care of that for you how many nights will you be staying
 kemm għandek il-ħsieb li żżomm
 kemm-il jum għandek tibqa' hemm

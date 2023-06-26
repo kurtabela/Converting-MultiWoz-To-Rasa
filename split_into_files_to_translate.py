@@ -134,7 +134,15 @@ def pass_to_fast_align(translate_dir, totranslate_dir):
     # print(subprocess.check_call(['wsl',
     #                              '~/../../mnt/c/University/PHD/rasa-test/Converting-MultiWoz-To-Rasa/totranslate/fast_align.sh']))
                         # print(line)
-
+def to_add_to_line(dict_in, index, to_add_string):
+    if index in dict_in:
+        if "entity" in to_add_string:
+            dict_in[index] = to_add_string + dict_in[index]
+        else:
+            dict_in[index] += to_add_string
+    else:
+        dict_in[index] = to_add_string
+    return dict_in
 
 def extract_fast_align_results(translate_dir, totranslate_dir):
 
@@ -158,7 +166,9 @@ def extract_fast_align_results(translate_dir, totranslate_dir):
                                 en_no_annotations = en_in_no_annotations.readlines()
                                 alignments = alignment.readlines()
                                 for i, line in enumerate(en):
-
+                                    indexes_to_avoid = []
+                                    if "would you be interested in staying at the" in line:
+                                        print(" ")
                                     if "{" not in line:
                                         mt_out.write(mt[i])
                                         continue
@@ -171,14 +181,14 @@ def extract_fast_align_results(translate_dir, totranslate_dir):
                                     # print(result.group(1))
                                     # print(alignments[i])
                                     try:
-                                        for entity_res in result:
+                                        to_insert = {}
+                                        for index_result, entity_res in enumerate(result):
                                         #get array of position indexs of result.group(1)
 
                                             split_entity_res = re.findall(r"[\w:']+|[.,!?;]", entity_res)
 
                                             pos_of_first_index = re.findall(r"[\w:']+|[.,!?;]", en_no_annotations[i]).index(split_entity_res[0])
                                             not_found = False
-                                            temp_copy_of_current_mt = mt[i]
                                             while True:
                                                 if not_found:
                                                     not_found = False
@@ -203,29 +213,38 @@ def extract_fast_align_results(translate_dir, totranslate_dir):
                                             array_of_indexes_target = []
                                             for alignment in alignments[i].split():
                                                 if int(alignment.split("-")[0]) in array_of_indexes:
-                                                    array_of_indexes_target.append(int(alignment[-1]))
+                                                    array_of_indexes_target.append(int(alignment.split("-")[-1]))
                                             # array_of_indexes_target = array_of_indexes_target.sort()
 
                                             # print(array_of_indexes_target)
                                             if array_of_indexes_target == []:
                                                 # Error in alignment, so ignore
                                                 continue
-                                            #                       add [ ] before and after words in indexes array_of_indexes_target to mt[i]
+                                            # add [ ] before and after words in indexes array_of_indexes_target to mt[i]
                                             mt_list = re.findall(r"[\w:']+|[.,!?;]", mt[i])
-                                            mt_list.insert(array_of_indexes_target[0], "[")
-                                            mt_list.insert(array_of_indexes_target[-1] + 2, "]")
 
                                             # get stuff that was in {} from "line"
-                                            entity_details_to_readd = re.findall('{[^}]+}', line)[0]
-                                            # print(entity_details_to_readd)
-
+                                            entity_details_to_readd = re.findall('{[^}]+}', line)[index_result]
                                             #  add stuff ^ after the last index in array_of_indexes_target to mt[i]
+                                            skip = False
+                                            for i_check_overlap in range(array_of_indexes_target[0], array_of_indexes_target[-1] + 2):
+                                                if i_check_overlap in indexes_to_avoid:
+                                                    skip = True
+                                                    break
+                                            if not skip:
+                                                to_insert = to_add_to_line(to_insert, array_of_indexes_target[0], "[")
+                                                to_insert = to_add_to_line(to_insert, array_of_indexes_target[-1] + 2, "]" + entity_details_to_readd)
+                                                for i_tmp in range(array_of_indexes_target[0], array_of_indexes_target[-1] + 2):
+                                                    indexes_to_avoid.append(i_tmp)
 
-                                            mt_list.insert(array_of_indexes_target[-1] + 3, entity_details_to_readd)
-                                            temp_copy_of_current_mt = " ".join(mt_list)
+                                        # Reverse order
+                                        to_insert = list(sorted(to_insert.items()))[::-1]
+                                        for val in to_insert:
+                                            mt_list.insert(val[0], val[1])
+                                        temp_copy_of_current_mt = " ".join(mt_list)
 
                                         mt_out.write(temp_copy_of_current_mt.replace("\n", "") + "\n")
-                                    except:
+                                    except :
                                         print("error")
                                         mt_out.write(mt[i].replace("\n", "") + "\n")
                                         continue

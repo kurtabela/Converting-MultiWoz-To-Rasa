@@ -1,10 +1,10 @@
 x'tixtieq tibqa'
 int tixtieq li l-lukanda tkun fiż-żona ċentrali wkoll
 liema qasam jippreferi
-liema parti tal belt għandek interess fil [ Lvant ] {"entity":" area"}
+liema parti tal belt għandek [ interess fil ]{"entity":" area"}[ Lvant ]{"entity":" area"}
 għalhekk ċerta żona tixtieq tibqa'
 mhux problema għandek preferenza fil-qasam
-il konsegwenzi tal [ konsenja huma ] {"entity":" postcode"} cb11lh li tista' tgħin biex issib post fejn toqgħod .
+il konsegwenzi tal [ konsenja huma cb11lh ]{"entity":" postcode"} li tista' tgħin biex issib post fejn toqgħod .
 liema qasam għandu jkun
 għandek tgħin biex tistaqsi liema medda ta' prezzijiet u żona tal-belt qed tfittex
 iva ċertament nista' ngħinlek b'dan il-mod f'żona ta' bliet li jippreferu jibqgħu u jkollok firxa ta' prezzijiet f'moħħhom
@@ -37,7 +37,7 @@ liema żona ta' bliet tippreferi
 i can help you find this information did you have a particular area of town in mind
 i can certainly help you with that do you have a preferred price range or area
 tista' tieħu post li tixtieq tibqa'
-ir-rebbieħ kellu suċċess in-numru ta' referenza tiegħek mhux miżmum i jista' jkollu firxa ta' prezzijiet u liema qasam
+il konsegwenzi tal [ konsenja huma cb11lh ]{"entity":" postcode"} li tista' tgħin biex issib post fejn toqgħod .
 ok that narrows it down to 8 options for you any other preferences
 żgur li min-naħa tal-belt jippreferi liema medda ta' prezzijiet tixtieq.
 sure i can help with that what area will you be staying in

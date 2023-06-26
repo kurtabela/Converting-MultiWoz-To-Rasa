@@ -2,64 +2,64 @@ li wieħed għandu l-ipparkjar u l-ipparkjar bla ħlas se jkollu bżonn firxa u 
 l-I dont iridu li jkun hemm reġistrazzjoni sempliċiment jagħtuni n-numru tat-telefon u l-medda tal-prezzijiet jekk jogħġbok
 tista' tieħu n-numru tat-telefon u l-indirizz tat-telefon tagħhom jekk jogħġbok
 għandek bżonn il-klassifikazzjoni u n-numru tat-telefown tagħhom.
-i dont għandha wkoll preferenza tista' tieħu n-numru ta' referenza
-għandek tgħin ] {"entity":" name"} biex [ issib l istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment .
+i [ dont għandha wkoll preferenza tista' ]{"entity":" area"} tieħu n numru ta' referenza
+għandek tgħin biex issib l istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal [ istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment ]{"entity":" name"} tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment tal istabbiliment .
 tista' wkoll tkun taf il-klassifikazzjoni tal-stilla tan-numru tat-telefown bil-vawċer u tixtieq ukoll tkun taf jekk għandekx ħsieb
 tista' tieħu n-numru tat-telefon
 li l-multa jista' jkollha n-numru tat-telefon
 iva jista' jkollha l-indirizz
-iva nixtieq infakkar għal 5 persuni li jista' jkollhom in-numru ta' referenza
+iva nixtieq infakkar għal [ 5 persuni ]{"entity": "bookstay"} li jista' jkollhom in numru ta' referenza
 għandu l-internet
 jista' jkollok in-numru ta' referenza għal dik ir-riżerva jekk jogħġbok
-tista' tipprova għal lejl [ wieħed ] {"entity":" bookstay"} jekk dak ix xogħol jekk jogħġbok ikteb in numru ta' referenza
+tista' tipprova għal lejl [ wieħed jekk ]{"entity":" bookstay"} dak ix xogħol jekk jogħġbok ikteb in numru ta' referenza
 għandu ipparkjar b'xejn u l-internet
 jekk jogħġbok, jista' jkollok l-indirizz u n-numru tat-telefon tal-kaċċaturdon marriott
 x'inhi l-firxa tal-prezzijiet tad-dar ta" adenokarċinoma
 do they have free parking i will need that
 tista' tieħu l-indirizz tal-gonville jekk jogħġbok
-i just would like to book it for 2 please give me reference number
+tista' tipprova għal lejl [ wieħed jekk ]{"entity":" bookstay"} dak ix xogħol jekk jogħġbok ikteb in numru ta' referenza
 dak ir-rebbieħ ikun neċessarju tista' biss tagħtina t-tip ta' vawċer ta' wara t-twelid u x'inhi l-klassifikazzjoni tiegħu tal-stilla jekk jogħġbok
 do any of the locations you have found offer free parking
 ok hemm waħda li tirrakkomanda
 x'inhi ż-żona tal-belt ta' Ħelsinki
 għandu parkeġġ ħieles
 l-ebda i dont m'għandu bżonn kamra i sempliċiment għandu bżonn il-kodiċi postali għal dak il-kworum jekk jogħġbok
-[ iva ] {"entity": "bookpeople"} , jekk jogħġbok , nixtieq nippreżentaha għal 7 u neħtieġ numru ta' referenza
-iva għal wieħed jekk jogħġbok [ ipprovdi ] {"entity":" bookpeople"} numru ta referenza
+iva , jekk jogħġbok , nixtieq nippreżentaha għal [ 7 u ]{"entity": "bookpeople"}[ neħtieġ numru ]{"entity":" bookday"} ta' referenza
+iva għal [ wieħed jekk ]{"entity":" bookpeople"} jogħġbok [ ipprovdi numru ]{"entity":" bookday"} ta referenza
 jekk jogħġbok agħti l-għajnuna tiegħek lil ħaddieħor.
-[ jekk jogħġbok ] {"entity":" arriveby"} i se jkollok bżonn il prezz u l fergħa id
+[ jekk jogħġbok i ]{"entity":" arriveby"} se jkollok bżonn il prezz u l fergħa id
 iva jekk jogħġbok jeħtieġ firxa ta" prezzijiet u numru tat-telefon
 iva, agħżel li nipprova niddeċiedi ħaġa ġdida u mbagħad agħtini l-firxa tal-prezzijiet tal-ġenotip u n-numru tat-telefown, tant kiesaħ
 waħda bi prezz moderat hija multa jekk jogħġbok agħti n-numru tat-telefon u ż-żona tal-kodiċi postali
-għandek bżonn ukoll ta' ferrovija mingħajr ma tkun tista' tgħinni.
-x'inhi ż żona li [ fiha ] {"entity": "name"} jkollhom id fuq l internet ukoll bħan numru tat telefown tagħhom
-tista' tgħidli x'inhi ż żona fejn qiegħed [ il ] {"entity": "destination"} vawċer u nixtieq ukoll insib ferrovija biex tgħin fil pont
+għandek bżonn ukoll ta' ferrovija [ mingħajr ma ]{"entity": "departure"} tkun tista' tgħinni .
+x'inhi ż żona li [ fiha jkollhom ]{"entity": "name"} id fuq l internet ukoll bħan numru tat telefown tagħhom
+tista' tgħidli x'inhi ż żona fejn qiegħed il vawċer u nixtieq ukoll insib ferrovija biex tgħin fil [ pont ]{"entity":" day"}
 Kapaċinipprovdili b'mod assolut it-tip ta' vawċer u vawċer tal-vawċer tal-gonville
 l-ebda ħaġa ma trid in-numru tat-telefon ta' post wieħed li tirrakkomanda
 tista' tikkonferma jekk dan huwiex kamra jew raħal li għandhom ħieles
 no that wont be necessary what is the address though so i have it for my reference
 tista' tagħtih it-tip ta' vawċer u n-numru tat-telefon għal kwalunkwe wieħed mill-vawċers
-li l proponent jista' jieħu ] {"entity": "name"} post il [ proponent tal proponent tal proponent tal proponent jekk jogħġbok
+li l proponent jista' jieħu post il [ proponent tal proponent tal proponent tal proponent jekk ]{"entity": "name"} jogħġbok
 li tista' tikteb il-kamra u tagħtih in-numru ta' referenza
-i għandek bżonn in numru tat telefon għall [ vawċer ] {"entity": "type"} jekk jogħġbok
-l-ebda persuna ma tista' tikteb waħda minnhom għalija għal 4.
-iħares ukoll lejn is [ sit ta' carolina u jikkwota ] {"entity":" name"} x'inhi din iż żona
+i għandek bżonn in numru tat telefon għall [ vawċer jekk ]{"entity": "type"} jogħġbok
+l ebda persuna ma tista' tikteb waħda minnhom għalija għal [ 4 . ]{"entity": "bookpeople"}
+iħares ukoll lejn is [ sit ta' carolina u jikkwota x'inhi ]{"entity":" name"} din iż żona
 l-ebda ħaġa li għad hemm bżonnha biex wieħed ikun jaf liema qasam kien fi
-jekk jogħġbok [ iktebni ] {"entity": "name"} ftit kmamar għall armi universitarji , tista' tipprovdili wkoll in numru ta' referenza wara li tikteb
+jekk jogħġbok iktebni ftit [ kmamar għall ]{"entity": "name"} armi [ universitarji , ]{"entity": "bookpeople"} tista' tipprovdili wkoll [ in numru ]{"entity":" bookday"} ta' referenza wara li tikteb
 tliet iljieli li jibdew fuq it-tubi sempliċiment għall-għaġina bħan-numru ta' referenza wkoll
 tista' tirrakkomanda waħda
 ok li wieħed ikun jaf ħafna
 grazzi għandek tkun taf liema żona fil-belt li jinsabu fiha tista' tuża wkoll numru tat-telefown jekk għandek fuq ir-rekord
-iva jekk jogħġbok iktebni kamra għal 4 ġeneri totali i għandek bżonn ukoll numru ta' referenza jekk jogħġbok
+iva jekk jogħġbok iktebni kamra għal [ 4 ġeneri ]{"entity": "bookstay"} totali i għandek bżonn ukoll numru ta' referenza jekk jogħġbok
 għandhom ipparkjar ħieles
-jekk jogħġbok ipprovdili wkoll bin-numru ta' referenza i tixtieq ukoll tikteb taxi
+iva jekk jogħġbok iktebni kamra għal [ 4 ġeneri ]{"entity": "bookstay"} totali i għandek bżonn ukoll numru ta' referenza jekk jogħġbok
 le iżda tista' tagħtini dak in-numru tat-telefon jekk jogħġbok
-għandhom ipparkjar ħieles u liema tip ta' vawċer huma
-i would like a [ expensive ] {"entity": "pricerange"} price range
-għandek bżonn in [ numru ] {"entity": "type"} tat telefon tal kodiċi postali u l indirizz tal vawċer jekk jogħġbok
-[ il ] {"entity": "type"} lukandi jkunu jistgħu jiksbu numru tat telefon għal wieħed jekk jogħġbok
+iva jekk jogħġbok iktebni kamra għal [ 4 ġeneri ]{"entity": "bookstay"} totali i għandek bżonn ukoll numru ta' referenza jekk jogħġbok
+i would like a [ expensive price ]{"entity": "pricerange"} range
+għandek bżonn in numru tat telefon tal kodiċi postali u l indirizz tal [ vawċer jekk ]{"entity": "type"} jogħġbok
+[ il lukandi ]{"entity": "type"} jkunu jistgħu jiksbu numru tat telefon għal wieħed jekk jogħġbok
 nixtieq li tħalli waħda u tgħid lil ħaddieħor u liema tip ta' kamra jekk jogħġbok
-iva 3 in-numru ta" referenza jekk jogħġbok
+iva [ 3 in ]{"entity": "bookpeople"} numru ta referenza jekk jogħġbok
 tista' tgħidli t-tip ta' vawċer u tipprovdili bin-numru tat-telefown tal-vawċer
 għandek bżonn ta' internet ħieles u għandek bżonn il-kodiċi postali tagħhom
 żgur li nixtieq nippreżenta riżerva għal dak iżda l-ewwel tista' tgħidu x'inhi ż-żona fejn jinsabu l-għoljiet u l-għoljiet tal-pjaċir
@@ -70,34 +70,34 @@ tista' tagħti d-dettalji
 iva dan jidher li għadu għaddej u għandu jitniżżel fil-kotba
 l-ebda ħaġa ma tista', jekk jogħġbok, tieħu ż-żona tan-numru tat-telefown tagħhom u tindirizzahom bis-saħħa ta'
 jista' jkollok l-indirizz eżatt jekk jogħġbok
-Kapaċinirċievi l indirizz u l kodiċi postali għall [ lukanda ] {"entity":" type"}
-Żomm fuq saqajk' il quddiem u ibdel il-vawċer għal 7 iljieli jekk jogħġbok ibgħatli n-numru ta' referenza ladarba ssir ir-riżerva
+Kapaċinirċievi l indirizz u l kodiċi postali għall [ lukanda ]{"entity":" type"}
+Żomm fuq saqajk' il quddiem u ibdel il vawċer għal [ 7 iljieli ]{"entity": "bookpeople"} jekk jogħġbok ibgħatli n numru ta' referenza ladarba ssir ir riżerva
 Fil-fatt, ma tħassibx dwar il-fatt li issa għadha tista' tniżżel fejn qiegħda għalija maż-żona wara t-twelid.
-l [ gonvillean tal ] {"entity": "name"} Ktieb ok tista' tipprovdi n numru tat telefon u għandek l internet
+l [ gonvillean tal Ktieb ]{"entity": "name"} ok tista' tipprovdi n numru tat telefon u għandek l internet
 għandu wkoll aċċess għall-internet
-tista' , jekk jogħġbok [ , tgħidli l firxa tal ] {"entity":" name"} prezzijiet u l kodiċi postali taċ ċineg ta' l ivvjaġġar
+tista' , jekk jogħġbok , tgħidli l firxa tal prezzijiet u l kodiċi postali [ taċ ċineg ta' l ivvjaġġar ]{"entity":" name"}
 tista' tgħidli l-ħsibijiet tiegħek ta' dawk it-3 u tgħallimni naf x'inhuma l-belt li wieħed jinsab fiha
 l-ebda ħtieġa li wieħed ikun jaf il-firxa tal-prezzijiet wara t-tqegħid fis-suq u ż-żona
-[ tuesday ] {"entity":" bookday"} get me the reference number please
+[ tuesday get ]{"entity":" bookday"} me the reference number please
 sakemm ikollu ħieles għall-ipparkjar u l-ipparkjar imbagħad iva
 iva għadha qed tħares lejn in-numru tat-telefon ta' wieħed
 jixtieq li jkun jaf jekk għandux ipparkjar ħieles ukoll it-tip ta" vawċer u l-kodiċi postali tiegħu
 x'hemm madwar Ħarifa fit-Tramuntana
-it-tnejn li huma għandhom internet ħieles
-iva , l [ istudenti ] {"entity": "name"} jistgħu jagħtuni n numru tat telefon u l kodiċi postali tagħhom jekk jogħġbok
+[ tuesday get ]{"entity":" bookday"} me the reference number please
+iva , l [ istudenti jistgħu ]{"entity": "name"} jagħtuni n numru tat telefon u l kodiċi postali tagħhom jekk jogħġbok
 iva jekk jogħġbok ikteb il-vawċer u agħti l-indirizz bil-kodiċi postali permezz ta'
 iva tista' tieħu l-kodiċi postali jekk jogħġbok
 l-ebda preferenza tal-prezz ma hija meħtieġa
 do anyall of them have free parking as well
 jekk jogħġbok ħu l-ewwel waħda fuq il-lista tiegħek u għandek bżonn l-indirizz u n-numru tat-telefon jekk jogħġbok
 x'inhuwa disponibbli
-[ l ebda preferenza ma ] {"entity":" name"} tista taħrab waħda u tieħu l pożizzjoni u l firxa tal prezzijiet jekk jogħġbok
+[ l ebda preferenza ma tista ]{"entity":" name"} taħrab waħda u tieħu l pożizzjoni u l firxa tal prezzijiet jekk jogħġbok
 għandek bżonn il-prezz
-i għandhom bżonn jitniżżlu fil-kotba ta' dawk li għandhom ipparkjar b'xejn u b'xejn ikollhom jitniżżlu fil-kotba fro 5 i għandhom bżonn in-numru ta' referenza
-jekk jogħġbok irreġistrah għal persuna waħda għal [ 5 ] {"entity": "bookstay"} iljieli li jibdew friday jekk jogħġbok ipprovdili bin numru ta' referenza imla
-could you give me the address for [ huntingdon marriott ] {"entity":" name"} please
+i għandhom bżonn jitniżżlu fil kotba ta' dawk li għandhom ipparkjar b'xejn u b'xejn ikollhom jitniżżlu fil kotba fro [ 5 i ]{"entity": "bookpeople"} għandhom bżonn in numru ta' referenza
+jekk jogħġbok irreġistrah għal persuna waħda għal [ 5 iljieli ]{"entity": "bookstay"} li jibdew friday jekk jogħġbok ipprovdili bin numru ta' referenza imla
+could you give me the address for [ huntingdon marriott please ]{"entity":" name"}
 tista" tieħu l-prezz għal biljett l-ewwel
-il Parlament Ewropew għandu jadotta l pożizzjoni [ tiegħu ] {"entity":" name"} dwar il futur ta' l Ewropa .
+il Parlament Ewropew għandu jadotta l pożizzjoni [ tiegħu dwar ]{"entity":" name"} il futur ta' l Ewropa .
 jixtieq l-ewwel ikun jaf x'inhuma l-firxa ta' prezzijiet u t-tip ta' vawċer li jissejħu?
 l-ebda ħaġa m'għandha bżonn numru tat-telefon
 id bħala rakkomandazzjoni
@@ -105,53 +105,53 @@ għandek bżonn il-kodiċi postali jekk jogħġbok
 għandu parkeġġ ħieles
 le grazzi, iżda tista' tipprovdili bil-kodiċi postali tagħhom
 li għandhom ipparkjar ħieles
-jista' jkollok in numru tat telefown ] {"entity":" name"} tiegħek jekk jogħġbok [ u nixtieq ukoll nara jekk għandekx informazzjoni dwar il missjoni tal missjoni tal missjoni tal missjoni
-għandu [ 4 ] {"entity": "stars"} klassifikazzjoni ta' stilla u internet
+jista' jkollok in numru tat telefown tiegħek jekk jogħġbok u nixtieq ukoll nara jekk għandekx informazzjoni dwar il missjoni [ tal missjoni tal missjoni tal missjoni ]{"entity":" name"}
+għandu [ 4 klassifikazzjoni ]{"entity": "stars"} ta' stilla u internet
 tista' tagħtini l-kodiċi postali u għandek l-internet
 i għandek bżonn l-indirizz tat-tip ta' vawċer u tkun taf jekk għandekx
 żgur li tista' tagħtini n-numru tat-telefon tagħhom
 li jkun kbir, nista' nippreżenta l-pożizzjoni tiegħi
-qabel ma tikteb , ] {"entity":" name"} tista' tieħu l indirizz [ taċ Ċilindru tal Parlament Ewropew
+qabel ma tikteb , tista' tieħu l indirizz [ taċ Ċilindru tal Parlament Ewropew ]{"entity":" name"}
 l-indirizz tiegħek għad għandek ipparkjar ħieles
-[ il logħob tal azzard ] {"entity": "name"} ikun biss multa li jkollok bżonn il kodiċi postali jekk jogħġbok
+[ il logħob tal azzard ikun ]{"entity": "name"} biss multa li jkollok bżonn il kodiċi postali jekk jogħġbok
 tirrakkomanda b'mod tipiku wieħed mill-ħafna fil-qasam u tibgħatli l-indirizz
 is that a hotel and what is the price range
 dak li jgħidu ħafna x'inhu l-kodiċi postali tagħhom
 i fil-fatt l-dont għandha bżonn ir-riżervi i għandha bżonn biss il-medda tal-prezzijiet tan-numru tat-telefon
-il [ Ġimgħa l ] {"entity": "pricerange"} oħra tista' tgħinni nsib il prezz tal Ġimgħa hekk kif il Ġimgħa
+il Ġimgħa l oħra tista' tgħinni nsib il prezz tal Ġimgħa [ hekk kif il ]{"entity":" area"} Ġimgħa
 qabel ma nagħmlu dan, x'inhu l-isem tal-kamra u għandhom ukoll ipparkjar ħieles
 dak il-perit jista' jirriserva dak u jipprovdilu bin-numru ta' referenza
 tista' tgħidli jekk din il-kamra jew kamra u jekk għandhomx ipparkjar ħieles jew le jekk jogħġbok
 is the parking free
 iva, għandu jkollha prezz għoli u moderat
 l-ebda permezz tiegħi ma għandek tgħidli n-numru tat-telefon u t-tip għalih jekk jogħġbok
-kemm-il stilla għandha
+il Ġimgħa l oħra tista' tgħinni nsib il prezz tal Ġimgħa [ hekk kif il ]{"entity":" area"} Ġimgħa
 għandu parkeġġ ħieles
 find me the telephone number
-iridu ż-żona tal-indirizz chinese u l-kodiċi postali jekk jogħġbok
+iridu ż żona tal indirizz [ chinese u ]{"entity": "stars"} l kodiċi postali jekk jogħġbok
 x'inhu l-kodiċi postali u n-numru tat-telefon
 jista' jkollok
 se jkollok bżonn l-indirizz taż-żona u l-kodiċi postali jekk jogħġbok
 effettivament għandek tikteb biss fuq it-tieni ħsieb tista' tagħti parir dwar kemm għandhom stilli u l-prezz l-ewwel.
-i għandhom bżonn [ ta' ] {"entity": "area"} żieda qawwija fil prezzijiet għandhom ikunu fil medda l baxxa
+i għandhom bżonn ta' żieda qawwija fil prezzijiet għandhom ikunu fil medda l [ baxxa ]{"entity": "pricerange"}
 għandhom ipparkjar ħieles
 i would like to know how many stars the hotel is what type of hotel it is and i need their telephone number please
-ive heard good things about the [ acorn marshouse ] {"entity":" name"} what is their telephone number and do they have free параграф
+ive heard good things about the [ acorn marshouse what ]{"entity":" name"} is their telephone number and do they have free параграф
 l-istampa tgħid x'għandu jkun in-numru tat-telefon u l-kodiċi postali ta' l-ashleys
 iva, ovvjament, tixtieq tirreġistrah u tagħtih ukoll in-numru ta' referenza.
 iva tista' tipprovdi l-kodiċi postali u l-stilla tal-vawċer
-iż żona tal ħabitat tixtieq tibqa' [ f'kamra ] {"entity": "type"} għalkemm
+iż żona tal ħabitat tixtieq tibqa' [ f'kamra għalkemm ]{"entity": "type"}
 jekk jogħġbok, koppja oħra iktar mistoqsijiet dwar il-klassifikazzjoni ta' l-istat ta' l-istat ta' l-istat ta' l-istat ta' l-istat ta' l-istat ta' l-istat.
 l-ebda ħaġa m'għandha bżonn in-numru tat-telefon bis-saħħa
-jista' jkolli l indirizz għad [ dar tal ħabs ] {"entity":" name"}
+jista' jkolli l indirizz għad [ dar tal ħabs ]{"entity":" name"}
 għandhom l-internet u l-ipparkjar bla ħlas
 issa, l-i dont għandu bżonn ta' kamra i sempliċiment l-indirizz
 għandhom l-internet u x'inhu l-indirizz
-għadu ma ġiex ippubblikat fil-Parlament Ewropew.
+jista' jkolli l indirizz għad [ dar tal ħabs ]{"entity":" name"}
 tista' tgħidli jekk għandek ipparkjar ħieles
 tista' tgħidli jekk għandek l-internet b'xejn
 mhux kompluta
-l istudenti jmorru bl [ 4 ] {"entity": "stars"} stilla jista' jkollhom in numru tat telefown ta' dak l istudent .
+l istudenti jmorru bl [ 4 stilla ]{"entity": "stars"} jista' jkollhom in numru tat telefown ta' dak l istudent .
 huma jinkludu l-ikel u jistgħu jiksbu l-kodiċi postali u n-numru tat-telefown
 għalhekk għandi n-numru tat-telefon u l-kodiċi postali għal dak il-post.
 effettivament l-i dont għandu bżonn riżerva tista' biss tagħtina l-istejjer tal-klassifikazzjoni tal-istejjer u l-kodiċi postali
@@ -159,10 +159,10 @@ no just get me their telephone number and ill give them a ring
 għandhom ipparkjar ħieles
 jista' jkollok il-kodiċi postali tagħhom
 effettivament għandek bżonn in-numru tat-telefon tagħhom jekk jogħġbok
-iva jekk jogħġbok imla l-kotba għal 5 persuni, jekk jogħġbok, jekk jogħġbok ipprovdilu numru ta' referenza wara l-inklużjoni
-we are staying 6 i need the reference number
+iva jekk jogħġbok imla l kotba għal [ 5 persuni ]{"entity": "bookstay"} , jekk jogħġbok , jekk jogħġbok ipprovdilu numru ta' referenza wara l inklużjoni
+we are [ staying 6 ]{"entity": "bookpeople"} i need the reference number
 im not ready to book quite yet can you let me know if it is a hotel or dan is also how many stars it is
-iva jeħtieġ [ li ] {"entity":" bookday"} jitniżżel fil kotba għall iljieli ta' bil lejl li jkunu għaddejjin , jeħtieġ ukoll in numru ta' referenza
+iva jeħtieġ li jitniżżel fil kotba għall iljieli ta' bil lejl li [ jkunu għaddejjin ]{"entity": "bookstay"} , jeħtieġ ukoll in numru ta' referenza
 iva għar-rekords tiegħi
 għandhom l-internet b'xejn
 no i dont need reservation but can i get the address and telephone number for them
@@ -170,23 +170,23 @@ jista' jkollok
 jixtieq li l-Punent jekk jogħġbok
 l-I dont għandha bżonn tirreġistra iżda tixtieq li l-indirizz
 jista' jkollok ukoll in-numru tat-telefon
-tista' tipprova [ tospita fl istess ] {"entity": "type"} żona jekk jogħġbok
-i se jkun qiegħed jasal fil [ Ministeru ] {"entity":" bookday"} i se jkollu bżonn in numru ta' referenza jekk jogħġbok
+tista' tipprova [ tospita fl istess żona ]{"entity": "type"} jekk jogħġbok
+i se jkun qiegħed jasal fil [ Ministeru i ]{"entity":" bookday"} se jkollu bżonn in numru ta' referenza jekk jogħġbok
 l-ebda ħaġa ħażina ma tista' tagħtini numru tat-telefon u kodiċi postali u kemm hu għali.
 effettivament tista' tieħu post il-firxa ta' prezzijiet tagħhom u jekk għandhomx ipparkjar ħieles
 iva li tkun kbira
 grazzi għan-numru ta" referenza
 tista' ssib oħra
-[ 3 ] {"entity": "bookpeople"} ijiem u ġib in numru tat telefon fuq il kodiċi postali u l indirizz jekk jogħġbok
+[ 3 ijiem ]{"entity": "bookpeople"} u ġib in numru tat telefon fuq il kodiċi postali u l indirizz jekk jogħġbok
 fil-fatt għandek bżonn tikteb kamra li għadha kif għaddejja iżda tista' tipprovdi n-numru tat-telefown bil-posta u l-indirizz
-jekk għandek bżonn in-numru ta' kuntatt u t-tip ta' karozza
+[ 3 ijiem ]{"entity": "bookpeople"} u ġib in numru tat telefon fuq il kodiċi postali u l indirizz jekk jogħġbok
 l-ebda ħaġa ma tista' jekk jogħġbok agħti l-indirizz għalkemm
 il-lensfield għandu ipparkjar u internet bla ħlas
-l artijiet jaraw dak li huwa disponibbli [ rħis hekk ] {"entity":" pricerange"} kif l artijiet jagħmlu l iktar sens iżda huma miftuħa għal kwalunkwe żona .
-għandek il pjaċir tiegħi li ] {"entity":" pricerange"} qed infittex pjaċir [ irħis bl ipparkjar ħieles u bl internet
+l artijiet jaraw dak li huwa [ disponibbli rħis ]{"entity":" pricerange"} hekk kif l artijiet jagħmlu l iktar sens iżda huma miftuħa għal kwalunkwe żona .
+għandek il pjaċir tiegħi li qed infittex [ pjaċir irħis ]{"entity":" pricerange"} bl ipparkjar ħieles u bl internet
 għandhom l-internet
 l-ebda ħaġa ma tista' tagħtina biss iż-żona li qiegħda ġewwa u wara nofsinhar jekk jogħġbok
-8 jekk jogħġbok agħtih [ in ] {"entity": "bookpeople"} numru ta' referenza jekk jogħġbok
+[ 8 jekk ]{"entity": "bookpeople"} jogħġbok agħtih [ in numru ]{"entity":" bookday"} ta' referenza jekk jogħġbok
 il-kandidati tiegħek
 tista' tniżżel fil-kotba tiegħi u tieħu numru ta' referenza
 fil-fatt għandna bżonn il-kodiċi postali għall-kamra tal-pont u wara għandna bżonn ta' taxi ukoll
@@ -200,13 +200,13 @@ għad m'hemmx għalfejn nippreżentaw il-pożizzjoni tagħna.
 ma għandekx għalfejn tkun taf it-tip u l-indirizz ta' vawċer jekk jogħġbok
 ma għandekx bżonn il-kodiċi postali u n-numru tat-telefon jekk jogħġbok
 jista' jkollok l-indirizz u l-kodiċi postali jekk jogħġbok
-x'inhu n numru tat telefon għal dak tal [ qarrej ] {"entity":" area"}
+x'inhu n numru tat telefon għal dak tal [ qarrej ]{"entity":" area"}
 nope that should cover it
-ħu l-isem u tista' tieħu n-numru tat-telefown tiegħek jekk jogħġbok
+x'inhu n numru tat telefon għal dak tal [ qarrej ]{"entity":" area"}
 jassumu li għandhom id-dritttal-internet
 għandek ukoll tieħu n-numru tat-telefown
 ħafna stillti
-kemm-il stilla wkoll il-kodiċi postali u l-indirizz i se jkollhom bżonn ukoll taxi u jridu jaslu skont in-numru ta' kuntatt u t-tip ta' karozza.
+x'inhu n numru tat telefon għal dak tal [ qarrej ]{"entity":" area"}
 għadha kif insib il-kodiċi postali u l-indirizz
 tista' tgħidli jekk għandek ipparkjar ħieles
 iva li tkun ta' għajnuna
@@ -214,27 +214,27 @@ is the parking free perchance
 jista' jkollok il-kodiċi postali
 jista' jkollok ukoll in-numru tat-telefown
 tista' tagħtini n-numru tat-telefon u l-indirizz tiegħek jekk jogħġbok
-[ tista' tieħu n ] {"entity":" name"} numru tat telefon u l indirizz tat tarzna tal ħrief
+tista' tieħu n numru tat telefon u l indirizz tat [ tarzna tal ħrief ]{"entity":" name"}
 x'inhi ż-żona
 x'inhu l-kodiċi postali
 ma għandhomx għalfejn ikunu jafu jekk għandhomx l-internet u x'inhu l-kodiċi postali u n-numru tat-telefown għal wieħed minnhom
 għandek biss tieħu numru ta' referenza meta tirrekordjaha
-l-ebda stilla partikolari ma ġiet ikklassifikata
+[ l ebda stilla ]{"entity":" pricerange"} partikolari ma ġiet ikklassifikata
 i would like one with internet what are the price ranges for those
 l-ebda ħaġa m'għandha bżonn il-firxa tal-prezzijiet tal-indirizzi u għandna bżonn nafu jekk għandhomx l-internet
-tista' jekk jogħġbok itniżżel kamra fil [ ġenb ] {"entity":" name"} u jekk tista' jekk jogħġbok ipprovdi n numru ta' referenza li trid toħroġ f'każ ta' kwalunkwe kwistjoni
+tista' jekk jogħġbok itniżżel kamra fil [ ġenb u ]{"entity":" name"} jekk tista' jekk jogħġbok ipprovdi n numru ta' referenza li trid toħroġ f'każ ta' kwalunkwe kwistjoni
 iva l-kodiċi postali tagħhom u jekk għandhomx ipparkjar ħieles jew le
 għandek twieġeb għall-mistoqsija tiegħi jekk għandekx bżonn il-kodiċi postali għall-kodiċi taċ-ċineg tal-ponta u għandek tkun taf jekk għandekx ipparkjar ħieles jew le
 x'inhi l-firxa tal-prezzijiet tagħhom
 tista' tieħu n-numru tat-telefown jiġifieri li għandek ipparkjar ħieles ħafna bis-saħħa
 għandhom ipparkjar ħieles
-isem [ il ] {"entity":" name"} missier u liema parti taż żona hija dan il missier fid dar ukoll bħal informazzjoni dwar il Logħob tal lenti
+isem il missier u liema parti taż żona hija dan il missier fid dar ukoll bħal informazzjoni dwar il Logħob tal [ lenti ]{"entity":" name"}
 l-ebda ħaġa m'għandha bżonn l-internet ħieles u l-indirizz tal-firxa tal-prezzijiet u l-kodiċi postali ta' dak li ssib
 wieħed mit-tnejn jekk jogħġbok agħtini l-ħin tal-vjaġġ u l-prezz
 ma għandux għalfejn jitniżżel fil-kotba għal issa iżda għandu għalfejn jikseb in-numru tat-telefon u l-indirizz tal-posta elettronika.
 l-ebda persuna m'għandha bżonn tirreġistra iżda għandha bżonn tkun taf jekk għandhiex l-internet b'xejn in-numru tat-telefon u l-kodiċi tal-posta
 le iżda nixtieq li l-kodiċi postali għal dak il-klassi jekk jogħġbok jeħtieġ ukoll li ssib post biex tibqa' tista' tgħini b'dak il-kodiċi.
-[ iż żona taċ ] {"entity": "area"} ċentru se taħdem iżda għandha tkun ċentru fejn wieħed ikun jaf ikollha bżonn ukoll il kodiċi tal pożizzjonijiet u l kodiċi postali
+[ iż żona taċ ċentru ]{"entity": "area"} se taħdem iżda għandha tkun ċentru fejn wieħed ikun jaf ikollha bżonn ukoll il kodiċi tal pożizzjonijiet u l kodiċi postali
 l-oġġett ivament konvenjenti jista" jirċievi r-referenza ma" dak jekk jogħġbok ukoll
 mhux biss għandhom bżonn l-indirizz u n-numru tat-telefown tagħhom
 din tkun multa tista' tgħidu għaliex ħafna stillti
@@ -249,12 +249,12 @@ li tista' tagħtini l-indirizz jekk jogħġbok
 li wieħed minnhom għandu parkeġġ ħieles
 dan se jkun il-każ in-numri ta' referenza
 jista' jkollok l-indirizz u n-numru tat-telefon jekk jogħġbok
-minflok, għandek bżonn in-numru ta' referenza jekk jogħġbok
-lamtu tal i dont [ care ] {"entity":" pricerange"}
+[ iż żona taċ ċentru ]{"entity": "area"} se taħdem iżda għandha tkun ċentru fejn wieħed ikun jaf ikollha bżonn ukoll il kodiċi tal pożizzjonijiet u l kodiċi postali
+[ lamtu tal ]{"entity":" pricerange"} i dont [ care ]{"entity":" stars"}
 għandhom l-internet u x'inhu l-medda tal-prezzijiet
 x'inhu l-prezz tal-ikel għall-annimali
 jekk jogħġbok ikteb kamra li tista' tieħu wkoll il-klassifikazzjoni tal-stilla u l-kodiċi postali
-jekk jogħġbok agħżel [ il vawċer ] {"entity":" name"} ashley liema indirizz jekk jogħġbok
+jekk jogħġbok agħżel [ il vawċer ashley ]{"entity":" name"} liema indirizz jekk jogħġbok
 m'għandekx bżonn l-indirizz
 kbir għas-smigħ li tista' tipprovdili wkoll bin-numru ta' referenza
 ma għandekx tkompli t-tfittxija
@@ -264,26 +264,26 @@ jista' jkollok in-numru tat-telefon għall-marriott tal-kaċċa tal-donjekk jog�
 tista' tieħu l-firxa ta' prezzijiet fuqha
 kbir ta" dak li kien in-numru ta" referenza għall-Bejgħ
 tista' tirrakkomanda wieħed b'ipparkjar bla ħlas u bla ħlas fil-medda moderata tal-prezzijiet u tagħtih il-klassifikazzjoni tal-istat u n-numru tat-telefown
-x'inhu n numru tat telefown tal [ el shaddai ] {"entity":" name"}
+x'inhu n numru tat telefown tal [ el shaddai ]{"entity":" name"}
 għal dak li għandu x'jaqsam ma" reġistrazzjoni
 i għandek il-faintest iżda għandek numru ta' referenza għall-riċetta li għamel
 bħalissa tista' biss tieħu postha u hija kuntenti
-[ 3 ] {"entity": "bookpeople"} persuni jistgħu jiksbu n numru ta' referenza jekk jogħġbok
+[ 3 persuni ]{"entity": "bookpeople"} jistgħu jiksbu n numru ta' referenza jekk jogħġbok
 jista' jkollok biss in-numru tat-telefon jekk jogħġbok
 għadu mhux qed jiġi impost l-info issa
-jekk jogħġbok agħtini n numru lill [ lodge ta' l isponża ] {"entity":" name"}
+jekk jogħġbok agħtini n numru lill [ lodge ta' l isponża ]{"entity":" name"}
 l-indirizz ta' l-indirizz..........
-mhux [ familjari ] {"entity":" area"} maż żoni differenti u għalhekk jixtieq li jkun hemm xi ħaġa waħda moderata għalkemm ħieles .
+mhux familjari maż żoni differenti u għalhekk jixtieq li jkun hemm [ xi ħaġa ]{"entity":" area"} waħda moderata għalkemm ħieles .
 l-ebda ħaġa ma tista' tgħidli n-numru tat-telefon u liema żona tal-belt hija dik
 liema minn dawk it-tlieta tirrakkomanda
 jekk jogħġbok ħu biss l-aħjar wieħed u kteb għalhekk il-day
-nistgħu nipprovaw żewġt iljieli minflok waħda ħażina jkollhom bżonn in-numru ta' referenza wkoll
-poġġiha fil-kotba għal 7 agħtini n-numru ta' referenza
-il-kworum i se jkollu bżonn ukoll numru ta" referenza
+mhux familjari maż żoni differenti u għalhekk jixtieq li jkun hemm [ xi ħaġa ]{"entity":" area"} waħda moderata għalkemm ħieles .
+poġġiha fil kotba għal [ 7 agħtini ]{"entity": "bookpeople"} n numru ta' referenza
+[ il kworum i ]{"entity": "type"} se jkollu bżonn ukoll numru ta referenza
 waħda oħra tixtieq ukoll il-firxa tal-prezzijiet jekk jogħġbok
 il-post tax-xogħol biss jekk jogħġbok
 l-ebda ħsieb ħażin ħalli wieħed ikun jaf l-aħjar
-i dont fil fatt għandha firxa ta' prezzijiet li [ kwalunkwe ] {"entity": "stars"} ħaġa tkun multa jixtieq li jkollha l ipparkjar u l ipparkjar bla ħlas għalkemm u bejn wieħed u ieħor 4 stillti bħal dawk imsemmija
+i dont fil fatt għandha firxa ta' prezzijiet li kwalunkwe ħaġa tkun multa jixtieq li jkollha l ipparkjar u l ipparkjar bla ħlas għalkemm u bejn wieħed u ieħor [ 4 stillti ]{"entity": "stars"} bħal dawk imsemmija
 li tista' tagħtini ż-żona u l-firxa ta' prezzijiet jekk jogħġbok
 l-indirizz tiegħu
 i amnot quite ready to make a reservation yet but could you please get the address for me

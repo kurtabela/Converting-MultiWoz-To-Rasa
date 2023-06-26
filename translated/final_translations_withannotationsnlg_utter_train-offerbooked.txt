@@ -1,273 +1,273 @@
-eċċellenti li t-total tiegħek huwa ta' 8 voti favur, hemm xi ħaġa li tista' tgħin biha llum.
-l-ispiża totali ta' l-ispiża ta' l-ispiża ta' l-ispiża hija ta' kull ħaġa li għandek bżonn
-sure i seta' jniżżel [ is siġġu ] {"entity": "ref"} tiegħek u n numru ta' referenza tiegħek huwa 4eiv9ufn .
-ive għandek fuq il tr4678 li [ għandu ] {"entity":" trainid"} jitħallas fl istazzjon
-ok i [ was ] {"entity": "ref"} able to book one ticket your reference number is m0pimesh
-għalkemm għadu ma ġiex [ ippubblikat fil Ġurnal ] {"entity":" trainid"} Uffiċjali ta' l Unjoni Ewropea , għadu mhux ikkonfermat .
-jidher li għalkemm il ferrovija tiegħek [ diġà ] {"entity": "arriveby"} tniżżlet fil kotba , il ferrovija tasal f'nofs il lejl
-in numru ta' referenza huwa [ 3enda3ic . ] {"entity": "ref"}
-il-ħlas totali huwa ta' 196 % għal kull min jista' jagħmel għalik.
-[ l ] {"entity": "ref"} istudju kellu suċċess in numru ta' referenza tiegħek is Surmoa9 jista' jgħinlek b'kull ħaġa oħra
-l istudju kien ta' suċċess għal [ tr5 workers ] {"entity":" trainid"}
-dan [ il fuljett ] {"entity": "ref"} kellu suċċess in numru ta' referenza tiegħek huwa i76goxin f'kull każ .
-l ewwel biljett għalik ] {"entity": "ref"} in numru ta' referenza huwa [ 3uo2 Illum il ġurnata kwalunkwe ħaġa
-il-ħlas totali kien ta' suċċess ta' 404 ħlas li għandek bżonn xi ħaġa llum
-il kotba tiegħu u l ispejjeż għandhom ikunu ta [ 118 ] {"entity": "price"}
-ir riċetta tiegħek kien [ suċċess li l ] {"entity": "ref"} għadd ta' referenza tiegħek kienu jaqbżu l għadd k0nf4v7i li għandu jitħallas fl istazzjon
-it tariffa totali kienet ta' suċċess ta' [ 1328 ] {"entity": "price"}
-ive reserved [ 5 ] {"entity": "bookpeople"}
-instab li għandek siġġu [ f'tr4658 ] {"entity": "trainid"}
-i have made the booking for seven fare payable at the station do you need anything else
-il ħlas totali ssettjat kollu huwa ta' [ 176 ] {"entity": "price"}
-il-ħlas totali kien ta' suċċess ta' 505 %.
-in numru ta' referenza tiegħek huwa [ kblancdd9 ] {"entity": "ref"} jista' jgħinlek b'xi ħaġa llum .
-i booked the train it was 2253 do you need help with anything else
-inti kollha reġistrati bin-numru ta' referenza 144 irreġistrat se jkun dovut fl-istazzjon, jista' jkun ta' għajnuna oħra llum.
-[ b'xorti ] {"entity": "price"} ħażina ma kellhiex dik l informazzjoni iżda kelli l kapaċitàli tniżżel il ferrovija tiegħek b'suċċess , it total huwa 12096
-huma kollha set ta' referenza [ sxb123qi li jridu ] {"entity": "ref"} jitħallsu fl istazzjon kull meta jkun jista' jgħinlek
-għalhekk [ il ] {"entity":" trainid"} Parlament Ewropew għandu jadotta l pożizzjoni tiegħu dwar il futur ta' l Ewropa .
-i booked you 3 is due at the [ station ] {"entity": "bookpeople"} will that be all today
-il-fatt li l-ħlas totali kellu suċċess huwa li l-ħlas totali jitħallas lura fejn tixtieq li l-ħlas jiġi
-iva l-fatt li l-Bejgħ kien ta' suċċess, it-tariffa totali hija ta' 7509 ġimgħa.
-i kien kapaċijirreġistra r referenza tiegħu hija [ 0w0bqb8w . ] {"entity": "ref"}
-iva , in numru huwa [ Internazzjonali ] {"entity":" trainid"} kull Ħaġa
-in numru ta referenza huwa ] {"entity": "ref"} d Denominazzjoni ta l [ Awtorizzazzjoni għat Tqegħid fis Suq ta kull ħaġa
-i has booked you on the tr0137 payable at the station will that be all
-in numru ta' referenza tiegħek kollu huwa [ axbh3mc7 ] {"entity": "ref"}
-it-tariffa totali kienet ta' suċċess 7919, ħaġa li hemm xi mod ieħor biex tgħin
-b'suċċess , it tariffa totali hija ta' ] {"entity": "price"} 165 , [ 000 , 000 , 000 , 000 .
-it tariffa totali tista' tgħin [ lilek ] {"entity": "price"} b'kull ħaġa llum .
-il-ħlas totali kien ta' suċċess ta' 99 ħlas li jista' jgħin bi kwalunkwe ħaġa
-ok great i was able to book you on train tr4296 can i assist you with anything else
-iva , [ ikteb ] {"entity": "ref"} il biljetti u n numru ta' referenza tiegħek huwa 1tarw3rs
-in numru ta' referenza tiegħek għandu [ jitniżżel ] {"entity": "ref"} fil kotba tiegħek .
-il-ħlas totali kien ta' suċċess għal 332 persuna li tista' tgħinlek b'kull ħaġa llum.
-in-numru ta' referenza tal-ferrovija tiegħek għandu jitħallas fl-istazzjon.
-5 biljetti f'tr2634 ġew imniżżla fil-kotba t-tariffa totali hi ta' 118 ħlas, jiġifieri kull biljett i jista' jagħmel
-il miżata totali tiegħek kollha hija ta' [ 7559 ] {"entity": "price"}
-l għotja totali ta' 7509 ġimgħa [ għaddiet ] {"entity": "price"}
+train [ tr4076 would ]{"entity": "trainid"} you [ like me ]{"entity":" leaveat"} to book that
+l ispiża totali ta' [ l ispiża ta' l ispiża ]{"entity": "price"} ta' l ispiża hija ta' kull ħaġa li għandek bżonn
+sure i seta' jniżżel is siġġu tiegħek u n numru ta' referenza tiegħek huwa [ 4eiv9ufn . ]{"entity":" duration"}
+ive għandek fuq [ il tr4678 ]{"entity": "leaveat"} li [ għandu jitħallas ]{"entity": "price"} fl istazzjon
+ok i was able to book one ticket your reference number is [ m0pimesh ]{"entity": "ref"}
+għalkemm għadu ma ġiex ippubblikat fil [ Ġurnal Uffiċjali ta' ]{"entity":" trainid"} l [ Unjoni Ewropea , għadu mhux ]{"entity":" leaveat"} ikkonfermat .
+jidher li għalkemm il ferrovija tiegħek diġà tniżżlet fil [ kotba , ]{"entity": "arriveby"} il ferrovija tasal f'nofs il [ lejl ]{"entity":" trainid"}
+in numru ta' referenza huwa [ 3enda3ic . ]{"entity": "ref"}
+in numru ta' referenza huwa [ 3enda3ic . ]{"entity": "ref"}
+l istudju kellu suċċess in numru ta' referenza tiegħek is [ Surmoa9 jista' ]{"entity": "ref"} jgħinlek b'kull ħaġa oħra
+l [ istudju kien ]{"entity":" trainid"}[ ta' suċċess ]{"entity": "price"} għal [ tr5 workers ]{"entity": "ref"}
+dan il fuljett kellu suċċess in numru ta' referenza tiegħek huwa [ i76goxin f'kull każ ]{"entity":" price"} .
+l ewwel biljett għalik in numru ta' referenza huwa [ 3uo2 Illum il ġurnata kwalunkwe ]{"entity": "ref"} ħaġa
+il ħlas totali kien [ ta' suċċess ]{"entity": "price"} ta' 404 ħlas li għandek bżonn xi ħaġa llum
+il kotba [ tiegħu u ]{"entity": "price"} l ispejjeż għandhom ikunu ta [ 118 ]{"entity": "ref"}
+ir riċetta tiegħek kien suċċess li l [ għadd ta' referenza tiegħek kienu jaqbżu l ]{"entity": "ref"}[ għadd k0nf4v7i li għandu ]{"entity": "price"} jitħallas fl istazzjon
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 1328 ]{"entity": "ref"}
+ive reserved [ 5 ]{"entity": "ref"}
+[ instab li ]{"entity": "trainid"} għandek siġġu [ f'tr4658 ]{"entity": "ref"}
+i have [ made the booking for ]{"entity": "bookpeople"}[ seven fare payable ]{"entity": "ref"} at the station do you need anything else
+il ħlas totali ssettjat kollu huwa ta' [ 176 ]{"entity": "duration"}
+il ħlas totali ssettjat kollu huwa ta' [ 176 ]{"entity": "duration"}
+in numru ta' referenza tiegħek huwa [ kblancdd9 jista' ]{"entity": "ref"} jgħinlek b'xi ħaġa llum .
+i booked the train it was [ 2253 do ]{"entity": "price"} you need help with anything else
+inti kollha reġistrati bin numru ta' referenza [ 144 irreġistrat ]{"entity": "ref"} se jkun dovut fl istazzjon , jista' jkun ta' għajnuna oħra llum .
+b'xorti ħażina ma kellhiex dik l informazzjoni iżda kelli l kapaċitàli tniżżel il ferrovija tiegħek b'suċċess , it total huwa [ 12096 ]{"entity": "ref"}
+huma kollha [ set ta' ]{"entity": "ref"} referenza [ sxb123qi li jridu jitħallsu ]{"entity": "price"} fl istazzjon kull meta jkun jista' jgħinlek
+għalhekk il [ Parlament Ewropew għandu ]{"entity":" trainid"} jadotta l pożizzjoni tiegħu dwar il [ futur ta' ]{"entity": "ref"} l Ewropa .
+i booked you [ 3 is ]{"entity": "trainid"} due at the [ station will ]{"entity": "price"} that be all today
+il fatt li [ l ħlas ]{"entity": "price"} totali kellu suċċess huwa li l ħlas totali jitħallas lura fejn tixtieq li l ħlas jiġi
+iva l fatt li l Bejgħ kien ta' suċċess [ , it ]{"entity": "price"} tariffa totali hija ta' 7509 ġimgħa .
+i kien kapaċijirreġistra r referenza tiegħu hija [ 0w0bqb8w . ]{"entity": "ref"}
+iva , in numru huwa [ Internazzjonali kull ]{"entity":" trainid"} Ħaġa
+in numru ta referenza huwa d Denominazzjoni ta l [ Awtorizzazzjoni għat Tqegħid fis Suq ta ]{"entity": "ref"} kull ħaġa
+i has booked you on the [ tr0137 payable ]{"entity": "ref"} at the station will that be all
+in numru ta' referenza tiegħek kollu huwa [ axbh3mc7 ]{"entity": "ref"}
+it tariffa totali kienet [ ta' suċċess 7919 , ]{"entity": "price"} ħaġa li hemm xi mod ieħor biex tgħin
+b'suċċess , it tariffa totali hija ta' 165 , [ 000 , 000 , 000 , 000 . ]{"entity": "ref"}
+it tariffa totali tista' tgħin [ lilek b'kull ]{"entity": "ref"} ħaġa llum .
+il ħlas totali kien ta' suċċess [ ta' 99 ħlas ]{"entity":" price"} li jista' jgħin bi kwalunkwe ħaġa
+ok great i was able to book you on train [ tr4296 can ]{"entity":" arriveby"} i assist you with anything else
+iva , ikteb il biljetti u n numru ta' referenza tiegħek huwa [ 1tarw3rs ]{"entity": "ref"}
+in numru ta' referenza tiegħek għandu [ jitniżżel fil ]{"entity": "ref"} kotba tiegħek .
+il ħlas totali kien [ ta' suċċess ]{"entity": "price"} għal 332 persuna li tista' tgħinlek b'kull ħaġa llum .
+il ħlas totali kien [ ta' suċċess ]{"entity": "price"} għal 332 persuna li tista' tgħinlek b'kull ħaġa llum .
+il ħlas totali kien [ ta' suċċess ]{"entity": "price"} għal 332 persuna li tista' tgħinlek b'kull ħaġa llum .
+il miżata totali tiegħek kollha hija ta' [ 7559 ]{"entity": "ref"}
+l għotja totali ta' 7509 ġimgħa [ għaddiet ]{"entity": "ref"}
 l-ispiża totali ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża ta' l-ispiża kien ta' suċċess.
-it tariffa totali kienet ta' suċċess ta' 7 [ proposals . ] {"entity": "price"}
-ir [ riżultati tal ] {"entity": "ref"} votazzjonijiet li ttieħdu matul is seduta plenarja li għaddiet jinsabu fis sit tas servizz ta' l Istampa tal Parlament Ewropew .
-i was [ able ] {"entity": "ref"} to book it for you your reference number is dqdgtdh8 is there anything else i can help you with
-għandek tħallas 2816 [ jekk ikollok ] {"entity": "price"} bżonn
-2 Dawn ir regolamenti għandhom [ jidħlu fis seħħ f'dik id ] {"entity": "bookpeople"} data li l Ministru jista b'avviż fil Gazzetta jistabbilixxi .
-it tariffa totali kienet ta' suċċess , jiġifieri ta' [ 808 ] {"entity": "price"}
-int imniżżel ] {"entity":" price"} fil kotba u l miżata totali [ hi ta' 30039 .
-in numru ta' referenza tiegħek huwa [ 2xqu7jjs permezz ] {"entity": "ref"} ta'
-it tariffa totali ] {"entity":" price"} għall grupp tiegħek se tkun ta' [ 10 triljun .
-ir-rebbieħ tiegħek kellu suċċess fit-tariffa totali tiegħek.
-it tariffa totali kienet ta' suċċess ta' [ 64 . ] {"entity": "price"}
-it tariffa totali kienet ta' suċċess [ . . . ] {"entity": "price"}
-in numru ta' referenza tiegħek kien ta' suċċess [ 5rlfjogz ] {"entity": "ref"} f'każ li jkollok bżonn dan ikun hemm xi ħaġa oħra li tista' tgħinlek
-in numru ta referenza reġistrat huwa [ s6s3ln7b ] {"entity": "ref"} fl istazzjon
-it tariffa totali kienet ta' suċċess ta' [ 404 ] {"entity": "price"}
-is-sett kollu ta' referenza tiegħek huwa nku3l
-it tariffa totali ta' ok hija ta' 1 [ triljun . ] {"entity": "price"}
-ok in numru ta' referenza tiegħek huwa [ 50 approvazzjoni ] {"entity": "ref"}
-għandu jkun hemm [ sebgħa ] {"entity": "bookpeople"}
-ir riżerva tiegħek saret il miżata totali ta' [ 176 ] {"entity": "price"}
-għalhekk għandek tkompli t taħdidiet tagħha [ . ] {"entity": "bookpeople"}
-il ħlas totali kien ta' suċċess għas [ sena 99 . ] {"entity": "price"}
-i have booked 4 is there anything else
-għalkemm in numru ta' referenza tiegħek huwa [ 2oj4id ] {"entity": "ref"} , ikun hemm xi ħaġa oħra li tista' tgħinlek
-l-istudju kien ta' suċċess għal tr2835 u seta' jgħin bi kwalunkwe ħaġa
-ir riżerva tiegħek hija 3vhc8e0f li trid [ titħallas ] {"entity": "ref"} fl istazzjon
-[ il ferrovija tiegħek ] {"entity": "departure"} tħalli l fwied ħieles It toroq jistgħu jgħinu biex tgħaqqadhom ma' kwalunkwe ħaġa fil belt tagħna llum .
-i was able to [ successfully ] {"entity": "ref"} book those tickets for you your reference number is qz3bix9u is there anything else i can help you with today
-il ħlas totali kien ta' suċċess għall [ istudenti ] {"entity": "price"} kollha
-i sure can your two [ train ] {"entity": "ref"} tickets have been booked and the reference number is xw5pqw8m is there anything else i can help you with
-it-tariffa totali ta' ok hija ta' 6008, jista' jgħin bi kwalunkwe ħaġa
-int imniżżel fil-kotba, il-miżata totali hi 14319.
-your train tickets have been booked on train [ tr1911 ] {"entity":" trainid"} is there anything else i can assist you with
-il-ħlas totali kien ta' suċċess.
-i was [ able ] {"entity": "ref"} to successfully book your tickets your reference number is i02b4ifi is there anything else i can help with
-għalhekk għandek bżonn ta' [ iktar ] {"entity":" trainid"} għajnuna .
-għandek 5 x'inhu hemm xi ħaġa li tista' tgħin biha llum
-it tariffa totali għandha tkun ta' [ 2253 ] {"entity": "price"} .
+it tariffa totali kienet [ ta' suċċess ]{"entity": "price"} ta' 7 [ proposals . ]{"entity": "ref"}
+ir riżultati tal votazzjonijiet li ttieħdu matul is seduta plenarja li [ għaddiet jinsabu fis ]{"entity": "ref"} sit tas servizz ta' l Istampa tal Parlament Ewropew .
+i was able to book it for you your reference number is [ dqdgtdh8 is ]{"entity": "ref"} there anything else i can help you with
+għandek [ tħallas 2816 ]{"entity": "price"}[ jekk ikollok bżonn ]{"entity": "ref"}
+2 Dawn [ ir regolamenti għandhom jidħlu fis seħħ f'dik id data ]{"entity": "bookpeople"} li l Ministru jista [ b'avviż fil Gazzetta jistabbilixxi . ]{"entity": "ref"}
+it tariffa totali kienet [ ta' suċċess ]{"entity": "price"} , jiġifieri ta' [ 808 ]{"entity": "ref"}
+int imniżżel fil kotba u l miżata totali [ hi ta' 30039 . ]{"entity":" leaveat"}
+in numru ta' referenza tiegħek huwa [ 2xqu7jjs permezz ta' ]{"entity": "ref"}
+it tariffa totali għall grupp tiegħek se tkun ta' [ 10 triljun . ]{"entity": "ref"}
+it tariffa totali għall grupp tiegħek se tkun ta' [ 10 triljun . ]{"entity": "ref"}
+it tariffa totali [ kienet ta' suċċess ]{"entity": "price"} ta' [ 64 . ]{"entity": "ref"}
+it tariffa totali [ kienet ta' suċċess ]{"entity": "price"}[ . . . ]{"entity": "ref"}
+in numru ta' referenza tiegħek kien ta' suċċess [ 5rlfjogz f'każ ]{"entity": "ref"} li jkollok bżonn dan ikun hemm xi ħaġa oħra li tista' tgħinlek
+in numru [ ta referenza ]{"entity": "ref"} reġistrat huwa [ s6s3ln7b fl ]{"entity": "price"} istazzjon
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 404 ]{"entity": "ref"}
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 404 ]{"entity": "ref"}
+it tariffa totali ta' ok hija ta' 1 [ triljun . ]{"entity": "ref"}
+ok in numru ta' referenza tiegħek huwa [ 50 approvazzjoni ]{"entity": "ref"}
+[ għandu jkun ]{"entity": "trainid"} hemm [ sebgħa ]{"entity": "ref"}
+ir riżerva tiegħek [ saret il ]{"entity": "price"} miżata totali ta' [ 176 ]{"entity": "ref"}
+għalhekk għandek [ tkompli t ]{"entity":" trainid"} taħdidiet tagħha [ . ]{"entity": "ref"}
+il ħlas totali kien [ ta' suċċess ]{"entity": "price"} għas [ sena 99 . ]{"entity": "ref"}
+i have booked [ 4 is ]{"entity": "bookpeople"} there anything else
+għalkemm in numru ta' referenza tiegħek huwa [ 2oj4id , ]{"entity": "ref"} ikun hemm xi ħaġa oħra li tista' tgħinlek
+l istudju kien ta' [ suċċess għal ]{"entity": "price"} tr2835 u seta' jgħin bi kwalunkwe ħaġa
+ir riżerva tiegħek hija 3vhc8e0f li trid [ titħallas fl ]{"entity": "price"} istazzjon
+il ferrovija tiegħek [ tħalli l ]{"entity": "departure"}[ fwied ħieles ]{"entity": "day"} It toroq jistgħu [ jgħinu biex tgħaqqadhom ma' ]{"entity":" arriveby"} kwalunkwe ħaġa fil belt tagħna llum .
+i was able to successfully book those tickets for you your reference number is [ qz3bix9u is ]{"entity": "ref"} there anything else i can help you with today
+il ħlas totali [ kien ta' ]{"entity": "price"} suċċess għall [ istudenti kollha ]{"entity": "ref"}
+i sure can your two train tickets have been booked and the reference number is [ xw5pqw8m is ]{"entity": "ref"} there anything else i can help you with
+i sure can your two train tickets have been booked and the reference number is [ xw5pqw8m is ]{"entity": "ref"} there anything else i can help you with
+i sure can your two train tickets have been booked and the reference number is [ xw5pqw8m is ]{"entity": "ref"} there anything else i can help you with
+your train tickets have been booked on train [ tr1911 is ]{"entity": "ref"} there anything else i can assist you with
+your train tickets have been booked on train [ tr1911 is ]{"entity": "ref"} there anything else i can assist you with
+i was able to successfully book your tickets your reference number is [ i02b4ifi is ]{"entity": "ref"} there anything else i can help with
+[ għalhekk għandek ]{"entity":" trainid"} bżonn ta' [ iktar għajnuna ]{"entity": "ref"} .
+għandek [ 5 x'inhu ]{"entity": "bookpeople"} hemm xi ħaġa li tista' tgħin biha llum
+it tariffa totali għandha tkun ta' [ 2253 . ]{"entity": "ref"}
 in-numru ta' referenza huwa f756ltgz kull ħaġa
-i għamilt l istudju u hawnhekk il ġabra [ ta' ] {"entity": "price"} informazzjoni kellha suċċess , il miżata totali hija ta' 308 ċenteżmu kwalunkwe ħaġa li tista' tgħinlek
-[ waħda ] {"entity": "bookpeople"}
-assigura li ħadt il biljetti tiegħek [ għal ] {"entity": "ref"} 8 persuni , in numru ta' referenza tiegħek huwa t6b9unbq
-[ l ] {"entity": "trainid"} Alġerija tibdel ir riżervi tiegħek madwar i tniżżel l tr0135
-il-ħlas totali għandu jitħallas lura kull nhar il-Ġimgħa.
-inti kollha ssettjat in numru ta' referenza huwa [ v0hledjw ] {"entity":" ref"} jista' jgħin ma' kwalunkwe ħaġa oħra
-għamilx in numru ta' referenza tiegħek huwa [ em07 luma7z ] {"entity": "ref"}
-jien imniżżel b'suċċess 4 hawnhekk kull ħaġa li tista' tkun ta' għajnuna
-i has booked for you train [ tr9025 ] {"entity": "trainid"}
-i was able to book it reference number is [ ut2t6sj1 ] {"entity": "ref"}
-id-dritttotali kien ta' suċċess.
-l-ispiża totali ta' 13216 ġimgħa għandha tkun ta' suċċess.
-għandek tniżżel fil kotba [ tiegħek fuq il kliem ] {"entity":" trainid"} tal kliem tal kliem tal kliem tal kliem tal kliem .
-il ħlas totali kien ta' suċċess , jiġifieri ta' [ 664 ] {"entity": "price"} ħlas jista' jgħin ma' kwalunkwe ħaġa llum
-l-ispejjeż ta' l-ivvjaġġar kienu ta' suċċess u l-miżata totali hija ta' 3959.
-l ewwel waħda tkun li jkollok għaxar [ snin oħra ] {"entity": "arriveby"} .
-ok [ ive ] {"entity": "ref"} irreġistra li għalik in numru ta' referenza tiegħek huwa 2k7lo41g jista' jgħinlek b'kull ħaġa oħra
-it tariffa totali għall ok hija ta' [ 6272 ] {"entity": "price"} .
-ir riżerva tiegħek hija n numru ta' referenza [ lmb9kchm ] {"entity": "ref"} jista' jgħinlek bi kwalunkwe ħaġa llum .
-[ i ] {"entity": "bookpeople"} was able to get you 7 payable at the station when you get there
-2 Dawn ir [ regolamenti għandhom ] {"entity": "bookpeople"} jidħlu fis seħħ fl 1 ta Jannar , 2013 .
-in numru ta' referenza tiegħek kien ta' suċċess [ n2j38ye1 ] {"entity": "ref"}
-ok i biddel ir-riżerva tiegħek fuq l-esperiment7802 kull ħaġa li tista' tagħmel
-għandek [ bżonn ] {"entity": "ref"} ta' kull ħaġa oħra
-id dritttotali ] {"entity": "price"} kien ta' suċċess għall fatt li l [ qarrej 264 jista' jgħinlek bi kwalunkwe ħaġa oħra
-l għotja totali kienet ta' suċċess [ 2816 ġimgħa ] {"entity": "price"}
-[ i ] {"entity":" trainid"} was able to book you 1 ticket on train tr2417
-it tariffa totali kienet ta' ] {"entity": "price"} suċċess għall [ Ġimgħa l Kbira tal Ġimgħa l Ġimgħa .
-isem u ] {"entity": "ref"} indirizz tal manifattur i responsabbli għall [ ħruġ tal lott
-il kiri [ tiegħek kien ta' suċċess ] {"entity": "price"} , it tariffa totali hija ta' 2656 ħlas ġdid kif xi ħaġa tista' tkun ta' servizz
-it tariffa totali kienet ta' suċċess ta' [ 1232 ] {"entity": "price"}
-l istudju kien ta' suċċess għal [ tr0942 ] {"entity":" trainid"}
-i għamel [ dawk ] {"entity": "ref"} ir riżervi u n numru ta' referenza tiegħek huwa k80faснаб4
-kbir in numru ta' referenza tiegħek huwa [ tygh2e4a ] {"entity":" ref"}
-ive booked you 7 is payable at the [ station ] {"entity": "bookpeople"} can i help you with anything else
-it tariffa totali għandha tkun ta' [ 2424 ] {"entity": "price"} .
-il-fatt li l-każinò kellu suċċess huwa li t-tariffa totali hija ta' 22 %.
-in-numru ta' referenza tiegħek kien ta' suċċess xuksdfw4.
-għandek ħafna flus għal kull ħaġa oħra
-[ il ] {"entity":" leaveat"} ħin għat tluq tal ferrovija huwa ta' 19 il siegħa għal kulħadd .
-l għotja totali ta' 7509 ġimgħa [ għaddiet ] {"entity": "price"}
-l-ispiża totali ta' l-ispiża ta' l-ispiża hija ta' 1134.
-l-ispiża totali ta' l-ispiża ta' l-ispiża hija 4506.
-i have booked you on train [ tr2819 ] {"entity": "trainid"}
-isem u ] {"entity": "ref"} indirizz tal manifattur i responsabbli għall [ ħruġ tal lott
-in numru ta' referenza tiegħek kien ta' suċċess [ n9pddwd8 ] {"entity": "ref"}
-int miżżewweġ fuq tr2776 li jitħallas fl-istazzjon ikun hemm xi ħaġa oħra
-iva , u n numru ta referenza tiegħek huwa [ 6793d7ed ] {"entity": "ref"} se jkun hemm kwalunkwe ħaġa
-għandek [ il biljett tiegħek imniżżel ] {"entity": "ref"} fil kotba i għandek in numru ta' referenza tiegħek g033hrd0 fl istazzjon kwalunkwe ħaġa li tista' tgħinlek
-in numru ta' referenza tiegħek kien f13rs8 Illum il [ ġurnata ] {"entity": "ref"} kwalunkwe ħaġa li għandek bżonn
-it tariffa totali kienet ta' suċċess ta' [ 1328 ] {"entity": "price"}
-hemm kull ħaġa li tista' tagħmel għalik
-miżmum fil kotba bin numru ta referenza [ 5 imġedded31 ] {"entity": "ref"}
-assigura li n numru ta' referenza huwa [ sin65pg9 ] {"entity": "ref"}
-it-tariffa totali tista' tgħin lilek bi kwalunkwe ħaġa llum.
-għandek is siġġijiet tiegħek għal [ 6 ] {"entity": "bookpeople"}
-żgur li t total tat tariffa huwa [ 6860 ] {"entity":" price"} .
-it tariffa totali għandha [ titħallas fl ] {"entity": "price"} istazzjon b'suċċess .
-in numru ta referenza [ għandu jitniżżel bħala ] {"entity": "ref"} numru ta referenza5qp16 .
-2 Dawn ir [ regolamenti ] {"entity": "bookpeople"} għandhom jidħlu fis seħħ fl 1 ta Jannar , 2013 .
-il ħlas totali kien ta' suċċess , jiġifieri ta' [ 808 ] {"entity": "price"} .
-your reservation on train id [ tr6985 ] {"entity": "trainid"}
-l istabbiliment kollu tan numru ta' referenza tiegħek huwa [ c4foekw5 ] {"entity": "ref"} li għandek bżonn kwalunkwe għajnuna oħra
-ok [ il ] {"entity":" price"} Bejgħ kellu suċċess , il miżata totali hija ta' 15119
-it tariffa totali kienet ta' suċċess ta' [ 44 . ] {"entity": "price"}
-inti kollha ssettjat il miżata totali hija ta' [ 392 ] {"entity": "price"}
-il-ħlas tiegħek tat-8 ta' filgħaxija huwa ta' tariffa waħda li inti tħallas fl-istazzjon jista' jgħin bi kwalunkwe ħaġa llum
-[ l ] {"entity": "price"} ispejjeż totali kienu ta' suċċess u l ispejjeż totali kienu ta' 48064 .
-ir rebbieħ tiegħek kellu suċċess fit tariffa totali ta' [ 3072 ] {"entity": "price"} ġimgħa , jista' jgħinlek b'kull ħaġa
-int miżżewweġ għal [ 8 ] {"entity": "bookpeople"}
-għandek il biljetti [ tiegħek imniżżla ] {"entity": "price"} fil kotba , it tariffa totali hija ta' 64 ċenteżmu
-i b'suċċess ġabret [ tnejn ] {"entity": "bookpeople"}
-kbir in numru ta' referenza tiegħek huwa [ t1y3tbqx ] {"entity": "ref"} u inti għandek tikteb kollox
-i booked 8 payable at the station
-in numru ta' referenza tiegħek kien ta' suċċess [ e5okhwn6 ] {"entity": "ref"}
-i was able to book [ tr7223 ] {"entity":" trainid"}
-id data ta' l għeluq ta' l [ applikazzjoni għandha tiġi ] {"entity": "price"} ppubblikata fil Ġurnal Uffiċjali .
-iva , ir riċetta [ tiegħek ] {"entity": "ref"} kellha suċċess u n numru ta' referenza tiegħek huwa p68ph2rr
-ir riċetta [ tiegħek ] {"entity": "ref"} kellha suċċess u n numru ta' referenza tiegħek huwa iso72h9i jista' jgħinlek b'kull ħaġa llum .
-il Ġimgħa li għaddiet , il [ Ġimgħa ] {"entity":" trainid"} li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet .
-it tariffa totali kienet ta' suċċess ta' [ 352 ] {"entity": "price"}
-żgur li ġejt imniżżel [ 1 ] {"entity": "bookpeople"}
-in numru ta' referenza tiegħek kien ta' suċċess [ rwrkp9l6 ] {"entity": "trainid"}
-kien kapaċinżomm fil-kotba l-11 ta' Settembru ta' kull ħaġa li nista' ngħinlek
-l-ispiża totali ta' l-ispiża ta' l-ispiża hija 4506.
-i has booked your train your reference number is 9v6domnz is payable at the station can i help with anything else
-it tariffa totali kienet ta' suċċess għal [ 6639 ] {"entity": "price"}
-il ħlas totali kien ta' suċċess ta' [ 882 ] {"entity": "price"}
-ir-rebbieħ kien ta' suċċess.
-il [ kiri ] {"entity": "price"} kien ta' suċċess , it tariffa totali hija ta' 1074
-imniżżel fil kotba l miżata totali hija [ 6059 ] {"entity": "price"}
-imniżżel fil kotba [ għal ] {"entity": "bookpeople"}
-in numru ta' referenza tiegħek huwa [ raa2478c ] {"entity": "ref"} f'kull każ ieħor li jista' jgħinlek
-[ l ispiża totali ] {"entity": "price"} ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża
-il fatt li l [ ħlas ] {"entity": "price"} totali kien ta' suċċess huwa li 236 persuna tista' tipprovdi kwalunkwe għajnuna oħra llum .
-leaves fil 5 ta' [ filgħaxija ] {"entity": "leaveat"}
-għandek 1 kull [ ħaġa ] {"entity": "bookpeople"}
-il ħlas se jkun ta' [ 236 ħlas li jrid ] {"entity": "price"} jitħallas fl istazzjon li tixtieq in numru ta' referenza
-ok int imniżżel in numru ta' referenza tiegħek huwa [ 231k9boe ] {"entity": "ref"}
-i booked [ tr3932 ] {"entity":" trainid"}
-għalkemm in numru ta' referenza tiegħek huwa [ g1lz1jm3 ] {"entity": "ref"} hemm kull min għandek bżonn
-ir-riżerva tal-ferrovija tiegħek għal 4 hija kwalunkwe ħaġa li tista' tgħinlek
-i booked you on train [ tr2716 ] {"entity": "trainid"}
-B'kollox , il Bejgħ kien ta' [ suċċess ] {"entity": "price"} , it tariffa totali hija ta' 101 ħlas kull darba li tista' tieħu
-it tariffa totali għall kiri kienet ta' [ suċċess ] {"entity": "price"}
-ir-reġistrazzjoni ta' tr2164 hemm kwalunkwe ħaġa li tista' tgħinlek
-reġistrazzjoni għal kull ħaġa oħra ta [ tr2006 ] {"entity": "trainid"}
-sure i booked tr4625 will be due payable at the station
-i has booked [ tr8509 ] {"entity": "trainid"}
-ir-riżerva tiegħek għal 6 hija kull ħaġa li tista' tagħmel għalik
-i kien kapaċijirreġistra n numru ta' referenza tiegħu huwa [ i4012zaz ] {"entity": "ref"}
+i għamilt l istudju u hawnhekk il ġabra ta' informazzjoni kellha suċċess [ , il ]{"entity": "price"} miżata totali hija ta' [ 308 ċenteżmu ]{"entity": "ref"} kwalunkwe ħaġa li tista' tgħinlek
+[ waħda ]{"entity": "ref"}
+assigura li ħadt il biljetti tiegħek għal 8 persuni , in numru ta' referenza tiegħek huwa [ t6b9unbq ]{"entity": "ref"}
+l Alġerija tibdel ir riżervi tiegħek madwar [ i tniżżel ]{"entity": "leaveat"} l [ tr0135 ]{"entity": "ref"}
+il ħlas totali [ għandu jitħallas ]{"entity": "price"} lura kull nhar il Ġimgħa .
+inti kollha ssettjat in numru ta' referenza huwa [ v0hledjw jista' ]{"entity":" ref"} jgħin ma' kwalunkwe ħaġa oħra
+għamilx in numru ta' referenza tiegħek huwa [ em07 luma7z ]{"entity": "ref"}
+jien imniżżel b'suċċess [ 4 hawnhekk ]{"entity": "bookpeople"} kull ħaġa li tista' tkun ta' għajnuna
+i has booked for you train [ tr9025 ]{"entity": "ref"}
+i was able to book it reference number is [ ut2t6sj1 ]{"entity": "ref"}
+i was able to book it reference number is [ ut2t6sj1 ]{"entity": "ref"}
+l ispiża totali [ ta' 13216 ]{"entity": "price"} ġimgħa għandha tkun ta' suċċess .
+għandek tniżżel fil kotba tiegħek fuq il [ kliem tal kliem tal ]{"entity": "ref"} kliem tal kliem [ tal kliem tal kliem . ]{"entity":" duration"}
+il ħlas totali kien ta' [ suċċess , ]{"entity": "price"} jiġifieri ta' [ 664 ħlas ]{"entity": "ref"} jista' jgħin ma' kwalunkwe ħaġa llum
+l ispejjeż ta' l [ ivvjaġġar kienu ]{"entity": "price"} ta' suċċess u l miżata totali hija ta' 3959 .
+l ewwel waħda tkun li [ jkollok għaxar snin ]{"entity": "arriveby"} oħra .
+ok ive irreġistra li għalik in numru ta' referenza tiegħek huwa [ 2k7lo41g jista' ]{"entity": "ref"} jgħinlek b'kull ħaġa oħra
+it tariffa totali [ għall ok ]{"entity": "price"} hija ta' [ 6272 . ]{"entity": "ref"}
+ir riżerva tiegħek hija n numru ta' referenza [ lmb9kchm jista' ]{"entity": "ref"} jgħinlek bi kwalunkwe ħaġa llum .
+i was able to get you [ 7 payable ]{"entity": "bookpeople"} at the [ station when ]{"entity": "price"} you get there
+2 Dawn [ ir regolamenti għandhom ]{"entity": "bookpeople"} jidħlu fis seħħ fl 1 ta Jannar , [ 2013 . ]{"entity": "ref"}
+in numru ta' referenza tiegħek kien ta' suċċess [ n2j38ye1 ]{"entity": "ref"}
+ok i [ biddel ir ]{"entity": "trainid"} riżerva tiegħek fuq l esperiment7802 kull ħaġa li tista' tagħmel
+għandek [ bżonn ta' ]{"entity": "ref"} kull ħaġa oħra
+id dritttotali kien ta' suċċess [ għall fatt ]{"entity": "price"} li l [ qarrej 264 jista' ]{"entity": "ref"} jgħinlek bi kwalunkwe ħaġa oħra
+l għotja totali [ kienet ta' ]{"entity": "price"} suċċess [ 2816 ġimgħa ]{"entity": "ref"}
+i was able to book you 1 ticket on train [ tr2417 ]{"entity": "ref"}
+it tariffa totali kienet [ ta' suċċess għall Ġimgħa ]{"entity": "price"} l Kbira tal Ġimgħa l Ġimgħa .
+isem u indirizz tal manifattur i responsabbli għall [ ħruġ tal lott ]{"entity": "ref"}
+il kiri tiegħek kien ta' suċċess , [ it tariffa ]{"entity": "price"} totali hija ta' [ 2656 ħlas ġdid kif xi ]{"entity": "ref"} ħaġa tista' tkun ta' servizz
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 1232 ]{"entity": "ref"}
+l [ istudju kien ]{"entity":" trainid"}[ ta' suċċess ]{"entity": "price"} għal [ tr0942 ]{"entity": "ref"}
+i għamel dawk ir riżervi u n numru ta' referenza tiegħek huwa [ k80faснаб4 ]{"entity": "ref"}
+kbir in numru ta' referenza tiegħek huwa [ tygh2e4a ]{"entity":" price"}
+ive booked you [ 7 is ]{"entity": "bookpeople"} payable at the [ station can ]{"entity": "price"} i help you with anything else
+it tariffa [ totali għandha ]{"entity": "price"} tkun ta' [ 2424 . ]{"entity": "ref"}
+il fatt li l [ każinò kellu ]{"entity": "price"} suċċess huwa li t tariffa totali hija ta' 22 .
+il fatt li l [ każinò kellu ]{"entity": "price"} suċċess huwa li t tariffa totali hija ta' 22 .
+għandek [ ħafna flus ]{"entity": "bookpeople"} għal kull ħaġa oħra
+il ħin għat tluq [ tal ferrovija ]{"entity": "duration"} huwa ta' 19 il [ siegħa għal ]{"entity":" trainid"} kulħadd .
+l għotja totali ta' 7509 ġimgħa [ għaddiet ]{"entity": "ref"}
+l ispiża totali [ ta' l ]{"entity": "price"} ispiża ta' l ispiża hija ta' 1134 .
+l ispiża totali [ ta' l ]{"entity": "price"} ispiża ta' l ispiża hija 4506 .
+i have booked you [ on train ]{"entity":" price"}[ tr2819 ]{"entity": "ref"}
+isem u indirizz tal manifattur i responsabbli għall [ ħruġ tal lott ]{"entity": "ref"}
+in numru ta' referenza tiegħek kien ta' suċċess [ n9pddwd8 ]{"entity":" price"}
+int [ miżżewweġ fuq tr2776 li ]{"entity":" trainid"} jitħallas fl istazzjon ikun hemm xi ħaġa oħra
+iva , u n numru ta referenza tiegħek huwa [ 6793d7ed se ]{"entity": "ref"} jkun hemm kwalunkwe ħaġa
+għandek il biljett tiegħek imniżżel fil kotba i għandek in numru [ ta' referenza tiegħek g033hrd0 fl ]{"entity": "price"} istazzjon kwalunkwe ħaġa li tista' tgħinlek
+in numru ta' referenza tiegħek kien f13rs8 Illum il [ ġurnata kwalunkwe ]{"entity": "ref"} ħaġa li għandek bżonn
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 1328 ]{"entity": "ref"}
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 1328 ]{"entity": "ref"}
+miżmum fil kotba bin numru ta referenza [ 5 imġedded31 ]{"entity": "ref"}
+assigura li n numru ta' referenza huwa [ sin65pg9 ]{"entity": "ref"}
+assigura li n numru ta' referenza huwa [ sin65pg9 ]{"entity": "ref"}
+għandek is [ siġġijiet tiegħek ]{"entity": "day"} għal [ 6 ]{"entity": "ref"}
+żgur li t total tat tariffa huwa [ 6860 . ]{"entity": "ref"}
+it tariffa totali għandha [ titħallas fl istazzjon ]{"entity": "price"} b'suċċess .
+in numru ta referenza [ għandu jitniżżel bħala numru ]{"entity": "ref"} ta referenza5qp16 .
+2 Dawn ir [ regolamenti għandhom ]{"entity": "leaveat"} jidħlu fis seħħ fl 1 ta Jannar , [ 2013 . ]{"entity": "ref"}
+il ħlas totali kien ta' suċċess , jiġifieri ta' [ 808 . ]{"entity": "ref"}
+your [ reservation on ]{"entity": "trainid"} train id [ tr6985 ]{"entity": "ref"}
+l istabbiliment kollu tan numru ta' referenza tiegħek huwa [ c4foekw5 li ]{"entity": "ref"} għandek bżonn kwalunkwe għajnuna oħra
+ok il Bejgħ kellu suċċess [ , il ]{"entity":" price"} miżata totali hija ta' [ 15119 ]{"entity": "ref"}
+it tariffa totali [ kienet ta' suċċess ]{"entity": "price"} ta' [ 44 . ]{"entity": "ref"}
+inti kollha ssettjat il miżata totali hija ta' [ 392 ]{"entity": "ref"}
+il ħlas tiegħek tat [ 8 ta' ]{"entity": "bookpeople"}[ filgħaxija huwa ]{"entity":" ref ["} ta' tariffa waħda li inti tħallas fl istazzjon jista' jgħin bi kwalunkwe ħaġa llum
+l ispejjeż totali kienu [ ta' suċċess u ]{"entity": "price"} l ispejjeż totali [ kienu ta' ]{"entity": "ref"} 48064 .
+ir rebbieħ tiegħek kellu suċċess fit tariffa totali ta' [ 3072 ġimgħa ]{"entity": "ref"} , jista' jgħinlek b'kull ħaġa
+int [ miżżewweġ għal ]{"entity": "leaveat"}[ 8 ]{"entity": "ref"}
+għandek il biljetti tiegħek imniżżla fil kotba [ , it ]{"entity": "price"} tariffa totali hija ta' [ 64 ċenteżmu ]{"entity": "ref"}
+i [ b'suċċess ġabret ]{"entity": "trainid"}[ tnejn ]{"entity": "ref"}
+kbir in numru ta' referenza tiegħek huwa [ t1y3tbqx u ]{"entity": "ref"} inti għandek tikteb kollox
+i booked [ 8 payable ]{"entity": "bookpeople"} at the station
+in numru ta' referenza tiegħek kien ta' suċċess [ e5okhwn6 ]{"entity": "ref"}
+i was able [ to book ]{"entity":" trainid"}[ tr7223 ]{"entity": "ref"}
+id data ta' [ l għeluq ta' ]{"entity": "price"} l [ applikazzjoni għandha tiġi ppubblikata ]{"entity": "ref"} fil Ġurnal Uffiċjali .
+iva , ir riċetta tiegħek kellha suċċess u n numru ta' referenza tiegħek huwa [ p68ph2rr ]{"entity": "ref"}
+ir riċetta tiegħek kellha suċċess u n numru ta' referenza tiegħek huwa [ iso72h9i jista' ]{"entity": "ref"} jgħinlek b'kull ħaġa llum .
+il Ġimgħa li [ għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li ]{"entity":" trainid"}[ għaddiet , il Ġimgħa li għaddiet , il ]{"entity": "ref"}[ Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li għaddiet , il Ġimgħa li ]{"entity": "price"} għaddiet .
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 352 ]{"entity": "ref"}
+żgur li ġejt imniżżel [ 1 ]{"entity": "trainid"}
+in numru ta' referenza tiegħek kien ta' suċċess [ rwrkp9l6 ]{"entity": "trainid"}
+kien [ kapaċinżomm fil ]{"entity": "leaveat"} kotba l 11 ta' [ Settembru ta' ]{"entity": "price"} kull ħaġa li nista' ngħinlek
+l ispiża totali [ ta' l ]{"entity": "price"} ispiża ta' l ispiża hija 4506 .
+i has booked your train your reference number is [ 9v6domnz is ]{"entity": "ref"} payable at the station can i help with anything else
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess għal [ 6639 ]{"entity": "ref"}
+il ħlas totali [ kien ta' ]{"entity": "price"} suċċess ta' [ 882 ]{"entity": "ref"}
+il ħlas totali [ kien ta' ]{"entity": "price"} suċċess ta' [ 882 ]{"entity": "ref"}
+il kiri kien ta' suċċess [ , it ]{"entity": "price"} tariffa totali hija ta' [ 1074 ]{"entity": "ref"}
+imniżżel fil kotba [ l miżata ]{"entity": "price"} totali hija [ 6059 ]{"entity": "ref"}
+imniżżel fil kotba [ għal ]{"entity": "ref"}
+in numru ta' referenza tiegħek huwa [ raa2478c f'kull ]{"entity": "ref"} każ ieħor li jista' jgħinlek
+l ispiża totali ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l [ ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' ]{"entity": "price"} l ispiża ta' l ispiża ta' l [ ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ]{"entity": "ref"}
+il fatt li l ħlas totali kien ta' suċċess huwa li [ 236 persuna ]{"entity": "price"} tista' [ tipprovdi kwalunkwe ]{"entity": "ref"} għajnuna oħra llum .
+[ leaves fil ]{"entity": "leaveat"} 5 ta' [ filgħaxija ]{"entity": "ref"}
+għandek [ 1 kull ]{"entity": "trainid"}[ ħaġa ]{"entity":" ref"}
+il ħlas se jkun ta' [ 236 ħlas li jrid jitħallas ]{"entity": "price"} fl istazzjon li tixtieq in numru ta' referenza
+ok int imniżżel in numru ta' referenza tiegħek huwa [ 231k9boe ]{"entity": "ref"}
+[ i booked ]{"entity":" trainid"}[ tr3932 ]{"entity": "ref"}
+għalkemm in numru ta' referenza tiegħek huwa [ g1lz1jm3 hemm ]{"entity": "ref"} kull min għandek bżonn
+ir riżerva tal ferrovija tiegħek għal [ 4 hija ]{"entity": "bookpeople"} kwalunkwe ħaġa li tista' tgħinlek
+i booked [ you on ]{"entity": "trainid"} train [ tr2716 ]{"entity": "ref"}
+B'kollox , il Bejgħ kien ta' suċċess [ , it ]{"entity": "price"} tariffa totali hija ta' 101 ħlas kull [ darba li ]{"entity": "ref"} tista' tieħu
+it tariffa totali [ għall kiri kienet ta' ]{"entity": "price"}[ suċċess ]{"entity": "ref"}
+ir [ reġistrazzjoni ta' ]{"entity": "trainid"}[ tr2164 hemm ]{"entity": "price"} kwalunkwe ħaġa li tista' tgħinlek
+[ reġistrazzjoni għal ]{"entity": "trainid"} kull ħaġa oħra ta [ tr2006 ]{"entity": "ref"}
+sure i booked [ tr4625 will ]{"entity":" leaveat"} be [ due payable ]{"entity": "ref"} at the station
+[ i has ]{"entity": "trainid"} booked [ tr8509 ]{"entity": "ref"}
+ir riżerva tiegħek għal [ 6 hija ]{"entity": "trainid"} kull ħaġa li tista' tagħmel għalik
+i kien kapaċijirreġistra n numru ta' referenza tiegħu huwa [ i4012zaz ]{"entity": "ref"}
 għandek il-biljetti mniżżla għalik għaliex xi ħaġa tista' tgħin
-il ferrovija għandha tinġabar u n numru ta' referenza [ għandu ] {"entity": "ref"} jitħallas fl istazzjon jista' jgħinlek b'kull ħaġa oħra
-in numru ta' referenza tiegħek huwa [ ta' ] {"entity": "ref"} 4 triljun meta tasal fl istazzjon għal tfittxija ħażina għal kulleġġ biex iżżur
-huwa [ mniżżel ] {"entity": "ref"} fil kotba u n numru ta' referenza tiegħek huwa 7v38wv1g
-i was able to book 5 is there anything else for today
-għandek tistabbilixxi l miżata kollha ta' [ 1328 ġimgħa ] {"entity": "price"}
-in numru ta' referenza tiegħek huwa [ k1bwuixz li għandu ] {"entity":" ref"} jitħallas fl istazzjon hemm kwalunkwe ħaġa oħra li tista' tgħinlek bħalissa .
-in numru ta' referenza tiegħek tniżżel fil kotba [ aq95f0xh ] {"entity": "ref"} għandek bżonn xi ħaġa oħra
-kbir in numru ta' referenza huwa [ 8bgcyrd5 ] {"entity": "ref"} jista' jgħin bi kwalunkwe ħaġa oħra
-i have booked your train for 7 is there anything else i can help you with
-int imniżżel [ fil ] {"entity": "price"} kotba kif mitlub , il miżata totali hija ta' 6144
-it [ tariffa totali għandha tirnexxi ] {"entity": "price"} għaliex l għadd ta' ħaddiema li jaħdmu f'dan il qasam huwa ta' 196 .
-numru ta [ referenza ] {"entity": "ref"} mniżżel
-aħbarijiet tajbin kienu ta' suċċess, il-miżata totali hija ta' 7509.
-i booked reservations for 4 can i help you with anything further
-inti kollha ssettjat in numru ta' referenza huwa [ yorg2cda ] {"entity":" ref"} jista' jassisti ma' kwalunkwe ħaġa oħra
-i have booked 3 payable at the station can i do anything else
-it-tariffa totali kienet ta' suċċess għal 6059, li jista' jgħinlek b'kull ħaġa oħra
-in numru ta' referenza tiegħek kien ta' suċċess [ 2qs7t2uc ] {"entity": "ref"} għandek bżonn kull ħaġa
-ir-riċetta kienet ta' suċċess u n-numru ta' l-isperma tiegħek huwa cjc7.
-[ ir riżerva tiegħek ] {"entity": "price"} tlestiet u t tariffa totali hija l frott tal baħar
-in numru ta' referenza tiegħek ġie kkummerċjalizzat [ b'uq fro 6 ] {"entity": "ref"} jista' jgħinlek b'kull ħaġa oħra
-l-istudju tiegħek kien ta' suċċess u n-numru ta' referenza huwa f'dan il-każ kull min jista' jgħinlek fil-preżent.
-( Artikolu 2 )
-ir referenza tiegħek kollha hija [ 2pffj67j ] {"entity": "ref"} pagabbli fl istazzjon .
-is siġġu tiegħek tniżżel fil kotba u [ 1010 Ħu ] {"entity": "price"} ħsieb x'jista' jagħmel għalik
-it tariffa totali kienet ta' suċċess ta' [ 1155 ] {"entity": "price"}
-it tariffa totali kienet ta' suċċess ta' [ 896 ] {"entity": "price"}
-ir-riċetta tiegħek kienet ta' suċċess, il-miżata totali hija ta' 2268.
-għalkemm is-7 tiegħek hemm xi ħaġa li tista' tagħmel għalik
-olg8b5m8 jista' jgħinlek b'kull ħaġa oħra
-ir referenza tiegħek [ hija 8jtowqzc ] {"entity":" ref"} għandek bżonn xi ħaġa
-in numru ta' referenza tiegħek kien ta' suċċess [ sa63gzjd ] {"entity": "ref"}
-għandek tniżżel fil kotba tiegħek [ f'tr9286 ] {"entity": "trainid"}
-tr6539 għandek bżonn xi ħaġa
-it tariffa ] {"entity": "price"} totali kienet ta' suċċess għas sħab tal [ Knisja .
-jien aċċettajt l ] {"entity": "price"} ispjegazzjoni u hawnhekk l ispjegazzjoni ta' [ l informazzjoni kellha suċċess , il miżata totali hija l Ispjegazzjoni tal Ġugarelli
-il ħames Skeda li [ tinsab mar ] {"entity": "bookpeople"} regolamenti
-numru ta referenza reġistratAħżen [ fkh54zp9 li jrid ] {"entity": "ref"} jitħallas fl istazzjon
-jien is-superviżur li ħadt kont tiegħek 5 kull ħaġa oħra
-in numru ta referenza ] {"entity": "ref"} huwa n numru [ ta identifikazzjoni 2 ta l isemqx8n4 kull ħaġa oħra
-1 ir referenza għall biljett [ hija 4ahioulb ] {"entity": "ref"} f'kull każ
-il fatt li l każ [ kien ] {"entity": "price"} ta' suċċess huwa li t tariffa totali hija ta' 22 .
-ir-rebbieħ tiegħek kellu suċċess fit-tariffa totali ta' 66 ġimgħa, ikun hemm kull ħaġa li tista' tgħinlek
-i għandek tliet siġġijiet imniżżla fil [ tr0236 ] {"entity":" trainid"}
-aħbarijiet tajbin [ kienu ] {"entity": "price"} ta' suċċess , it tariffa totali hija ta' 101 ċenteżmu kull meta jkollok bżonn
-it tariffa totali kienet ta' suċċess ta' [ 4848 ] {"entity": "price"}
-in-numru ta' referenza tiegħek kien ta' suċċess.
-i have booked [ two ] {"entity": "bookpeople"}
-assigura li n numru ta' referenza huwa [ wrad7nno ] {"entity": "ref"} jista' jassisti ma' kwalunkwe ħaġa oħra
-għalkemm il ] {"entity": "arriveby"} ħin tal wasla huwa tabilħaqq ta' [ 15 il siegħa , il ħin tal wasla huwa ta' 15 il siegħa
-ok i tkun irreġistrat b'suċċess siġġu [ f'tr concerned2 ] {"entity":" trainid"}
-i has booked you a ticket on tr out6 can i help you further
-[ l ] {"entity": "price"} ispiża totali ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża ta' l ispiża hija ta' 495
-it tariffa totali kienet ta' suċċess ta' [ 404 ] {"entity": "price"}
-l-istudju kellu suċċess fit-tluq ta' 11-il professurli kellu jitħallas fl-istazzjon in-numru ta' referenza tiegħek huwa qs1ajel1 kull ħaġa li tista' tgħinlek
-in numru ta' referenza tiegħek [ imniżżel f'paġna 4z1rr ] {"entity": "ref"} jista' jgħin ma' kwalunkwe ħaġa
-sure thing ive booked two is there anything else i can help you with
-ir-riċetta tiegħek kellha suċċess, il-miżata totali hija ta' 30239, jiġifieri hemm kwalunkwe ħaġa li tista' tgħinlek
-i has booked you 4 i hope you have a great trip and can i assist you with anything else
-in numru tar ref tiegħek huwa [ o2uqs7k8 ] {"entity": "ref"}
-b'suċċess il-ħlas totali huwa ta' 4848 ħlas li għandek bżonn għajnuna ma' kwalunkwe ħaġa oħra
-ir [ riklamar ] {"entity":" trainid"} tiegħek kien ta' suċċess għall ferrovija id huwa ta' tr1079 kull min jista' jgħin sal lum
-għandek 8 xhur ċans biex [ tgħinlek ] {"entity": "bookpeople"} b'xi ħaġa oħra
-in-numru ta' referenza tiegħek huwa ybx5lxoc.
-il [ biljetti ġew imniżżla ] {"entity": "ref"} fil kotba u n numru ta' referenza ġie mniżżel fil kotba u n numru ta' referenza ġie mniżżel fil kotba u n numru ta' referenza ġie mniżżel fil kotba .
-id dritttotali għandu jkun ta' [ 472 ] {"entity": "price"} ċenteżmu .
+il ferrovija għandha tinġabar u n numru ta' referenza [ għandu jitħallas ]{"entity": "price"} fl istazzjon jista' jgħinlek b'kull ħaġa oħra
+in numru ta' referenza tiegħek huwa [ ta' 4 ]{"entity": "price"} triljun meta tasal fl istazzjon għal tfittxija ħażina għal kulleġġ biex iżżur
+huwa mniżżel fil kotba u n numru ta' referenza tiegħek huwa [ 7v38wv1g ]{"entity": "ref"}
+i was able to book [ 5 is ]{"entity": "bookpeople"} there anything else for today
+għandek tistabbilixxi l miżata kollha ta' [ 1328 ġimgħa ]{"entity": "ref"}
+in numru ta' referenza tiegħek huwa [ k1bwuixz li għandu jitħallas ]{"entity":" price"} fl istazzjon hemm kwalunkwe ħaġa oħra li tista' tgħinlek bħalissa .
+in numru ta' referenza tiegħek [ tniżżel fil ]{"entity": "ref"} kotba [ aq95f0xh għandek ]{"entity":" price"} bżonn xi ħaġa oħra
+kbir in numru ta' referenza huwa [ 8bgcyrd5 jista' ]{"entity":" price"} jgħin bi kwalunkwe ħaġa oħra
+i have booked your train for [ 7 is ]{"entity": "bookpeople"} there anything else i can help you with
+int imniżżel fil kotba [ kif mitlub , ]{"entity": "price"} il miżata totali hija ta' [ 6144 ]{"entity": "ref"}
+it tariffa totali għandha [ tirnexxi għaliex l għadd ]{"entity": "price"} ta' ħaddiema li [ jaħdmu f'dan il qasam huwa ]{"entity": "ref"} ta' 196 .
+[ numru ta ]{"entity": "ref"}[ referenza mniżżel ]{"entity": "price"}
+aħbarijiet tajbin kienu ta' [ suċċess , ]{"entity": "price"} il miżata totali hija ta' 7509 .
+i booked reservations for [ 4 can ]{"entity":" bookpeople"} i help you with anything further
+inti kollha ssettjat in numru ta' referenza huwa [ yorg2cda jista' ]{"entity":" ref"} jassisti ma' kwalunkwe ħaġa oħra
+i have booked [ 3 payable ]{"entity": "bookpeople"} at the station can i do anything else
+it tariffa totali kienet [ ta' suċċess ]{"entity": "price"} għal 6059 , li jista' jgħinlek b'kull ħaġa oħra
+in numru ta' referenza tiegħek kien ta' suċċess [ 2qs7t2uc għandek ]{"entity": "ref"} bżonn kull ħaġa
+in numru ta' referenza tiegħek kien ta' suċċess [ 2qs7t2uc għandek ]{"entity": "ref"} bżonn kull ħaġa
+ir riżerva tiegħek tlestiet u t tariffa totali hija l [ frott tal baħar ]{"entity": "ref"}
+in numru ta' referenza tiegħek ġie kkummerċjalizzat [ b'uq fro 6 jista' ]{"entity": "ref"} jgħinlek b'kull ħaġa oħra
+in numru ta' referenza tiegħek ġie kkummerċjalizzat [ b'uq fro 6 jista' ]{"entity": "ref"} jgħinlek b'kull ħaġa oħra
+[ Artikolu 2 ]{"entity": "departure"}
+ir referenza tiegħek kollha hija [ 2pffj67j pagabbli ]{"entity":" price"} fl istazzjon .
+is siġġu tiegħek tniżżel fil kotba u [ 1010 Ħu ħsieb ]{"entity": "ref"} x'jista' jagħmel għalik
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 1155 ]{"entity": "ref"}
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 896 ]{"entity": "ref"}
+ir riċetta tiegħek [ kienet ta' suċċess ]{"entity": "price"} , il miżata totali hija ta' 2268 .
+għalkemm is [ 7 tiegħek ]{"entity": "bookpeople"} hemm xi ħaġa li tista' tagħmel għalik
+għalkemm is [ 7 tiegħek ]{"entity": "bookpeople"} hemm xi ħaġa li tista' tagħmel għalik
+ir referenza tiegħek [ hija 8jtowqzc għandek ]{"entity":" ref"} bżonn xi ħaġa
+in numru ta' referenza tiegħek kien ta' suċċess [ sa63gzjd ]{"entity": "ref"}
+għandek [ tniżżel fil ]{"entity": "trainid"}[ kotba tiegħek ]{"entity": "leaveat"}[ f'tr9286 ]{"entity": "ref"}
+[ tr6539 għandek ]{"entity":" arriveby"} bżonn xi ħaġa
+it tariffa totali kienet [ ta' suċċess għas ]{"entity": "price"} sħab tal [ Knisja . ]{"entity": "ref"}
+jien aċċettajt l ispjegazzjoni u hawnhekk l ispjegazzjoni ta' l informazzjoni kellha suċċess , il miżata totali hija l [ Ispjegazzjoni tal Ġugarelli ]{"entity": "ref"}
+il [ ħames Skeda ]{"entity": "trainid"} li [ tinsab mar regolamenti ]{"entity": "ref"}
+numru ta referenza [ reġistratAħżen fkh54zp9 ]{"entity": "ref"} li jrid jitħallas fl istazzjon
+numru ta referenza [ reġistratAħżen fkh54zp9 ]{"entity": "ref"} li jrid jitħallas fl istazzjon
+in numru ta referenza huwa n numru [ ta identifikazzjoni 2 ta l isemqx8n4 kull ]{"entity": "ref"} ħaġa oħra
+1 ir referenza għall biljett [ hija 4ahioulb f'kull ]{"entity": "ref"} każ
+il fatt li l każ kien ta' [ suċċess huwa ]{"entity": "price"} li t tariffa totali hija ta' [ 22 . ]{"entity": "ref"}
+il fatt li l każ kien ta' [ suċċess huwa ]{"entity": "price"} li t tariffa totali hija ta' [ 22 . ]{"entity": "ref"}
+i għandek [ tliet siġġijiet ]{"entity":" trainid"}[ imniżżla fil ]{"entity":" arriveby"}[ tr0236 ]{"entity": "ref"}
+aħbarijiet tajbin kienu ta' suċċess , [ it tariffa ]{"entity": "price"} totali hija ta' 101 [ ċenteżmu kull ]{"entity": "ref"} meta jkollok bżonn
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 4848 ]{"entity": "ref"}
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 4848 ]{"entity": "ref"}
+i have [ booked two ]{"entity": "ref"}
+assigura li n numru ta' referenza huwa [ wrad7nno jista' ]{"entity": "ref"} jassisti ma' kwalunkwe ħaġa oħra
+għalkemm il ħin tal wasla huwa tabilħaqq ta' 15 [ il siegħa , il ħin tal wasla huwa ]{"entity": "arriveby"} ta' [ 15 il siegħa ]{"entity": "ref"}
+ok i tkun irreġistrat [ b'suċċess siġġu ]{"entity": "price"}[ f'tr concerned2 ]{"entity": "ref"}
+i has booked you [ a ticket on tr ]{"entity":" price"} out6 can i help you further
+l ispiża totali ta' l [ ispiża ta' l ispiża ta' ]{"entity": "price"} l [ ispiża ta' l ispiża ta' l ispiża hija ]{"entity": "ref"} ta' [ 495 ]{"entity":" trainid"}
+it tariffa totali [ kienet ta' ]{"entity": "price"} suċċess ta' [ 404 ]{"entity": "ref"}
+l istudju kellu suċċess fit tluq ta' 11 [ il professurli ]{"entity":" arriveby"} kellu jitħallas fl istazzjon in numru ta' referenza tiegħek huwa qs1ajel1 kull ħaġa li tista' tgħinlek
+in numru ta' referenza tiegħek [ imniżżel f'paġna 4z1rr jista' ]{"entity": "ref"} jgħin ma' kwalunkwe ħaġa
+sure [ thing ive booked two is ]{"entity": "bookpeople"} there anything else i can help you with
+sure [ thing ive booked two is ]{"entity": "bookpeople"} there anything else i can help you with
+i has booked you [ 4 i ]{"entity": "bookpeople"}[ hope you ]{"entity":" trainid"} have a great trip and can i assist you with anything else
+in numru tar ref tiegħek huwa [ o2uqs7k8 ]{"entity": "ref"}
+b'suċċess il ħlas totali huwa [ ta' 4848 ħlas ]{"entity": "price"} li għandek bżonn għajnuna ma' kwalunkwe ħaġa oħra
+ir riklamar tiegħek kien ta' suċċess għall ferrovija id huwa ta' [ tr1079 kull ]{"entity": "ref"} min jista' jgħin sal lum
+għandek [ 8 xhur ]{"entity": "bookpeople"} ċans biex [ tgħinlek b'xi ]{"entity": "ref"} ħaġa oħra
+għandek [ 8 xhur ]{"entity": "bookpeople"} ċans biex [ tgħinlek b'xi ]{"entity": "ref"} ħaġa oħra
+il biljetti ġew imniżżla fil kotba u n numru ta' referenza ġie mniżżel fil kotba u n numru ta' referenza ġie [ mniżżel fil kotba u n numru ta' referenza ġie mniżżel fil kotba . ]{"entity": "ref"}
+id dritttotali [ għandu jkun ]{"entity": "price"} ta' [ 472 ċenteżmu ]{"entity": "ref"} .
 għandek
-in numru ta' referenza tiegħek għall istudju huwa [ yj63ig8a ] {"entity": "ref"}
-għalkemm il ferrovija kollha se tasal fi kwalunkwe [ post ] {"entity": "destination"} ieħor , ma nistgħux ngħinukom
-ok i have [ booked ] {"entity": "ref"} the train and you have a reference number of vjmrp8os
-i has booked one can i assist you with anything else
-sure the train is actually number tr0378 payable at the station is there anything else today
-il ferrovija tiegħek tniżżlet [ fil ] {"entity": "ref"} kotba u n numru ta' referenza tagħha huwa l Emenda26
+in numru ta' referenza tiegħek għall istudju huwa [ yj63ig8a ]{"entity":" price"}
+għalkemm il ferrovija kollha se tasal [ fi kwalunkwe ]{"entity": "arriveby"}[ post ieħor ]{"entity":" destination"} , ma nistgħux ngħinukom
+ok i have booked the train and you have a reference number of [ vjmrp8os ]{"entity":" leaveat"}
+i has booked [ one can ]{"entity": "bookpeople"} i assist you with anything else
+sure the train is [ actually number ]{"entity": "trainid"}[ tr0378 payable ]{"entity": "ref"} at the station is there anything else today
+il ferrovija tiegħek tniżżlet fil kotba u n numru ta' referenza tagħha huwa l [ Emenda26 ]{"entity": "ref"}

@@ -5,7 +5,7 @@ i can help you with that is there a certain kind of attraction that you would li
 liema tip ta' post tixtieq żżur
 iva x'tip ta' post tixtieq tmur
 għandna ħafna għarfien ta' dak il-mod kif int tħares lejn dak it-tip ta' għarfien
-alright train ] {"entity": "ref"} , għalik , in numru ta' referenza [ tiegħek hu ta' 4 , 4xh1 , u kellek tip partikolari ta' attrazzjoni fiċ ċentru li inti interessat
+alright train , għalik , in numru ta' referenza [ tiegħek hu ta' ]{"entity": "ref"} 4 , 4xh1 , u kellek tip partikolari ta' attrazzjoni fiċ ċentru li inti interessat
 liema tip ta' attrazzjoni qed taħseb li tagħmel
 liema tip ta" attrazzjoni
 hemm xi tip ta' attrazzjoni li tixtieq tara

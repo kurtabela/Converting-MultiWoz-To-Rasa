@@ -1,8 +1,8 @@
-ma jitħallewx ferroviji f'dak [ il ħin ] {"entity":" leaveat"}
-ma hemm l ebda tluq tal ferrovija minn [ duxford ] {"entity": "departure"} li jaqbel mal kriterji tiegħek li tista' titlaq f'jum jew ħin ieħor .
-iżda aħna ] {"entity":" leaveat"} għandna kwalunkwe ferrovija li taqbel f'dak [ il ħin partikolari tixtieq tipprova ħin differenti .
+ma jitħallewx ferroviji f'dak [ il ħin ]{"entity":" leaveat"}
+ma hemm l ebda tluq tal ferrovija minn [ duxford li ]{"entity": "departure"} jaqbel mal kriterji tiegħek li tista' titlaq f'jum jew ħin ieħor .
+iżda aħna għandna kwalunkwe ferrovija li taqbel f'dak [ il ħin partikolari tixtieq ]{"entity":" leaveat"} tipprova ħin differenti .
 m'hemmx
 i just checked again unfortunately there are no trains available any other arrangements i can make for you
 għalkemm m'hemmx ferroviji li jaqblu ma' din id-deskrizzjoni, tixtieq infittex għal xi ħaġa oħra
-għalkemm ma teżistix ferrovija li tħalli s [ silġ ] {"entity": "departure"} , tixtieq li tħares lejha f'ġurnata oħra .
-ma hemm l ebda ferrovija disponibbli fuq [ ix xemx ] {"entity": "day"} li tista' tivvjaġġa f'jum differenti
+għalkemm ma teżistix ferrovija li tħalli [ s silġ ]{"entity": "departure"} , tixtieq li tħares lejha f'ġurnata oħra .
+ma hemm l [ ebda ferrovija ]{"entity": "day"}[ disponibbli fuq ]{"entity": "departure"}[ ix xemx li ]{"entity":" destination"} tista' tivvjaġġa f'jum differenti

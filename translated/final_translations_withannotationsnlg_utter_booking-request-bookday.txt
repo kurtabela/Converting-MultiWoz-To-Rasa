@@ -5,7 +5,7 @@ liema ġurnata tixtieq dik ir-riżerva għal
 meta tasal u kemm se jibqgħu għaddejjin il-lejl
 tista' tagħżel kontroll differenti f'każ ta' ġurnata jew waqfa iqsar
 kbir x'ġurnata u ħin tixtieq tirreġistra għal
-għandek bżonn tkun taf l-ewwel ġurnata li trid tibqa' għaddejja kemm-il ġurnata u kemm-il ġurnata
+l Istati Membri għandhom ikunu jistgħu jiddeċiedu jekk għandhomx [ jissodisfaw ir rekwiżiti ]{"entity": "bookday"} tar rekwiżiti tar rekwiżiti tar rekwiżiti tar rekwiżiti .
 ok perfect qabel ma tikteb kemm se jkun hemm nies li se jibqgħu filgħaxija x'ġurnata se tkun qed tiċċekkja fiha u kemm se tkun twila għal jekk jogħġbok
 liema jum u ħin tixtieq tirreġistra t-tabella
 i need to know for what day and time and for how many people please
@@ -16,11 +16,11 @@ liema jum u ħin tixtieq ir-riżerva għal
 kbir għal kemm kuljum u għal kemm żmien
 great choice when can i make the reservation for
 f'liema ħin u għal kemm-il persuna jekk jogħġbok
-nirrakkomanda li [ jkun ] {"entity":" name"} hemm kliem ta' ħalq ħafna . . . . . . . . . . .
+nirrakkomanda li [ jkun hemm ]{"entity":" name"} kliem ta' ħalq ħafna . . . . . . . . . . .
 żgur li l-ġurnata tkun waslet
 liema lejl se tkun qed toqgħod
 għal kemm-il persuna u meta tkun se toqgħod
-i would recommend [ express by holiday inn cambridge ] {"entity":" name"} from what day should i book
+i would recommend [ express by holiday inn cambridge from ]{"entity":" name"} what day should i book
 liema ġurnata tixtieq li tagħmel ir-riżerva għal u għal kemm-il persuna
 x'ġurnata tixtieq tibda ż-żjara tiegħek
 qabel ma tkun tista' tniżżel kamra għalik għandek bżonn tkun taf ftit dettalji x'ġurnata tasal biex tasal kemm ġranet tibqa' ħajja, kemm hemm nies li qed jibqgħu.
@@ -31,7 +31,7 @@ ok i can do that for you i need number of people length of stay and day of arriv
 i se jkollok bżonn il-ġurnata li tippjana hekk kif tasal
 liema dati tixtieq tibqa'
 iva meta tixtieqni nirrekordjaha għaliha u għal kemm nies
-[ iż żidiet ] {"entity":" address"} huma ta' 1517 il triq li tgħaqqad il park tan negozju meta tixtieq tibqa'
+iż żidiet [ huma ta' 1517 il triq li tgħaqqad il park ]{"entity":" address"} tan negozju meta tixtieq tibqa'
 liema ġurnata tixtieq tibda ż-żjara tiegħek u għal kemm-il darba
 x'inhu l-ġurnata li tixtieq dak li ġie stabbilit għalih u kemm hemm nies
 għandek tkun imħassba biex tgħin dak li tista' tgħidu l-ħin ta' kuljum u kemm-il persuna fil-partit tiegħek
@@ -43,30 +43,30 @@ tista' tgħidli d-dati u kemm se jkollok bżonn kmamar
 x'ġurnata tixtieq tiċċekkja
 iva, kemm in-nies qed jibqgħu u liema ġranet tixtieq tibqa'
 il-mard għandu bżonn ta' aktar informazzjoni biex ir-riżerva ssir l-ewwel jum u l-ħin u għal kemm persuni
-għandek ħafna meta tixtieq tirreġistra [ l kamra ] {"entity": "choice"} għall waqfa tiegħek u għat tul ta' żmien tiegħek
+għandek [ ħafna meta ]{"entity": "type"} tixtieq tirreġistra [ l kamra għall ]{"entity":" area"} waqfa tiegħek u għat tul ta' żmien tiegħek
 int miġnuna waħda waqt il-wasla tiegħek u kemm għandek żmien biex toqgħod jekk jogħġbok
 iva, kemm se jkun hemm nies miegħek dakinhar u f'liema żmien tixtieq ir-riżerva tiegħek.
-il pożizzjoni ta' [ wara tagħhom hija ] {"entity": "postcode"} cb11lh u jekk tixtieq riżerva ma tkunx taf id daqs u l ġurnata tal persuna li tkun qed tieħu ħsieb il persuna u ma tagħmilhiex għalik
-tista' tirrakkomanda li l-firxa tal-prezzijiet tkun teżisti f'data speċifika u numru ta' nies
+il pożizzjoni ta' [ wara tagħhom hija cb11lh ]{"entity": "postcode"} u jekk tixtieq riżerva ma tkunx taf id daqs u l ġurnata tal persuna li tkun qed tieħu ħsieb il persuna u ma tagħmilhiex għalik
+tista' [ tirrakkomanda li ]{"entity":" name"} l [ firxa tal ]{"entity": "area"} prezzijiet tkun teżisti f'data speċifika u numru ta' nies
 tista' jekk jogħġbok ikkonferma li se titlaq fuq thursday jew friday morning
-i sure can shiraz what day would you like your reservation
+i [ sure can ]{"entity": "name"}[ shiraz what ]{"entity": "food"} day would you like your reservation
 ok what day would you like to make the reservation on
 hemm ġurnata speċifika li trid tibqa' hemm
 għal kemm-il persuna u meta kont qed tippjana s-soġġorn tiegħek
-iva l istandard ta' [ l ] {"entity": "name"} irqad i tkun qed tħobb tikteb tabella għalik jekk tista' tgħidli l ħin ta' kuljum u n numru ta' nies
+iva l [ istandard ta' ]{"entity": "name"}[ l irqad ]{"entity":" area"} i tkun qed tħobb tikteb tabella għalik jekk tista' tgħidli l ħin ta' kuljum u n numru ta' nies
 i can try to see if we do can you provide when you want to stay and for how long
 u liema jum u ħin tixtieq ir-riżerva għal
 iva, jekk tgħallimni naf kemm se tkun ir-riżerva għal data u ħin tar-riżerva.
 i would be more than elated to book it for you but i need some additional information like when and how many perhaps
-il varjabilità tista' [ tgħid x'ħin ] {"entity": "name"} u data tixtieq ir riżerva tiegħek
+[ il varjabilità tista' ]{"entity": "name"}[ tgħid x'ħin u ]{"entity":" area"} data tixtieq ir riżerva tiegħek
 għalhekk hemm ġurnata u ħin partikolari li jaħdmu għalik
 għal kemm-il persuna il-lejl u kemm ilha
-l-għadd ta' nies li jaslu għall-ivvjaġġar u l-għadd kbir ta' nies li jaslu għall-ivvjaġġar
+[ l għadd ta' ]{"entity": "name"} nies li [ jaslu għall ]{"entity": "type"} ivvjaġġar u l għadd kbir ta' nies li jaslu għall ivvjaġġar
 il-perċezzjoni u x'jum se tasal
 meta tixtieq tiċċekkja
-l-ebda m'għandu jiddaħħal għal 4 fiċ-ċentru għal 2 iljieli fuq il-laqx ta" l-għawm huwa dak il-korrett
+l ebda m'għandu jiddaħħal għal 4 fiċ [ ċentru għal ]{"entity": "stars"} 2 iljieli fuq il laqx ta l għawm huwa dak il korrett
 i cannot book a reservation for you until i know what time and day your planning on going there
-i se jkollok bżonn id-dati li trid tibqa' biex tikteb jekk jogħġbok
+l ebda m'għandu jiddaħħal għal 4 fiċ [ ċentru għal ]{"entity": "stars"} 2 iljieli fuq il laqx ta l għawm huwa dak il korrett
 tista' tgħidli l-ġurnata u l-ħin li tixtieq tisma' u kemm għandek tikteb it-tabella għal
 ikun konvenjenti li tagħmel dak li hu d-data tal-wasla tiegħek kemm fil-partit tiegħek u kemm-il lejl
 X'ġurnata tixtieq
@@ -83,7 +83,7 @@ ikun konvenjenti li tagħmel ir-riżerva tiegħek dak il-jum u l-ħin li tixtieq
 biex nikkjarifika li nistaqsejtni biex nirrekordja tabella dwar il-friday
 tista' tgħin b'dak il-jum li tixtieq tiċċekkja fih u kemm għandek żmien biex toqgħod
 jien kuntenti li tista' tgħidli ħin ta' data u kemm-il persuna fil-partit tiegħek
-jien nirrakkomanda li [ l pipasha Bank ikun jaf ] {"entity": "name"} kemm hemm nies fil grupp tiegħek u meta jkollok bżonn ir riżerva għal
+jien nirrakkomanda li l [ pipasha Bank ]{"entity": "name"} ikun jaf kemm hemm nies fil grupp tiegħek u meta jkollok bżonn ir riżerva għal
 x'inhu l-jum tal-wasla tiegħek u l-għadd ta' jiem li tixtieq tibqa'
 kemm-il persuna u kemm-il darba qed tħares lejn
 żgur li l-ġurnata u l-ħin jixtiequ u kemm hemm nies
@@ -97,13 +97,13 @@ i can help for how many days starting when
 x'ġurnata se tkun qed tgħaddi
 liema ġurnata tixtieq li jkolli r-riżerva għaliha u għal kemm żmien in-nies għandhom jagħmluha
 liema ġurnata u ħin tixtieq ir-riżerva tiegħek
-iva għandek dak id dritthawnhekk għali kemm nies tixtieq [ tirriserva ] {"entity": "pricerange"} tabella għal dak li għandu x'jaqsam ma' matul il ġurnata
+iva għandek dak id dritthawnhekk għali kemm nies tixtieq [ tirriserva tabella ]{"entity":" area"} għal dak li għandu x'jaqsam ma' matul il ġurnata
 liema data u ħin tixtieq dik ir-riżerva
-l indirizz huwa [ ċ ċentru tal belt fit ] {"entity":" address"} toroq ta' kuljum u ż żmien li tixtieq tikteb kemm nies
-il ġimgħa l [ oħra l Ġimgħa l ] {"entity": "name"} Ġimgħa l Ġimgħa l Ġimgħa
+l indirizz huwa [ ċ ċentru tal belt fit toroq ]{"entity":" address"} ta' kuljum u ż żmien li tixtieq tikteb kemm nies
+il [ ġimgħa l ]{"entity": "name"}[ oħra l Ġimgħa l Ġimgħa ]{"entity": "area"} l Ġimgħa l Ġimgħa
 x'ġurnata se tkun qed toqgħod
 liema ġurnata tixtieq tibqa' kemm-il ġurnata
-dan ikun l akbar għadd ta' [ persuni ] {"entity":" name"} fil partit tiegħek u x'ġurnata tixtieq ir riżerva
+[ dan ikun ]{"entity":" name"} l akbar għadd ta' [ persuni fil ]{"entity":" phone"} partit tiegħek u x'ġurnata tixtieq ir riżerva
 i can on which day would you like the reservation to begin
 liema ħin u data tixtieq ir-riżerva għal
 liema ġurnata tixtieq tirreġistra u għal kemm żmien
@@ -113,5 +113,5 @@ x'ġurnata se tkun qed toqgħod hemm
 tixtieq li jkun hemm it-tieni vaganza għal liema lejl u post
 meta tibda ż-żjara tiegħek
 il-ġurnata tixtieq li jkollok tniżżel dak għat-tubi tal-ikel il-ġurnata l-oħra
-[ meghna ] {"entity": "name"} jidher li jkun perfett għalik liema ġurnata u ħin tixtieq tirreġistra t tabella għal
+[ meghna jidher ]{"entity": "name"} li jkun perfett għalik liema ġurnata u ħin tixtieq tirreġistra t tabella għal
 liema ġurnata għandha tkun ir-riżerva
