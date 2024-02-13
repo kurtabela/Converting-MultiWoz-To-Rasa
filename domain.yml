@@ -1,0 +1,425 @@
+
+version: "3.1"
+
+intents:
+- greet
+- nlu_fallback
+- regist-docs.accepted
+- regist-docs.error-generic
+- regist-docs.expired
+- regist-docs.formats
+- regist-docs.residence-proof
+- regist-docs.upload-modify
+- regist-docs.why
+- regist-docs.check
+- regist-docs.residence-list
+- regist-docs.residence-verify
+- regist-docs.error-change
+- regist-docs.exclamation-mark
+- regist-docs.residence-no
+- regist-docs.upload-multiple-docs
+- regist-docs.upload-deletion
+- regist-docs.upload-replacement
+- registration.verification-code
+- registration.telephone.error
+- registration.no-want
+- registration.present
+- registration.password.error
+- registration.problem-otp
+- access.mail-not-present
+- access.guest
+- registration.minor
+- form-fill.grey-fields
+- form-fill.address
+- form-fill.no_land_line
+- form-fill.occupation_why
+- form-fill.occupation_mandatory
+- form-fill.occupation_list
+- form-fill.other
+- form-fill.other-not-editable
+- form-fill.problem-spouse
+- form-fill.missing-field
+- form-fill.spouse-why
+- form-fill.dependent-children-why
+- form-fill.family-status-why
+- form-fill.beneficiary.no
+- form-fill.beneficiary
+- form-fill.children_why
+- form-fill.separated
+- form-fill.other-request
+- onboarding.fourth-bank
+- onboarding.broker-definition
+- onboarding.currency
+- onboarding.imports
+- onboarding.engagement
+- onboarding.engagement-amount
+- onboarding.pep_advantages
+- onboarding.pep_definition
+- onboarding.pep_why
+- onboarding.American_taxes_definition
+- onboarding.American_taxes_why
+- onboarding.fiscal_residency_def
+- onboarding.fiscal_residency_multi
+- onboarding.fiscal_residency_why
+- onboarding.TIN_definition
+- onboarding.TIN_where
+- onboarding.TIN_why
+- onboarding.payment-method
+- onboarding.account-type
+- onboarding.account-why
+- onboarding.account-open
+- onboarding.activity-enter
+- onboarding.activity-mandatory
+- onboarding.job-not-present
+- onboarding.job-years
+- onboarding.job-years-why
+- onboarding.job-years-zero
+- onboarding.job-years-less-than-one
+- onboarding.source-definition
+- onboarding.source-multiple
+- onboarding.source-active
+- onboarding.asset-details
+- onboarding.source-other
+- onboarding.second-residency-why
+- onboarding.privacy
+- onboarding.privacy-why
+- onboarding.activity-countries
+- onboarding.activity-number
+- onboarding.activity-delete
+- onboarding.activity-country-delete
+- mifid.update-info
+- mifid.omit-info
+- mifid.help-fill
+- mifid.professional-client
+- mifid.update-name-surname
+- mifid.why-education-level
+- mifid.education-level
+- mifid.finance-professionist
+- mifid.tool-knowledge-no
+- mifid.investment-not-listed
+- mifid.ethical-exclusion
+- mifid.tax-exclusion
+- mifid.time-horizon-advantages
+- mifid.time-horizon-different
+- mifid.heritage-percentage-for-expenses
+- mifid.investor-strategy
+- mifid.heritage-notification-no
+- mifid.heritage-value-precision
+- mifid.heritage-binding
+- mifid.self-assessment
+- mifid.variable-annual-saving
+- mifid.privacy-health-information
+- mifid.questionnaire-modification
+- mifid.disinvestment-costs
+- mifid.example-swing-investment
+- mifid.different-returns-investimento
+- general.mifid-certified-user
+- general.messagges
+- videocall-description
+- videocall-avoid
+- videocall-impossible
+- sign.how
+- sign.where
+- sign.error-spec-characters
+- sign.OTP-code
+- sign.error-OTP-code
+- sign.signed-documents
+- sign.coupon
+- sign.order-payment
+
+entities:
+- identity_document_entity
+- accepted_formats_entity
+- proof_of_residence_entity
+- contacts_entity
+
+slots:
+  identity_document_slot:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: identity_document_entity
+  accepted_formats_slot:
+    type: categorical
+    mappings:
+    - type: from_entity
+      entity: accepted_formats_entity
+  proof_of_residence_slot:
+    type: categorical
+    mappings:
+    - type: from_entity
+      entity: proof_of_residence_entity
+  contacts_slot:
+    type: categorical
+    mappings:
+    - type: from_entity
+      entity: contacts_entity
+responses:
+  utter_greet:
+  - text: "Hi! Merħba għal Cartesio! Jien hawn biex ngħinek. Staqsini dak kollu li għandek bżonn."
+  utter_please_rephrase:
+  - text: "Mhux qed nifhem għalxiex qed tirreferi. Jekk jogħġbok erġa' pprova."
+  utter_default:
+  - text: "Mhux qed nifhem għalxiex qed tirreferi. Jekk jogħġbok erġa' pprova."
+  utter_regist-docs.why:
+  - condition:
+    - type: slot
+      name: identity_document_slot
+      value: null
+    text: "Id-dokument tal-identità li ntlabt huwa meħtieġ biex tivverifika l-identità tiegħek."
+  - text: "Aħna nistaqsu għad-{identity_document_slot} tiegħek għax għandna bżonn nivverifikaw l-identità tiegħek."
+  utter_regist-docs.accepted:
+  - condition:
+    - type: slot
+      name: identity_document_slot
+      value: null
+    text: "Id-dokumenti aċċettati huma l-karta tal-identità u l-passaport."
+  - text: "Iva, l-{identity_document_slot} huwa dokument tal-identità aċċettat."
+  utter_regist-docs.formats:
+  - text: "Tista' ttella' kull tip ta file u m'hemm l-ebda limitu ta' daqs."
+  utter_regist-docs.expired:
+  - text: "Id-dokument għandu jintbagħat fil-ħin tar-reġistrazzjoni u għandu jkun validu għal mill-inqas tliet xhur mid-data tar-reġistrazzjoni.\nJekk id-dokument tiegħek jiskadi qabel trid tistenna t-tiġdid tiegħu."
+  utter_regist-docs.error-generic:
+  - text: "Biex issolvi dan l-iżball, ibgħat email fuq support@framont.com."
+  utter_regist-docs.residence-proof:
+  - text: "Il-prova ta' residenza hija dokument li juri u jikkonferma l-indirizz tar-residenza li daħħalt fil-fażi tar-reġistrazzjoni."
+  utter_regist-docs.residence-proof-valid-list:
+  - text: "Dawn huma d-dokumenti kollha validi bħala prova ta’ residenza: LISTA TA’ PROVA TA’ RESIDENZA AĊĊETTATA."
+  utter_regist-docs.upload-modify:
+  - text: "Biex timmodifika jew tibdel dokument li diġà tellajt tista' tuża l-funzjoni 'Tella dokument ġdid jew żid paġna quddiem/wara' li tista' ssib fil-paġna tad-'Dokumenti tal-Identità.'"
+  utter_regist-docs.check:
+  - text: "Wieħed mill-operaturi tagħna se jiċċekkja li d-dokumentazzjoni kollha li pprovdejt hija tajba.\nInt se tirċievi risposta normalment fi żmien jumejn."
+  utter_regist-docs.residence-list:
+  - text: "Dawn huma d-dokumenti kollha li huma validi bħala prova ta' residenza: dikjarazzjonijiet bankarji, kontijiet, ittri mill-gvern, dikjarazzjonijiet ta' karti tal-kreditu, atti tax-xiri tad-dar."
+  utter_regist-docs.residence-verify:
+  - text: "Dawn huma d-dokumenti kollha validi bħala prova ta’ residenza: LISTA TA’ PROVA TA’ RESIDENZA AĊĊETTATA."
+  - text: "Il-prova ta' residenza li indikajt hija dokument validu.\nDawn huma d-dokumenti kollha validi bħala prova ta’ residenza: LISTA TA’ PROVA TA’ RESIDENZA AĊĊETTATA."
+  utter_regist-docs.error-change:
+  - text: "Ipprova erġa' tellagħhom u, jekk tibqa issib il-problemi, ibgħat email lil support@framont.com."
+  utter_regist-docs.exclamation-mark:
+  - text: "Biex tipproċedi b'mod korrett bir-reġistrazzjoni, huwa obbligatorju li ttella' dokument tal-identità, il-kodiċi TIN tiegħek u prova ta' residenza."
+  utter_regist-docs.residence-no:
+  - text: "Sfortunatament il-prova ta' residenza hija dokument obbligatorju biex tlesti r-reġistrazzjoni."
+  utter_regist-docs.upload-multiple-docs:
+  - text: "Tista’ ttella’ numru illimitat ta’ dokumenti. Dawn se jiġu magħqudin awtomatikament bħala file wieħed."
+  utter_regist-docs.upload-deletion:
+  - text: "Biex tħassar dokument, ipproċedi hekk: fit-taqsima 'Dokumenti', ikklikkja fuq il-buttuna 'Tella' dokument ġdid jew żid paġna quddiem/wara', agħżel it-tip ta' dokument li se ttella', agħżel l-opzjoni 'Ibdel dokument eżistenti u tella' dokument ġdid', agħżel file u tellaw."
+  utter_regist-docs.upload-replacement:
+  - text: "Id-dokumenti li ttella' jingħaqdu flimkien, dokument ġdid ma jibdilx dak ta' qabel."
+  utter_registration.verification-code:
+  - text: "Il-kodiċi ta' verifika se jintbagħat lin-numru tat-telefon li daħħalt matul il-fażi ta' reġistrazzjoni u trid tużah l-ewwel darba li tidħol fil-kont tiegħek."
+  utter_registration.telephone.error:
+  - text: "Huwa possibbli li daħħalt in-numru tat-telefon b'mod ħażin? Iċċekkja li għandu l-prefiss internazzjonali wkoll. Għall-Malta, huwa +356."
+  utter_registration.no-want:
+  - text: "Għandna bżonn nkunu nafu l-email jew in-numru tal-mobile tiegħek għall-verifika"
+  utter_registration.present:
+  - text: "Jekk is-sistema turik li xi informazzjoni hija diġà preżenti, huwa possibbli li diġà rreġistrajt b'dik l-informazzjoni.\nTista' tipprova tirkupra l-informazzjoni billi tiċċekkja l-email tiegħek u l-folder tal-ispam."
+  - text: "Jekk is-sistema turik li xi informazzjoni hija diġà preżenti, huwa possibbli li diġà rreġistrajt b'dik l-informazzjoni.\nTista' tipprova tirkupra l-informazzjoni billi tiċċekkja li rċevejt OTP għan-numru tat-telefon tiegħek."
+  - text: "Jekk is-sistema turik li xi informazzjoni hija diġà preżenti, huwa possibbli li diġà rreġistrajt b'dik l-informazzjoni."
+  utter_registration.password.error:
+  - text: "Il-passwords għandu jkun fihom mill-inqas karattru li mhuwiex numru jew ittra. Il-passwords irid ikun fihom mill-inqas numru ('0'-'9'). Il-passwords irid ikun fihom mill-inqas ittra kapitali ('A'-'Z').\nIċċekkja wkoll li ż-żewġ passwords huma l-stess. Għafas fuq l-ikona tal-għajnejn biex tara l-passwords."
+  utter_registration.problem-otp:
+  - text: " L-OTP huwa kodiċi temporanju ta' verifika li jrid jiddaħħal waqt il-fażijiet ta' reġistrazzjoni u aċċess.\nTirċievih fuq in-numru tat-telefon li speċifikajt waqt ir-reġistrazzjoni."
+  utter_access.mail-not-present:
+  - text: "Jekk l-email li daħħalt ma tkunx preżenti fis-sistemi tagħna, l-messaġġ fuq l-iskrin jinnotifikak.\nF'dan il-każ tista' tuża dan l-email waqt ir-reġistrazzjoni."
+  utter_access.guest:
+  - text: "Biex tuża s-sistema, ir-reġistrazzjoni hija obbligatorja."
+  utter_registration.minor:
+  - text: "Nies ta' età legali biss jistgħu jużaw is-sistema tagħna."
+  utter_form-fill.grey-fields:
+  - text: "Mhux possibbli li jinbidlu l-oqsma griżi minħabba li huma essenzjali. Jekk għandek din il-ħtieġa, jekk jogħġbok ikteb lis-servizz tagħna."
+  utter_form-fill.address:
+  - text: "L-indirizz irid ikun ir-residenza."
+  utter_form-fill.no_land_line:
+  - text: "In-numru tat-telefon tad-dar mhux qasam obbligatorju. L-importanti huwa n-numru li daħħalt waqt ir-reġistrazzjoni, fejn tirċievi l-kodiċi OTP kull darba li trid tuża s-sistema."
+  utter_form-fill.occupation_why:
+  - text: "Il-professjoni hija importanti biex nevalwaw l-pożizzjoni finanzjarja tiegħek."
+  utter_form-fill.occupation_mandatory:
+  - text: "L-okkupazzjoni hija informazzjoni meħtieġa biex nevalwaw l-profil tiegħek. Hija obbligatorja."
+  utter_form-fill.occupation_list:
+  - text: "Jekk jogħġbok, daħħal x'taħseb li hi l-pożizzjoni tiegħek fix-xogħol tiegħek."
+  utter_form-fill.other:
+  - text: "Il-kaxxa 'Oħrajn' qiegħda hemm f'każ li xi għażla ma tkunx applikabbli għas-sitwazzjoni tiegħek."
+  utter_form-fill.other-not-editable:
+  - text: "Biex tbiddel l-informazzjoni fil-kaxxa 'Oħrajn' trid tagħżel l-opzjoni xierqa mid-drop-down menu."
+  utter_form-fill.problem-spouse:
+  - text: "Tista' ddaħħal bħala konjuġi biss il-persuna li l-liġi tiddikjara bħala l-konjuġi tiegħek."
+  utter_form-fill.missing-field:
+  - text: "Il-kaxex ħomor wara li tissaveja huma obbligatorji.\nMa tistax tissaveja sakemm timla dawk l-oqsma kollha."
+  utter_form-fill.spouse-why:
+  - text: "Għandna bżonn dik l-informazzjoni għal raġunijiet legali."
+  utter_form-fill.dependent-children-why:
+  - text: "Għandna bżonn dik l-informazzjoni għal raġunijiet legali."
+  utter_form-fill.family-status-why:
+  - text: "Għandna bżonn dik l-informazzjoni għal raġunijiet legali."
+  utter_form-fill.beneficiary.no:
+  - text: "Jekk il-benefiċjarju huwa persuna oħra, jekk jogħġbok tagħżilx il-kaxxa 'Benefiċjarju'.\nF'dan il-każ int se tintalab iktar informazzjoni lejn l-aħħar."
+  utter_form-fill.beneficiary:
+  - text: "Il-kaxxa 'Benefiċjarju' hija meħtieġa biex tispeċifika min se jkun sid il-kont.\nJekk int il-benefiċajru imlieha. Jekk le ħalliha vojta."
+  utter_form-fill.children_why:
+  - text: "Neħtieġu informazzjoni bħal kemm għandek tfal għall-evalwazzjoni tas-sitwazzjoni finanzjarja tiegħek."
+  utter_form-fill.separated:
+  - text: "Jekk int separat / a, iżda mhux divorzjat / a, jekk jogħġbok daħħal 'miżżeweġ / a'."
+  utter_form-fill.other-request:
+  - text: "F'dawn il-każijiet, jekk jogħġbok ikkuntattja lit-tim tal-appoġġ tekniku tagħna."
+  utter_onboarding.fourth-bank:
+  - text: "F'din il-parti, mhux possibbli li żżid ir-raba' bank minn fejn tibda tirċievi l-flus.\nJekk għandek bżonn iktar għajnuna ibgħat email lil chatinfo@framont.com"
+  utter_onboarding.broker-definition:
+  - text: "Broker għandu jkun persuna professjonali li huwa / hija rreġistrata fir-reġistru tal-Awtorità Maltija għas-Servizzi Finanzjarji (MFSA)."
+  utter_onboarding.currency:
+  - text: "Bħalissa, naċċettaw ħlas f'Ewro biss."
+  utter_onboarding.imports:
+  - text: "M'hemm l-ebda limitu ta' ammont"
+  utter_onboarding.engagement:
+  - text: "Attivitajiet oħra konnessi mas-servizzi tagħna."
+  utter_onboarding.engagement-amount:
+  - text: "Jekk l-ammont mhuwiex ċar, daħħal ammont indikattiv jew futuristiku."
+  utter_onboarding.pep_advantages:
+  - text: "Id-dikjarazzjoni bħala Persuna Politikament Esposta (PEP) m'għandhiex valur legali dirett fil-biċċa l-kbira tal-ġurisdizzjonijiet. Pjuttost, isservi bħala klassifikazzjoni jew kategorizzazzjoni li l-istituzzjonijiet finanzjarji u l-korpi regolatorji jużaw biex jaraw u jimmaniġġjaw riskji potenzjali assoċjati ma’ individwi f’pożizzjonijiet ta’ influwenza politika."
+  utter_onboarding.pep_definition:
+  - text: " Persuna Politikament Esposta (PEP) hija individwu li għandu jew kellu pożizzjoni jew rwol pubbliku prominenti, kemm domestikament kif ukoll internazzjonalment.\nJekk le l-persuna mhux PEP."
+  utter_onboarding.pep_why:
+  - text: "L-informazzjoni hija essenzjali għal raġunijiet legali."
+  utter_onboarding.American_taxes_definition:
+  - text: "Definit għal raġunijiet fiskali Amerikani' tfisser li l-persuna tħallas it-taxxi fl-Istati Uniti tal-Amerika."
+  utter_onboarding.American_taxes_why:
+  - text: "L-informazzjoni fiskali Amerikana hija meħtieġa għal raġunijiet legali."
+  utter_onboarding.fiscal_residency_def:
+  - text: "Ir-residenza fiskali tirrappreżenta l-pajjiż li fih l-individwu jagħmeil l-pagamenti fiskali tiegħu."
+  utter_onboarding.fiscal_residency_multi:
+  - text: "F'każ li trid iddaħħal aktar minn residenza fiskali waħda, huwa possibbli li żżid din l-informazzjoni iktar il-quddiem.\nFil-fażi tar-reġistrazzjoni huwa importanti li żżid mill-inqas waħda."
+  utter_onboarding.fiscal_residency_why:
+  - text: "L-informazzjoni hija meħtieġa għal raġunijiet legali."
+  utter_onboarding.TIN_definition:
+  - text: "In-Numru ta' Identifikazzjoni tat-Taxxa (TIN) huwa l-kodiċi ta' identifikazzjoni validu ġewwa l-Komunità Ewropea.\nTista' ssib tiegħek fuq il-websajt www.TINMIO.com"
+  utter_onboarding.TIN_where:
+  - text: "Tista' ssib tiegħek fuq il-websajt www.TINMIO.com\nFil-każ li ma jkollokx wieħed, tista' tapplika għalih."
+  utter_onboarding.TIN_why:
+  - text: "It-TIN huwa data obbligatorja għar-registrazzjoni fis-sistema ta' Framont."
+  utter_onboarding.payment-method:
+  - text: "L-uniku metodu ta' ħlas aċċettat minn Framont huwa minn kont bankarju."
+  utter_onboarding.account-type:
+  - text: "Kont miftuħ f'isem il-klijent jekk inti l-uniku sid tal-kont, inkella kont konġunt."
+  utter_onboarding.account-why:
+  - text: "It-tip ta’ kont bankarju li tispeċifika jkun dak li se tuża biex tiddepożita l-flus lil Framont."
+  utter_onboarding.account-open:
+  - text: "Framont jeħtieġ li żżid kont bankarju minn fejn se jsir il-ħlas għas-servizzi.\nAħna ma noffrux servizzi biex niftħu kontijiet bankarji."
+  utter_onboarding.activity-enter:
+  - text: "Daħħal l-aħħar settur li ħdimt fih.\nJekk inti bla xoghħol u m'għandekx esperjenzi preċedenti, daħħal is-settur minn fejn ġejjin il-fondi li se tuża għas-servizzi ta' Framont."
+  utter_onboarding.activity-mandatory:
+  - text: "Li ddaħħal l-attività hija obbligatorja għall-fażi tal-onboarding."
+  utter_onboarding.job-not-present:
+  - text: "Jekk il-lista ma turikx t-tip tax-xogħol tiegħek, daħħal it-tip li huwa l-eqreb.\nImma l-ewwel ara jekk hux qed tuża xi deskrizzjoni informali."
+  utter_onboarding.job-years:
+  - text: "Daħħal is-snin preċiżi kemm jista' jkun."
+  utter_onboarding.job-years-why:
+  - text: "Li ddaħħal in-numru tas-snin ta' kemm ilek taħdem huwa obbligatorju għall-proċess tal-onboarding."
+  utter_onboarding.job-years-zero:
+  - text: "Jekk m'għandekx snin ta' xogħol attivi, tista' daħħal 0 ġewwa l-kaxxa relatata."
+  utter_onboarding.job-years-less-than-one:
+  - text: "Tista' ddaħħal numru bil-virgola miksub min-numru ta' xhur maħduma diviż bi tnax. Per eżempju, 6 xhur huwa 0.5."
+  utter_onboarding.source-definition:
+  - text: "Is-sors tad-dħul jgħid minn liema attività ġew ġġenerati l-assi."
+  utter_onboarding.source-multiple:
+  - text: "Tista' ddaħħal iktar minn oriġini waħda għal minn fejn ikunu ġejjin l-assi tiegħek."
+  utter_onboarding.source-active:
+  - text: "Is-sors ta' dħul huwa dak li jiġġenera l-attività finanzjarja tiegħek."
+  utter_onboarding.asset-details:
+  - text: "M'hemm l-ebda likwidità minima."
+  utter_onboarding.source-other:
+  - text: "Jekk tagħżel 'Sorsi oħra' fl-oriġini tal-fondi, huwa obbligatorju li tispeċifika minn fejn ikunu ġejjin."
+  utter_onboarding.second-residency-why:
+  - text: "It-tieni residenza tista' tkun rilevanti għal raġunijiet fiskali."
+  utter_onboarding.privacy:
+  - text: "Tista' ssib ir-regoli tal-privatezza hawn.\nREGOLI TAL-PRIVATEZZA"
+  utter_onboarding.privacy-why:
+  - text: "Il-kundizzjonijiet tal-ipproċessar tad-data huma obbligatorji biex jiġi pprovdut is-servizz.\nKunsens għal skopijiet ta' kummerċjalizzazzjoni huwa opzjonali."
+  utter_onboarding.activity-countries:
+  - text: "Tista' żżid sa 3 pajjiżi għall-attività.\nJekk l-attività ssir f'aktar minn tliet pajjiżi, daħħal 3 biss. Jekk inqas minn 3, daħħalhom kollha."
+  utter_onboarding.activity-number:
+  - text: "Tista' ddaħħal sa tliet attivitajiet ma' pajjiżi relatati fejn jitwettqu.\nJekk għandek aktar minn tliet pajjiżi fejn isiru dawn l-attivitajiet mingħajr ma tista' żżidhom, ikklikkja 'Iva' fit-taqsima ta' 'Sors oħra ta' dħul jew attivitajiet minbarra dak prinċipali'."
+  utter_onboarding.activity-delete:
+  - text: "Is-servizz ma jissavejax awtomatikament u trid terġa' ġġedded il-paġna sabiex tibda mill-ġdid. Jekk diġà ssejvjajt il-paġna iżda ma ffirmajtx, tista' terġa' tibda mill-formola vojta."
+  utter_onboarding.activity-country-delete:
+  - text: "Is-servizz ma jissavejax awtomatikament u trid terġa' ġġedded il-paġna sabiex tibda mill-ġdid. Jekk diġà ssejvjajt il-paġna iżda ma ffirmajtx, tista' terġa' tibda mill-formola vojta."
+  utter_mifid.update-info:
+  - text: "Biex tinbidel, irid jiġi mimli kwestjonarju MIFID ġdid."
+  utter_mifid.omit-info:
+  - text: "Jekk tħalli barra xi informazzjoni obbligatorja, ma tistax tipproċedi bil-mili tal-kwestjonarju."
+  utter_mifid.help-fill:
+  - text: "Ipprova wieġeb skond l-għarfien tiegħek bl-aħjar mod li tista'."
+  utter_mifid.professional-client:
+  - text: "Klijent professjonali huwa persuna li kellha jew qed taqdi rwol professjonali fil-qasam finanzjarju.\nJekk inti professjonist, m'għandekx għalfejn timla l-kwestjonarju MIFID."
+  utter_mifid.update-name-surname:
+  - text: "L-isem u l-kunjom huma dawk li daħħalt waqt il-fażi tar-reġistrazzjoni.\nJekk huma żbaljati, jekk jogħġbok ikkuntattja lill-awtoritajiet ikkonċernati."
+  utter_mifid.why-education-level:
+  - text: "Huwa obbligatorju li Framont ikollu għarfien dwar l-għodod finanzjarji li taf bijhom u l-għarfien finanzjarju tiegħek sabiex ikun jista’ jgħinek tuża l-għodod finanzjarji tiegħu b’mod xieraq."
+  utter_mifid.education-level:
+  - text: "Jekk tagħżel 'Oħrajn' fl-'Oqsma ta' Studju' tista' tagħti dettalji aħjar tal-kors ta' taħriġ tiegħek u t-titli tiegħek."
+  utter_mifid.finance-professionist:
+  - text: "Jekk ħdimt fis-settur finanzjarju, l-għarfien tiegħek tal-għodod finanzjarji se jippermettilek tagħmel l-aħjar użu minn din l-għodda."
+  utter_mifid.tool-knowledge-no:
+  - text: "Għall-mili tal-kwestjonarju tista' tassumi li qatt ma investejt f'għodod finanzjarji."
+  utter_mifid.investment-not-listed:
+  - text: "Għall-mili tal-kwestjonarju, nistiednek biex tqis biss il-lista proposta."
+  utter_mifid.ethical-exclusion:
+  - text: "Mistoqsijiet etiċi li jirreferu għat-twemmin ta' l-individwu.\nJekk ma tridx tuża wieħed jew iktar mill-investimenti jew għoddod disponibbli tista' tagħżilhom fil-kaxxa x-xierqa u jkunu esklużi."
+  utter_mifid.tax-exclusion:
+  - text: "Jekk taf l-impatt ta’ wieħed jew aktar mill-investimenti jew għoddod tista’ tagħżilhom fil-kaxxa x-xierqa u jkunu esklużi."
+  utter_mifid.time-horizon-advantages:
+  - text: "L-ammont ta' żmien huwa għażla personali."
+  utter_mifid.time-horizon-different:
+  - text: "Huwa possibbli li tinkiteb għal pjanijiet ta' investiment differenti, b'ammonti ta' żmien u profili ta' riskju differenti."
+  utter_mifid.heritage-percentage-for-expenses:
+  - text: "Tista' tpoġġi stima tal-perċentwal tal-assi tiegħek li tonfoq kull sena fuq il-bażi tal-fehma personali tiegħek.\nJekk fil-futur dal-valur jinbidel jekk jogħġbok innotifika lill-awtoritajiet kkonċernati. "
+  utter_mifid.investor-strategy:
+  - text: "Agħżel id-definizzjoni ta' investitur li l-aktar taqbel mal-idea tiegħek, l-għażla tiegħek mhux relatata ma' investimenti li noffrulek."
+  utter_mifid.heritage-notification-no:
+  - text: "L-informazzjoni mitluba hija meħtieġa biex tissodisfa l-obbligi regolatorji u wkoll biex nagħtuk servizz ta' investiment li jaqbel mal-profil tiegħek.\nFil-każ li ma tridx tagħti xi informazzjoni, Framont jista' ma jkunx kapaċi joffri s-servizz mitlub. "
+  utter_mifid.heritage-value-precision:
+  - text: "Wieġeb mill-aħjar li tista'.\nJekk issib żball fl-informazzjoni mdaħħla, jekk jogħġbok innotifika lill-awtoritajiet kkonċernati."
+  utter_mifid.heritage-binding:
+  - text: "Il-valur tal-assi tiegħek huwa meħtieġ biex nagħtuk servizz ta' investiment li jaqbel mal-profil tiegħek."
+  utter_mifid.self-assessment:
+  - text: "Wieġeb mill-aħjar li tista'.\nWara li tlesti l-kwestjonarju, Framont se jikkuntattjak biex jipproponilek investiment li jaqbel mal-profil tiegħek u jkun disponibbli biex jappoġġjak f'kull pass tal-proċess"
+  utter_mifid.variable-annual-saving:
+  - text: "Wieġeb mill-aħjar li tista'.\nJekk issib żball fl-informazzjoni mdaħħla, jekk jogħġbok innotifika lill-awtoritajiet kkonċernati."
+  utter_mifid.privacy-health-information:
+  - text: "L-informazzjoni li ddaħħal se tiġi użata skont ir-regolament tal-privatezza."
+  utter_mifid.questionnaire-modification:
+  - text: "Ladarba l-kwestjonarju MIFID jimtela u jintbagħat ma jkunx possibbli li jiġi mmodifikat."
+  utter_mifid.disinvestment-costs:
+  - text: "Li tneħħi l-investimenti qabel iż-żmien miftiehem jinvolvi kemm spejjeż fissi kif ukoll varjabbli skont l-ammont kapitali."
+  utter_mifid.example-swing-investment:
+  - text: "L-eżempju jrid jevalwa l-imġieba tiegħek fuq varjazzjoni konsiderevoli, kemm pożittiv kif ukoll negattiv."
+  utter_mifid.different-returns-investimento:
+  - text: "Redditi tfisser investimenti assoċjati mal-istess kont, li għandhom l-istess ammont ta' żmien u l-istess dħul."
+  utter_general.mifid-certified-user:
+  - text: "Għal kull abbonament ġdid differenti ma' Framont, pereżempju linja ġdida ta' ġestjoni jew kuntratt ta' konsulenza, trid timla kwestjonarju ġdid."
+  utter_general.messagges:
+  - text: "Ġewwa l-messaġġi ta' kull taqsima, se tidher konverżazzjoni privata bejnek u Framont.\nDokumenti ffirmati li jiddikjaraw ir-relazzjoni tiegħek ma' Framont se jintbgħatu hemm."
+  utter_videocall-description:
+  - text: "Il-videocall hija obbligatorja biex tivverifika li l-informazzjoni li tajt lil Framont hija korretta u għanda x'taqsam miegħek.\n Aħna nitolbuk tikkonferma l-informazzjoni tiegħek u turi lill-webcam id-dokumenti korrispondenti. \nMeta tispiċċa, tiġi kkuntattjat permezz ta' messaġġ personali bir-riżultat tal-videocall (u tista' tipproċedi bl-iffirmar tad-dokumenti meħtieġa biex issir klijent ta' Framont).\n "
+  utter_videocall-avoid_impossible:
+  - text: " Il-videocall hija obbligatorja biex tivverifika d-dokumentazzjoni li daħħalt matul il-fażi tar-reġistrazzjoni.\nMingħajr il-videocall ma jkunx possibbli li titlesta r-reġistrazzjoni u ssir klijent ta' Framont."
+  utter_sign.how:
+  - text: "Biex tipproċedi u tiffirma d-dokumenti, trid tiftaħ is-servizz 'Infocert għas-Sinjal Remot.'\nIssib id-dokumenti kollha hemm, lesti biex jiġu ffirmati.\nDawn id-dokumenti jiġu pprovduti lura lilek biċ-ċertifikazzjoni tal-Infocert."
+  utter_sign.where:
+  - text: "Issib id-dokument li trid tiffirma ġewwa l-portal Infocert.\nIdħol jew irreġistra f'dan l-indirizz."
+  utter_sign.error-spec-characters:
+  - text: "Jidher li hemm karattru speċjali, jekk jogħġbok irranġah."
+  utter_sign.OTP-code:
+  - text: "L-OTP hija l-One Time Password. Din tintbagħat lin-numru tat-telefon li daħħalt waqt ir-reġistrazzjoni."
+  utter_sign.error-OTP-code:
+  - text: "Iċċekkja n-numru tat-telefon\nTista' tibdlu fit-taqsima tal-profil tiegħek."
+  utter_sign.signed-documents:
+  - text: "Issib id-dokument iffirmat fit-taqsima 'Messaġġi' tal-'Home Page'."
+  utter_sign.coupon:
+  - text: "Issib il-kupun għas-sinjal diġitali ġewwa t-tab 'Digital Sign'.\nInti se tirċievi l-kupun direttament mingħand il-fornitur tagħna. Jekk jogħġbok segwi l-proċedura tal-fornitur stess."
+  utter_sign.order-payment:
+  - text: "Framont jagħtik kupun biex tidħol ġewwa l-paġna tal-Infocert. B'dan il-mod is-sinjal diġitali jkun b'xejn."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+            

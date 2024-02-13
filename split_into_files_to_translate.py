@@ -1,3 +1,5 @@
+# OLD - SEE README.md for the updated overview
+
 import subprocess
 
 import yaml
@@ -252,9 +254,9 @@ def extract_fast_align_results(translate_dir, totranslate_dir):
 
 # nlu("converted_files/data/nlu.yml")
 # nlg("totranslate/domain.yml")
-# #
-# # Translate and put back in ./translated
-pass_to_fast_align("./translated", "./totranslate")
+#
+# Translate and put back in ./translated
+# pass_to_fast_align("./translated", "./totranslate")
 
 
 # open wsl and do:
@@ -263,5 +265,5 @@ pass_to_fast_align("./translated", "./totranslate")
 
 
 extract_fast_align_results("./translated/", "./totranslate/")
-#
+
 merge_nlu("./translated", "converted_files/data/nlu.yml","totranslate/domain.yml")

@@ -316,8 +316,11 @@ def annotate_utterance_domain(utter, spans):
             utter = convert(utter)
             # utter[span[-2]] = '[%s' % (utter[span[-2]])
             # utter[span[-1]] = '%s](%s:%s)' % (utter[span[-1]], span[1].lower(), normalized_token)
-            utter[span[-1] - 1] = '{%s}' % (span[1].lower())
-            utter = ''.join(utter)
+            try:
+                utter[span[-1] - 1] = '{%s}' % (span[1].lower())
+                utter = ''.join(utter)
+            except:
+                print("error")
 
     for span in spans:
         normalized_token = span[2].lower()
@@ -413,7 +416,7 @@ def annotate_utterance(utter, spans):
 
 
 def main():
-    readFile = 'data/test.json'
+    readFile = 'data/test_mt.json'
     rasaStoriesFile = 'converted_files/data/test/stories.yml'
     rasaUtterancesFile = 'converted_files/data/test/nlu.yml'
     rasaDomainFile = 'converted_files/data/test/domain.yml'

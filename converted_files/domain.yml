@@ -1,243 +1,434 @@
-slots:
-  food:
-    type: text
-  pricerange:
-    type: text
-  area:
-    type: text
-  bookpeople:
-    type: text
-  booktime:
-    type: text
-  bookday:
-    type: text
-  stars:
-    type: text
-  bookstay:
-    type: text
-  name:
-    type: text
-  type:
-    type: text
-  arriveby:
-    type: text
-  destination:
-    type: text
-  leaveat:
-    type: text
-  departure:
-    type: text
-  day:
-    type: text
-  entrancefee:
-    type: text
-  price:
-    type: text
-  department:
-    type: text
-
-entities:
-- food
-- pricerange
-- area
-- bookpeople
-- booktime
-- bookday
-- stars
-- bookstay
-- name
-- type
-- arriveby
-- destination
-- leaveat
-- departure
-- day
-- entrancefee
-- price
-- department
+version: "3.1"
 
 intents:
- - restaurant-inform
- - hotel-inform
- - general-thank
- - restaurant-request-food
- - hotel-request-area
- - hotel-request-stars
- - general-bye
- - restaurant-request-ref
- - hotel-request-phone
- - hotel-request-pricerange
- - hotel-request-address
- - hotel-request-parking
- - taxi-inform
- - taxi-request-phone
- - hotel-request-postcode
- - restaurant-request-address
- - restaurant-request-phone
- - restaurant-request-postcode
- - taxi-request-type
- - hotel-request-name
- - restaurant-request-name
- - hotel-request-ref
- - hotel-request-internet
- - restaurant-request-pricerange
- - restaurant-request-area
- - hotel-request-type
- - train-inform
- - train-request-ref
- - train-request-duration
- - train-request-leaveat
- - train-request-trainid
- - train-request-price
- - train-request-arriveby
- - police-inform
- - attraction-inform
- - attraction-request-phone
- - attraction-request-address
- - attraction-request-entrancefee
- - attraction-request-area
- - attraction-request-postcode
- - attraction-request-type
- - attraction-request-name
- - general-greet
- - taxi-request-name
- - hospital-inform
- - train-request-name
- - attraction-request-parking
- - hospital-request-phone
- - police-request-address
- - police-request-postcode
- - police-request-phone
- - police-request-name
- - hospital-request-address
- - hospital-request-postcode
- - hospital-request-name
- - police-request-department
+- greet
+- nlu_fallback
+- regist-docs.accepted
+- regist-docs.error-generic
+- regist-docs.expired
+- regist-docs.formats
+- regist-docs.residence-proof
+- regist-docs.upload-modify
+- regist-docs.why
+- regist-docs.check
+- regist-docs.residence-list
+- regist-docs.residence-verify
+- regist-docs.error-change
+- regist-docs.exclamation-mark
+- regist-docs.residence-no
+- regist-docs.upload-multiple-docs
+- regist-docs.upload-deletion
+- regist-docs.upload-replacement
+- registration.verification-code
+- registration.telephone.error
+- registration.no-want
+- registration.present
+- registration.password.error
+- registration.problem-otp
+- access.mail-not-present
+- access.guest
+- registration.minor
+- form-fill.grey-fields
+- form-fill.address
+- form-fill.no_land_line
+- form-fill.occupation_why
+- form-fill.occupation_mandatory
+- form-fill.occupation_list
+- form-fill.other
+- form-fill.other-not-editable
+- form-fill.problem-spouse
+- form-fill.missing-field
+- form-fill.spouse-why
+- form-fill.dependent-children-why
+- form-fill.family-status-why
+- form-fill.beneficiary.no
+- form-fill.beneficiary
+- form-fill.children_why
+- form-fill.separated
+- form-fill.other-request
+- onboarding.fourth-bank
+- onboarding.broker-definition
+- onboarding.currency
+- onboarding.imports
+- onboarding.engagement
+- onboarding.engagement-amount
+- onboarding.pep_advantages
+- onboarding.pep_definition
+- onboarding.pep_why
+- onboarding.American_taxes_definition
+- onboarding.American_taxes_why
+- onboarding.fiscal_residency_def
+- onboarding.fiscal_residency_multi
+- onboarding.fiscal_residency_why
+- onboarding.TIN_definition
+- onboarding.TIN_where
+- onboarding.TIN_why
+- onboarding.payment-method
+- onboarding.account-type
+- onboarding.account-why
+- onboarding.account-open
+- onboarding.activity-enter
+- onboarding.activity-mandatory
+- onboarding.job-not-present
+- onboarding.job-years
+- onboarding.job-years-why
+- onboarding.job-years-zero
+- onboarding.job-years-less-than-one
+- onboarding.source-definition
+- onboarding.source-multiple
+- onboarding.source-active
+- onboarding.asset-details
+- onboarding.source-other
+- onboarding.second-residency-why
+- onboarding.privacy
+- onboarding.privacy-why
+- onboarding.activity-countries
+- onboarding.activity-number
+- onboarding.activity-delete
+- onboarding.activity-country-delete
+- mifid.update-info
+- mifid.omit-info
+- mifid.help-fill
+- mifid.professional-client
+- mifid.update-name-surname
+- mifid.why-education-level
+- mifid.education-level
+- mifid.finance-professionist
+- mifid.tool-knowledge-no
+- mifid.investment-not-listed
+- mifid.ethical-exclusion
+- mifid.tax-exclusion
+- mifid.time-horizon-advantages
+- mifid.time-horizon-different
+- mifid.heritage-percentage-for-expenses
+- mifid.investor-strategy
+- mifid.heritage-notification-no
+- mifid.heritage-value-precision
+- mifid.heritage-binding
+- mifid.self-assessment
+- mifid.variable-annual-saving
+- mifid.privacy-health-information
+- mifid.questionnaire-modification
+- mifid.disinvestment-costs
+- mifid.example-swing-investment
+- mifid.different-returns-investimento
+- general.mifid-certified-user
+- general.messagges
+- videocall-description
+- videocall-avoid
+- videocall-impossible
+- sign.how
+- sign.where
+- sign.error-spec-characters
+- sign.OTP-code
+- sign.error-OTP-code
+- sign.signed-documents
+- sign.coupon
+- sign.order-payment
 
-actions:
-- action_restaurant-inform
-- action_booking-inform
-- action_restaurant-recommend
-- action_hotel-inform
-- action_hotel-select
-- action_taxi-inform
-- action_hotel-recommend
-- action_restaurant-select
-- action_attraction-inform
-- action_train-inform
-- action_train-select
-- action_police-inform
-- action_attraction-recommend
-- action_attraction-select
-- action_hospital-inform
+entities:
+- identity_document_entity
+- accepted_formats_entity
+- proof_of_residence_entity
+- contacts_entity
 
+slots:
+  identity_document_slot:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: identity_document_entity
+  accepted_formats_slot:
+    type: categorical
+    mappings:
+    - type: from_entity
+      entity: accepted_formats_entity
+  proof_of_residence_slot:
+    type: categorical
+    mappings:
+    - type: from_entity
+      entity: proof_of_residence_entity
+  contacts_slot:
+    type: categorical
+    mappings:
+    - type: from_entity
+      entity: contacts_entity
 responses:
-  utter_restaurant-request-area:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_booking-book:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_booking-request-bookpeople:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_booking-request-bookstay:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_booking-nobook:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hotel-request-area:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_general-welcome:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_restaurant-request-food:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_restaurant-request-pricerange:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_booking-request-bookday:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_general-bye:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hotel-request-pricerange:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_general-reqmore:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hotel-nooffer:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_restaurant-nooffer:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-leaveat:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_booking-request-booktime:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hotel-request-internet:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hotel-request-parking:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hotel-request-stars:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-arriveby:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_restaurant-request-name:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-departure:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_general-greet:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_general-thank:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hotel-request-name:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-destination:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hotel-request-type:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-request-day:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-request-departure:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-offerbook:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-offerbooked:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-request-destination:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-request-bookpeople:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-nooffer:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-request-leaveat:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-request-arriveby:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_attraction-request-type:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_attraction-request-area:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_attraction-request-name:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_attraction-request-entrancefee:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_attraction-nooffer:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_restaurant-request-none:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_attraction-request-phone:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-type:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-none:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-name:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_booking-request-none:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_attraction-request-none:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-bookpeople:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_taxi-request-bookday:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_hospital-request-department:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
-  utter_train-request-none:
-  - text: "TEMP: NEED TO FIGURE OUT RESPONSES."
+  utter_greet:
+  - text: "Hi! Welcome to Cartesio! I'm here to help you. Ask me whatever you need."
+  utter_please_rephrase:
+  - text: "Fallback for intents. No intent has higher enough confidence to be choosen."
+  utter_default:
+  - text: "Fallback for utterances. The bot does not know which utterance present to the user."
+  utter_regist-docs.why:
+  - condition:
+    - type: slot
+      name: identity_document_slot
+      value: null
+    text: "The identity document asked is needed to verify your identity."
+  - text: "We ask your {identity_document_slot} because we need to verify your identity."
+  utter_regist-docs.accepted:
+  - condition:
+    - type: slot
+      name: identity_document_slot
+      value: null
+    text: "The accepted documents are the identity card and the passport."
+  - text: "Yes, the {identity_document_slot} is an accepted identity document."
+  utter_regist-docs.formats:
+  - text: "You can upload every file and there is no size limit."
+  utter_regist-docs.expired:
+  - text: "The document must be sent at the time of the registration and it has to be valid for at least three months from the registration date. \nIf your document expires earlier you have to wait for its renewal."
+  utter_regist-docs.error-generic:
+  - text: "To solve this error, send an email to the support at support@framont.com."
+  utter_regist-docs.residence-proof:
+  - text: "The proof of residence is a document that shows and confirms the residency address you inserted in the registration phase."
+  utter_regist-docs.residence-proof-valid-list:
+  - text: 'These are all the documents valid as a proof of residence: LIST OF ACCEPTED PROOF OF RESIDENCE.'
+  utter_regist-docs.upload-modify:
+  - text: "To modify or replace an already uploaded document you can use the 'Upload a new document or add a front/rear page' that you can find in the Identity Documents page."
+  utter_regist-docs.check:
+  - text: "One of our operators will check that all documentation you provided is ok. \nYou will receive a feedback usually within 2 working days."
+  utter_regist-docs.residence-list:
+  - text: "These are all the documents are valid as well as a proof of residence: bank statements, utility bills, letters from government, credit card statements, house purchase deed."
+  utter_regist-docs.residence-verify:
+  - condition:
+    - type: slot
+      name: proof_of_residence_slot
+      value: null
+    text: 'These are all the documents valid as a proof of residence: LIST OF ACCEPTED PROOF OF RESIDENCE.'
+  - text: "The proof of residence you indicated is a valid document. \nThese are all the documents valid as a proof of residence: LIST OF ACCEPTED PROOF OF RESIDENCE."
+  utter_regist-docs.error-change:
+  - text: "Try to upload them again and, eventually, send email to support@framont.com."
+  utter_regist-docs.exclamation-mark:
+  - text: "To correctly proceed with the registration, it is mandatory to upload an ID document, your TIN code and a proof of residence."
+  utter_regist-docs.residence-no:
+  - text: "Unfortunately the proof of residence is a mandatory document to complete the registration."
+  utter_regist-docs.upload-multiple-docs:
+  - text: "You can upload an unlimited number of documents. They will be automatically combined as a single file."
+  utter_regist-docs.upload-deletion:
+  - text: "To delete a document, proceed as follows: in the Documents section, click on the 'Upload a new document or add a front/back page' button, select the type of document to be uploaded, select the 'Replace existing document and upload a new one' option, select a file and upload it."
+  utter_regist-docs.upload-replacement:
+  - text: "The uploaded documents are joined together, the upload of a new one doesn't replace the previous."
+  utter_registration.verification-code:
+  - text: "The verification code will be sent to the phone number you set during the registration phase and you will have to use it during your first access."
+  utter_registration.telephone.error:
+  - text: "Is it possible that you entered the phone number in a wrong way? Check that it has the international prefix too. For Italy, it is +39."
+  utter_registration.no-want:
+  - text: "We need to know both your email and a phone number, for security reasons."
+  utter_registration.present:
+  - condition:
+    - type: slot
+      name: contacts_slot
+      value: mail
+    text: "If the system shows you that some information is already present, it is possible that you have already registered using those data. \nYou can try to retrieve it by checking your email and the spam folder."
+  - condition:
+    - type: slot
+      name: contacts_slot
+      value: phone number
+    text: "If the system shows you that some information is already present, it is possible that you have already registered using those data. \nYou can try to retrieve it by checking that you have received an OTP to your phone number."
+  - text: "If the system shows you that some information is already present, it is possible that you have already registered using those data."
+  utter_registration.password.error:
+  - text: "Passwords must contain at least a character different from numbers or letters. Passwords has to contain at least a number ('0'-'9'). Passwords has to contain at least a capital letter ('A'-'Z'). \nCheck also that the two password are equal. The eye-icon will help you."
+  utter_registration.problem-otp:
+  - text: "The OTP is a verification temporary code that has to be entered during registration and access phases. \nYou will receive it on the phone number you specified during the registration."
+  utter_access.mail-not-present:
+  - text: "If the mail that you enter is not present inside our systems, an onscreen message will notify you. \nIn this case, you can use it during your registration."
+  utter_access.guest:
+  - text: "To access the platform, registration is mandatory."
+  utter_registration.minor:
+  - text: "Only legal age people can use our platofrm."
+  utter_form-fill.grey-fields:
+  - text: "It is not possible to change grey fields because they are essential. If you have such need, please write to our service."
+  utter_form-fill.address:
+  - text: "Address has to be the residency."
+  utter_form-fill.no_land_line:
+  - text: "The land line it is not a mandatory field. The most important is the number you entered during registration, where you will receive the OTP code every time you access to the platform."
+  utter_form-fill.occupation_why:
+  - text: "The profession is important to evaluate your financial position."
+  utter_form-fill.occupation_mandatory:
+  - text: "The occupation is a necessary information to evaluate your profile. It is mandatory."
+  utter_form-fill.occupation_list:
+  - text: "Please, enter what you think your job position is."
+  utter_form-fill.other:
+  - text: "The box Other is there in case any option will not be applicable for your situation."
+  utter_form-fill.other-not-editable:
+  - text: "You can edit the box 'Other' only if you select the appropriate drop-down menu."
+  utter_form-fill.problem-spouse:
+  - text: "You can enter as a spouse only the person the law state as your spouse."
+  utter_form-fill.missing-field:
+  - text: "Red fields after saving are mandatory. \nYou can't save until you will fill all those fields."
+  utter_form-fill.spouse-why:
+  - text: "We need that information"
+  utter_form-fill.dependent-children-why:
+  - text: "We need that information"
+  utter_form-fill.family-status-why:
+  - text: "We need that information"
+  utter_form-fill.beneficiary.no:
+  - text: "If beneficiary is another person, please deselect the box 'Beneficiary'. \nMore information will be asked you lately."
+  utter_form-fill.beneficiary:
+  - text: "The box 'Beneficiary' is necessary to specify who will be the holder of the subscription. \nIf it is you, select it. Otherwise leave it empty."
+  utter_form-fill.children_why:
+  - text: "We need information as number of children for the following evaluation of your financial situation."
+  utter_form-fill.separated:
+  - text: "If you are separated, but not divorced, please enter 'Married'."
+  utter_form-fill.other-request:
+  - text: "In these cases, please contact our technical support team."
+  utter_onboarding.fourth-bank:
+  - text: "In this step, it is not possible to add a fourth bank where initially receive the money from. \nIf you need another type of assistant text a mail to chatinfo@framont.com"
+  utter_onboarding.broker-definition:
+  - text: "A broker is meant to be an enroled professional person in the register Malta Financial Services Authority (MFSA)."
+  utter_onboarding.currency:
+  - text: "At this time, we accept payment in Euros only."
+  utter_onboarding.imports:
+  - text: "There is no amount limit"
+  utter_onboarding.engagement:
+  - text: "Other activities connected with our services."
+  utter_onboarding.engagement-amount:
+  - text: "If the amount is not clear, enter an indicative or futuristic amount."
+  utter_onboarding.pep_advantages:
+  - text: "The declaration as a Politically Exposed Person (PEP) itself does not have a direct legal value in most jurisdictions. Rather, it serves as a classification or categorization that financial institutions and regulatory bodies use to assess and manage potential risks associated with individuals in positions of political influence."
+  utter_onboarding.pep_definition:
+  - text: "A Politically Exposed Person (PEP) is an individual who holds or has held a prominent public position or role, either domestically or internationally. \nIf it's not, the subject is not a PEP."
+  utter_onboarding.pep_why:
+  - text: "The information results essential as legal duties."
+  utter_onboarding.American_taxes_definition:
+  - text: "'Defined for American fiscal porpouses' means that the subject pays taxes in United States of America."
+  utter_onboarding.American_taxes_why:
+  - text: "Know the American fiscal information is necessary to legal duties."
+  utter_onboarding.fiscal_residency_def:
+  - text: "Fiscal residency stands for the country in which subject fiscal payments are provided."
+  utter_onboarding.fiscal_residency_multi:
+  - text: "In case you want to enter more than one fiscal residency, it is possible to add this information in a future step. \nIn the subscription phase is important to add at least one."
+  utter_onboarding.fiscal_residency_why:
+  - text: "The information is necessary to legal duties."
+  utter_onboarding.TIN_definition:
+  - text: "The Tax Identification Number (TIN) is the identification code valid inside the European Community. \nYou can find yours to the website www.TINMIO.com"
+  utter_onboarding.TIN_where:
+  - text: "You can find yours to the website www.TINMIO.com \nIn case you don't have one, you can ask for one"
+  utter_onboarding.TIN_why:
+  - text: "TIN is a mandatory data for Framont's platform subscription."
+  utter_onboarding.payment-method:
+  - text: "The only payment method accepted by Framont is the pairing with a bank account."
+  utter_onboarding.account-type:
+  - text: "Account opened in the customer's name if you are a single holder, joint account otherwise."
+  utter_onboarding.account-why:
+  - text: "The type of bank account you specify will be the one you will use to deposit the liquidity to Framont."
+  utter_onboarding.account-open:
+  - text: "Framont require to add a bank account from where the payment for services will be carried out. \nWe don't offer services to open bank accounts."
+  utter_onboarding.activity-enter:
+  - text: "Enter the last sector you have worked in. \nIf you are unemployed and you don't have previous experiences, enter the sector where the liquidity used for Framont services is coming from."
+  utter_onboarding.activity-mandatory:
+  - text: "Enter the activity is mandatory for the onboarding step."
+  utter_onboarding.job-not-present:
+  - text: "If the list doesn't show you your job contract, enter the type that is closer. \nBut first, take a check if you are calling the contract with its informal naming."
+  utter_onboarding.job-years:
+  - text: "Enter the years as precise as possible, according your possibilities."
+  utter_onboarding.job-years-why:
+  - text: "The enter of job years is mandatory for the onboarding step."
+  utter_onboarding.job-years-zero:
+  - text: "If you don't have active job years, you can enter 0 inside the related box."
+  utter_onboarding.job-years-less-than-one:
+  - text: "You can enter a number with comma obtained from the number of worked months divided by twelve. For instance, 6 months is 0.5."
+  utter_onboarding.source-definition:
+  - text: "The source of income states from which activity the asset has been generated."
+  utter_onboarding.source-multiple:
+  - text: "You can enter more origins where your asset are coming from."
+  utter_onboarding.source-active:
+  - text: "A source of income should generate activity when generates revenues to your heritage."
+  utter_onboarding.asset-details:
+  - text: "There is no minimum liquidity."
+  utter_onboarding.source-other:
+  - text: "If you select 'Other sources' in origin of funds, it is mandatory to specify where they are coming from."
+  utter_onboarding.second-residency-why:
+  - text: "A second residency could be relevant for fiscal porpouse."
+  utter_onboarding.privacy:
+  - text: "You can find the privacy policy here. \nHIGHER MAPPING OF PRIVACY"
+  utter_onboarding.privacy-why:
+  - text: "Data processing conditions is mandatory for providing the service. \nConsent for marketing purposes, is optional."
+  utter_onboarding.activity-countries:
+  - text: "You can add up to 3 countries for activity. \nIf activity take place in more than three countries, enter only three. If it plays in less than 3, enter them all."
+  utter_onboarding.activity-number:
+  - text: "You can enter up to three activities with related countries where they are carried out. \nIf you have more than three countries where these activities are played without you can add them clicking 'Yes' to 'Other sources of income or activities apart from the main one'."
+  utter_onboarding.activity-delete:
+  - text: "The service does not save automatically and you have to reload the page in order to recompile. If you have already saved the page but have not signed in, you can re-compile the form from blank."
+  utter_onboarding.activity-country-delete:
+  - text: "The service does not save automatically and you have to reload the page in order to recompile. If you have already saved the page but have not signed in, you can re-compile the form from blank."
+  utter_mifid.update-info:
+  - text: "To change it, a new MIFID questionnaire has to be reformulated."
+  utter_mifid.omit-info:
+  - text: "If you omit some mandatory information, you won't proceed with the completition of the questionnaire."
+  utter_mifid.help-fill:
+  - text: "Try to answer following your knowledge at best you can."
+  utter_mifid.professional-client:
+  - text: "A professional client is the person who played or is playing a professional role in financial field. \nIf you are a professionist, you won't have to fill the MIFID questionnaire."
+  utter_mifid.update-name-surname:
+  - text: "The name and the surname are those you comunicated during the registration phase.  \nIf they are wrong, I ask you to notify new ones to the responsible."
+  utter_mifid.why-education-level:
+  - text: "It is mandatory for Framont to have knowledge of financial instruments and the financial environment in order to be able to use financial instruments appropriately."
+  utter_mifid.education-level:
+  - text: "If you select 'Other' in Study Areas you can better detail your training course and your titles."
+  utter_mifid.finance-professionist:
+  - text: "If you have worked in the financial sector, your knowledge of financial instruments will enable you to make the best use of instruments."
+  utter_mifid.tool-knowledge-no:
+  - text: "For the questionnaire filling you can assume that you never invested in financial tools."
+  utter_mifid.investment-not-listed:
+  - text: "For the questionnaire filling, I invite you to take in consideration only the proposed list."
+  utter_mifid.ethical-exclusion:
+  - text: "Ethical questions referring to individual core believes. \nIf you don't want to use one or more investments or tools you can select them in the appropriate box and they will be excluded."
+  utter_mifid.tax-exclusion:
+  - text: "If you know the impact of  one or more investments or tools you can select them in the appropriate box and they will be excluded."
+  utter_mifid.time-horizon-advantages:
+  - text: "The time horizon is a personal choice."
+  utter_mifid.time-horizon-different:
+  - text: "It is possible to subscribe to different investment plans with different time horizons and risk profiles."
+  utter_mifid.heritage-percentage-for-expenses:
+  - text: "You can put an estimation of the percentage of your asset that you annually spend on the base of your personal view. \nIf in the future, you will think that the value is not proper, please notify the change to the specific contact."
+  utter_mifid.investor-strategy:
+  - text: "Select the definition of investor that more matches with your idea, your choice is not related with investments we will offer you."
+  utter_mifid.heritage-notification-no:
+  - text: "Information requested are necessary to fulfill to regulatory obligations but also to give you an investment service that fits your profile. \nIn case you don't want to give some information, Framont could be not able to provide the requested service."
+  utter_mifid.heritage-value-precision:
+  - text: "Answer as well you can. \nIf you find a change in the entered information, please notify the specific contact to modify them."
+  utter_mifid.heritage-binding:
+  - text: "The value of your asset is necessary to give you an investment service that fits your profile."
+  utter_mifid.self-assessment:
+  - text: "Answer as well you can. \nAfter the completition of the questionnaire, Framont will contact you to propose you an investment that fits your profile and will be available to support you in every step of the process."
+  utter_mifid.variable-annual-saving:
+  - text: "Answer as well you can. \nIf you find a change in the entered information, please notify the specific contact to modify them."
+  utter_mifid.privacy-health-information:
+  - text: "Information that you enter will be handled following privacy regulation."
+  utter_mifid.questionnaire-modification:
+  - text: "Once the MIFID questionnaire is completed and sent it is not possible to modify it."
+  utter_mifid.disinvestment-costs:
+  - text: "Disinvest an investments before the agreed term involve both fixed and variable costs depending of the capital amount."
+  utter_mifid.example-swing-investment:
+  - text: "The example wants to evaluate your behaviour on a considerable swing, both positive or negative."
+  utter_mifid.different-returns-investimento:
+  - text: "Returns stands for investments associated with the same account, that have same time horizon and same returns."
+  utter_general.mifid-certified-user:
+  - text: "To every new different subscription with Framont, for instance new managment line or consultancy contract, you have to fill a new questionnaire."
+  utter_general.messagges:
+  - text: "Inside the section messages, there will appear private conversation between you and Framont. \nSigned documents that states your relationship with Framont, will be sent there."
+  utter_videocall-description:
+  - text: "The videocall is mandatory to verify that information you gave to Framont are correct and belong to you. \nWe will ask you to confirm your information and to show to the webcam the corresponding documents. \nWhen it is over, you will be contacted through a message in your personal area with the result of the vidocall (and you can proceed with the signing of the necessary documents to become a Framont client)."
+  utter_videocall-avoid_impossible:
+  - text: "The video call is mandatory to verify the documentation you entered during the registration phase. \nWithout it is not possible to complete the registration and become a Framont client."
+  utter_sign.how:
+  - text: "To proceed and sign the documents, you need to open the Infocert service for the Remote Sign. \nYou will find all the documents, ready to be signed. \nThey will be provided back with the Infocert certification."
+  utter_sign.where:
+  - text: "You will find the document to sign inside the Infocert portal. \nSign-in or register to this address."
+  utter_sign.error-spec-characters:
+  - text: "It seems there are special character, please you to fix them."
+  utter_sign.OTP-code:
+  - text: "The OTP is the One Time Password. It will be sent to the phone number you entered during registration."
+  utter_sign.error-OTP-code:
+  - text: "Check the phone number \nYou can change it in your profile area."
+  utter_sign.signed-documents:
+  - text: "You will find the signed document in the section 'Messages' of the 'Home Page'."
+  utter_sign.coupon:
+  - text: "You will find the coupon for the digital sign inside the tab 'Digital Sign'. \nYou will receive the coupon directly from our provider. Please follow the provider's own procedure."
+  utter_sign.order-payment:
+  - text: "Framont will give you a coupon to enter inside the Infocert page. In this way the digital sign will be free for you."
 
 session_config:
   session_expiration_time: 60
