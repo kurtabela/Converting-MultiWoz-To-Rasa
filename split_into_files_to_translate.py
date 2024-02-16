@@ -88,7 +88,7 @@ def merge_nlu(input_dir, original_nlu, original_domain):
 import re
 
 
-def remove_annotationcs():
+def remove_annotations():
     with open("./tmp2nlg/totranslate_withannotations.en", "r", encoding="utf-8") as en_in:
         with open("./tmp2nlg/totranslate.txt", "w+", encoding="utf-8") as en_out:
             en = en_in.readlines()
@@ -251,11 +251,12 @@ def extract_fast_align_results(translate_dir, totranslate_dir):
                                         mt_out.write(mt[i].replace("\n", "") + "\n")
                                         continue
 
-
+# OLD
 # nlu("converted_files/data/nlu.yml")
 # nlg("totranslate/domain.yml")
-#
-# Translate and put back in ./translated
+
+
+# Translate and put back in ./totranslate.csv
 # pass_to_fast_align("./translated", "./totranslate")
 
 
@@ -263,7 +264,7 @@ def extract_fast_align_results(translate_dir, totranslate_dir):
 # cd ../../University/PHD/rasa-test/Converting-MultiWoz-To-Rasa/totranslate/
 # ./fast_align.sh
 
-
-extract_fast_align_results("./translated/", "./totranslate/")
-
-merge_nlu("./translated", "converted_files/data/nlu.yml","totranslate/domain.yml")
+#
+# extract_fast_align_results("./translated/", "./totranslate/")
+#
+# merge_nlu("./translated", "converted_files/data/nlu.yml","totranslate/domain.yml")
