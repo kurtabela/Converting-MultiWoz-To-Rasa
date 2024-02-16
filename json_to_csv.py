@@ -59,7 +59,7 @@ def extract_entity_name_positions(clean_string, modified_string):
 
 # TODO - change this to Maltese With Annotations [IGNORE] when working with dev, Maltese otherwise
 def convert_csv_to_multiwoz():
-    with open("./totranslate.csv", "r", newline='', errors="ignore", encoding="utf-8") as translated:
+    with open("./final_translated_csv.csv", "r", newline='', errors="ignore", encoding="utf-8") as translated:
         translated_data = []
         reader = csv.DictReader(translated, delimiter=',')  # Read the headers
         for row in reader:
@@ -72,7 +72,11 @@ def convert_csv_to_multiwoz():
                 current_translation_index = 0
                 for conv_id, conv in enumerate(test_mt_data.keys()):
                     for i, turn in enumerate(test_mt_data[conv]["log"]):
-
+                        try:
+                            if "Sibt" in translated_data[current_translation_index]["Maltese"]:
+                                print()
+                        except:
+                            print()
                         # print(test_mt_data[conv]["log"][i]["text"])
                         # print(translated_data[i]["Maltese"])
                         # Remove the entities and place it in "text"
@@ -84,9 +88,9 @@ def convert_csv_to_multiwoz():
                             restore_string(translated_data[current_translation_index]["Maltese With Annotations [IGNORE]"]),
                             translated_data[current_translation_index]["Maltese With Annotations [IGNORE]"])
                         # print(last_four_elements)
-                        if restore_string(translated_data[current_translation_index][
-                                              "Maltese With Annotations [IGNORE]"]) == 'Hemm 14 lukandi fiż-żona li jaqblu mal-kriterji tiegħek, inti interessat fl-Arbury Lodge Guesthouse?':
-                            print("")
+                        # if restore_string(translated_data[current_translation_index][
+                        #                       "Maltese With Annotations [IGNORE]"]) == 'Hemm 14 lukandi fiż-żona li jaqblu mal-kriterji tiegħek, inti interessat fl-Arbury Lodge Guesthouse?':
+                        #     print("")
                         last_four_elements_seen = []
                         for ind, span in enumerate(test_mt_data[conv]["log"][i]["span_info"]):
 
@@ -144,21 +148,28 @@ def search_substrings_with_positions(row, entities_that_need_to_be_added):
     results = []  # List to store results
 
     # Split the string into words
-    words = row[3].split()
+    words = re.findall(r"[\w:']+|[.,!?;]",  row[3])
+    # words = row[3].split()
 
     for substring in entities_that_need_to_be_added:
         found_positions = []
         # Iterate over all possible substrings in the string
         for i in range(len(words)):
-            if substring in words[i]:
+            if substring in words[i] and [i] not in results:
                 found_positions.extend([i])  # Append all indices in the substring
-                continue
+                break
             for j in range(i + 1, len(words) + 1):
                 current_substring = ' '.join(words[i:j])
                 # Check if the current substring matches the target substring
                 if substring == current_substring:
-                    found_positions.extend(range(i, j))  # Append all indices in the substring
-                    break  # Exit the inner loop after finding all occurrences
+                    duplicate = False
+                    for k in range(i, j):
+                        if [k] in results:
+                            duplicate = True
+                            break
+                    if not duplicate:
+                        found_positions.extend(range(i, j))  # Append all indices in the substring
+                        break  # Exit the inner loop after finding all occurrences
 
         if found_positions:
             results.append(found_positions)  # Append the list of indices
@@ -166,6 +177,36 @@ def search_substrings_with_positions(row, entities_that_need_to_be_added):
             results.append([])  # Append empty list if not found
 
     return results
+
+
+def add_elements_at_indexes(strings, indexes_beginning, indexes_end, elements_before, elements_after):
+    if len(indexes_beginning) != len(indexes_end) or len(indexes_beginning) != len(elements_before) or len(
+            indexes_beginning) != len(elements_after):
+        raise ValueError("Lengths of indexes and elements lists must be the same.")
+
+    # Create a list of tuples where each tuple contains the corresponding elements
+    corresponding_elements = list(zip(indexes_beginning, indexes_end, elements_before, elements_after))
+
+    # Sort the list of tuples based on indexes_beginning in descending order
+    corresponding_elements.sort(key=lambda x: x[0], reverse=True)
+
+    # Unpack the sorted elements back into separate arrays
+    indexes_beginning_sorted, indexes_end_sorted, elements_before_sorted, elements_after_sorted = zip(
+        *corresponding_elements)
+
+    # Reassign the sorted arrays back to the original arrays
+    indexes_beginning = list(indexes_beginning_sorted)
+    indexes_end = list(indexes_end_sorted)
+    elements_before = list(elements_before_sorted)
+    elements_after = list(elements_after_sorted)
+
+    for i, index_beg in enumerate(indexes_beginning):
+        # Insert element after the index_beg
+        strings.insert(indexes_end[i] + 1, elements_after[i])
+        # Insert element before the index_beg (now shifted due to previous insertion)
+        strings.insert(index_beg, elements_before[i])
+
+    return strings
 
 def extract_fast_align_results():
 
@@ -190,78 +231,67 @@ def extract_fast_align_results():
                         continue
                     en_with_annotations = row[2]
 
+
                     # if we have to fix the entity annotations
                     if "{" in en_with_annotations:
                         entities_that_need_to_be_added = re.findall('\[(.*?)\]', en_with_annotations)
 
                         indexes_to_avoid = []
                         to_insert = {}
+                        array_of_indexes_target, array_of_indexes_target_end, elements_before, elements_after = [], [], [], []
+
                         for index_result, entity_to_annotate in enumerate(entities_that_need_to_be_added):
                             # get array of position indexs of result.group(1)
                             array_of_indexes = search_substrings_with_positions(row, entities_that_need_to_be_added)
-                            # split_entity_res = re.findall(r"\S+", entity_to_annotate)
-                            #
-                            # pos_of_first_index = re.findall(r"\S+",
-                            #                                 row[3]).index(
-                            #     split_entity_res[0])
-                            #not_found = False
-                            # while True:
-                            #     if not_found:
-                            #         not_found = False
-                            #     for j, entity_word in enumerate(split_entity_res):
-                            #         if re.findall(r"[\w:']+|[.,!?;]",row[3] )[
-                            #             pos_of_first_index + j] != split_entity_res[j]:
-                            #             not_found = True
-                            #             pos_of_first_index = re.findall(r"\S+",
-                            #                                             row[3]).index(
-                            #                 split_entity_res[0], pos_of_first_index + 1)
-                            #     if not not_found:
-                            #         break
-                            #
-                            # array_of_indexes = []
-                            # for j in range(pos_of_first_index,
-                            #                pos_of_first_index + len(
-                            #                    re.findall(r"[\w']+|[.,!?;]", entity_to_annotate))):
-                            #     array_of_indexes.append(j)
-                            # # print(array_of_indexes)
 
-                            #  get translated words according to alignment
-                            array_of_indexes_target = []
+                            array_of_indexes_target_current_iteration = []
                             for alignment in alignments[i-skipped_lines].split():
                                 if int(alignment.split("-")[0]) in array_of_indexes[index_result]:
-                                    array_of_indexes_target.append(int(alignment.split("-")[-1]))
-                            # array_of_indexes_target = array_of_indexes_target.sort()
+                                    array_of_indexes_target_current_iteration.append(int(alignment.split("-")[-1]))
+                            # array_of_indexes_target_current_iteration = array_of_indexes_target_current_iteration.sort()
 
-                            # print(array_of_indexes_target)
-                            if array_of_indexes_target == []:
+                            # print(array_of_indexes_target_current_iteration)
+                            if array_of_indexes_target_current_iteration == []:
                                 # Error in alignment, so ignore
                                 continue
-                            # add [ ] before and after words in indexes array_of_indexes_target to mt[i]
+                            array_of_indexes_target.append(min(array_of_indexes_target_current_iteration))
+                            array_of_indexes_target_end.append(max(array_of_indexes_target_current_iteration))
+
+                            # add [ ] before and after words in indexes array_of_indexes_target_current_iteration to mt[i]
                             mt_list = re.findall(r"[\w:']+|[.,!?;]", row[-2])
 
                             # get stuff that was in {} from "en_with_annotations"
                             entity_details_to_readd = re.findall('{[^}]+}', en_with_annotations)[index_result]
-                            #  add stuff ^ after the last index in array_of_indexes_target to mt[i]
+                            #  add stuff ^ after the last index in array_of_indexes_target_current_iteration to mt[i]
                             skip = False
-                            for i_check_overlap in range(array_of_indexes_target[0],
-                                                         array_of_indexes_target[-1] + 1):
+                            for i_check_overlap in range(array_of_indexes_target_current_iteration[0],
+                                                         array_of_indexes_target_current_iteration[-1] + 1):
                                 if i_check_overlap in indexes_to_avoid:
                                     skip = True
                                     break
                             if not skip:
-                                to_insert = to_add_to_line(to_insert, array_of_indexes_target[0] + index_result, "[")
-                                to_insert = to_add_to_line(to_insert, array_of_indexes_target[-1] + index_result+ 2,
-                                                           "]" + entity_details_to_readd)
-                                for i_tmp in range(array_of_indexes_target[0],
-                                                   array_of_indexes_target[-1] + 1):
+                                elements_before.append("[")
+                                elements_after.append("]" + entity_details_to_readd)
+                                # to_insert = to_add_to_line(to_insert, array_of_indexes_target_current_iteration[0] + index_result, "[")
+                                # to_insert = to_add_to_line(to_insert, array_of_indexes_target_current_iteration[-1] + index_result+ 2,
+                                #                            "]" + entity_details_to_readd)
+                                for i_tmp in range(array_of_indexes_target_current_iteration[0],
+                                                   array_of_indexes_target_current_iteration[-1] + 1):
                                     indexes_to_avoid.append(i_tmp)
+                            else:
+                                array_of_indexes_target.pop()
+                                array_of_indexes_target_end.pop()
 
-                        # Reverse order
-                        to_insert = list(sorted(to_insert.items()))
-                        for val in to_insert:
-                            mt_list.insert(val[0], val[1])
-
-                        temp_copy_of_current_mt = " ".join(mt_list)
+                        if not array_of_indexes_target:
+                            continue
+                        temp_copy_of_current_mt = add_elements_at_indexes(mt_list, array_of_indexes_target, array_of_indexes_target_end, elements_before, elements_after)
+                        temp_copy_of_current_mt = " ".join(temp_copy_of_current_mt)
+                        # # Reverse order
+                        # to_insert = list(sorted(to_insert.items()))
+                        # for val in to_insert:
+                        #     mt_list.insert(val[0], val[1])
+                        #
+                        # temp_copy_of_current_mt = " ".join(mt_list)
 
                         row[-1] = temp_copy_of_current_mt.replace("\n", "") + "\n"
 
@@ -274,8 +304,10 @@ if __name__ == '__main__':
 
     # open wsl and do (at least on laptop):
     # cd /mnt/c/University/RasaPlayground/ConvertingMultiWozToRasa/fast_align-master/fast_align-master/build
+    # On PC:
+    # cd ../../University/PHD/rasa-test/Converting-MultiWoz-To-Rasa/fast_align/build/
     # ./fast_align -i ../../../Converting-MultiWoz-To-Rasa/tmp.txt -d -o -v > ../../../Converting-MultiWoz-To-Rasa/after_forward_align.txt
 
     # extract_fast_align_results()
-    #
+
     convert_csv_to_multiwoz()
