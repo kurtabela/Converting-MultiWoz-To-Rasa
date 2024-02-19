@@ -73,7 +73,7 @@ def convert_csv_to_multiwoz():
                 for conv_id, conv in enumerate(test_mt_data.keys()):
                     for i, turn in enumerate(test_mt_data[conv]["log"]):
                         try:
-                            if "Sibt" in translated_data[current_translation_index]["Maltese"]:
+                            if "istilla" in translated_data[current_translation_index]["Maltese"]:
                                 print()
                         except:
                             print()
@@ -102,7 +102,8 @@ def convert_csv_to_multiwoz():
                                     last_four_elements_seen.append(ind_entity)
                                     break
                         current_translation_index += 1
-                    current_translation_index += 1  # There is an empty line between each conversation
+                    print("")
+                    # current_translation_index += 1  # There is an empty line between each conversation
 
                 json.dump(test_mt_data, test_mt)
 
