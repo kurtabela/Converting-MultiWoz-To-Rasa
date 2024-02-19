@@ -17,7 +17,7 @@ def modify_string_to_have_entities_annotated(original_string, sublist):
 
 def convert_multiwoz_to_csv():
     headers = ["ID [IGNORE]", "Turn Number [IGNORE]", "English With Annotations [IGNORE]", "English",
-               "Generated Maltese", "Maltese", "Maltese With Annotations [IGNORE]"]
+               "Generated Maltese", "Maltese", "Maltese With Annotations [IGNORE]", "Error Index [IGNORE]"]
     with open("./totranslate.csv", "w+", newline='', encoding="utf-8") as totranslate:
         writer = csv.DictWriter(totranslate, fieldnames=headers)
         # Write headers
@@ -34,7 +34,8 @@ def convert_multiwoz_to_csv():
                                      "English With Annotations [IGNORE]": modify_string_to_have_entities_annotated(
                                          turn["text"], sublist),
                                      "English": turn["text"], "Generated Maltese": "",
-                                     "Maltese": "", "Maltese With Annotations [IGNORE]": ""})
+                                     "Maltese": "", "Maltese With Annotations [IGNORE]": "",
+                                     "Error Index [IGNORE]": ""})
                 totranslate.write("\n")
 
 
@@ -73,7 +74,11 @@ def convert_csv_to_multiwoz():
                 for conv_id, conv in enumerate(test_mt_data.keys()):
                     for i, turn in enumerate(test_mt_data[conv]["log"]):
                         try:
-                            if "istilla" in translated_data[current_translation_index]["Maltese"]:
+                            if translated_data[current_translation_index]["English"] != test_mt_data[conv]["log"][i][
+                                "text"]:
+                                print()
+                            if "M'hemm l-ebda sports multipli fin-nofsinhar, iżda hemm sports multipli fil-lvant. Trid toqgħod b'attrazzjoni fin-nofsinhar?" in \
+                                    translated_data[current_translation_index]["Maltese"]:
                                 print()
                         except:
                             print()
@@ -85,25 +90,35 @@ def convert_csv_to_multiwoz():
 
                         # Update the list of entities (span_info)
                         last_four_elements = extract_entity_name_positions(
-                            restore_string(translated_data[current_translation_index]["Maltese With Annotations [IGNORE]"]),
+                            restore_string(
+                                translated_data[current_translation_index]["Maltese With Annotations [IGNORE]"]),
                             translated_data[current_translation_index]["Maltese With Annotations [IGNORE]"])
                         # print(last_four_elements)
                         # if restore_string(translated_data[current_translation_index][
                         #                       "Maltese With Annotations [IGNORE]"]) == 'Hemm 14 lukandi fiż-żona li jaqblu mal-kriterji tiegħek, inti interessat fl-Arbury Lodge Guesthouse?':
                         #     print("")
                         last_four_elements_seen = []
+                        # In some cases, the original entity may not be found and mapped correctly. Therefore, we remove it from the list of entities in multiwoz
+                        entities_to_remove_from_multiwoz = sorted([int(x) for x in
+                                                                   translated_data[current_translation_index][
+                                                                       "Error Index [IGNORE]"].split(",") if x != ''],
+                                                                  reverse=True)
+
                         for ind, span in enumerate(test_mt_data[conv]["log"][i]["span_info"]):
 
                             for ind_entity, entity in enumerate(last_four_elements):
-                                if ind_entity not in last_four_elements_seen and span[1] == entity["entity"]:
+                                if ind_entity not in last_four_elements_seen and span[1] == entity[
+                                    "entity"] and ind not in entities_to_remove_from_multiwoz:
                                     test_mt_data[conv]["log"][i]["span_info"][ind][2] = entity["name"]
                                     test_mt_data[conv]["log"][i]["span_info"][ind][3] = entity["start_pos"]
                                     test_mt_data[conv]["log"][i]["span_info"][ind][4] = entity["end_pos"]
                                     last_four_elements_seen.append(ind_entity)
                                     break
+                        for entity_to_remove in entities_to_remove_from_multiwoz:
+                            test_mt_data[conv]["log"][i]["span_info"].pop(entity_to_remove)
                         current_translation_index += 1
-                    print("")
-                    # current_translation_index += 1  # There is an empty line between each conversation
+                    # print("")
+                    current_translation_index += 1  # There is an empty line between each conversation
 
                 json.dump(test_mt_data, test_mt)
 
@@ -121,6 +136,7 @@ def pass_to_fast_align():
             tmp.write(" ".join(re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English"])) + " ||| " + " ".join(
                 re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["Maltese"])))
             tmp.write("\n")
+
 
 def to_add_to_line(dict_in, index, to_add_string):
     if index in dict_in:
@@ -149,7 +165,7 @@ def search_substrings_with_positions(row, entities_that_need_to_be_added):
     results = []  # List to store results
 
     # Split the string into words
-    words = re.findall(r"[\w:']+|[.,!?;]",  row[3])
+    words = re.findall(r"[\w:']+|[.,!?;]", row[3])
     # words = row[3].split()
 
     for substring in entities_that_need_to_be_added:
@@ -209,10 +225,10 @@ def add_elements_at_indexes(strings, indexes_beginning, indexes_end, elements_be
 
     return strings
 
-def extract_fast_align_results():
 
+def extract_fast_align_results():
     with open("./totranslate.csv", "r", newline='', encoding="utf-8-sig") as original_csv:
-        with open("./final_translated_csv.csv", "w+", newline='',  encoding="utf-8-sig") as final_csv:
+        with open("./final_translated_csv.csv", "w+", newline='', encoding="utf-8-sig") as final_csv:
             with open("./after_forward_align.txt", "r", encoding="utf-8") as fast_align_results:
                 alignments = fast_align_results.readlines()
                 for i, alignment in enumerate(alignments):
@@ -226,19 +242,20 @@ def extract_fast_align_results():
 
                 skipped_lines = 0
                 for i, row in enumerate(reader):
-                    if row == ["", "", "", "", "", "", ""]:
+                    if row == ["", "", "", "", "", "", "", ""]:
                         skipped_lines += 1
                         writer.writerow(row)
                         continue
                     en_with_annotations = row[2]
 
-
+                    if "M'hemm l-ebda sports multipli fin-nofsinhar, iżda hemm sports multipli fil-lvant. Trid toqgħod b'attrazzjoni fin-nofsinhar?" in \
+                            row[5]:
+                        print()
                     # if we have to fix the entity annotations
                     if "{" in en_with_annotations:
                         entities_that_need_to_be_added = re.findall('\[(.*?)\]', en_with_annotations)
 
                         indexes_to_avoid = []
-                        to_insert = {}
                         array_of_indexes_target, array_of_indexes_target_end, elements_before, elements_after = [], [], [], []
 
                         for index_result, entity_to_annotate in enumerate(entities_that_need_to_be_added):
@@ -246,14 +263,20 @@ def extract_fast_align_results():
                             array_of_indexes = search_substrings_with_positions(row, entities_that_need_to_be_added)
 
                             array_of_indexes_target_current_iteration = []
-                            for alignment in alignments[i-skipped_lines].split():
-                                if int(alignment.split("-")[0]) in array_of_indexes[index_result]:
-                                    array_of_indexes_target_current_iteration.append(int(alignment.split("-")[-1]))
-                            # array_of_indexes_target_current_iteration = array_of_indexes_target_current_iteration.sort()
-
+                            try:
+                                for alignment in alignments[i - skipped_lines].split():
+                                    if int(alignment.split("-")[0]) in array_of_indexes[index_result]:
+                                        array_of_indexes_target_current_iteration.append(int(alignment.split("-")[-1]))
+                                # array_of_indexes_target_current_iteration = array_of_indexes_target_current_iteration.sort()
+                            except:
+                                print("")
                             # print(array_of_indexes_target_current_iteration)
                             if array_of_indexes_target_current_iteration == []:
                                 # Error in alignment, so ignore
+                                if row[7]:
+                                    row[7] += "," + str(index_result)
+                                else:
+                                    row[7] = str(index_result)
                                 continue
                             array_of_indexes_target.append(min(array_of_indexes_target_current_iteration))
                             array_of_indexes_target_end.append(max(array_of_indexes_target_current_iteration))
@@ -280,23 +303,31 @@ def extract_fast_align_results():
                                                    array_of_indexes_target_current_iteration[-1] + 1):
                                     indexes_to_avoid.append(i_tmp)
                             else:
+                                if row[7]:
+                                    row[7] += "," + str(index_result)
+                                else:
+                                    row[7] = str(index_result)
                                 array_of_indexes_target.pop()
                                 array_of_indexes_target_end.pop()
 
-                        if not array_of_indexes_target:
-                            continue
-                        temp_copy_of_current_mt = add_elements_at_indexes(mt_list, array_of_indexes_target, array_of_indexes_target_end, elements_before, elements_after)
-                        temp_copy_of_current_mt = " ".join(temp_copy_of_current_mt)
-                        # # Reverse order
-                        # to_insert = list(sorted(to_insert.items()))
-                        # for val in to_insert:
-                        #     mt_list.insert(val[0], val[1])
-                        #
-                        # temp_copy_of_current_mt = " ".join(mt_list)
+                        if array_of_indexes_target:
+                            temp_copy_of_current_mt = add_elements_at_indexes(mt_list, array_of_indexes_target,
+                                                                              array_of_indexes_target_end,
+                                                                              elements_before, elements_after)
+                            temp_copy_of_current_mt = " ".join(temp_copy_of_current_mt)
+                            # # Reverse order
+                            # to_insert = list(sorted(to_insert.items()))
+                            # for val in to_insert:
+                            #     mt_list.insert(val[0], val[1])
+                            #
+                            # temp_copy_of_current_mt = " ".join(mt_list)
 
-                        row[-1] = temp_copy_of_current_mt.replace("\n", "") + "\n"
+                            row[6] = temp_copy_of_current_mt.replace("\n", "").replace("  ", " ").replace("[ ",
+                                                                                                          "[").replace(
+                                " ]", "]")
 
                     writer.writerow(row)
+
 
 if __name__ == '__main__':
     # convert_multiwoz_to_csv()
@@ -309,6 +340,8 @@ if __name__ == '__main__':
     # cd ../../University/PHD/rasa-test/Converting-MultiWoz-To-Rasa/fast_align/build/
     # ./fast_align -i ../../../Converting-MultiWoz-To-Rasa/tmp.txt -d -o -v > ../../../Converting-MultiWoz-To-Rasa/after_forward_align.txt
 
-    # extract_fast_align_results()
+    # This contains bugs when for the EN sentence is "'There are no [multiple sports]{"entity": "type"} in the [south]{"entity": "area"}, but there are [multiple sports]{"entity": "type"} in the [east]{"entity": "area"}. Do you want to stay with an attraction in the [south]{"entity": "area"}?'"
+    # The issue is that [multiple sports] appears twice
+    extract_fast_align_results()
 
     convert_csv_to_multiwoz()

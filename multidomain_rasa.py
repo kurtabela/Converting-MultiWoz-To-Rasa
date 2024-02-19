@@ -40,7 +40,7 @@ def generateRasaDomain(domainStories, writeFile):
 
 
 def buildRasaDomain(entities, intents, actions, messages, writeFile):
-    with codecs.open(writeFile, 'w', 'utf-8') as f_out:
+    with codecs.open(writeFile, 'w+', 'utf-8') as f_out:
         f_out.write('version: "3.1"\n')
         # for entity in entities:
         #     f_out.write('  ' + entity + ':\n')
