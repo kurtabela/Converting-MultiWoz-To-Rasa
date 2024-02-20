@@ -5,6 +5,7 @@ MultiWOZ to Rasa
 
 import json
 import random
+import re
 import string
 import nltk
 import codecs
@@ -64,7 +65,9 @@ def buildRasaDomain(entities, intents, actions, messages, writeFile):
                     if messages[action]:
                         f_out.write('  utter_' + action + ':\n')
                         for message in messages[action]:
-                            f_out.write("  - text: '" + message + "'\n")
+
+                            # f_out.write('  - text: \"f\'liema żona tippreferi toqgħod? dan jgħin biex jonqos l-għażliet tiegħek.\n')
+                            f_out.write('  - text: \"' + message + '"\n')
                 else:
                     f_out.write('  action_' + action + ':\n')
                     message = "temp action message"
@@ -304,14 +307,14 @@ def convert(string):
 
 
 def annotate_utterance_domain(utter, spans):
-    utter = ' '.join(nltk.word_tokenize(utter.lower()))
+    lower_utter = ' '.join(nltk.word_tokenize(utter.lower()))
 
     for span in spans:
         normalized_token = span[2].lower()
 
-        if ' %s ' % (normalized_token) not in utter \
-                and not utter.endswith(' %s' % (normalized_token)) \
-                and not utter.startswith('%s ' % (normalized_token)):
+        if ' %s ' % (normalized_token) not in lower_utter \
+                and not lower_utter.endswith(' %s' % (normalized_token)) \
+                and not lower_utter.startswith('%s ' % (normalized_token)):
             # tokens = nltk.word_tokenize(utter)
             utter = convert(utter)
             # utter[span[-2]] = '[%s' % (utter[span[-2]])
@@ -341,14 +344,14 @@ def annotate_utterance_domain(utter, spans):
     tokens = nltk.word_tokenize(utter)
     detokenized = nltk.tokenize.treebank.TreebankWordDetokenizer().detokenize(tokens)
     fixed_markers = detokenized.replace('] (', '](').replace('] {', ']{').replace('[ ', '[').replace(': ', ':').replace(
-        '"', '\'')
+        '"', '\'').replace(" . ", ". ")
     fixed_punctuation = string.punctuation.translate(str.maketrans('', '', ':()[]{}'))
     toReturn = fixed_markers.translate(str.maketrans('', '', fixed_punctuation)).replace(' ]', ']').replace('  ', ' ')
-    return toReturn
+    return fixed_markers
 
 
 def annotate_utterance(utter, spans):
-    utter = ''.join(utter.lower())
+    lower_utter = ''.join(utter.lower())
 
     index_to_remove = []
     for i, span in enumerate(spans):
@@ -368,8 +371,8 @@ def annotate_utterance(utter, spans):
     for span in reversed(spans):
         normalized_token = span[2].lower()
         if ' %s ' % (normalized_token) not in utter \
-                and not utter.endswith(' %s' % (normalized_token)) \
-                and not utter.startswith('%s ' % (normalized_token)):
+                and not lower_utter.endswith(' %s' % (normalized_token)) \
+                and not lower_utter.startswith('%s ' % (normalized_token)):
             utter = convert(utter)
             utter[span[-2]] = '[%s' % (utter[span[-2]])
             utter[span[-1] - 1] = '%s]{"entity":"%s"}' % (utter[span[-1] - 1], span[1].lower())
@@ -377,20 +380,6 @@ def annotate_utterance(utter, spans):
             # already_added_annotations += len('[' + ']{"entity":"%s"}' % (span[1].lower()))
             utter = ''.join(utter)
 
-    # already_added_annotations = 0
-    # for span in spans:
-    #     normalized_token = span[2].lower()
-    #     if "can you also find me a train" in utter:
-    #         print("pa")
-    #     if ' %s ' % (normalized_token) not in utter \
-    #             and not utter.endswith(' %s' % (normalized_token)) \
-    #             and not utter.startswith('%s ' % (normalized_token)):
-    #         utter = convert(utter)
-    #         utter[span[-2] + already_added_annotations] = '[%s' % (utter[span[-2] + already_added_annotations])
-    #         utter[span[-1]-1 + already_added_annotations] = '%s]{"entity":"%s"}' % (utter[span[-1]-1 + already_added_annotations ], span[1].lower())
-    #         # utter[span[-1] - 1] = '{%s}' % (span[1].lower())
-    #         already_added_annotations += len('[' + ']{"entity":"%s"}' % (span[1].lower()))
-    #         utter = ''.join(utter)
 
     for span in spans:
         normalized_token = span[2].lower()
@@ -410,9 +399,10 @@ def annotate_utterance(utter, spans):
 
     tokens = nltk.word_tokenize(utter)
     detokenized = nltk.tokenize.treebank.TreebankWordDetokenizer().detokenize(tokens)
-    fixed_markers = detokenized.replace('] {', ']{').replace('{ ', '{').replace('[ ', '[')
+    fixed_markers = detokenized.replace('] {', ']{').replace('{ ', '{').replace('[ ', '[').replace(' . ', '. ')
     fixed_punctuation = string.punctuation.translate(str.maketrans('', '', ':{}[]""'))
-    return fixed_markers.translate(str.maketrans('', '', fixed_punctuation)).replace(' ]', ']').replace('  ', ' ')
+    # return fixed_markers.translate(str.maketrans('', '', fixed_punctuation)).replace(' ]', ']').replace('  ', ' ')
+    return detokenized
 
 
 def main():
@@ -420,7 +410,7 @@ def main():
     rasaStoriesFile = 'converted_files/data/stories.yml'
     rasaUtterancesFile = 'converted_files/data/nlu.yml'
     rasaDomainFile = 'converted_files/data/domain.yml'
-    toTranslateDomainFile = 'totranslate/domain.yml'
+    # toTranslateDomainFile = 'totranslate/domain.yml'
 
     nltk.download('punkt')
     print('Reading file...\n')
@@ -429,8 +419,8 @@ def main():
     generateRasaStories(domainStories, rasaStoriesFile)
     print('Generating domain file...\n')
     generateRasaDomain(domainStories, rasaDomainFile)
-    print('Generating domain file to translate...\n')
-    generateRasaDomain(domainStories, toTranslateDomainFile)
+    # print('Generating domain file to translate...\n')
+    # generateRasaDomain(domainStories, toTranslateDomainFile)
     print('Generating utterances file...\n')
     generateUtterances(domainStories, rasaUtterancesFile)
     print('Done (:\n')

@@ -16,8 +16,8 @@ def modify_string_to_have_entities_annotated(original_string, sublist):
 
 
 def convert_multiwoz_to_csv():
-    headers = ["ID [IGNORE]", "Turn Number [IGNORE]", "English With Annotations [IGNORE]", "English",
-               "Generated Maltese", "Maltese", "Maltese With Annotations [IGNORE]", "Error Index [IGNORE]"]
+    headers = ["ID [IGNORE]", "Turn Number [IGNORE]", "English With Annotations", "English [IGNORE]",
+               "Generated Maltese", "Maltese [IGNORE]", "Maltese With Annotations", "Error Index [IGNORE]"]
     with open("./totranslate.csv", "w+", newline='', encoding="utf-8") as totranslate:
         writer = csv.DictWriter(totranslate, fieldnames=headers)
         # Write headers
@@ -31,10 +31,10 @@ def convert_multiwoz_to_csv():
                                  reverse=True)  # Sort sublist based on start position in descending order
 
                     writer.writerow({"ID [IGNORE]": conv, "Turn Number [IGNORE]": i,
-                                     "English With Annotations [IGNORE]": modify_string_to_have_entities_annotated(
+                                     "English With Annotations": modify_string_to_have_entities_annotated(
                                          turn["text"], sublist),
-                                     "English": turn["text"], "Generated Maltese": "",
-                                     "Maltese": "", "Maltese With Annotations [IGNORE]": "",
+                                     "English [IGNORE]": turn["text"], "Generated Maltese": "",
+                                     "Maltese [IGNORE]": "", "Maltese With Annotations": "",
                                      "Error Index [IGNORE]": ""})
                 totranslate.write("\n")
 
@@ -58,7 +58,7 @@ def extract_entity_name_positions(clean_string, modified_string):
     return extracted_data
 
 
-# TODO - change this to Maltese With Annotations [IGNORE] when working with dev, Maltese otherwise
+# TODO - change this to Maltese With Annotations when working with dev, Maltese otherwise
 def convert_csv_to_multiwoz():
     with open("./final_translated_csv.csv", "r", newline='', errors="ignore", encoding="utf-8") as translated:
         translated_data = []
@@ -73,31 +73,19 @@ def convert_csv_to_multiwoz():
                 current_translation_index = 0
                 for conv_id, conv in enumerate(test_mt_data.keys()):
                     for i, turn in enumerate(test_mt_data[conv]["log"]):
-                        try:
-                            if translated_data[current_translation_index]["English"] != test_mt_data[conv]["log"][i][
-                                "text"]:
-                                print()
-                            if "M'hemm l-ebda sports multipli fin-nofsinhar, iżda hemm sports multipli fil-lvant. Trid toqgħod b'attrazzjoni fin-nofsinhar?" in \
-                                    translated_data[current_translation_index]["Maltese"]:
-                                print()
-                        except:
-                            print()
-                        # print(test_mt_data[conv]["log"][i]["text"])
-                        # print(translated_data[i]["Maltese"])
+
                         # Remove the entities and place it in "text"
                         test_mt_data[conv]["log"][i]["text"] = restore_string(
-                            translated_data[current_translation_index]["Maltese With Annotations [IGNORE]"])
+                            translated_data[current_translation_index]["Maltese With Annotations"])
 
                         # Update the list of entities (span_info)
                         last_four_elements = extract_entity_name_positions(
                             restore_string(
-                                translated_data[current_translation_index]["Maltese With Annotations [IGNORE]"]),
-                            translated_data[current_translation_index]["Maltese With Annotations [IGNORE]"])
-                        # print(last_four_elements)
-                        # if restore_string(translated_data[current_translation_index][
-                        #                       "Maltese With Annotations [IGNORE]"]) == 'Hemm 14 lukandi fiż-żona li jaqblu mal-kriterji tiegħek, inti interessat fl-Arbury Lodge Guesthouse?':
-                        #     print("")
+                                translated_data[current_translation_index]["Maltese With Annotations"]),
+                            translated_data[current_translation_index]["Maltese With Annotations"])
+
                         last_four_elements_seen = []
+
                         # In some cases, the original entity may not be found and mapped correctly. Therefore, we remove it from the list of entities in multiwoz
                         entities_to_remove_from_multiwoz = sorted([int(x) for x in
                                                                    translated_data[current_translation_index][
@@ -131,9 +119,9 @@ def pass_to_fast_align():
             translated_data.append(row)
     with open("./tmp.txt", "w+", encoding="utf-8") as tmp:
         for i, row in enumerate(translated_data):
-            if not re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English"]):
+            if not re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English [IGNORE]"]):
                 continue
-            tmp.write(" ".join(re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English"])) + " ||| " + " ".join(
+            tmp.write(" ".join(re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English [IGNORE]"])) + " ||| " + " ".join(
                 re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["Maltese"])))
             tmp.write("\n")
 
@@ -342,6 +330,6 @@ if __name__ == '__main__':
 
     # This contains bugs when for the EN sentence is "'There are no [multiple sports]{"entity": "type"} in the [south]{"entity": "area"}, but there are [multiple sports]{"entity": "type"} in the [east]{"entity": "area"}. Do you want to stay with an attraction in the [south]{"entity": "area"}?'"
     # The issue is that [multiple sports] appears twice
-    extract_fast_align_results()
-
+    # extract_fast_align_results()
+    #
     convert_csv_to_multiwoz()
