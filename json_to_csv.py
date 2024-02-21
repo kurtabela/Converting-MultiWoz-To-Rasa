@@ -122,7 +122,7 @@ def pass_to_fast_align():
             if not re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English [IGNORE]"]):
                 continue
             tmp.write(" ".join(re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English [IGNORE]"])) + " ||| " + " ".join(
-                re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["Maltese"])))
+                re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["Maltese [IGNORE]"])))
             tmp.write("\n")
 
 
@@ -270,7 +270,8 @@ def extract_fast_align_results():
                             array_of_indexes_target_end.append(max(array_of_indexes_target_current_iteration))
 
                             # add [ ] before and after words in indexes array_of_indexes_target_current_iteration to mt[i]
-                            mt_list = re.findall(r"[\w:']+|[.,!?;]", row[-2])
+                            # mt_list = re.findall(r"[\w:']+|[.,!?;]", row[-2])
+                            mt_list = re.findall(r"[\w:']+|[.,!?;]", row[5])
 
                             # get stuff that was in {} from "en_with_annotations"
                             entity_details_to_readd = re.findall('{[^}]+}', en_with_annotations)[index_result]
@@ -312,7 +313,8 @@ def extract_fast_align_results():
 
                             row[6] = temp_copy_of_current_mt.replace("\n", "").replace("  ", " ").replace("[ ",
                                                                                                           "[").replace(
-                                " ]", "]")
+                                " ]", "]").replace(" . ", ". ").replace(" , ", ", ").replace(" ! ", "! ").replace(" ?",
+                                                                                                             "?")
 
                     writer.writerow(row)
 
@@ -330,6 +332,6 @@ if __name__ == '__main__':
 
     # This contains bugs when for the EN sentence is "'There are no [multiple sports]{"entity": "type"} in the [south]{"entity": "area"}, but there are [multiple sports]{"entity": "type"} in the [east]{"entity": "area"}. Do you want to stay with an attraction in the [south]{"entity": "area"}?'"
     # The issue is that [multiple sports] appears twice
-    # extract_fast_align_results()
+    extract_fast_align_results()
     #
-    convert_csv_to_multiwoz()
+    # convert_csv_to_multiwoz()

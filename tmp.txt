@@ -2407,7 +2407,7 @@ How about corpus christi college , they have a free entrance fee . ||| Kif dwar 
 Could you give me their phone number , postcode , and entrance fee ? ||| Tista tagħtini n numru tat telefon , il kodiċi postali , u l miżata tad dħul tagħhom ?
 The phone number is 01223334900 , the postcode is cb23bu , and the entrance fee , as mentioned earlier , is free . Can I help with anything else ? ||| In numru tat telefon huwa 01223334900 , il kodiċi postali huwa cb23bu , u l miżata tad dħul , kif issemma qabel , hija b'xejn . Nista' ngħin f'xi ħaġa oħra ?
 Thank you very much . That's all I need today , bye . ||| Grazzi ħafna . Dak hu kollu li għandi bżonn illum , bye .
-Thank you for contacting the help desk . Have a great day . ||| Grazzi talli kkuntattjat il help desk . Il ġurnata t tajba .
+Thank you for contacting the help desk . Have a great day . ||| Grazzi talli ikkuntattjajt lill help desk . Il ġurnata t tajba .
 Hello could you give me some information on some entertainment places in the centre of Cambridge to go visit please ? ||| Hello tista' tagħtini xi informazzjoni dwar xi postijiet ta' divertiment fiċ ċentru ta' Cambridge biex immur inżur jekk jogħġbok ?
 I'm sorry , there are no entertainment attractions listed in the centre of Cambridge . Would you like to search for something different ? ||| Jiddispjaċini , m'hemmx attrazzjonijiet ta' divertiment elenkati fiċ ċentru ta' Cambridge . Tixtieq tfittex xi ħaġa differenti ?
 Are there any colleges ? ||| Hemm xi kulleġġi ?
@@ -3362,7 +3362,7 @@ I will be leaving from Stansted Airport and will need to get to Cambridge by 18:
 I found a train that arrives at 09:52 . Will that work ? ||| Sibt ferrovija li tasal fid 09:52 . Dan se jaħdem ?
 That is very early , can i get one closer to 18:00 ? ||| Dan huwa kmieni ħafna , nista 'nersaq wieħed eqreb lejn is 18:00 ?
 The closest to 18:00 arrival time is a train that arrives at 17:52 . Does this interest you ? ||| L eqreb għall ħin tal wasla tas 18:00 hija ferrovija li tasal fis 17:52 . Dan jinteressak ?
-Yes that's fine . I also need help finding an expensive indian restaurant . Can you help ? ||| Iva dak tajjeb . Għandi bżonn ukoll għajnuna biex insib restorant indian għali . Tista' tgħin ?
+Yes that's fine . I also need help finding an expensive indian restaurant . Can you help ? ||| Iva dak tajjeb . Għandi bżonn ukoll għajnuna biex insib restorant indian għali . Tista 'tgħin ?
 We have many of those ! Cocum in the west is my favorite . ||| Għandna ħafna minn dawk ! Cocum fil punent huwa l favorit tiegħi .
 Is there anything near the centre ? ||| Hemm xi ħaġa ħdejn iċ ċentru ?
 Yes there are 6 to choose from , would you like me to book one of them for you ? ||| Iva hemm 6 minn fejn tagħżel , tixtieq li nibbukkja waħda minnhom għalik ?
@@ -3398,7 +3398,7 @@ Lets go with the Shiraz please ||| Ejja mmorru mal Shiraz jekk jogħġbok
 Ok perfect , would you like me to book a reservation for you ? ||| Ok perfetta , tixtieq li nibbukkja prenotazzjoni għalik ?
 No . I think I am ok although I would like the postcode . ||| Le . Naħseb li jien ok għalkemm nixtieq il kodiċi postali .
 The postcode is cb21dp . Is there anything else I can help you with today ? ||| Il kodiċi postali huwa cb21dp . Hemm xi ħaġa oħra li nista' ngħinek biha llum ?
-No , that is all . Thank you so much . ||| Le , dan huwa kollox . Grazzi ħafna .
+No , that is all . Thank you so much . ||| Le , dak huwa kollox . Grazzi ħafna .
 Let me know if you need anything else . ||| Let me know jekk għandek bżonn xi ħaġa oħra .
 I don't need anything else . You were a great help . Goodbye ! ||| M'għandi bżonn xi ħaġa oħra . Kont ta għajnuna kbira . Addio !
 Thank you for using our system ! ||| Grazzi talli użajt is sistema tagħna !
@@ -3434,7 +3434,7 @@ What is the travel time ? ||| X'inhu l ħin tal ivvjaġġar ?
 You will be leaving at 13:50 and arriving by 14:07 . ||| Int se titlaq fis 13:50 u tasal sa 14:07 .
 Thank you and goodbye . ||| Grazzi u addio .
 Great ! Have a nice day . ||| Kbir ! Il ġurnata t tajba .
-Hello ! I'd like to eat at an indian restaurant in the centre . Can you help ? ||| Bongu ! Nixtieq niekol f'ristorant indian fiċ ċentru . Tista' tgħin ?
+Hello ! I'd like to eat at an indian restaurant in the centre . Can you help ? ||| Bongu ! Nixtieq niekol f'ristorant indian fiċ ċentru . Tista 'tgħin ?
 I can . What price range are you looking for ? ||| Nista . Liema firxa ta 'prezzijiet qed tfittex ?
 any price range please , need it for monday . ||| kwalunkwe firxa ta 'prezzijiet jekk jogħġbok , għandek bżonnha għat Tnejn .
 Sure ! how many people and what time ? ||| Żgur ! kemm nies u liema ħin ?
@@ -5959,7 +5959,7 @@ Will you be leaving from the guesthouse and need a taxi for 4 ? ||| Int se titla
 Yes , just as long as I'm at the restaurant in time for the reservations . ||| Iva , sakemm inkun fir ristorant fil ħin għar riservazzjonijiet .
 The taxi picking you up will be a black ford Contact number : 07355341802 . Is there anything else I can assist you with ? ||| It taxi li tiġborek tkun ford iswed . Numru ta' kuntatt : 07355341802 . Hemm xi ħaġa oħra li nista' ngħinek biha ?
 That is all for now . Thank you ||| Dan huwa kollox għalissa . Grazzi
-Thank you for using our services . ||| Grazzi talli użajt is servizzi tagħna .
+Thank you for using our services . ||| Grazzi talli tuża s servizzi tagħna .
 You are welcome for using your services . Goodbye now . ||| Int mistieden talli tuża s servizzi tiegħek . Goodbye issa .
 Okay , have a good trip goodbye ||| Tajjeb , vjaġġ tajjeb addio
 I want to find a European restaurant in the west . ||| Irrid insib ristorant Ewropew fil punent .
@@ -7346,7 +7346,7 @@ I think it might be a good time to end the conversation . I've got to go . Goodb
 Have a nice day . ||| Il ġurnata t tajba .
 We would like to visit a museum while we are in town . ||| Nixtiequ nżuru mużew waqt li nkunu fil belt .
 Okay , that sounds fun ! What area are you going to be in ? ||| Okay , li tinstema' gost ! F'liema żona se tkun ?
-We will be in the centre area . What do you suggest ? Please provide phone number , postcode , and address . ||| Inkunu fiż żona taċ ċentru . X'jissuġġerixxi ? Jekk jogħġbok ipprovdi n numru tat telefon , il kodiċi postali , u l indirizz .
+We will be in the centre area . What do you suggest ? Please provide phone number , postcode , and address . ||| Inkunu fiż żona taċ ċentru . X'tissuġġerixxi ? Jekk jogħġbok ipprovdi n numru tat telefon , il kodiċi postali , u l indirizz .
 I have 11 museums in the Centre . I would recommend Castle Galleries , phone number 01223307402 , postal code cb23bj , address unit su43 , grande arcade , saint andrews street . It is free . ||| Għandi 11 il mużew fiċ Ċentru . Nirrakkomanda Castle Galleries , phone number 01223307402 , postal code cb23bj , address unit su43 , grande arcade , saint andrews street . Huwa b'xejn .
 Do you have any other suggestions ? ||| Għandek xi suġġerimenti oħra ?
 You should check out Primavera . The phone number is 01223357708 . It is at 10 King's Parade and the postcode is cb21sj . ||| Għandek tiċċekkja Primavera . In numru tat telefon huwa 01223357708 . Huwa f'10 King's Parade u l kodiċi postali huwa cb21sj .
