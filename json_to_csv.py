@@ -122,7 +122,7 @@ def pass_to_fast_align():
             if not re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English [IGNORE]"]):
                 continue
             tmp.write(" ".join(re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["English [IGNORE]"])) + " ||| " + " ".join(
-                re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["Maltese [IGNORE]"])))
+                re.findall(r"[\w:']+|[.,!?;]", translated_data[i]["Generated Maltese"])))
             tmp.write("\n")
 
 
@@ -315,6 +315,8 @@ def extract_fast_align_results():
                                                                                                           "[").replace(
                                 " ]", "]").replace(" . ", ". ").replace(" , ", ", ").replace(" ! ", "! ").replace(" ?",
                                                                                                              "?")
+                    else:
+                        row[6] = row[5]
 
                     writer.writerow(row)
 
