@@ -321,7 +321,25 @@ def extract_fast_align_results():
                     writer.writerow(row)
 
 
+def dlt_temp_testing_domains_number():
+
+    with open("./data/test.json", "r+", encoding="utf-8") as test:
+        test_data = json.load(test)
+        domains = {}
+        for conv in test_data.keys():
+            for i, turn in enumerate(test_data[conv]["log"]):
+                sublist = copy.deepcopy(turn["span_info"])
+                sublist.sort(key=lambda x: x[3],
+                             reverse=True)  # Sort sublist based on start position in descending order
+                for ind, span in enumerate(test_data[conv]["log"][i]["span_info"]):
+                    if span[0] not in domains:
+                        domains[span[0]] = 0
+                    domains[span[0]] += 1
+        print(domains)
+
+
 if __name__ == '__main__':
+    dlt_temp_testing_domains_number()
     # convert_multiwoz_to_csv()
     # (Translate)
     # pass_to_fast_align()
@@ -334,6 +352,6 @@ if __name__ == '__main__':
 
     # This contains bugs when for the EN sentence is "'There are no [multiple sports]{"entity": "type"} in the [south]{"entity": "area"}, but there are [multiple sports]{"entity": "type"} in the [east]{"entity": "area"}. Do you want to stay with an attraction in the [south]{"entity": "area"}?'"
     # The issue is that [multiple sports] appears twice
-    extract_fast_align_results()
+    # extract_fast_align_results()
     #
     # convert_csv_to_multiwoz()
